@@ -1,0 +1,241 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DoonB2B – All Products</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background: #f9f9f9;
+        margin: 0;
+        padding: 0;
+      }
+      header {
+        background: #236591;
+        color: white;
+        text-align: center;
+        padding: 1rem;
+        font-size: 1.5rem;
+      }
+      .search-bar {
+        text-align: center;
+        padding: 1rem;
+        background: white;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      }
+      .search-bar input {
+        width: 80%;
+        max-width: 400px;
+        padding: 10px;
+        font-size: 1rem;
+        border-radius: 6px;
+        border: 1px solid #ccc;
+      }
+      .floating-cart-btn {
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        background: #236591;
+        color: white;
+        padding: 12px 18px;
+        font-size: 1rem;
+        border-radius: 50px;
+        text-decoration: none;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        z-index: 999;
+      }
+    </style>
+  </head>
+  <body>
+    <header>🛒 DoonB2B – All Products</header>
+    <div class="search-bar">
+      <input
+        type="text"
+        placeholder="Search products by title or SKU..."
+        oninput="searchAndRenderProducts('productList', window.productInfo.skuToProductInfo, this.value)"
+      />
+    </div>
+    <div class="product-list" id="productList"></div>
+    <a href="cart.html" class="floating-cart-btn">🛒 Cart</a>
+
+    <script src="./public-product-info.js"></script>
+    <script>
+      function searchAndRenderProducts(
+        containerId,
+        productsObject,
+        searchText = ''
+      ) {
+        const container = document.getElementById(containerId);
+        if (!container) return;
+
+        // Inject styles once
+        if (!document.getElementById('product-renderer-styles')) {
+          const style = document.createElement('style');
+          style.id = 'product-renderer-styles';
+          style.innerHTML = `
+            .product-list {
+              display: grid;
+              grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+              gap: 1rem;
+              padding: 1rem;
+            }
+            .product-item {
+              position: relative;
+              background: white;
+              border-radius: 8px;
+              box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+              overflow: hidden;
+              text-align: center;
+              transition: transform 0.2s ease;
+              display: flex;
+              flex-direction: column;
+              justify-content: space-between;
+            }
+            .product-item:hover { transform: scale(1.03); }
+            .product-item img {
+              width: 100%;
+              height: 150px;
+              object-fit: cover;
+            }
+            .product-price {
+              font-size: 14px;
+              position: absolute;
+              top: 8px;
+              left: 8px;
+              background: white;
+              border: 1px solid #7b7b7b;
+              padding: 2px 6px;
+              border-radius: 8px;
+            }
+            .product-alreadyOrdered,
+            .product-stock {
+              font-size: 12px;
+              position: absolute;
+              top: 8px;
+              right: 8px;
+              background: white;
+              border: 1px solid #ccc;
+              padding: 2px 6px;
+              border-radius: 8px;
+              color: #000;
+            }
+            .product-alreadyOrdered {
+              bottom: 2px;
+              top: unset;
+            }
+            .product-sku {
+              font-size: 0.65rem;
+              color: #666;
+              padding-top: 4px;
+            }
+            .product-title {
+              padding: 0.1rem;
+              font-size: 0.8rem;
+            }
+            .qty-btn {
+              padding: 4px 8px;
+              margin: 4px;
+              font-size: 0.8rem;
+              background: #236591;
+              color: white;
+              border: none;
+              border-radius: 4px;
+              cursor: pointer;
+            }
+            .qty-display {
+              font-size: 0.9rem;
+              padding: 0 6px;
+            }
+            .add-to-cart {
+              background-color: #236591;
+              color: white;
+              border: none;
+              padding: 6px;
+              border-radius: 4px;
+              margin: 6px;
+              cursor: pointer;
+              font-size: 0.75rem;
+            }
+            .add-to-cart:hover {
+              background-color: #1b4d75;
+            }
+          `;
+          document.head.appendChild(style);
+        }
+
+        const cart = JSON.parse(localStorage.getItem('doonb2b_cart') || '{}');
+        const lowerSearch = searchText.toLowerCase();
+        const filteredProducts = {};
+
+        for (const sku in productsObject) {
+          const product = productsObject[sku];
+          if (
+            product.title?.toLowerCase().includes(lowerSearch) ||
+            sku.toLowerCase().includes(lowerSearch)
+          ) {
+            filteredProducts[sku] = product;
+          }
+        }
+
+        container.innerHTML = '';
+
+        for (const sku in filteredProducts) {
+          const product = filteredProducts[sku];
+          const div = document.createElement('div');
+          div.className = 'product-item';
+
+          const imgUrl = product.images?.[0] || '';
+          const qty = cart[sku] || 0;
+
+          div.innerHTML = `
+            <div style="position: relative;">
+              <img src="${imgUrl}" alt="${product.title}">
+              <div class="product-price">₹${product.salePrice}</div>
+              <div class="product-stock">
+                ${product.closingQuantity > 0 ? 'Stock: ' + product.closingQuantity : 'Out of Stock'}
+              </div>
+              ${product.alreadyOrdered !== undefined ? `<div class="product-alreadyOrdered">${product.alreadyOrdered} Ordered</div>` : ''}
+            </div>
+            <div class="product-sku">${product.sku}</div>
+            <div class="product-title">${product.title}</div>
+            <div class="cart-controls">
+              ${
+                qty > 0
+                  ? `
+                <button class="qty-btn" onclick="updateQty('${sku}', -1)">−</button>
+                <span class="qty-display">${qty}</span>
+                <button class="qty-btn" onclick="updateQty('${sku}', 1)">+</button>
+              `
+                  : `<button class="add-to-cart" onclick="updateQty('${sku}', 1)">Add to Cart</button>`
+              }
+            </div>
+          `;
+          container.appendChild(div);
+        }
+      }
+
+      function updateQty(sku, delta) {
+        const cart = JSON.parse(localStorage.getItem('doonb2b_cart') || '{}');
+        if (!cart[sku]) cart[sku] = 0;
+        cart[sku] += delta;
+        if (cart[sku] <= 0) delete cart[sku];
+        localStorage.setItem('doonb2b_cart', JSON.stringify(cart));
+        const searchText = document.querySelector('.search-bar input').value;
+        searchAndRenderProducts(
+          'productList',
+          window.productInfo.skuToProductInfo,
+          searchText
+        );
+      }
+
+      window.addEventListener('load', () =>
+        searchAndRenderProducts(
+          'productList',
+          window.productInfo.skuToProductInfo,
+          ''
+        )
+      );
+    </script>
+  </body>
+</html>

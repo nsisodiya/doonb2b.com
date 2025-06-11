@@ -1,27 +1,343 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>DoonB2B</title>
-  <style>
-    body {
-      margin: 0;
-      height: 100vh;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      background-color: #f5f5f5;
-      font-family: Arial, sans-serif;
-    }
-    h1 {
-      font-size: 100px;
-      font-weight: bold;
-      text-align: center;
-      color: #333;
-    }
-  </style>
-</head>
-<body>
-  <h1>DoonB2B</h1>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DoonB2B, Dehradun</title>
+
+    <meta name="description" content="Discover DoonB2B." />
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:url"
+      content="https://sisodiyaa.com/doonb2b/index.html"
+    />
+    <meta property="og:title" content="DoonB2B, Dehradun" />
+    <meta property="og:description" content="Discover DoonB2B." />
+    <meta
+      property="og:image"
+      content="https://lh3.googleusercontent.com/p/AF1QipP--vYn0NXSMoWB4uyuQSOXX4ihBSLRgeYy07l7=s1360-w1360-h1020-rw"
+    />
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta
+      property="twitter:url"
+      content="https://sisodiyaa.com/doonb2b/index.html"
+    />
+    <meta property="twitter:title" content="DoonB2B, Dehradun" />
+    <meta property="twitter:description" content="Discover DoonB2B." />
+    <meta
+      property="twitter:image"
+      content="https://lh3.googleusercontent.com/p/AF1QipP--vYn0NXSMoWB4uyuQSOXX4ihBSLRgeYy07l7=s1360-w1360-h1020-rw"
+    />
+
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background: #e1e1e1;
+      }
+      header {
+        background: #2c3e50;
+        color: white;
+        text-align: center;
+        font-size: 1.2rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 1rem;
+      }
+      header img {
+        max-width: 100%;
+        max-height: 130px;
+      }
+      .product-price {
+        font-size: 20px;
+        position: absolute;
+        background: white;
+        border: 1px solid #7b7b7b;
+        padding: 1px;
+        border-radius: 8px;
+        padding-left: 8px;
+        padding-right: 8px;
+      }
+      .catalog-list,
+      .product-list {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+        gap: 1rem;
+        padding: 1rem;
+      }
+      .catalog-item,
+      .product-item {
+        background: white;
+        border-radius: 8px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        overflow: hidden;
+        text-align: center;
+        cursor: pointer;
+        transition: transform 0.2s ease;
+      }
+      .catalog-item:hover,
+      .product-item:hover {
+        transform: scale(1.03);
+      }
+      .catalog-item img,
+      .product-item img {
+        width: 100%;
+        height: 150px;
+        object-fit: cover;
+      }
+      .catalog-title,
+      .product-title {
+        padding: 0.2rem;
+        font-size: 0.8rem;
+        text-transform: capitalize;
+      }
+      .product-stock {
+        padding: 0.2rem;
+        font-size: 0.9rem;
+        font-weight: bold;
+        text-transform: capitalize;
+      }
+      .hidden {
+        display: none;
+      }
+      .back-link {
+        margin: 1rem;
+        display: block;
+        color: #2c3e50;
+        text-decoration: none;
+        font-weight: bold;
+      }
+      .search-box {
+        margin: 1rem;
+        text-align: center;
+      }
+      .search-box input {
+        width: 90%;
+        padding: 0.5rem;
+        font-size: 1rem;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+      }
+      #categoryTitle {
+        margin: 1rem;
+        font-size: 1.4rem;
+        text-transform: capitalize;
+        color: #2c3e50;
+      }
+    </style>
+  </head>
+  <body>
+    <header id="header">
+      <img
+        src="https://sisodiyaa.com/doonb2b/doonb2b-color-rect-logo-solid-white-bg.png"
+        alt="DoonB2B Logo"
+      />
+    </header>
+
+    <div class="search-box">
+      <input type="text" id="searchInput" placeholder="Search products..." />
+    </div>
+
+    <div id="catalogList" class="catalog-list"></div>
+    <div id="productListWrapper" class="hidden">
+      <div style="display: flex">
+        <a href="#" id="backLink" class="back-link">← Back</a>
+        <h2 id="categoryTitle"></h2>
+      </div>
+      <div id="productList" class="product-list"></div>
+    </div>
+
+    <div id="mapWrapper">
+      <iframe
+        style="border: 0; max-width: 100%; height: 450px"
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13770.514363018525!2d78.09942039999999!3d30.361503699999993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3908d77f732796ab%3A0xe3a5557c852ebb72!2sDoonB2B!5e0!3m2!1sen!2sin!4v1747494687970!5m2!1sen!2sin"
+        width="600"
+        height="450"
+        style="border: 0"
+        allowfullscreen=""
+        loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade"
+      ></iframe>
+
+      <div
+        style="
+          font-size: 1.2rem;
+          text-align: center;
+          margin-top: 1rem;
+          color: #2c3e50;
+        "
+      >
+        Contact Number: <a href="tel:+919834763808">+91 98347 63808</a>
+      </div>
+    </div>
+
+    <script src="./public-product-info.js"></script>
+    <script>
+      function getThumbnailImage(url) {
+        return url.replace(
+          /(\.jpg|\.png|\.webp|\.jpeg)(\?.*)?$/,
+          '_150x150$1$2'
+        );
+      }
+
+      function doesProductMatchSearch(query, product) {
+        if (!query || !product) return false;
+
+        const queryWords = query.trim().toLowerCase().split(/\s+/);
+
+        const searchableText = [product.title, product.handle, product.sku]
+          .filter(Boolean)
+          .join(' ')
+          .toLowerCase()
+          .replace(/[^a-z0-9\s]/g, ' ') // remove punctuation
+          .split(/\s+/); // tokenize searchable fields
+
+        // Create a Set for fast lookup of searchable words
+        const searchableWordSet = new Set(searchableText);
+
+        return queryWords.every((word) => searchableWordSet.has(word));
+      }
+
+      window.addEventListener('load', () => {
+        const catalogData = {};
+        const catalogCounts = {};
+        const productInfo = window.productInfo;
+
+        for (const sku in productInfo.skuToProductInfo) {
+          const product = productInfo.skuToProductInfo[sku];
+          if (!catalogData[product.catalog]) {
+            if (!product.images || product.images.length === 0) {
+              console.error(`No images found for product: ${sku}`);
+              continue;
+            }
+            catalogData[product.catalog] = product.images[0];
+            catalogCounts[product.catalog] = 1;
+          } else {
+            catalogCounts[product.catalog]++;
+          }
+        }
+
+        const catalogList = document.getElementById('catalogList');
+        const productList = document.getElementById('productList');
+        const productListWrapper =
+          document.getElementById('productListWrapper');
+        const mapWrapper = document.getElementById('mapWrapper');
+        const backLink = document.getElementById('backLink');
+        const header = document.getElementById('header');
+        const categoryTitle = document.getElementById('categoryTitle');
+        const searchInput = document.getElementById('searchInput');
+
+        function showCatalogs() {
+          catalogList.classList.remove('hidden');
+          productListWrapper.classList.add('hidden');
+          mapWrapper.classList.remove('hidden');
+          catalogList.innerHTML = '';
+
+          Object.entries(catalogData).forEach(([catalog, image]) => {
+            const div = document.createElement('div');
+            div.className = 'catalog-item';
+            div.innerHTML = `
+              <img src="${getThumbnailImage(image)}" alt="${catalog}" />
+              <div class="catalog-title">${catalog.replace(/-/g, ' ')}<br>(${catalogCounts[catalog]} items)</div>
+            `;
+            div.onclick = () => showProducts(catalog);
+            catalogList.appendChild(div);
+          });
+        }
+
+        function createProductItem(product, productList) {
+          const div = document.createElement('div');
+          div.className = 'product-item';
+
+          const salePrice = product.items_per_bag
+            ? Math.round(product.salePrice / product.items_per_bag)
+            : null;
+
+          const productUrl = `./info.html?sku=${encodeURIComponent(product.sku)}`;
+
+          div.innerHTML = `
+    <a href="${productUrl}" class="product-link" style="text-decoration: none; color: inherit;">
+      <div class="product-price">
+        ₹ ${salePrice !== null ? `${salePrice} per item` : product.salePrice}
+      </div>
+      <img src="${getThumbnailImage(product.images[0])}" alt="${product.title}" />
+      <div class="product-title">${product.sku}</div>
+      <div class="product-title">${product.title}</div>
+      <div class="product-stock">
+        Stock: ${product.items_per_bag ? Math.round(product.closingQuantity * product.items_per_bag) + ' items' : product.closingQuantity}
+      </div>
+    </a>
+  `;
+
+          productList.appendChild(div);
+        }
+        function showProducts(catalog) {
+          catalogList.classList.add('hidden');
+          productListWrapper.classList.remove('hidden');
+          mapWrapper.classList.add('hidden');
+
+          productList.innerHTML = '';
+          categoryTitle.textContent = catalog.replace(/-/g, ' ');
+
+          Object.values(productInfo.skuToProductInfo)
+            .filter((p) => p.catalog === catalog)
+            .forEach((product) => {
+              createProductItem(product, productList);
+            });
+        }
+
+        function searchProducts(keyword) {
+          const lowerKeyword = keyword.toLowerCase();
+          catalogList.classList.add('hidden');
+          productListWrapper.classList.remove('hidden');
+          categoryTitle.textContent = ``;
+          productList.innerHTML = '';
+          console.log('Searching for:', lowerKeyword);
+
+          const results = Object.values(productInfo.skuToProductInfo).filter(
+            (p) => doesProductMatchSearch(lowerKeyword, p)
+          );
+          console.log('Search results:', results);
+
+          if (results.length === 0) {
+            productList.innerHTML =
+              '<p style="margin: 1rem;">No products found.</p>';
+            return;
+          }
+
+          results.forEach((product) => {
+            createProductItem(product, productList);
+          });
+        }
+
+        searchInput.addEventListener('input', () => {
+          const keyword = searchInput.value.trim();
+          if (keyword === '') {
+            showCatalogs();
+          } else {
+            searchProducts(keyword);
+          }
+        });
+
+        backLink.onclick = (e) => {
+          e.preventDefault();
+          searchInput.value = '';
+          showCatalogs();
+        };
+        header.onclick = (e) => {
+          e.preventDefault();
+          searchInput.value = '';
+          showCatalogs();
+        };
+
+        showCatalogs();
+      });
+    </script>
+  </body>
 </html>
