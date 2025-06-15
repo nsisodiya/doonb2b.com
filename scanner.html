@@ -1,9 +1,9 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Product Page</title>
+    <title>DoonB2B Product Scanner</title>
     <link
       rel="stylesheet"
       href="https://unpkg.com/swiper/swiper-bundle.min.css"
@@ -193,8 +193,9 @@
       function showProduct(data) {
         addItemCodeToUrl(data.itemCode);
         if (locationInfo[data.itemCode] !== undefined) {
-          document.getElementById('product-rack').textContent =
-            `Rack: ${locationInfo[data.itemCode]}`;
+          document.getElementById('product-rack').textContent = `Rack: ${
+            locationInfo[data.itemCode]
+          }`;
         }
 
         document.getElementById('scanner-container').style.display = 'none';
@@ -206,15 +207,20 @@
         document.getElementById('product-sku').textContent = 'SKU: ' + data.sku;
         const product = data;
 
-        document.getElementById('product-stock').textContent =
-          `Stock: ${product.items_per_bag ? Math.round(product.closingQuantity * product.items_per_bag) + ' items' : product.closingQuantity}`;
+        document.getElementById('product-stock').textContent = `Stock: ${
+          product.items_per_bag
+            ? Math.round(product.closingQuantity * product.items_per_bag) +
+              ' items'
+            : product.closingQuantity
+        }`;
 
         const salePrice = product.items_per_bag
           ? Math.round(product.salePrice / product.items_per_bag)
           : null;
 
-        document.getElementById('product-price').textContent =
-          `₹ ${salePrice !== null ? `${salePrice} per item` : product.salePrice}`;
+        document.getElementById('product-price').textContent = `₹ ${
+          salePrice !== null ? `${salePrice} per item` : product.salePrice
+        }`;
 
         const swiperWrapper = document.getElementById('swiper-wrapper');
         swiperWrapper.innerHTML = ''; // Clear previous slides
@@ -367,8 +373,9 @@
             const urlParams = new URLSearchParams(window.location.search);
             const itemCodeParam = urlParams.get('itemCode');
             if (itemCodeParam && result[itemCodeParam]) {
-              document.getElementById('product-rack').textContent =
-                `Rack: ${result[itemCode]}`;
+              document.getElementById(
+                'product-rack'
+              ).textContent = `Rack: ${result[itemCode]}`;
             }
           })
           .catch(function (error) {
