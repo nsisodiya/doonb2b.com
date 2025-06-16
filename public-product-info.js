@@ -292,7 +292,6 @@ window.productInfo = {
     "4941": "4941_plastic_spin_mop",
     "4960": "4960_evil_eye_blue_keychain_1pc",
     "4983": "4983_magnetic_fridge_button_2cm",
-    "4988": "4988_super_absorbent_floor_mat",
     "5040": "5040_kitchen_towel_napkin_1pc",
     "5103": "5103_kitchen_hanging_bin",
     "5106": "5106_office_lunch_box",
@@ -463,7 +462,6 @@ window.productInfo = {
     "8782": "8782_mini_jewelry_organizer_box",
     "8787": "8787_multi_basket_rack_6pc_set",
     "8810": "8810_nylon_rubber_3inch_50gm",
-    "8822": "8822_welcome_door_mat_23x15inch",
     "8868": "8868_unlimited_pencils_with_eraser",
     "8869": "8869_highlight_marker_pen_1pc",
     "8912": "8912_fold_storage_organizer_rack",
@@ -660,7 +658,6 @@ window.productInfo = {
     "14388": "14388_plastic_hair_massage_brush",
     "14445": "14445_5in1_pedicure_tool_set",
     "14461": "14461_mini_elastic_hairbands_5pc",
-    "14499": "14499_wireless_bluetooth_headphones_zw053",
     "15002": "15002_18in1_snowflake_tool_black",
     "15004": "15004_mini_screwdriwer",
     "15029": "15029_luggage_rope_with_hook_1m",
@@ -7526,26 +7523,6 @@ window.productInfo = {
       "handle": "14461_mini_elastic_hairbands_5pc",
       "title": "Small Ball Elastic Hairbands (Pack of 5 / Multicolour)",
       "salePrice": 26
-    },
-    "14499_wireless_bluetooth_headphones_zw053": {
-      "sku": "14499_wireless_bluetooth_headphones_zw053",
-      "itemCode": "14499",
-      "closingQuantity": 1,
-      "sold": 0,
-      "catalog": "unknown",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_80783d0a-96ed-4ee0-9112-4beb21cb3996.jpg?v=1744344099",
-        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/WhatsAppImage2025-04-10at16.48.19.jpg?v=1744344099",
-        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_185e0d02-d085-4def-b9b7-dc0ebed96ae9.jpg?v=1744344099",
-        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_3b65e72e-1800-47bb-a6a0-bced04523975.jpg?v=1744344099",
-        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_ccc20f08-f6b5-43f1-91ce-b803f0a2e32a.jpg?v=1744344099",
-        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_a17942e4-d3e8-429a-947e-ead434462c71.jpg?v=1744344099",
-        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_bf547e2d-1f8b-4115-8d6d-e4dbedbf33be.jpg?v=1744344099",
-        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/5414a717-36a0-405f-a6c8-a76a63c14f0c.jpg?v=1744344099"
-      ],
-      "handle": "wireless-over-ear-bluetooth-headphones-zw-053",
-      "title": "Wireless Over-Ear Bluetooth Headphones (ZW-053)",
-      "salePrice": 513
     },
     "1454_hot_water_bag_1400ml": {
       "sku": "1454_hot_water_bag_1400ml",
@@ -15201,26 +15178,6 @@ window.productInfo = {
       "title": "White Board Magnetic Particle Circle 2cm Color Magnetic Nail Household Teaching Magnet Strong Plastic Magnetic Buckle (Pack of 200pc)",
       "salePrice": 535
     },
-    "4988_super_absorbent_floor_mat": {
-      "sku": "4988_super_absorbent_floor_mat",
-      "itemCode": "4988",
-      "closingQuantity": -1,
-      "sold": 11,
-      "catalog": "home-decor",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/3_4e43fe05-f1e1-4b52-9157-173b22ed7425.jpg?v=1737633504",
-        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/1_3176af09-848a-4df2-8f9d-46a899e08849.jpg?v=1737633504",
-        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/5_a60f54e8-2541-4868-8920-f81cb9b8d6dd.jpg?v=1737633504",
-        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/2_3f56c125-e7fc-4898-b978-de0861d8391c.jpg?v=1737633504",
-        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/4_1c5ddc3b-b910-4565-afc1-1b6456f0ef65.jpg?v=1737633504",
-        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/6_a7b587b9-ef9c-4538-acd4-5b012b45ad20.jpg?v=1737633504",
-        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/7_d9f4b1f4-f58d-44aa-af0b-c5cd36165d51.jpg?v=1737633505",
-        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/WhatsAppImage2022-09-22at12.06.09PM.jpg?v=1737633505"
-      ],
-      "handle": "4988-super-absorbent-floor-mat-bath-mat-soft-carpet-slip-resistant-bathing-room-rug-floor-door-mat-instant-drying-mat-bathroom-rug-absorbent-bath-mat",
-      "title": "Mat, Super Absorbent Floor Mat, Bath Mat, Soft Carpet, Slip-Resistant Bathing Room Rug Floor Door Mat, Instant Drying Mat, Bathroom Rug, Absorbent Bath Mat",
-      "salePrice": 141
-    },
     "5040_kitchen_towel_napkin_1pc": {
       "sku": "5040_kitchen_towel_napkin_1pc",
       "itemCode": "5040",
@@ -18702,27 +18659,6 @@ window.productInfo = {
       "handle": "rubber-band-for-office-home-and-kitchen-accessories-item-products-elastic-rubber-bands-flexible-reusable-nylon-elastic-unbreakable-for-stationery-school-multicolor",
       "title": "RUBBER BAND FOR OFFICE/HOME AND KITCHEN ACCESSORIES ITEM PRODUCTS, ELASTIC RUBBER BANDS, FLEXIBLE REUSABLE NYLON ELASTIC UNBREAKABLE, FOR STATIONERY, SCHOOL MULTICOLOR",
       "salePrice": 39
-    },
-    "8822_welcome_door_mat_23x15inch": {
-      "sku": "8822_welcome_door_mat_23x15inch",
-      "itemCode": "8822",
-      "closingQuantity": 1,
-      "sold": 4,
-      "catalog": "home-decor",
-      "images": [
-        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_51ab0931-c2f3-4a4d-b723-9ac8c0f10a41.jpg?v=1737625562",
-        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/b8e03750-5f83-498f-a578-b9cc1fce400c.jpg?v=1737625562",
-        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_da4f7252-04ec-4e64-a81a-92959457b3d7.jpg?v=1737625562",
-        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_7df290e2-dc10-454c-bee4-4e0ecaa020a8.jpg?v=1737625562",
-        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_90c2ac3e-8bd4-4699-ae84-0877024f3122.jpg?v=1737625563",
-        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_745faadd-2b7a-4976-89c7-3a779f3b816e.jpg?v=1737625563",
-        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06bf503c-ca46-4dea-9d30-fda3bc1b635f.jpg?v=1737625563",
-        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/c08f7aa1-1c21-4298-b111-3b4f5e04e589.jpg?v=1737625563"
-      ],
-      "alreadyOrdered": 1,
-      "handle": "welcome-door-mat-heavy-duty-waterproof",
-      "title": "Welcome Door Mat for Home Entrance Outdoor Mat Anti Slip Heavy Duty and Waterproof | Easy to Clean for Entry For Bedroom, Living Room (23x15 Inch)",
-      "salePrice": 149
     },
     "8868_unlimited_pencils_with_eraser": {
       "sku": "8868_unlimited_pencils_with_eraser",
