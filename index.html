@@ -200,13 +200,17 @@
 
         // Normalize and tokenize fields
         const searchableTokens = fields.split(/\s+/);
+        searchableTokens.push(product.sku);
 
         const queryWords = normalizedQuery.split(/\s+/);
 
+        if ('0122_g_jar_set_6pc' === product.sku) {
+          console.log('Product SKU:', product.sku, `SKU `, queryWords);
+          console.log('Searchable Tokens:', searchableTokens);
+        }
+
         return queryWords.every((queryWord) =>
-          searchableTokens.some(
-            (token) => token.includes(queryWord) || queryWord.includes(token)
-          )
+          searchableTokens.some((token) => token.includes(queryWord))
         );
       }
 
@@ -315,7 +319,6 @@
           productListWrapper.classList.remove('hidden');
           categoryTitle.textContent = ``;
           productList.innerHTML = '';
-          console.log('Searching for:', lowerKeyword);
 
           const results = Object.values(productInfo.skuToProductInfo).filter(
             (p) => doesProductMatchSearch(lowerKeyword, p)
