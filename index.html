@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -189,19 +189,25 @@
       function doesProductMatchSearch(query, product) {
         if (!query || !product) return false;
 
-        const queryWords = query.trim().toLowerCase().split(/\s+/);
+        const normalizedQuery = query.trim().toLowerCase();
+        if (!normalizedQuery) return false;
 
-        const searchableText = [product.title, product.handle, product.sku]
+        const fields = [product.title, product.handle, product.sku]
           .filter(Boolean)
           .join(' ')
           .toLowerCase()
-          .replace(/[^a-z0-9\s]/g, ' ') // remove punctuation
-          .split(/\s+/); // tokenize searchable fields
+          .replace(/[^a-z0-9\s]/g, ' ');
 
-        // Create a Set for fast lookup of searchable words
-        const searchableWordSet = new Set(searchableText);
+        // Normalize and tokenize fields
+        const searchableTokens = fields.split(/\s+/);
 
-        return queryWords.every((word) => searchableWordSet.has(word));
+        const queryWords = normalizedQuery.split(/\s+/);
+
+        return queryWords.every((queryWord) =>
+          searchableTokens.some(
+            (token) => token.includes(queryWord) || queryWord.includes(token)
+          )
+        );
       }
 
       window.addEventListener('load', () => {
@@ -244,7 +250,9 @@
             div.className = 'catalog-item';
             div.innerHTML = `
               <img src="${getThumbnailImage(image)}" alt="${catalog}" />
-              <div class="catalog-title">${catalog.replace(/-/g, ' ')}<br>(${catalogCounts[catalog]} items)</div>
+              <div class="catalog-title">${catalog.replace(/-/g, ' ')}<br>(${
+              catalogCounts[catalog]
+            } items)</div>
             `;
             div.onclick = () => showProducts(catalog);
             catalogList.appendChild(div);
@@ -259,18 +267,27 @@
             ? Math.round(product.salePrice / product.items_per_bag)
             : null;
 
-          const productUrl = `./info.html?sku=${encodeURIComponent(product.sku)}`;
+          const productUrl = `./info.html?sku=${encodeURIComponent(
+            product.sku
+          )}`;
 
           div.innerHTML = `
     <a href="${productUrl}" class="product-link" style="text-decoration: none; color: inherit;">
       <div class="product-price">
         ₹ ${salePrice !== null ? `${salePrice} per item` : product.salePrice}
       </div>
-      <img src="${getThumbnailImage(product.images[0])}" alt="${product.title}" />
+      <img src="${getThumbnailImage(product.images[0])}" alt="${
+            product.title
+          }" />
       <div class="product-title">${product.sku}</div>
       <div class="product-title">${product.title}</div>
       <div class="product-stock">
-        Stock: ${product.items_per_bag ? Math.round(product.closingQuantity * product.items_per_bag) + ' items' : product.closingQuantity}
+        Stock: ${
+          product.items_per_bag
+            ? Math.round(product.closingQuantity * product.items_per_bag) +
+              ' items'
+            : product.closingQuantity
+        }
       </div>
     </a>
   `;
