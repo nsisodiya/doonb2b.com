@@ -76,6 +76,7 @@
 
       .card .price,
       .card .qty,
+      .card .rack,
       .card .missing {
         position: absolute;
         background-color: rgba(255, 255, 255, 0.85);
@@ -94,12 +95,17 @@
       }
 
       .card .qty {
-        bottom: 80px;
+        top: 80px;
         left: 0px;
       }
 
+      .card .rack {
+        top: 0px;
+        right: 0px;
+      }
+
       .card .missing {
-        bottom: 80px;
+        top: 80px;
         right: 0px;
         color: #b00000;
         border-color: #b00000;
@@ -238,6 +244,13 @@
       }
 
       function clearLocalStorage() {
+        //You should ask user twice before clearing local storage
+        if (!confirm('Are you sure you want to clear all saved quantities?')) {
+          return;
+        }
+        if (!confirm('This action cannot be undone. Are you sure?')) {
+          return;
+        }
         localStorage.removeItem(STORAGE_KEY);
         location.reload();
       }
@@ -272,8 +285,10 @@
             : product.closingQuantity;
 
           const enteredQty = stockMap[sku] ? parseInt(stockMap[sku]) : null;
-          if (enteredQty !== null && enteredQty >= totalQty) return;
-
+          if (enteredQty === totalQty) {
+            return; // Skip rendering if entered quantity matches total quantity
+          }
+          const rack = window.itemCodeToRackMap?.[product.itemCode];
           const image = getThumbnailImage(product.images?.[0] || '');
           const price = product.salePrice;
           const qtyLabel = product.items_per_bag
@@ -285,6 +300,7 @@
           card.innerHTML = `
             <img src="${image}" alt="${sku}">
             <div class="sku">${sku}</div>
+            ${rack ? `<div class="rack">rack ${rack}</div>` : ''}
             <div class="price">₹ ${price}</div>
             <div class="qty">${qtyLabel}</div>
           `;
@@ -354,8 +370,44 @@
           closeModal();
         }
       });
+      var GOOGLE_SHEET_CSV_URL =
+        'https://docs.google.com/spreadsheets/d/e/2PACX-1vR_JZW9SR9Gg_t29CdTRIKITIuJZLXgZv2SRXhJ_nM7pa5epmv2AxwFsKO3uVQ4INwrsATii7XytRdV/pub?gid=0&single=true&output=csv';
 
-      document.addEventListener('DOMContentLoaded', () => {
+      async function fetchAndConvertCSV() {
+        try {
+          const response = await fetch(GOOGLE_SHEET_CSV_URL);
+          const csvText = await response.text();
+
+          const lines = csvText.trim().split('\n');
+          const headers = lines[0].split(',').map((h) => h.trim());
+
+          const itemCodeIndex = headers.indexOf('ItemCode');
+          const rackIndex = headers.indexOf('Rack');
+
+          const result = {};
+
+          for (let i = 1; i < lines.length; i++) {
+            const values = lines[i].split(',');
+
+            const itemCode = values[itemCodeIndex]?.trim();
+            const rack = values[rackIndex]?.trim();
+
+            if (itemCode && rack) {
+              result[itemCode] = rack;
+            }
+          }
+
+          // Store globally
+          window.itemCodeToRackMap = result;
+          return result;
+        } catch (error) {
+          console.error('Error fetching or converting CSV:', error.message);
+          return {};
+        }
+      }
+      document.addEventListener('DOMContentLoaded', async () => {
+        await fetchAndConvertCSV();
+        console.log('Item Code to Rack Map:', window.itemCodeToRackMap);
         const data = window.productInfo?.skuToProductInfo || {};
         renderCards(data);
 
