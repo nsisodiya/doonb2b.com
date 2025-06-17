@@ -2,6 +2,66 @@ function getThumbnailImage(url) {
   return url.replace(/(\.jpg|\.png|\.webp|\.jpeg)(\?.*)?$/, '_150x150$1$2');
 }
 
+var GOOGLE_SHEET_CSV_URL =
+  'https://docs.google.com/spreadsheets/d/e/2PACX-1vR_JZW9SR9Gg_t29CdTRIKITIuJZLXgZv2SRXhJ_nM7pa5epmv2AxwFsKO3uVQ4INwrsATii7XytRdV/pub?gid=0&single=true&output=csv';
+
+function fetchAndConvertCSV() {
+  fetch(GOOGLE_SHEET_CSV_URL)
+    .then(function (response) {
+      return response.text();
+    })
+    .then(function (csvText) {
+      var lines = csvText.trim().split('\n');
+      var headers = lines[0].split(',').map(function (h) {
+        return h.trim();
+      });
+
+      var itemCodeIndex = headers.indexOf('ItemCode');
+      var rackIndex = headers.indexOf('Rack');
+
+      var result = {};
+
+      for (var i = 1; i < lines.length; i++) {
+        var values = lines[i].split(',');
+
+        var itemCode = values[itemCodeIndex] && values[itemCodeIndex].trim();
+        var rack = values[rackIndex] && values[rackIndex].trim();
+
+        if (itemCode && rack) {
+          result[itemCode] = rack;
+        }
+      }
+
+      // Store globally
+      window.itemCodeToRackMap = result;
+
+      // Update the product view with rack info
+      refreshVisibleProductsWithRackInfo();
+    })
+    .catch(function (error) {
+      console.error('Error fetching or converting CSV:', error.message);
+    });
+}
+
+function refreshVisibleProductsWithRackInfo() {
+  const keyword = document.getElementById('searchInput')?.value.trim();
+  if (keyword) {
+    searchProducts(keyword); // rerun search with updated rack data
+  } else if (
+    !document.getElementById('catalogList').classList.contains('hidden')
+  ) {
+    showCatalogs(); // reload catalog tiles if that's the current view
+  } else {
+    // We are in a product list view, refresh visible category
+    const currentCategory = document
+      .getElementById('categoryTitle')
+      ?.textContent.trim()
+      .toLowerCase()
+      .replace(/\s+/g, '-');
+    if (currentCategory) showProducts(currentCategory);
+  }
+}
+
 function doesProductMatchSearch(query, product) {
   if (!query || !product) return false;
 
@@ -24,6 +84,8 @@ function doesProductMatchSearch(query, product) {
 }
 
 window.addEventListener('load', () => {
+  fetchAndConvertCSV();
+
   const catalogData = {};
   const catalogCounts = {};
   const productInfo = window.productInfo;
@@ -80,24 +142,29 @@ window.addEventListener('load', () => {
       : null;
 
     const productUrl = `./info.html?sku=${encodeURIComponent(product.sku)}`;
+    const rack = window.itemCodeToRackMap?.[product.itemCode] || '';
+    const imageUrl = getThumbnailImage(product.images?.[0] || 'default.jpg');
 
     div.innerHTML = `
-<a href="${productUrl}" class="product-link" style="text-decoration: none; color: inherit;">
-  <div class="product-price">
-    ₹ ${salePrice !== null ? `${salePrice} per item` : product.salePrice}
-  </div>
-  <img src="${getThumbnailImage(product.images[0])}" alt="${product.title}" />
-  <div class="product-title">${product.sku}</div>
-  <div class="product-title">${product.title}</div>
-  <div class="product-stock">
-    Stock: ${
-      product.items_per_bag
-        ? Math.round(product.closingQuantity * product.items_per_bag) + ' items'
-        : product.closingQuantity
-    }
-  </div>
-</a>
-`;
+    <a href="${productUrl}" class="product-link" style="text-decoration: none; color: inherit;">
+      <div class="product-price">
+        ₹ ${salePrice !== null ? `${salePrice} per item` : product.salePrice}
+      </div>
+      <img src="${imageUrl}" alt="${product.title}" />
+      <div class="product-title">${product.sku}</div>
+      <div class="product-title">${product.title}</div>
+      <div class="product-stock">
+        Stock: ${
+          product.items_per_bag
+            ? Math.round(product.closingQuantity * product.items_per_bag) +
+              ' items'
+            : product.closingQuantity
+        }
+        ${rack ? `<br>Rack: ${rack}` : ''}
+      </div>
+    </a>
+  `;
+
     productList.appendChild(div);
   }
 
