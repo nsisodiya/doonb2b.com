@@ -203,12 +203,6 @@
         searchableTokens.push(product.sku);
 
         const queryWords = normalizedQuery.split(/\s+/);
-
-        if ('0122_g_jar_set_6pc' === product.sku) {
-          console.log('Product SKU:', product.sku, `SKU `, queryWords);
-          console.log('Searchable Tokens:', searchableTokens);
-        }
-
         return queryWords.every((queryWord) =>
           searchableTokens.some((token) => token.includes(queryWord))
         );
