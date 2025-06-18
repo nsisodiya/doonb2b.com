@@ -2,47 +2,6 @@ function getThumbnailImage(url) {
   return url.replace(/(\.jpg|\.png|\.webp|\.jpeg)(\?.*)?$/, '_150x150$1$2');
 }
 
-var GOOGLE_SHEET_CSV_URL =
-  'https://docs.google.com/spreadsheets/d/e/2PACX-1vR_JZW9SR9Gg_t29CdTRIKITIuJZLXgZv2SRXhJ_nM7pa5epmv2AxwFsKO3uVQ4INwrsATii7XytRdV/pub?gid=0&single=true&output=csv';
-
-function fetchAndConvertCSV() {
-  fetch(GOOGLE_SHEET_CSV_URL)
-    .then(function (response) {
-      return response.text();
-    })
-    .then(function (csvText) {
-      var lines = csvText.trim().split('\n');
-      var headers = lines[0].split(',').map(function (h) {
-        return h.trim();
-      });
-
-      var itemCodeIndex = headers.indexOf('ItemCode');
-      var rackIndex = headers.indexOf('Rack');
-
-      var result = {};
-
-      for (var i = 1; i < lines.length; i++) {
-        var values = lines[i].split(',');
-
-        var itemCode = values[itemCodeIndex] && values[itemCodeIndex].trim();
-        var rack = values[rackIndex] && values[rackIndex].trim();
-
-        if (itemCode && rack) {
-          result[itemCode] = rack;
-        }
-      }
-
-      // Store globally
-      window.itemCodeToRackMap = result;
-
-      // Update the product view with rack info
-      refreshVisibleProductsWithRackInfo();
-    })
-    .catch(function (error) {
-      console.error('Error fetching or converting CSV:', error.message);
-    });
-}
-
 function refreshVisibleProductsWithRackInfo() {
   const keyword = document.getElementById('searchInput')?.value.trim();
   if (keyword) {
@@ -83,9 +42,21 @@ function doesProductMatchSearch(query, product) {
   );
 }
 
-window.addEventListener('load', () => {
-  fetchAndConvertCSV();
-
+async function fetchRackData() {
+  try {
+    const response = await fetch('https://stock.doonb2b.com/api/rack-data');
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
+    }
+    const data = await response.json();
+    return data;
+  } catch (error) {
+    console.error('Error fetching rack data:', error);
+    return {}; // return empty object on failure
+  }
+}
+window.addEventListener('load', async () => {
+  window.skuToRackDataMap = await fetchRackData();
   const catalogData = {};
   const catalogCounts = {};
   const productInfo = window.productInfo;
@@ -142,7 +113,7 @@ window.addEventListener('load', () => {
       : null;
 
     const productUrl = `./info.html?sku=${encodeURIComponent(product.sku)}`;
-    const rack = window.itemCodeToRackMap?.[product.itemCode] || '';
+    const rack = window.skuToRackDataMap?.[product.sku]?.rackNumber || '';
     const imageUrl = getThumbnailImage(product.images?.[0] || 'default.jpg');
 
     div.innerHTML = `
