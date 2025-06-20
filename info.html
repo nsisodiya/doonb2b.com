@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -127,7 +127,7 @@
     </style>
   </head>
   <body>
-    <a href="/doonb2b/index.html"
+    <a href="/"
       ><header>
         <img src="./doonb2b-color-rect-logo-solid-white-bg.png" alt="Logo" />
       </header>
@@ -165,15 +165,20 @@
         document.getElementById('product-sku').textContent = 'SKU: ' + data.sku;
         const product = data;
 
-        document.getElementById('product-stock').textContent =
-          `Stock: ${product.items_per_bag ? Math.round(product.closingQuantity * product.items_per_bag) + ' items' : product.closingQuantity}`;
+        document.getElementById('product-stock').textContent = `Stock: ${
+          product.items_per_bag
+            ? Math.round(product.closingQuantity * product.items_per_bag) +
+              ' items'
+            : product.closingQuantity
+        }`;
 
         const salePrice = product.items_per_bag
           ? Math.round(product.salePrice / product.items_per_bag)
           : null;
 
-        document.getElementById('product-price').textContent =
-          `₹ ${salePrice !== null ? `${salePrice} per item` : product.salePrice}`;
+        document.getElementById('product-price').textContent = `₹ ${
+          salePrice !== null ? `${salePrice} per item` : product.salePrice
+        }`;
 
         const swiperWrapper = document.getElementById('swiper-wrapper');
         swiperWrapper.innerHTML = ''; // Clear previous slides
