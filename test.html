@@ -2,21 +2,22 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <title>Stickers</title>
+    <title>Sticker PDF</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
     <style>
-      html,
       body {
-        width: 100mm;
-        /* height: 25mm; */
         margin: 0;
         padding: 0;
-        overflow: hidden;
+        font-family: Arial, sans-serif;
+        background: #f8f8f8;
       }
 
-      .stickers {
+      .preview {
         display: flex;
         width: 100mm;
         height: 25mm;
+        margin: 20px auto;
+        border: 1px solid #ccc;
       }
 
       .sticker {
@@ -25,16 +26,13 @@
         border: 1px solid black;
         box-sizing: border-box;
         font-size: 10pt;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: start;
         padding: 2mm;
       }
 
       button {
-        margin-top: 10px;
-        padding: 8px 16px;
+        display: block;
+        margin: 20px auto;
+        padding: 10px 20px;
         font-size: 14px;
         background: #007bff;
         color: white;
@@ -43,23 +41,13 @@
         cursor: pointer;
       }
 
-      @media print {
-        button {
-          display: none;
-        }
-
-        html,
-        body {
-          margin: 0;
-          padding: 0;
-          width: 100mm;
-          height: 25mm;
-        }
+      button:hover {
+        background: #0056b3;
       }
     </style>
   </head>
   <body>
-    <div class="stickers">
+    <div class="preview" id="stickerArea">
       <div class="sticker">
         <div><strong>Product:</strong> Widget A</div>
         <div><strong>Code:</strong> WGT-001</div>
@@ -74,6 +62,33 @@
       </div>
     </div>
 
-    <button onclick="window.print()">Print Stickers</button>
+    <button onclick="downloadPDF()">Download as PDF</button>
+
+    <script>
+      async function downloadPDF() {
+        const { jsPDF } = window.jspdf;
+        const doc = new jsPDF({
+          orientation: 'landscape',
+          unit: 'mm',
+          format: [100, 25] // width x height
+        });
+
+        // Create temporary canvas for HTML rendering
+        const element = document.getElementById('stickerArea');
+
+        // Use html2canvas to convert the HTML to an image (optional alternative)
+        const canvas = await html2canvas(element, {
+          scale: 2
+        });
+
+        const imgData = canvas.toDataURL('image/png');
+
+        doc.addImage(imgData, 'PNG', 0, 0, 100, 25);
+        doc.save('stickers.pdf');
+      }
+    </script>
+
+    <!-- html2canvas is needed to render HTML to image -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
   </body>
 </html>
