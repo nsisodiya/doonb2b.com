@@ -1,8 +1,8 @@
-const BarcodeStickerLib = (function () {
+(function (global) {
   const mmToPx = (mm) => mm * (96 / 25.4);
 
-  function generate(containerId, stickerData) {
-    const container = document.getElementById(containerId);
+  function generate(containerElement, stickerData) {
+    const container = containerElement;
     container.innerHTML = '';
 
     const stickers = [];
@@ -111,8 +111,8 @@ const BarcodeStickerLib = (function () {
     }
   }
 
-  function downloadPNG(containerId) {
-    const node = document.getElementById(containerId);
+  function downloadPNG(containerElement) {
+    const node = containerElement;
     const mmWidth = 100;
     const pxWidth = mmToPx(mmWidth);
     const pxHeight = node.scrollHeight;
@@ -128,8 +128,8 @@ const BarcodeStickerLib = (function () {
       .catch((err) => console.error('Download failed', err));
   }
 
-  function downloadPDF(containerId) {
-    const node = document.getElementById(containerId);
+  function downloadPDF(containerElement) {
+    const node = containerElement;
     const mmWidth = 100;
     const pxWidth = mmToPx(mmWidth);
     const pxHeight = node.scrollHeight;
@@ -151,9 +151,9 @@ const BarcodeStickerLib = (function () {
       .catch((err) => console.error('PDF generation failed', err));
   }
 
-  return {
+  global.BarcodeStickerLib = {
     generate,
     downloadPNG,
     downloadPDF
   };
-})();
+})(window);
