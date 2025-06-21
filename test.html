@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Stickers</title>
+    <style>
+      html,
+      body {
+        width: 100mm;
+        /* height: 25mm; */
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+      }
+
+      .stickers {
+        display: flex;
+        width: 100mm;
+        height: 25mm;
+      }
+
+      .sticker {
+        width: 50mm;
+        height: 25mm;
+        border: 1px solid black;
+        box-sizing: border-box;
+        font-size: 10pt;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: start;
+        padding: 2mm;
+      }
+
+      button {
+        margin-top: 10px;
+        padding: 8px 16px;
+        font-size: 14px;
+        background: #007bff;
+        color: white;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+      }
+
+      @media print {
+        button {
+          display: none;
+        }
+
+        html,
+        body {
+          margin: 0;
+          padding: 0;
+          width: 100mm;
+          height: 25mm;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="stickers">
+      <div class="sticker">
+        <div><strong>Product:</strong> Widget A</div>
+        <div><strong>Code:</strong> WGT-001</div>
+        <div><strong>Qty:</strong> 5</div>
+        <div><strong>Date:</strong> 2025-06-21</div>
+      </div>
+      <div class="sticker">
+        <div><strong>Product:</strong> Widget B</div>
+        <div><strong>Code:</strong> WGT-002</div>
+        <div><strong>Qty:</strong> 10</div>
+        <div><strong>Date:</strong> 2025-06-21</div>
+      </div>
+    </div>
+
+    <button onclick="window.print()">Print Stickers</button>
+  </body>
+</html>
