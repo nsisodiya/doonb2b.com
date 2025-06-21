@@ -2,23 +2,26 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <title>Sticker Share</title>
+    <title>Sticker App</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Include jsPDF & html2canvas -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
     <style>
       body {
         margin: 0;
-        padding: 0;
-        font-family: Arial, sans-serif;
-        background: #f8f8f8;
+        padding: 10px;
+        font-family: sans-serif;
+        background: #f0f0f0;
       }
 
       .preview {
         display: flex;
         width: 100mm;
         height: 25mm;
-        margin: 20px auto;
+        margin: 10px auto;
         border: 1px solid #ccc;
+        background: white;
       }
 
       .sticker {
@@ -30,24 +33,55 @@
         padding: 2mm;
       }
 
+      .buttons {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        max-width: 300px;
+        margin: 0 auto;
+        margin-top: 20px;
+      }
+
       button {
-        display: block;
-        margin: 10px auto;
-        padding: 10px 20px;
-        font-size: 14px;
-        background: #007bff;
-        color: white;
+        padding: 10px;
+        font-size: 16px;
         border: none;
         border-radius: 4px;
+        background: #007bff;
+        color: white;
         cursor: pointer;
       }
 
       button:hover {
         background: #0056b3;
       }
+
+      .log {
+        margin-top: 20px;
+        max-width: 500px;
+        margin-left: auto;
+        margin-right: auto;
+        background: #222;
+        color: #0f0;
+        padding: 10px;
+        font-family: monospace;
+        font-size: 12px;
+        height: 150px;
+        overflow-y: auto;
+        white-space: pre-wrap;
+        border-radius: 4px;
+      }
+
+      .title {
+        text-align: center;
+        font-weight: bold;
+        margin-top: 10px;
+      }
     </style>
   </head>
   <body>
+    <div class="title">Sticker App – 100mm x 25mm</div>
+
     <div class="preview" id="stickerArea">
       <div class="sticker">
         <div><strong>Product:</strong> Widget A</div>
@@ -63,56 +97,97 @@
       </div>
     </div>
 
-    <button onclick="downloadPDF()">Download PDF</button>
-    <button onclick="sharePDF()">Share PDF</button>
+    <div class="buttons">
+      <button onclick="downloadPDF()">📥 Download PDF</button>
+      <button onclick="sharePDF()">📤 Try Share PDF</button>
+      <button onclick="openPDF()">🔍 Open PDF in New Tab</button>
+      <button onclick="clearLog()">🧹 Clear Log</button>
+    </div>
+
+    <div class="log" id="log">[App started...]</div>
 
     <script>
       const { jsPDF } = window.jspdf;
 
+      function log(message) {
+        const logBox = document.getElementById('log');
+        logBox.textContent += `\n[${new Date().toLocaleTimeString()}] ${message}`;
+        logBox.scrollTop = logBox.scrollHeight;
+      }
+
+      function clearLog() {
+        document.getElementById('log').textContent = '[Logs cleared]';
+      }
+
       async function createPDFBlob() {
+        log('Rendering sticker area to canvas...');
         const element = document.getElementById('stickerArea');
-        const canvas = await html2canvas(element, { scale: 2 });
-        const imgData = canvas.toDataURL('image/png');
+        try {
+          const canvas = await html2canvas(element, { scale: 2 });
+          const imgData = canvas.toDataURL('image/png');
 
-        const doc = new jsPDF({
-          orientation: 'landscape',
-          unit: 'mm',
-          format: [100, 25]
-        });
+          log('Generating PDF (100mm x 25mm)...');
+          const doc = new jsPDF({
+            orientation: 'landscape',
+            unit: 'mm',
+            format: [100, 25]
+          });
 
-        doc.addImage(imgData, 'PNG', 0, 0, 100, 25);
-        return doc.output('blob');
+          doc.addImage(imgData, 'PNG', 0, 0, 100, 25);
+          log('PDF generation complete.');
+          return doc.output('blob');
+        } catch (err) {
+          log('❌ Error creating PDF: ' + err.message);
+          throw err;
+        }
       }
 
       async function downloadPDF() {
-        const blob = await createPDFBlob();
-        const url = URL.createObjectURL(blob);
-        const link = document.createElement('a');
-        link.href = url;
-        link.download = 'stickers.pdf';
-        link.click();
-        URL.revokeObjectURL(url);
+        try {
+          const blob = await createPDFBlob();
+          const url = URL.createObjectURL(blob);
+          const link = document.createElement('a');
+          link.href = url;
+          link.download = 'stickers.pdf';
+          link.click();
+          log('✅ PDF downloaded.');
+        } catch (err) {
+          log('❌ Download failed.');
+        }
+      }
+
+      async function openPDF() {
+        try {
+          const blob = await createPDFBlob();
+          const url = URL.createObjectURL(blob);
+          window.open(url, '_blank');
+          log('📂 PDF opened in new tab.');
+        } catch (err) {
+          log('❌ Could not open PDF.');
+        }
       }
 
       async function sharePDF() {
+        log('Checking Web Share API support...');
         if (!navigator.canShare || !navigator.canShare({ files: [] })) {
-          alert("Web Share not supported or doesn't support file sharing.");
+          log('❌ Web Share API not supported or file sharing not available.');
           return;
         }
 
-        const blob = await createPDFBlob();
-        const file = new File([blob], 'stickers.pdf', {
-          type: 'application/pdf'
-        });
-
         try {
+          const blob = await createPDFBlob();
+          const file = new File([blob], 'stickers.pdf', {
+            type: 'application/pdf'
+          });
+          log('📤 Sharing PDF file...');
           await navigator.share({
-            title: 'Sticker Labels',
-            text: 'Here are your generated stickers.',
+            title: 'Sticker PDF',
+            text: 'Generated sticker labels',
             files: [file]
           });
+          log('✅ PDF shared successfully.');
         } catch (err) {
-          console.error('Share failed:', err);
+          log('❌ Share failed: ' + err.message);
         }
       }
     </script>
