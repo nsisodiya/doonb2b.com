@@ -2,8 +2,9 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <title>Sticker PDF</title>
+    <title>Sticker Share</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
     <style>
       body {
         margin: 0;
@@ -31,7 +32,7 @@
 
       button {
         display: block;
-        margin: 20px auto;
+        margin: 10px auto;
         padding: 10px 20px;
         font-size: 14px;
         background: #007bff;
@@ -62,33 +63,58 @@
       </div>
     </div>
 
-    <button onclick="downloadPDF()">Download as PDF</button>
+    <button onclick="downloadPDF()">Download PDF</button>
+    <button onclick="sharePDF()">Share PDF</button>
 
     <script>
-      async function downloadPDF() {
-        const { jsPDF } = window.jspdf;
+      const { jsPDF } = window.jspdf;
+
+      async function createPDFBlob() {
+        const element = document.getElementById('stickerArea');
+        const canvas = await html2canvas(element, { scale: 2 });
+        const imgData = canvas.toDataURL('image/png');
+
         const doc = new jsPDF({
           orientation: 'landscape',
           unit: 'mm',
-          format: [100, 25] // width x height
+          format: [100, 25]
         });
-
-        // Create temporary canvas for HTML rendering
-        const element = document.getElementById('stickerArea');
-
-        // Use html2canvas to convert the HTML to an image (optional alternative)
-        const canvas = await html2canvas(element, {
-          scale: 2
-        });
-
-        const imgData = canvas.toDataURL('image/png');
 
         doc.addImage(imgData, 'PNG', 0, 0, 100, 25);
-        doc.save('stickers.pdf');
+        return doc.output('blob');
+      }
+
+      async function downloadPDF() {
+        const blob = await createPDFBlob();
+        const url = URL.createObjectURL(blob);
+        const link = document.createElement('a');
+        link.href = url;
+        link.download = 'stickers.pdf';
+        link.click();
+        URL.revokeObjectURL(url);
+      }
+
+      async function sharePDF() {
+        if (!navigator.canShare || !navigator.canShare({ files: [] })) {
+          alert("Web Share not supported or doesn't support file sharing.");
+          return;
+        }
+
+        const blob = await createPDFBlob();
+        const file = new File([blob], 'stickers.pdf', {
+          type: 'application/pdf'
+        });
+
+        try {
+          await navigator.share({
+            title: 'Sticker Labels',
+            text: 'Here are your generated stickers.',
+            files: [file]
+          });
+        } catch (err) {
+          console.error('Share failed:', err);
+        }
       }
     </script>
-
-    <!-- html2canvas is needed to render HTML to image -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
   </body>
 </html>
