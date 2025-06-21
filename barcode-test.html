@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>JS Barcode Library Demo</title>
+  </head>
+  <body>
+    <h1>JS Barcode Library Demo</h1>
+
+    <button onclick="downloadAsPNG()">Download PNG</button>
+    <button onclick="downloadAsPDF()">Download PDF</button>
+
+    <!-- Container for generated stickers -->
+    <div id="sticker-container" style="box-sizing: border-box"></div>
+
+    <!-- Libraries -->
+    <script src="https://cdn.jsdelivr.net/npm/jsbarcode@3.11.5/dist/JsBarcode.all.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/html-to-image@1.11.11/dist/html-to-image.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <script src="barcode-sticker-lib.js"></script>
+
+    <script>
+      // Sample use
+      const data = [
+        {
+          itemCode: 18760,
+          sku: '18760_3in1_liquid_soap_dispenser_set',
+          price: 123,
+          quantity: 3
+        }
+      ];
+
+      BarcodeStickerLib.generate('sticker-container', data);
+
+      function downloadAsPNG() {
+        BarcodeStickerLib.downloadPNG('sticker-container');
+      }
+
+      function downloadAsPDF() {
+        BarcodeStickerLib.downloadPDF('sticker-container');
+      }
+    </script>
+  </body>
+</html>
