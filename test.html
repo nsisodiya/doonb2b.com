@@ -102,9 +102,41 @@
       <button onclick="sharePDF()">📤 Try Share PDF</button>
       <button onclick="openPDF()">🔍 Open PDF in New Tab</button>
       <button onclick="clearLog()">🧹 Clear Log</button>
+      <button onclick="tryIntent()">🧪 Try Open in 'Print Label' App</button>
     </div>
 
     <div class="log" id="log">[App started...]</div>
+
+    <script>
+      function tryIntent() {
+        const pdfUrl = 'https://example.com/stickers.pdf'; // Replace with real public PDF URL
+
+        const intentUrl =
+          'intent:' +
+          pdfUrl +
+          '#Intent;' +
+          'scheme=https;' +
+          'package=com.print.label;' +
+          'type=application/pdf;' +
+          'end;';
+
+        log('⏳ Trying to open Print Label app using Intent...');
+        window.location.href = intentUrl;
+      }
+
+      // Optional log output on screen
+      function log(msg) {
+        let logBox = document.getElementById('intentLog');
+        if (!logBox) {
+          logBox = document.createElement('pre');
+          logBox.id = 'intentLog';
+          logBox.style =
+            'padding:10px;background:#111;color:#0f0;font-size:12px;';
+          document.body.appendChild(logBox);
+        }
+        logBox.textContent += `\n${msg}`;
+      }
+    </script>
 
     <script>
       const { jsPDF } = window.jspdf;
