@@ -30,14 +30,21 @@
         }
       ];
 
-      BarcodeStickerLib.generate('sticker-container', data);
+      window.BarcodeStickerLib.generate(
+        document.getElementById('sticker-container'),
+        data
+      );
 
       function downloadAsPNG() {
-        BarcodeStickerLib.downloadPNG('sticker-container');
+        BarcodeStickerLib.downloadPNG(
+          document.getElementById('sticker-container')
+        );
       }
 
       function downloadAsPDF() {
-        BarcodeStickerLib.downloadPDF('sticker-container');
+        BarcodeStickerLib.downloadPDF(
+          document.getElementById('sticker-container')
+        );
       }
     </script>
   </body>
