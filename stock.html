@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DoonB2B Stock Summary</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 20px;
+        background-color: #f4f4f9;
+        color: #333;
+      }
+      .container {
+        max-width: 800px;
+        margin: 0 auto;
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+      }
+      h1 {
+        text-align: center;
+        color: #2c3e50;
+      }
+      .summary {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 20px;
+        margin-top: 20px;
+      }
+      .summary-item {
+        background-color: #ecf0f1;
+        padding: 15px;
+        border-radius: 5px;
+        text-align: center;
+      }
+      .summary-item h3 {
+        margin: 0;
+        font-size: 1.2em;
+        color: #34495e;
+      }
+      .summary-item p {
+        margin: 5px 0 0;
+        font-size: 1.5em;
+        font-weight: bold;
+        color: #e74c3c;
+      }
+      .error {
+        text-align: center;
+        color: #e74c3c;
+        font-weight: bold;
+        margin-top: 20px;
+      }
+      .loading {
+        text-align: center;
+        color: #34495e;
+        font-style: italic;
+        margin-top: 20px;
+      }
+      @media (max-width: 600px) {
+        .summary {
+          grid-template-columns: 1fr;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Product Stock Summary</h1>
+      <div class="loading" id="loading">Loading product data...</div>
+      <div class="error" id="error" style="display: none"></div>
+      <div class="summary" id="summary"></div>
+    </div>
+
+    <!-- Include the external JavaScript file -->
+    <script src="https://doonb2b.com/public-product-info.js"></script>
+
+    <script>
+      // Create number formatter for Indian format (xx,xx,xx,xxx.xx)
+      const numberFormatter = new Intl.NumberFormat('en-IN', {
+        minimumFractionDigits: 2,
+        maximumFractionDigits: 2
+      });
+
+      // Function to display stock summary
+      function displayStockSummary() {
+        const summaryContainer = document.getElementById('summary');
+        const loadingContainer = document.getElementById('loading');
+        const errorContainer = document.getElementById('error');
+
+        try {
+          // Check if window.productInfo is available
+          if (!window.productInfo || !window.productInfo.skuToProductInfo) {
+            throw new Error('Product data not loaded or invalid format');
+          }
+
+          const products = Object.values(window.productInfo.skuToProductInfo);
+
+          // Calculate metrics
+          const totalTypes = products.length;
+          // if product.items_per_bag is defined then calculate totalProducts based on Round(closingQuantity * items_per_bag);
+          const totalProducts = products.reduce(
+            (sum, product) =>
+              sum +
+              Math.round(
+                (product.closingQuantity || 0) * (product.items_per_bag || 1)
+              ),
+            0
+          );
+          // const totalProducts = products.reduce(
+          //   (sum, product) => sum + (product.closingQuantity || 0),
+          //   0
+          // );
+          const totalSaleValue = products.reduce(
+            (sum, product) =>
+              sum + (product.closingQuantity || 0) * (product.salePrice || 0),
+            0
+          );
+
+          // Hide loading message
+          loadingContainer.style.display = 'none';
+
+          // Display summary
+          summaryContainer.innerHTML = `
+                    <div class="summary-item">
+                        <h3>Total Type of Products</h3>
+                        <p>${numberFormatter.format(totalTypes)}</p>
+                    </div>
+                    <div class="summary-item">
+                        <h3>Total Products</h3>
+                        <p>${numberFormatter.format(totalProducts)}</p>
+                    </div>
+                    <div class="summary-item">
+                        <h3>Total Sale Value (₹)</h3>
+                        <p>${numberFormatter.format(
+                          totalSaleValue.toFixed(2)
+                        )}</p>
+                    </div>
+                `;
+        } catch (error) {
+          // Hide loading message and show error
+          loadingContainer.style.display = 'none';
+          errorContainer.style.display = 'block';
+          errorContainer.textContent = `Error processing product data: ${error.message}`;
+          console.error('Error:', error);
+        }
+      }
+
+      // Wait for the script to load
+      window.addEventListener('load', () => {
+        // Small delay to ensure the external script has executed
+        setTimeout(displayStockSummary, 100);
+      });
+    </script>
+  </body>
+</html>
