@@ -14767,7 +14767,7 @@ window.productInfo = {
       ],
       "handle": "2454-air-tight-unbreakable-big-size-1100-ml-square-shape-kitchen-storage-container-set-of-6",
       "title": "Air Tight Unbreakable Big Size 1100 ml Square Shape Kitchen Storage Container (Set of 6)",
-      "salePrice": 251
+      "salePrice": 252
     },
     "2455_wooden_handle_peeler": {
       "sku": "2455_wooden_handle_peeler",
@@ -16287,8 +16287,8 @@ window.productInfo = {
     "3410_scrubber_pads_10pc": {
       "sku": "3410_scrubber_pads_10pc",
       "itemCode": "3410",
-      "closingQuantity": 19,
-      "sold": 32,
+      "closingQuantity": 18,
+      "sold": 33,
       "catalog": "scrubber",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/02_a653a93b-f3ce-49c0-9f24-11d4aa6f38de.jpg?v=1737633176",
