@@ -3320,8 +3320,8 @@ window.productInfo = {
     "0734_soup_bowl_6pc": {
       "sku": "0734_soup_bowl_6pc",
       "itemCode": "0734",
-      "closingQuantity": 25.83,
-      "sold": 11.17,
+      "closingQuantity": 25.5,
+      "sold": 11.5,
       "items_per_bag": 6,
       "catalog": "kitchen",
       "images": [
@@ -3359,8 +3359,8 @@ window.productInfo = {
     "0745_13cm_planter_pot": {
       "sku": "0745_13cm_planter_pot",
       "itemCode": "0745",
-      "closingQuantity": 3,
-      "sold": 0,
+      "closingQuantity": 2,
+      "sold": 1,
       "catalog": "gardening",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/new.jpg?v=1737628740",
@@ -10979,8 +10979,8 @@ window.productInfo = {
     "17920_4com_multi_desktop_holder_1pc": {
       "sku": "17920_4com_multi_desktop_holder_1pc",
       "itemCode": "17920",
-      "closingQuantity": 4,
-      "sold": 2,
+      "closingQuantity": 2,
+      "sold": 4,
       "catalog": "stationery",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_a9375b3a-378d-4c10-8b55-af90b0d009fa.jpg?v=1737621009",
@@ -14592,8 +14592,8 @@ window.productInfo = {
     "2425_6pc_round_mini_bowl": {
       "sku": "2425_6pc_round_mini_bowl",
       "itemCode": "2425",
-      "closingQuantity": 8.67,
-      "sold": 1.33,
+      "closingQuantity": 8,
+      "sold": 2,
       "items_per_bag": 6,
       "catalog": "bowl",
       "images": [
@@ -15092,8 +15092,8 @@ window.productInfo = {
     "2625_3sec_container_750ml": {
       "sku": "2625_3sec_container_750ml",
       "itemCode": "2625",
-      "closingQuantity": 8,
-      "sold": 4,
+      "closingQuantity": 7,
+      "sold": 5,
       "catalog": "kitchen-storage",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/08_160704d1-d46e-403c-b7e5-b17026ecf1ee.jpg?v=1737631492",
@@ -16217,8 +16217,8 @@ window.productInfo = {
     "3645_scarlet_tray_3pcs": {
       "sku": "3645_scarlet_tray_3pcs",
       "itemCode": "3645",
-      "closingQuantity": 4,
-      "sold": 6,
+      "closingQuantity": 3,
+      "sold": 7,
       "catalog": "kitchen-accessories",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_65ab05ae-8c43-4e34-b3d6-402a7422e677.jpg?v=1737625601",
