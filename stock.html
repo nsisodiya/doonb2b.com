@@ -68,7 +68,7 @@
   </head>
   <body>
     <div class="container">
-      <h1>Product Stock Summary</h1>
+      <h1>DoonB2B Stock Summary</h1>
       <div class="loading" id="loading">Loading product data...</div>
       <div class="error" id="error" style="display: none"></div>
       <div class="summary" id="summary"></div>
@@ -79,10 +79,15 @@
 
     <script>
       // Create number formatter for Indian format (xx,xx,xx,xxx.xx)
+
       const numberFormatter = new Intl.NumberFormat('en-IN', {
         minimumFractionDigits: 2,
         maximumFractionDigits: 2
       });
+      function formatNum(num) {
+        let str = numberFormatter.format(Math.round(num));
+        return str.replace(/.00/g, '');
+      }
 
       // Function to display stock summary
       function displayStockSummary() {
@@ -126,17 +131,15 @@
           summaryContainer.innerHTML = `
                     <div class="summary-item">
                         <h3>Total Type of Products</h3>
-                        <p>${numberFormatter.format(totalTypes)}</p>
+                        <p>${formatNum(totalTypes)}</p>
                     </div>
                     <div class="summary-item">
                         <h3>Total Products</h3>
-                        <p>${numberFormatter.format(totalProducts)}</p>
+                        <p>${formatNum(totalProducts)}</p>
                     </div>
                     <div class="summary-item">
                         <h3>Total Sale Value (₹)</h3>
-                        <p>${numberFormatter.format(
-                          totalSaleValue.toFixed(2)
-                        )}</p>
+                        <p>${formatNum(totalSaleValue)}</p>
                     </div>
                 `;
         } catch (error) {
