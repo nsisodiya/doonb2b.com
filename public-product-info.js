@@ -7828,6 +7828,7 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/40160086-4_1-mr-boss-lotus-plastic-clip-cloth-clip.jpg?v=1737630359",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/a9d27096-1600-459d-8efd-226aa77f6823.jpg?v=1737630360"
       ],
+      "alreadyOrdered": 100,
       "handle": "1365-plastic-cloth-clips-for-cloth-dying-cloth-clips-multicolour",
       "title": "Plastic Cloth Clips for cloth Dying cloth clips (multicolour)",
       "salePrice": 16
@@ -17639,6 +17640,7 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/03_923f975d-684a-4f1f-8633-aaf92fda2fee.jpg?v=1737631148",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/760929fd-b522-470d-9cb9-16e5f74713a2.jpg?v=1737631148"
       ],
+      "alreadyOrdered": 3,
       "handle": "4705-pyramid-mobile-stand-with-3-different-inclined-angles",
       "title": "Pyramid Mobile Stand with 3 Different Inclined Angles (50 Pcs Set)",
       "salePrice": 150
@@ -22752,6 +22754,7 @@ window.productInfo = {
       "itemCode": "9201",
       "closingQuantity": 8.1,
       "sold": 1.9,
+      "items_per_bag": 10,
       "catalog": "stationery",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_fca3bfec-4648-496c-b49a-e7f24ba0fcb1.jpg?v=1737626239",
@@ -22763,7 +22766,7 @@ window.productInfo = {
       ],
       "handle": "9201-10pc-marron-marker-and-pen-used-in-studies-and-teaching-white-boards-in-schools-and-institutes-for-students-10-pc-set",
       "title": "10Pc Marron Marker and pen used in studies and teaching white boards in schools and institutes for students (10 Pc Set)",
-      "salePrice": 65
+      "salePrice": 70
     },
     "9310_silicone_bath_massage": {
       "sku": "9310_silicone_bath_massage",
