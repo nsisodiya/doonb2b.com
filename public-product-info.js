@@ -2199,7 +2199,7 @@ window.productInfo = {
       ],
       "handle": "0367-usb-vibration-full-body-massager",
       "title": "USB Vibration Full Body Massager",
-      "salePrice": 97
+      "salePrice": 88
     },
     "0370_cm_3d_massager": {
       "sku": "0370_cm_3d_massager",
@@ -3626,7 +3626,7 @@ window.productInfo = {
       ],
       "handle": "dust-cleaning-brush",
       "title": "2 in 1 Multi-Function Plastic Window Slot Wardrobe Dust Removal Cleaning Brush",
-      "salePrice": 10
+      "salePrice": 9
     },
     "0854_premium_coconut_opener": {
       "sku": "0854_premium_coconut_opener",
@@ -4096,7 +4096,7 @@ window.productInfo = {
       ],
       "handle": "kitchen-knife-with-stainless-steel-blade-1-pc",
       "title": "Kitchen Knife with Stainless Steel Blade (1 Pc)",
-      "salePrice": 49
+      "salePrice": 42
     },
     "10138_1ltr_oil_dispenser_with_brush": {
       "sku": "10138_1ltr_oil_dispenser_with_brush",
@@ -7416,7 +7416,7 @@ window.productInfo = {
       "alreadyOrdered": 30,
       "handle": "13336_metal_tic_tac_hair_clip_12pc",
       "title": "Metal Tik Tak Hair Clips (12 Pcs Set), Hair accessories",
-      "salePrice": 17
+      "salePrice": 22
     },
     "13339_multi_cleaning_brush_23cm": {
       "sku": "13339_multi_cleaning_brush_23cm",
@@ -7903,7 +7903,7 @@ window.productInfo = {
       ],
       "handle": "1379-wall-mounted-storage-box-remote-storage-organizer-case-multicolour-1",
       "title": "Wall Mounted Storage Box Remote Storage Organizer Case (Multicolour)",
-      "salePrice": 26
+      "salePrice": 19
     },
     "13823_8_in_1_manicure_set_tool_kit": {
       "sku": "13823_8_in_1_manicure_set_tool_kit",
@@ -9130,7 +9130,7 @@ window.productInfo = {
       "alreadyOrdered": 10,
       "handle": "15147_windshield_glass_cleaner_wiper_1pc",
       "title": "Windshield Clean Car Glass Cleaner Wiper With Microfiber Cloth (1 Pc / 38 Cm Long)",
-      "salePrice": 45
+      "salePrice": 27
     },
     "15149_foldable_bottle_umbrella": {
       "sku": "15149_foldable_bottle_umbrella",
@@ -10512,7 +10512,7 @@ window.productInfo = {
       "alreadyOrdered": 10,
       "handle": "17745-smiley-multicolor-spring-spring-toys-slinky-slinky-spring-toy-toy-for-kids-for-birthdays-compact-and-portable-easy-to-carry-1-pc",
       "title": "Multicolor Magic Smiley Spring, Spring Toys, Slinky, Slinky Spring Toy, Toy for Kids for Birthdays, Compact and Portable Easy to Carry (12 Pcs Set)",
-      "salePrice": 79
+      "salePrice": 84
     },
     "17746_beauty_set_trolley_at174": {
       "sku": "17746_beauty_set_trolley_at174",
@@ -12967,7 +12967,7 @@ window.productInfo = {
       ],
       "handle": "premium-plastic-badminton-shuttlecock-set-10-pcs",
       "title": "Premium Plastic Badminton Shuttlecock Set (10 Pcs)",
-      "salePrice": 150
+      "salePrice": 200
     },
     "19272_mini_push_pop_bubble_keychain_1pc": {
       "sku": "19272_mini_push_pop_bubble_keychain_1pc",
@@ -13387,7 +13387,7 @@ window.productInfo = {
       ],
       "handle": "1991_premium_doctor_trolley_set_at173b",
       "title": "Premium Doctor Set Trolley Little Doctor Kids Toy (1 Set)",
-      "salePrice": 1266
+      "salePrice": 998
     },
     "1996_at105_colorful_gear_bus": {
       "sku": "1996_at105_colorful_gear_bus",
@@ -15529,7 +15529,7 @@ window.productInfo = {
       ],
       "handle": "2836-fridge-storage-containers-with-handle-plastic-storage-container-for-kitchen4-pcs-set",
       "title": "Fridge Storage Containers with Handle Plastic Storage Container for Kitchen(4 Pcs Set)",
-      "salePrice": 286
+      "salePrice": 284
     },
     "2854_small_spatula_brush_1pc": {
       "sku": "2854_small_spatula_brush_1pc",
@@ -17563,7 +17563,7 @@ window.productInfo = {
       ],
       "handle": "4770-champs-stand-and-mobile-stand-used-for-holding-and-supporting-mobile-phones-1",
       "title": "Champs Stand and mobile stand Used for holding and supporting mobile phones (50 Pcs Set)",
-      "salePrice": 341
+      "salePrice": 250
     },
     "4778_1pc_silicone_hot_mat": {
       "sku": "4778_1pc_silicone_hot_mat",
@@ -18256,7 +18256,7 @@ window.productInfo = {
       ],
       "handle": "5484-dough-whisk-premium-stainless-steel-dutch-whisk-dough-hand-mixer-artisan-blender-for-egg-bread-cake-pastry-pizza-dough-perfect-baking-tools-whisking-tirring-kitchen-tools-1-pc",
       "title": "Dough Whisk, Premium Stainless Steel Dutch Whisk, Dough Hand Mixer Artisan Blender For Egg, Bread, Cake, Pastry, Pizza Dough - Perfect Baking Tools, Whisking, Tirring Kitchen Tools (1 Pc)",
-      "salePrice": 43
+      "salePrice": 31
     },
     "5498_kitchen_storage_container_5pc": {
       "sku": "5498_kitchen_storage_container_5pc",
