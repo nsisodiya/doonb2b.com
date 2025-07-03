@@ -98,7 +98,7 @@
         text-transform: capitalize;
       }
       .hidden {
-        display: none;
+        display: none !important;
       }
       .back-link {
         margin: 1rem;
@@ -137,6 +137,35 @@
     <div class="search-box">
       <input type="text" id="searchInput" placeholder="Search products..." />
     </div>
+    <!-- ADD THIS IN HTML BODY -->
+    <!-- Inline style loader -->
+    <div
+      id="loader"
+      style="align-items: center; justify-content: center; display: flex"
+    >
+      <div
+        style="
+          width: 200px;
+          height: 200px;
+          border: 4px solid #ccc;
+          border-top: 4px solid #3b82f6;
+          border-radius: 50%;
+          animation: spin 1s linear infinite;
+        "
+      ></div>
+    </div>
+
+    <!-- Add this <style> block to enable the spin animation -->
+    <style>
+      @keyframes spin {
+        0% {
+          transform: rotate(0deg);
+        }
+        100% {
+          transform: rotate(360deg);
+        }
+      }
+    </style>
 
     <div id="catalogList" class="catalog-list"></div>
     <div id="productListWrapper" class="hidden">
