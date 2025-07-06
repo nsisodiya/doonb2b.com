@@ -147,14 +147,22 @@ window.addEventListener('load', () => {
         <div class="product-title">${product.sku || 'N/A'}</div>
         <div class="product-title">${product.title || 'Untitled'}</div>
         <div class="product-stock" data-sku="${product.sku || ''}">
-          Stock: ${
-            product.items_per_bag
-              ? Math.round(
-                  (product.closingQuantity || 0) * product.items_per_bag
-                ) + ' items'
-              : product.closingQuantity || 0
-          }
-        </div>
+            ${
+              (product.items_per_bag
+                ? Math.round(
+                    (product.closingQuantity || 0) * product.items_per_bag
+                  )
+                : product.closingQuantity || 0) > 0
+                ? `Stock: ${
+                    product.items_per_bag
+                      ? Math.round(
+                          (product.closingQuantity || 0) * product.items_per_bag
+                        ) + ' items'
+                      : product.closingQuantity || 0
+                  }`
+                : 'Out of Stock'
+            }
+          </div>
         <div class="product-stock-rack" data-sku="${product.sku || ''}">
           ${
             window.skuToRackDataMap?.[product.sku]?.rackNumber
