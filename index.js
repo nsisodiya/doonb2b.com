@@ -32,9 +32,19 @@ window.addEventListener('load', () => {
     productList.innerHTML = '';
     categoryTitle.textContent = catalog.replace(/-/g, ' ');
 
-    Object.values(productInfo.skuToProductInfo)
-      .filter((p) => p?.catalog === catalog)
-      .forEach((product) => createProductItem(product, productList));
+    if (
+      catalog === 'these-products-are-in-transport-and-they-will-arrive-soon'
+    ) {
+      Object.values(productInfo.skuToProductInfo)
+        .filter((p) => p?.stock === 0 && p.alreadyOrdered !== undefined)
+        .forEach((product) =>
+          createProductItem(product, productList, { skipStock: true })
+        );
+    } else {
+      Object.values(productInfo.skuToProductInfo)
+        .filter((p) => p?.catalog === catalog)
+        .forEach((product) => createProductItem(product, productList));
+    }
   }
 
   function showCatalogs() {
@@ -43,6 +53,16 @@ window.addEventListener('load', () => {
     productListWrapper.classList.add('hidden');
     mapWrapper.classList.remove('hidden');
     catalogList.innerHTML = '';
+
+    const div = document.createElement('div');
+    div.className = 'catalog-item';
+    div.innerHTML = `
+        <img src="https://static.vecteezy.com/system/resources/previews/002/544/264/non_2x/cartoon-semi-truck-illustration-vector.jpg" alt="New" />
+        <div class="catalog-title">Arriving Soon</div>
+      `;
+    div.onclick = () =>
+      showProducts(`these-products-are-in-transport-and-they-will-arrive-soon`);
+    catalogList.appendChild(div);
 
     Object.entries(catalogData).forEach(([catalog, image]) => {
       const div = document.createElement('div');
@@ -120,7 +140,7 @@ window.addEventListener('load', () => {
       });
   }
 
-  function createProductItem(product, productList) {
+  function createProductItem(product, productList, config = {}) {
     if (!product || !productList) return;
     const div = document.createElement('div');
     div.className = 'product-item';
@@ -133,7 +153,6 @@ window.addEventListener('load', () => {
       product.sku || ''
     )}`;
     const imageUrl = getThumbnailImage(product.images?.[0] || 'default.jpg');
-
     div.innerHTML = `
       <a href="${productUrl}" class="product-link" style="text-decoration: none; color: inherit;">
         <div class="product-price">
@@ -146,30 +165,36 @@ window.addEventListener('load', () => {
         <img src="${imageUrl}" alt="${product.title || 'Product'}" />
         <div class="product-title">${product.sku || 'N/A'}</div>
         <div class="product-title">${product.title || 'Untitled'}</div>
-        <div class="product-stock" data-sku="${product.sku || ''}">
-            ${
-              (product.items_per_bag
-                ? Math.round(
-                    (product.closingQuantity || 0) * product.items_per_bag
-                  )
-                : product.closingQuantity || 0) > 0
-                ? `Stock: ${
-                    product.items_per_bag
-                      ? Math.round(
-                          (product.closingQuantity || 0) * product.items_per_bag
-                        ) + ' items'
-                      : product.closingQuantity || 0
-                  }`
-                : 'Out of Stock'
-            }
-          </div>
-        <div class="product-stock-rack" data-sku="${product.sku || ''}">
-          ${
-            window.skuToRackDataMap?.[product.sku]?.rackNumber
-              ? `Rack: ${window.skuToRackDataMap[product.sku].rackNumber}`
-              : ''
-          }
-        </div>
+        ${
+          config.skipStock === true
+            ? ''
+            : `
+  <div class="product-stock" data-sku="${product.sku || ''}">
+    ${
+      (product.items_per_bag
+        ? Math.round((product.closingQuantity || 0) * product.items_per_bag)
+        : product.closingQuantity || 0) > 0
+        ? `Stock: ${
+            product.items_per_bag
+              ? Math.round(
+                  (product.closingQuantity || 0) * product.items_per_bag
+                ) + ' items'
+              : product.closingQuantity || 0
+          }`
+        : product.alreadyOrdered > 0
+        ? `Arriving soon`
+        : 'Out of Stock'
+    }
+  </div>
+  <div class="product-stock-rack" data-sku="${product.sku || ''}">
+    ${
+      window.skuToRackDataMap?.[product.sku]?.rackNumber
+        ? `Rack: ${window.skuToRackDataMap[product.sku].rackNumber}`
+        : ''
+    }
+  </div>
+`
+        }
       </a>
     `;
     productList.appendChild(div);
