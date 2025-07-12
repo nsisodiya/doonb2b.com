@@ -144,9 +144,8 @@ window.addEventListener('load', () => {
     if (!product || !productList) return;
     const div = document.createElement('div');
     div.className = 'product-item';
-
     const salePrice = product.items_per_bag
-      ? Math.round(product.salePrice / product.items_per_bag)
+      ? Math.round(product.salePrice / product.items_per_bag) + ' per item'
       : product.salePrice;
 
     const productUrl = `./info.html?sku=${encodeURIComponent(
@@ -156,11 +155,7 @@ window.addEventListener('load', () => {
     div.innerHTML = `
       <a href="${productUrl}" class="product-link" style="text-decoration: none; color: inherit;">
         <div class="product-price">
-          ₹ ${
-            salePrice !== null && !isNaN(salePrice)
-              ? `${salePrice} per item`
-              : product.salePrice || 'N/A'
-          }
+          ₹ ${salePrice}
         </div>
         <img src="${imageUrl}" alt="${product.title || 'Product'}" />
         <div class="product-title">${product.sku || 'N/A'}</div>
