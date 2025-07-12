@@ -157,12 +157,17 @@
 
         const product = data;
 
-        document.getElementById('product-stock').textContent = `Stock: ${
-          product.items_per_bag
-            ? Math.round(product.closingQuantity * product.items_per_bag) +
-              ' items'
-            : product.closingQuantity
-        }`;
+        const q = product.items_per_bag
+          ? Math.round(product.closingQuantity * product.items_per_bag)
+          : product.closingQuantity;
+
+        document.getElementById('product-stock').textContent =
+          q > 0
+            ? `Stock: ${q} ${product.items_per_bag ? 'items' : ''}`
+            : typeof product.alreadyOrdered === 'number' &&
+              product.alreadyOrdered > 0
+            ? 'Arriving Soon'
+            : 'Out of Stock';
 
         const salePrice = product.items_per_bag
           ? Math.round(product.salePrice / product.items_per_bag)
