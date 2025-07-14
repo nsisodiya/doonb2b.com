@@ -9482,6 +9482,8 @@ window.productInfo = {
     "12929_kitchen_cleaning_tool_6pc": {
       "sku": "12929_kitchen_cleaning_tool_6pc",
       "itemCode": "12929",
+      "closingQuantity": 20,
+      "sold": 0,
       "catalog": "scrubber",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/68a1936b-68f1-4a6d-866a-776026051152_2e53e3d7-e7cb-41ca-9fb7-fb8c0af47f0b.jpg?v=1737622300",
@@ -9493,15 +9495,12 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_4f29023c-f976-4275-89ed-71d47ec9892a.jpg?v=1737622301",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/58e33b42-5f82-476c-bc7a-79bb1dce1960_b663b6c6-0c22-46da-bf86-e4cdabe39156.jpg?v=1737622301"
       ],
-      "alreadyOrdered": 20,
       "handle": "12929_kitchen_cleaning_tool_6pc-1",
       "title": "Kitchen Cleaning Tool Set Microfiber Kitchen Utensils High Performance Scouring Sponge Set Dish Sponge, Stainless Steel Scouring Pad (6 Pcs Set)",
       "salePrice": 91,
-      "stock": 0,
+      "stock": 20,
       "gst": 18,
-      "hsn": "392410",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "392410"
     },
     "1292_double_hokey_t_brush": {
       "sku": "1292_double_hokey_t_brush",
@@ -9987,7 +9986,7 @@ window.productInfo = {
     "13237_travel_shoulder_bag_1pc": {
       "sku": "13237_travel_shoulder_bag_1pc",
       "itemCode": "13237",
-      "closingQuantity": 0,
+      "closingQuantity": 3,
       "sold": 3,
       "catalog": "bags",
       "images": [
@@ -9999,11 +9998,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_813cce42-bdfa-479f-be6e-9a0ce6f67125.jpg?v=1738304213",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/33d3986b-eee0-4cae-bf47-4b069b4f090c.jpg?v=1738304213"
       ],
-      "alreadyOrdered": 3,
       "handle": "waterproof-waist-bag-with-usb-charging-for-travel",
       "title": "Waterproof Waist Bag, Shoulder Bags USB Charging Earphone Hook Sling Travel Bag (1 Pc)",
       "salePrice": 105,
-      "stock": 0,
+      "stock": 3,
       "gst": 18,
       "hsn": "392410"
     },
@@ -10096,7 +10094,7 @@ window.productInfo = {
     "13336_small_metal_tik_tak_hair_clip_12pc": {
       "sku": "13336_small_metal_tik_tak_hair_clip_12pc",
       "itemCode": "13336",
-      "closingQuantity": 1,
+      "closingQuantity": 31,
       "sold": 29,
       "catalog": "health-&-personal-care",
       "images": [
@@ -10108,11 +10106,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/3_3edc223c-1713-4c08-9c30-a42fd6fb79f7.jpg?v=1737620005",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/c94e4db9-0ebe-4a5c-bbe7-4484f97db186.jpg?v=1737620006"
       ],
-      "alreadyOrdered": 30,
       "handle": "13336_metal_tic_tac_hair_clip_12pc",
       "title": "Metal Tik Tak Hair Clips (12 Pcs Set)",
       "salePrice": 17,
-      "stock": 1,
+      "stock": 31,
       "gst": 18,
       "hsn": "392410"
     },
@@ -10440,7 +10437,7 @@ window.productInfo = {
     "13630_face_massage_ice_roller_1pc": {
       "sku": "13630_face_massage_ice_roller_1pc",
       "itemCode": "13630",
-      "closingQuantity": 7,
+      "closingQuantity": 57,
       "sold": 86,
       "catalog": "beauty-&-personal-care",
       "images": [
@@ -10452,11 +10449,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_6bef138f-d27b-4800-8262-3670aa29f5a8.jpg?v=1737617977",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/20620b5f-feb0-4cf1-910c-6f0d6d21eab0.jpg?v=1737617977"
       ],
-      "alreadyOrdered": 50,
       "handle": "13630-face-massage-ice-roller-1pc",
       "title": "Beauty Face Massage Ice Roller (1 Pc)",
       "salePrice": 18,
-      "stock": 7,
+      "stock": 57,
       "gst": 18,
       "hsn": "392410"
     },
@@ -10551,7 +10547,7 @@ window.productInfo = {
     "13695_big_metal_hair_clips_12pc_set": {
       "sku": "13695_big_metal_hair_clips_12pc_set",
       "itemCode": "13695",
-      "closingQuantity": 0,
+      "closingQuantity": 17,
       "sold": 1,
       "catalog": "health-&-personal-care",
       "images": [
@@ -10563,11 +10559,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_2e41ec53-6e8d-4fd1-8b3f-cc4c963bea82.jpg?v=1749288331",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/9d3b3d24-c4ee-41c2-837e-1cdbf3a21e2e.jpg?v=1749288325"
       ],
-      "alreadyOrdered": 17,
       "handle": "13695_metal_hair_clips_12pc_set",
       "title": "Metal Tik Tak Hair Clips (12 Pcs Set)",
       "salePrice": 19,
-      "stock": 0,
+      "stock": 17,
       "gst": 18,
       "hsn": "392610"
     },
@@ -10672,7 +10667,7 @@ window.productInfo = {
     "13741_makeup_foundation_brush_n_casse": {
       "sku": "13741_makeup_foundation_brush_n_casse",
       "itemCode": "13741",
-      "closingQuantity": 3,
+      "closingQuantity": 23,
       "sold": 47,
       "catalog": "beauty-&-personal-care",
       "images": [
@@ -10685,11 +10680,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_1d4effc3-f3a8-4893-a747-bea0d6179299.jpg?v=1737617614",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/4315b9eb-70b9-46a4-8d46-553099f022c1.jpg?v=1739533800"
       ],
-      "alreadyOrdered": 20,
       "handle": "13741_makeup_foundation_brush_n_casse",
       "title": "Foundation Makeup Brush, perfect Makeup Brush Portable Case (1 Pc)",
       "salePrice": 67,
-      "stock": 3,
+      "stock": 23,
       "gst": 18,
       "hsn": "392410"
     },
@@ -10902,7 +10896,7 @@ window.productInfo = {
     "13845_pla_capsule_toothbrush_case_holder_3pc": {
       "sku": "13845_pla_capsule_toothbrush_case_holder_3pc",
       "itemCode": "13845",
-      "closingQuantity": -0.33,
+      "closingQuantity": 15.67,
       "sold": 9.33,
       "items_per_bag": 3,
       "catalog": "cleaning",
@@ -10916,11 +10910,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_880c5399-66d4-499a-9f53-0d43758a5129.jpg?v=1738988270",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/1b3310b7-b5d1-4672-b512-3f520af5be91.jpg?v=1738988270"
       ],
-      "alreadyOrdered": 16,
       "handle": "18678_pla_capsule_toothbrush_case_holder_3pc",
       "title": "Capsule Shape Travel Toothbrush Toothpaste Case Holder (Multicolor / 3 Pcs Set)",
       "salePrice": 99,
-      "stock": -0.33,
+      "stock": 15.67,
       "gst": 18,
       "hsn": "392410"
     },
@@ -10975,6 +10968,8 @@ window.productInfo = {
     "13864_plastic_cloth_hanger_1pc": {
       "sku": "13864_plastic_cloth_hanger_1pc",
       "itemCode": "13864",
+      "closingQuantity": 20,
+      "sold": 0,
       "catalog": "hangers-&-wardrobe-storage",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/13864.jpg?v=1737615453",
@@ -10986,15 +10981,12 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_57baf3c8-384f-41e4-b905-e1f56f4b42bc.jpg?v=1737615454",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/1a5cbe41-e72f-42ca-b7e1-9873e888f275.jpg?v=1737615454"
       ],
-      "alreadyOrdered": 20,
       "handle": "13864_plastic_cloth_hanger_1pc",
       "title": "Pp Cloth Hanger Set Of 1 With Zinc Plated Steel Hook (1 Pc)",
       "salePrice": 31,
-      "stock": 0,
+      "stock": 20,
       "gst": 18,
-      "hsn": "392410",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "392410"
     },
     "13872_cleaning_sponge_scrubber_10pc": {
       "sku": "13872_cleaning_sponge_scrubber_10pc",
@@ -11271,6 +11263,8 @@ window.productInfo = {
     "14011_plastic_small_hair_clips_3pc": {
       "sku": "14011_plastic_small_hair_clips_3pc",
       "itemCode": "14011",
+      "closingQuantity": 19,
+      "sold": 0,
       "catalog": "beauty-&-personal-care",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_15c1c309-e7aa-4008-8fb0-c0a886b509b6.jpg?v=1737614981",
@@ -11285,15 +11279,12 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/09_e0d51cb6-757b-4413-aa79-1ff36cfcb03e.jpg?v=1737614982",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/ea22d62f-3b19-4c36-8b4d-05b5ee470001.jpg?v=1737614982"
       ],
-      "alreadyOrdered": 19,
       "handle": "hair-clips-for-girls-kids-hair-accessories-3-pcs-set",
       "title": "Plastic Small Hair Clips For Girls Kids Hair Accessories (3 Pcs Set / Mix Color & Design)",
       "salePrice": 27,
-      "stock": 0,
+      "stock": 19,
       "gst": 18,
-      "hsn": "392410",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "392410"
     },
     "14020_b_grade_back_scrubber_brush_1pc": {
       "sku": "14020_b_grade_back_scrubber_brush_1pc",
@@ -11343,7 +11334,7 @@ window.productInfo = {
     "14024_lcd_drawing_pen_case_blue_1pc": {
       "sku": "14024_lcd_drawing_pen_case_blue_1pc",
       "itemCode": "14024",
-      "closingQuantity": 4,
+      "closingQuantity": 20,
       "sold": 18,
       "catalog": "stationery",
       "images": [
@@ -11355,11 +11346,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_c9a03b3b-bb71-49ca-80df-76ad5bb5b922.jpg?v=1737614805",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/19ca112b-4c91-473f-8209-e63848a2caa3.jpg?v=1737614806"
       ],
-      "alreadyOrdered": 16,
       "handle": "14024_lcd_drawing_pen_case_blue_1pc",
       "title": "Lcd Drawing Pen Case Blue Colour (1 Pc)",
       "salePrice": 148,
-      "stock": 4,
+      "stock": 20,
       "gst": 18,
       "hsn": "392410"
     },
@@ -11487,6 +11477,8 @@ window.productInfo = {
     "14102_triangle_plastic_hair_claw_clip_1pc": {
       "sku": "14102_triangle_plastic_hair_claw_clip_1pc",
       "itemCode": "14102",
+      "closingQuantity": 10,
+      "sold": 0,
       "catalog": "health-&-personal-care",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_3c110ae9-048e-4986-a808-e799412ffe60.jpg?v=1751108294",
@@ -11497,19 +11489,18 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_1ff018c9-9c53-46bc-8b18-7aaffb480bb6.jpg?v=1751108294",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/2dd6a40f-4644-4fc1-951a-ebf9b4d9f5cd.jpg?v=1751108278"
       ],
-      "alreadyOrdered": 10,
       "handle": "triangle-shape-mix-color-plastic-hair-claw-clip-1-pc-durable-grip-for-women-and-girls",
       "title": "Triangle Shape Mix Color Plastic Hair Claw Clip Â€“ 1 Pc Durable Grip For Women And Girls",
       "salePrice": 24,
-      "stock": 0,
+      "stock": 10,
       "gst": 18,
-      "hsn": "830890",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "830890"
     },
     "14103_plastic_hair_claw_clip_1pc": {
       "sku": "14103_plastic_hair_claw_clip_1pc",
       "itemCode": "14103",
+      "closingQuantity": 17,
+      "sold": 0,
       "catalog": "health-&-personal-care",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_1350305b-738a-41d5-bae9-877c9f5d8120.jpg?v=1751107980",
@@ -11520,15 +11511,12 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_3cd5106d-2561-40c1-8b44-dd23ce186720.jpg?v=1751107980",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/6b23ca56-2b25-4634-a1fa-f23227b93835.jpg?v=1751107980"
       ],
-      "alreadyOrdered": 17,
       "handle": "matte-finish-rectangle-hair-claw-clip-for-women-and-girls-assorted-color-pack-1-pc",
       "title": "Matte Finish Rectangle Hair Claw Clip For Women And Girls Â€“ Assorted Color Pack Â€“ 1 Pc",
       "salePrice": 22,
-      "stock": 0,
+      "stock": 17,
       "gst": 12,
-      "hsn": "96151100",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "96151100"
     },
     "1410l_silicone_toilet_brush": {
       "sku": "1410l_silicone_toilet_brush",
@@ -11879,6 +11867,8 @@ window.productInfo = {
     "14487_micro_usb_otg_converter_10pc": {
       "sku": "14487_micro_usb_otg_converter_10pc",
       "itemCode": "14487",
+      "closingQuantity": 3,
+      "sold": 0,
       "items_per_bag": 10,
       "catalog": "computers-&-accessories",
       "images": [
@@ -11890,15 +11880,12 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_8f5392fe-6647-4321-ba6f-6dedda2643bc.jpg?v=1747214168",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/c7a35eca-5851-4fff-955e-a47c174c47a9_f446aeb7-bfa8-460f-963c-26469203ff42.jpg?v=1747214168"
       ],
-      "alreadyOrdered": 3,
       "handle": "micro-usb-otg-adapter-converter-10-pc",
       "title": "Micro Usb Otg Adapter Converter (10 Pcs Set)",
       "salePrice": 90,
-      "stock": 0,
+      "stock": 3,
       "gst": 18,
-      "hsn": "851779",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "851779"
     },
     "14499_wireless_bluetooth_headphones_zw053": {
       "sku": "14499_wireless_bluetooth_headphones_zw053",
@@ -12318,7 +12305,7 @@ window.productInfo = {
     "15029_luggage_rope_with_hook_1m": {
       "sku": "15029_luggage_rope_with_hook_1m",
       "itemCode": "15029",
-      "closingQuantity": 2,
+      "closingQuantity": 5,
       "sold": 10,
       "catalog": "home-improvement",
       "images": [
@@ -12330,18 +12317,17 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_eec5d660-ec4e-43b8-91dd-5a0bb0407f04.jpg?v=1737618585",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/b0b054ca-5d2b-4fac-beae-bff8bb0d4147.jpg?v=1737618585"
       ],
-      "alreadyOrdered": 3,
       "handle": "15029_luggage_rope_with_hook_1m",
       "title": "Nylon Elastic Tying Rope With Hooks (1 Pc / 1 Mtr.)",
       "salePrice": 25,
-      "stock": 2,
+      "stock": 5,
       "gst": 18,
       "hsn": "560750"
     },
     "15045_portable_7led_flashlight_1pc": {
       "sku": "15045_portable_7led_flashlight_1pc",
       "itemCode": "15045",
-      "closingQuantity": 2,
+      "closingQuantity": 32,
       "sold": 8,
       "catalog": "travel",
       "images": [
@@ -12353,11 +12339,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_25807b3e-7e12-409b-bf9c-1448349c5e43.jpg?v=1737618021",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/91af2896-86d8-4469-b11d-2b16ec0b0d6b.jpg?v=1737618021"
       ],
-      "alreadyOrdered": 30,
       "handle": "15045_portable_7led_flashlight_1pc",
       "title": "Portable Flashlight / Torch  Cob 7led Hand Light Usb Rechargeable Light With Side Light (1 Pc)",
       "salePrice": 208,
-      "stock": 2,
+      "stock": 32,
       "gst": 18,
       "hsn": "900661"
     },
@@ -12474,7 +12459,7 @@ window.productInfo = {
     "15147_windshield_glass_cleaner_wiper_1pc": {
       "sku": "15147_windshield_glass_cleaner_wiper_1pc",
       "itemCode": "15147",
-      "closingQuantity": 0,
+      "closingQuantity": 10,
       "sold": 3,
       "catalog": "cleaning",
       "images": [
@@ -12488,11 +12473,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_3a21211b-316a-410b-a04e-4c9b8f32be6e.jpg?v=1737614006",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/72dfa626-80a7-4a5f-b75d-04be6d1fd8d1.jpg?v=1737614006"
       ],
-      "alreadyOrdered": 10,
       "handle": "15147_windshield_glass_cleaner_wiper_1pc",
       "title": "Windshield Clean Car Glass Cleaner Wiper With Microfiber Cloth (1 Pc / 38 Cm Long)",
       "salePrice": 45,
-      "stock": 0,
+      "stock": 10,
       "gst": 18,
       "hsn": "851240"
     },
@@ -12661,7 +12645,7 @@ window.productInfo = {
     "15299_6in1_multi_screwdriver_tool_kit": {
       "sku": "15299_6in1_multi_screwdriver_tool_kit",
       "itemCode": "15299",
-      "closingQuantity": 6,
+      "closingQuantity": 12,
       "sold": 14,
       "catalog": "hardware",
       "images": [
@@ -12673,11 +12657,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_2f71d242-9acd-4c5a-a98c-5201116dfb2f.jpg?v=1740372268",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/ab3d2a2f-89ec-4d30-8589-8e516885ae7e.jpg?v=1740372268"
       ],
-      "alreadyOrdered": 6,
       "handle": "6-in-1-multi-screwdriver-hand-tool-kit-set",
       "title": "- In-1 Multi Screwdriver Hand Tool Kit Set",
       "salePrice": 116,
-      "stock": 6,
+      "stock": 12,
       "gst": 18,
       "hsn": "820510"
     },
@@ -12707,6 +12690,8 @@ window.productInfo = {
     "15315_small_garden_cultivator_tool": {
       "sku": "15315_small_garden_cultivator_tool",
       "itemCode": "15315",
+      "closingQuantity": 6,
+      "sold": 0,
       "catalog": "garden-&-outdoors",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_f59e768b-0b69-4b26-aabe-94cbd1e96d37.jpg?v=1745837571",
@@ -12717,15 +12702,12 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_d1b9531f-519f-458f-a703-fb4789e771cd.jpg?v=1745837571",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/be192dff-1702-4e5c-854c-512d8fc4e496.jpg?v=1745837665"
       ],
-      "alreadyOrdered": 6,
       "handle": "small-yard-leaf-rake-lightweight-9-tines-garden-rake-ergonomic-rake-for-lawn-1",
       "title": "Heavy Duty Plastic Garden Hand Rake – 9 - Tooth Cultivator Tool (1 Pc)",
       "salePrice": 51,
-      "stock": 0,
+      "stock": 6,
       "gst": 18,
-      "hsn": "82019000",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "82019000"
     },
     "15358_garden_solar_light_2pc": {
       "sku": "15358_garden_solar_light_2pc",
@@ -12757,6 +12739,8 @@ window.productInfo = {
     "15387_car_blind_spot_mirror_n_pry_tool_2pc": {
       "sku": "15387_car_blind_spot_mirror_n_pry_tool_2pc",
       "itemCode": "15387",
+      "closingQuantity": 7,
+      "sold": 0,
       "catalog": "car-accessories",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_4afde884-3548-4d3e-a671-e3ef0d5a6503.jpg?v=1738214550",
@@ -12768,15 +12752,12 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_fa4f028e-6f84-4433-a7ac-f0f3dcc1bde3.jpg?v=1738214551",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/37255344-f826-48cf-baf7-c61671bea7df.jpg?v=1738214551"
       ],
-      "alreadyOrdered": 7,
       "handle": "car-blind-spot-side-mirror-round-with-heavy-duty-plastic-spudger-pry-tool-2-pcs-set",
       "title": "Car Blind Spot Side Mirror Round With Heavy Duty Plastic Spudger Pry Tool (2 Pcs Set)",
       "salePrice": 64,
-      "stock": 0,
+      "stock": 7,
       "gst": 18,
-      "hsn": "700910",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "700910"
     },
     "1538_cello_tape_200_mtr": {
       "sku": "1538_cello_tape_200_mtr",
@@ -12911,6 +12892,8 @@ window.productInfo = {
     "15461_car_dust_removal_brush_1pc": {
       "sku": "15461_car_dust_removal_brush_1pc",
       "itemCode": "15461",
+      "closingQuantity": 35,
+      "sold": 0,
       "catalog": "car-accessories",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_b72bcab8-f51e-4551-a55b-4192769352d3.jpg?v=1741412158",
@@ -12922,19 +12905,18 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_98a036a7-ca17-4cd5-9a0f-130d7a598a04.jpg?v=1741412159",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/ba272207-ed83-4a9a-b972-764847b00ed9.jpg?v=1741412159"
       ],
-      "alreadyOrdered": 35,
       "handle": "mini-car-interior-cleaning-soft-brush-car-cleaning-brushes-duster-1-pc",
       "title": "Mini Car Interior Cleaning Soft Brush - Car Cleaning Brushes Duster (1 Pc)",
       "salePrice": 38,
-      "stock": 0,
+      "stock": 35,
       "gst": 18,
-      "hsn": "960350",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "960350"
     },
     "15472_car_blind_spot_mirror_2pc": {
       "sku": "15472_car_blind_spot_mirror_2pc",
       "itemCode": "15472",
+      "closingQuantity": 5,
+      "sold": 0,
       "catalog": "car-&-motorbike",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_eb14db46-9c7b-4eff-9774-1a7ae7854af5.jpg?v=1745657623",
@@ -12946,15 +12928,12 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_6f9170e9-96b8-440b-aedd-16ceecdf2320.jpg?v=1745657423",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/9f09d9f4-43b1-40b9-8bb2-972e8e2ff41a.jpg?v=1745657424"
       ],
-      "alreadyOrdered": 5,
       "handle": "car-blind-spot-side-mirror-round-hd-glass-blind-spot-mirror-rear-view-mirror-2-pcs-set",
       "title": "Car Blind Spot Side Mirror Round Hd Glass Blind Spot Mirror Rear View Mirror (2 Pcs Set)",
       "salePrice": 45,
-      "stock": 0,
+      "stock": 5,
       "gst": 18,
-      "hsn": "700910",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "700910"
     },
     "1547_9_5inch_gold_plat_scissor": {
       "sku": "1547_9_5inch_gold_plat_scissor",
@@ -12981,6 +12960,8 @@ window.productInfo = {
     "15502_b_grade_wooden_handle_hedge_shear": {
       "sku": "15502_b_grade_wooden_handle_hedge_shear",
       "itemCode": "15502",
+      "closingQuantity": 4,
+      "sold": 0,
       "catalog": "garden-&-outdoors",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_aa4bb0df-64e2-473e-b39b-e5cc44c9ad6e.jpg?v=1744715398",
@@ -12991,15 +12972,12 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_413f5362-eaef-4052-a4de-d74c3cfa7f49.jpg?v=1744715398",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/a981ed83-8952-47b1-b8a6-80c04551e065.jpg?v=1744715398"
       ],
-      "alreadyOrdered": 4,
       "handle": "heavy-duty-b-grade-hedge-shear-with-wooden-handle",
       "title": "Heavy - Duty B Grade Hedge Shear With Wooden Handle",
       "salePrice": 196,
-      "stock": 0,
+      "stock": 4,
       "gst": 12,
-      "hsn": "820160",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "820160"
     },
     "15504_garden_sprayer_bottle_500ml": {
       "sku": "15504_garden_sprayer_bottle_500ml",
@@ -13092,6 +13070,8 @@ window.productInfo = {
     "15553_plastic_gardening_watering_can_2l": {
       "sku": "15553_plastic_gardening_watering_can_2l",
       "itemCode": "15553",
+      "closingQuantity": 3,
+      "sold": 0,
       "catalog": "garden-&-outdoors",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_038a27b1-b64b-4fc5-9b25-aa462bc0c60a.jpg?v=1748320648",
@@ -13103,19 +13083,18 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_0e3c42d5-48d7-4c93-b7e4-fd6e08c13eba.jpg?v=1748320648",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/ef5410c4-ae1a-45ed-8888-1ab9b1698304.jpg?v=1748320648"
       ],
-      "alreadyOrdered": 3,
       "handle": "2-litre-heavy-duty-plastic-gardening-watering-can-with-long-spout-ergonomic-handle",
       "title": "Litre Heavy - Duty Plastic Gardening Watering Can With Long Spout & Ergonomic Handle",
       "salePrice": 154,
-      "stock": 0,
+      "stock": 3,
       "gst": 18,
-      "hsn": "39233090",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "39233090"
     },
     "15557_square_plastic_flower_pots_5pc": {
       "sku": "15557_square_plastic_flower_pots_5pc",
       "itemCode": "15557",
+      "closingQuantity": 5,
+      "sold": 0,
       "items_per_bag": 5,
       "catalog": "garden-&-outdoors",
       "images": [
@@ -13129,19 +13108,18 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/08_b006fa88-2e55-4157-9e19-ad56aa25d9ac.jpg?v=1749030806",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/19d374ea-367c-4a2a-b300-d2fd819c63d3.jpg?v=1749030806"
       ],
-      "alreadyOrdered": 5,
       "handle": "trendy-square-plastic-flower-pots-set-of-5",
       "title": "Trendy Square Plastic Flower Pots Set Of 5",
       "salePrice": 295,
-      "stock": 0,
+      "stock": 5,
       "gst": 18,
-      "hsn": "392490",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "392490"
     },
     "15574_anti_slip_tape_50mmx5m_1pc": {
       "sku": "15574_anti_slip_tape_50mmx5m_1pc",
       "itemCode": "15574",
+      "closingQuantity": 3,
+      "sold": 0,
       "catalog": "home-improvement",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_12974240-1002-42dc-82ed-96d5c4fe3061.jpg?v=1751019127",
@@ -13157,15 +13135,12 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_cf5546cd-f5d0-4c30-86d0-82dd408281a8.jpg?v=1751019125",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/44a2a1c7-b5c6-4d8e-b27b-0cdde6e21040.jpg?v=1751019147"
       ],
-      "alreadyOrdered": 3,
       "handle": "anti-slip-safety-grip-tape-roll-50mm-x-5m-1-pc",
       "title": "Anti - Slip Safety Grip Tape Roll 50mm X 5m (1 Pc)",
       "salePrice": 227,
-      "stock": 0,
+      "stock": 3,
       "gst": 18,
-      "hsn": "39199090",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "39199090"
     },
     "1557_32in1_mini_screwdriver": {
       "sku": "1557_32in1_mini_screwdriver",
@@ -13362,7 +13337,7 @@ window.productInfo = {
     "15772_colorful_rainbow_umbrella_1pc": {
       "sku": "15772_colorful_rainbow_umbrella_1pc",
       "itemCode": "15772",
-      "closingQuantity": 0,
+      "closingQuantity": 14,
       "sold": 15,
       "catalog": "home-improvement",
       "images": [
@@ -13374,11 +13349,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_0ed591df-391a-4d76-8cc5-dc77862db92a.jpg?v=1737617206",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/ca15745e-b2bb-42e5-8bc1-4dca63621e05.jpg?v=1737617206"
       ],
-      "alreadyOrdered": 14,
       "handle": "15772_colorful_rainbow_umbrella_1pc",
       "title": "Colorful Rainbow Umbrella Multi - Colour J Shaped Handle (1 Pc)",
       "salePrice": 117,
-      "stock": 0,
+      "stock": 14,
       "gst": 12,
       "hsn": "660110"
     },
@@ -13452,7 +13426,7 @@ window.productInfo = {
     "15803_travel_pillow_1pc_34x21cm": {
       "sku": "15803_travel_pillow_1pc_34x21cm",
       "itemCode": "15803",
-      "closingQuantity": 6,
+      "closingQuantity": 26,
       "sold": 14,
       "catalog": "beauty-&-personal-care",
       "images": [
@@ -13464,11 +13438,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_8d24a721-9778-4a3e-9698-d142c00d3944.jpg?v=1737615325",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/ad85a68e-ff2a-484f-ad54-1a1f131d86bd.jpg?v=1737615325"
       ],
-      "alreadyOrdered": 20,
       "handle": "15803_travel_-pillow_1pc_34x21cm",
       "title": "Comfortable Inflating Travel Pillow (34×21 Cm / 1 Pc / Mix Color)",
       "salePrice": 61,
-      "stock": 6,
+      "stock": 26,
       "gst": 18,
       "hsn": "392410"
     },
@@ -14384,7 +14357,7 @@ window.productInfo = {
     "17745_magic_smiley_spring_toy_12pc": {
       "sku": "17745_magic_smiley_spring_toy_12pc",
       "itemCode": "17745",
-      "closingQuantity": 0,
+      "closingQuantity": 10,
       "sold": 5,
       "items_per_bag": 12,
       "catalog": "toys",
@@ -14398,11 +14371,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/07_4288eb0b-1892-43c2-82d7-ff4c3edab869.jpg?v=1737623241",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/08013110-f68c-4007-9a6c-368dc4889b49.jpg?v=1737623241"
       ],
-      "alreadyOrdered": 10,
       "handle": "17745-smiley-multicolor-spring-spring-toys-slinky-slinky-spring-toy-toy-for-kids-for-birthdays-compact-and-portable-easy-to-carry-1-pc",
       "title": "Multicolor Magic Smiley Spring, Spring Toys, Slinky, Slinky Spring Toy, Toy For Kids For Birthdays, Compact And Portable Easy To Carry (12 Pcs Set)",
       "salePrice": 120,
-      "stock": 0,
+      "stock": 10,
       "gst": 18,
       "hsn": "392410"
     },
@@ -14477,7 +14449,7 @@ window.productInfo = {
     "17754_plastic_kitchen_wiper_1pc": {
       "sku": "17754_plastic_kitchen_wiper_1pc",
       "itemCode": "17754",
-      "closingQuantity": 4,
+      "closingQuantity": 11,
       "sold": 33,
       "catalog": "cleaning",
       "images": [
@@ -14488,11 +14460,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_f6171dcb-2236-4ae3-ae05-b7da4eb5d359.jpg?v=1737623143",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/2a9276e9-38f3-4b5b-9ec9-c53579ae12cc.jpg?v=1737623143"
       ],
-      "alreadyOrdered": 7,
       "handle": "17754_plastic_kitchen_wiper_1pc",
       "title": "Plastic Kitchen Wiper | Ideal For Kitchen Platform, Windows, Glass, & Car Windshield | Silicone Head | Multicolor | Pack Of 1 Pc",
       "salePrice": 27,
-      "stock": 4,
+      "stock": 11,
       "gst": 18,
       "hsn": "392410"
     },
@@ -14523,7 +14494,7 @@ window.productInfo = {
     "17781_50mm_magnifying_glass_lens_1pc": {
       "sku": "17781_50mm_magnifying_glass_lens_1pc",
       "itemCode": "17781",
-      "closingQuantity": 0,
+      "closingQuantity": 18,
       "sold": 15,
       "catalog": "stationery",
       "images": [
@@ -14536,18 +14507,17 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_7e7a1ac0-1dba-4e7c-9245-4d25a92d8bb5.jpg?v=1737622546",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/a530c092-af0d-4732-9af1-720d57bad4f8.jpg?v=1737622546"
       ],
-      "alreadyOrdered": 18,
       "handle": "17781_50mm_magnifying_glass_lens_1pc",
       "title": "Magnifying Glass Lens - Reading Aid Made Of Glass - Real Glass Magnifying Glass That Can Be Used On Both Sides - Glass Breakage-proof Magnifying Glass, Protect Eyes, 50 Mm",
       "salePrice": 25,
-      "stock": 0,
+      "stock": 18,
       "gst": 18,
       "hsn": "392410"
     },
     "17784_keychain_led_flashlight_1pc": {
       "sku": "17784_keychain_led_flashlight_1pc",
       "itemCode": "17784",
-      "closingQuantity": 1,
+      "closingQuantity": 21,
       "sold": 9,
       "catalog": "fancy-item",
       "images": [
@@ -14559,11 +14529,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_fe2031b1-c02c-4c60-8bb6-c46c22d77036.jpg?v=1737616864",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/3150342a-28c1-4f38-8e9c-2d75699ad232_a0f514ae-8f56-4bb9-8ccc-bd29461231e9.jpg?v=1737616865"
       ],
-      "alreadyOrdered": 20,
       "handle": "led-battery-operated-keychain-flashlight-small-work-light-witha-folding-bracket-bottle-opener-for-camping-hiking-emergencya-1-pc-moq-36-pcs",
       "title": "Led Battery Operated Keychain Flashlight Small Work Light With Folding Bracket Bottle Opener For Camping, Hiking, Emergency (1 Pc / Moq : - 36 Pcs)",
       "salePrice": 49,
-      "stock": 1,
+      "stock": 21,
       "gst": 18,
       "hsn": "392410"
     },
@@ -14926,7 +14895,7 @@ window.productInfo = {
     "17899_thin_soft_hand_towel_1pc": {
       "sku": "17899_thin_soft_hand_towel_1pc",
       "itemCode": "17899",
-      "closingQuantity": 9,
+      "closingQuantity": 20,
       "sold": 14,
       "catalog": "cleaning",
       "images": [
@@ -14939,11 +14908,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_1a892b4a-2318-4921-b84f-7b9829854896.jpg?v=1737622539",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/707895fc-4c4f-423a-851b-7558bf638bd6.jpg?v=1737622539"
       ],
-      "alreadyOrdered": 11,
       "handle": "hand-towels-for-bathroom-kitchen-hand-towel-1-pc",
       "title": "Hand Towels For Bathroom, Kitchen Hand Towel Hand Dry Towels Absorbent Soft Hanging Hand Bath Towels Microfiber Plush Chenille Hand Towel Ball Machine Washable Bathroom With Loop (1 Pc)",
       "salePrice": 39,
-      "stock": 9,
+      "stock": 20,
       "gst": 18,
       "hsn": "392410"
     },
@@ -15201,6 +15169,8 @@ window.productInfo = {
     "18015_frog_shape_hooks_1pc": {
       "sku": "18015_frog_shape_hooks_1pc",
       "itemCode": "18015",
+      "closingQuantity": 4,
+      "sold": 0,
       "catalog": "hooks",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_3e3ae38b-6625-4464-a7b6-b85ee496e343.jpg?v=1737621490",
@@ -15210,15 +15180,12 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_c72161fe-4710-48a1-bc10-1a6e2e344287.jpg?v=1737621491",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/a2546704-f91d-4069-b9c4-f7c854df7ea4.jpg?v=1737621491"
       ],
-      "alreadyOrdered": 4,
       "handle": "18015_frog_shape_hooks_1pc",
       "title": "Multipurpose Strong Hook Self - Adhesive Hooks For Wall Heavy Duty Hook, Sticky Hook Household For Home, Decorative Hooks, Bathroom & All Type Wall Use Hook, Suitable For Bathroom, Kitchen, Office",
       "salePrice": 23,
-      "stock": 0,
+      "stock": 4,
       "gst": 18,
-      "hsn": "392410",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "392410"
     },
     "18042_pixel_cubes_puzzle_n_book": {
       "sku": "18042_pixel_cubes_puzzle_n_book",
@@ -15289,7 +15256,7 @@ window.productInfo = {
     "18086_pla_led_car_keychain_1pc": {
       "sku": "18086_pla_led_car_keychain_1pc",
       "itemCode": "18086",
-      "closingQuantity": 1,
+      "closingQuantity": 41,
       "sold": 9,
       "catalog": "house-hold",
       "images": [
@@ -15301,11 +15268,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_c5fb7e5f-191d-4512-a1da-f62344c3ec40.jpg?v=1725011807",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/7dd5e864-83ad-478f-ad00-ab479f61888b.jpg?v=1724391009"
       ],
-      "alreadyOrdered": 40,
       "handle": "car-shape-keychain-led-flashing-light",
       "title": "Cars Shape Keychain With On / Off Button Led Flashing Light (1 Pc)",
       "salePrice": 16,
-      "stock": 1,
+      "stock": 41,
       "gst": 18,
       "hsn": "95030030"
     },
@@ -15789,32 +15755,30 @@ window.productInfo = {
     "18441_aaa_panasonic_batteries_10pc": {
       "sku": "18441_aaa_panasonic_batteries_10pc",
       "itemCode": "18441",
+      "closingQuantity": 3,
+      "sold": 0,
       "catalog": "unknown",
       "images": null,
-      "alreadyOrdered": 3,
       "handle": null,
       "title": "Panasonic Special Aaa Eco Friendly Battery (10 Pcs Set)",
       "salePrice": 110,
-      "stock": 0,
+      "stock": 3,
       "gst": 18,
-      "hsn": "850610",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "850610"
     },
     "18442_aa_panasonic_batteries_10pc": {
       "sku": "18442_aa_panasonic_batteries_10pc",
       "itemCode": "18442",
+      "closingQuantity": 3,
+      "sold": 0,
       "catalog": "unknown",
       "images": null,
-      "alreadyOrdered": 3,
       "handle": null,
       "title": "Panasonic Special Aa Eco Friendly Battery (10 Pcs Set)",
       "salePrice": 117,
-      "stock": 0,
+      "stock": 3,
       "gst": 18,
-      "hsn": "850610",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "850610"
     },
     "18470_3in1_hand_wash_dish_soap_n_sponge": {
       "sku": "18470_3in1_hand_wash_dish_soap_n_sponge",
@@ -15910,7 +15874,7 @@ window.productInfo = {
     "18476_abcd_wooden_puzzle_pz1014": {
       "sku": "18476_abcd_wooden_puzzle_pz1014",
       "itemCode": "18476",
-      "closingQuantity": 0,
+      "closingQuantity": 1,
       "sold": 2,
       "catalog": "toys",
       "images": [
@@ -15922,11 +15886,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_4cc49413-050a-4c24-8f1d-be0ed15f314e.jpg?v=1737617306",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/a6e2a9e0-a150-4b0b-a64a-baad6cc4e977.jpg?v=1737617306"
       ],
-      "alreadyOrdered": 1,
       "handle": "18476_abcd_wooden_puzzle_pz1014",
       "title": "Wooden Puzzle Board Abc Letters Shapes Educational Learning Toys (1 Set)",
       "salePrice": 110,
-      "stock": 0,
+      "stock": 1,
       "gst": 18,
       "hsn": "950300"
     },
@@ -15977,7 +15940,7 @@ window.productInfo = {
     "18479_fruits_wooden_puzzle_pz1023": {
       "sku": "18479_fruits_wooden_puzzle_pz1023",
       "itemCode": "18479",
-      "closingQuantity": 0,
+      "closingQuantity": 1,
       "sold": 2,
       "catalog": "toys",
       "images": [
@@ -15990,11 +15953,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_b47604dd-cbf7-4d4b-ac2b-931f09dd4db6.jpg?v=1737617267",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/85e3bc80-b090-4e37-bf42-ef349985b594.jpg?v=1737617267"
       ],
-      "alreadyOrdered": 1,
       "handle": "18479_fruits_wooden_puzzle_pz1023",
       "title": "Wooden Fruits Puzzle Learning Educational Board (1 Set / 28×20 Cm)",
       "salePrice": 110,
-      "stock": 0,
+      "stock": 1,
       "gst": 18,
       "hsn": "950300"
     },
@@ -16023,6 +15985,8 @@ window.productInfo = {
     "18484_x_n_zero_wooden_board_game_pz1013": {
       "sku": "18484_x_n_zero_wooden_board_game_pz1013",
       "itemCode": "18484",
+      "closingQuantity": 6,
+      "sold": 0,
       "catalog": "toys",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_60edc7fe-2c84-4b42-aae7-c314d62e88ee.jpg?v=1737617281",
@@ -16033,15 +15997,12 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_70a58cfa-1031-412d-a52e-470546ec689e.jpg?v=1737617282",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/9049c5b9-b061-4c67-a641-7d40b0b19623.jpg?v=1737617282"
       ],
-      "alreadyOrdered": 6,
       "handle": "18484_x_n_zero_wooden_board_game_pz1013",
       "title": "X & Zero Wooden Board Game (1 Set)",
       "salePrice": 122,
-      "stock": 0,
+      "stock": 6,
       "gst": 18,
-      "hsn": "950300",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "950300"
     },
     "18485_daily_calendar_puzzle_pz1016": {
       "sku": "18485_daily_calendar_puzzle_pz1016",
@@ -16113,7 +16074,7 @@ window.productInfo = {
     "18554_shoe_cleaning_brush_1pc": {
       "sku": "18554_shoe_cleaning_brush_1pc",
       "itemCode": "18554",
-      "closingQuantity": 14,
+      "closingQuantity": 22,
       "sold": 1,
       "catalog": "cleaning",
       "images": [
@@ -16125,11 +16086,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_9568e3c9-fde0-4c2a-91f3-4266049fb9b3.jpg?v=1737616993",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/c547dd32-9921-4019-a724-a6f9fc18ab18.jpg?v=1737616993"
       ],
-      "alreadyOrdered": 8,
       "handle": "18554_shoe_cleaning_brush_1pc",
       "title": "Shoe Cleaning Brush For Shoes & Boot Rubber Brush (1 Pc)",
       "salePrice": 35,
-      "stock": 14,
+      "stock": 22,
       "gst": 18,
       "hsn": "960390"
     },
@@ -16157,7 +16117,7 @@ window.productInfo = {
     "18575_flower_shape_disposable_paper_100pc": {
       "sku": "18575_flower_shape_disposable_paper_100pc",
       "itemCode": "18575",
-      "closingQuantity": 0,
+      "closingQuantity": 1,
       "sold": 5,
       "catalog": "beauty-&-personal-care",
       "images": [
@@ -16172,11 +16132,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/07_9b01c486-3b99-4041-9274-8bd59d3eec61.jpg?v=1738987948",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/512c02dd-2d27-4b8d-a158-de5fda64006a_66f16893-03d5-4fde-99d8-293268649777.jpg?v=1738987948"
       ],
-      "alreadyOrdered": 1,
       "handle": "mini-portable-travel-soap-paper-sheets-flower-shape-100-pcs-set-approx-mix-color",
       "title": "Mini Portable Travel Soap Paper Sheets Flower Shape (100 Pcs Set Approx / Mix Color)",
       "salePrice": 19,
-      "stock": 0,
+      "stock": 1,
       "gst": 18,
       "hsn": "392410"
     },
@@ -16365,7 +16324,7 @@ window.productInfo = {
     "18682_portable_storage_bag_1pc": {
       "sku": "18682_portable_storage_bag_1pc",
       "itemCode": "18682",
-      "closingQuantity": 1,
+      "closingQuantity": 2,
       "sold": 10,
       "catalog": "bags",
       "images": [
@@ -16377,11 +16336,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_7d4178e8-b1e2-4e82-a8e6-218619b6bc3b.jpg?v=1737614483",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/0a7553e8-c8e0-4ed5-b623-e09151788558.jpg?v=1737614483"
       ],
-      "alreadyOrdered": 1,
       "handle": "storage-bag-feminine-product-pouches-portable-period-kit-bag-for-girls-women-ladies",
       "title": "Multi Purpose Storage Bag, Pouches Portable Period Kit Bag For Girls Women Ladies (1 Pc)",
       "salePrice": 21,
-      "stock": 1,
+      "stock": 2,
       "gst": 18,
       "hsn": "392410"
     },
@@ -16594,7 +16552,7 @@ window.productInfo = {
     "18766_small_dust_cleaning_brush_1pc": {
       "sku": "18766_small_dust_cleaning_brush_1pc",
       "itemCode": "18766",
-      "closingQuantity": -1,
+      "closingQuantity": 19,
       "sold": 1,
       "catalog": "cleaning",
       "images": [
@@ -16606,11 +16564,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_85dc15be-4bad-4c4e-b7b9-a70481a52468.jpg?v=1737615408",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/547582c7-1f2d-403e-8e73-f7d7c2f04e85.jpg?v=1737615408"
       ],
-      "alreadyOrdered": 20,
       "handle": "18766_small_dust_cleaning_brush_1pc",
       "title": "Multipurpose Cleaning Scrub Brush, Cleaning Brush Groove Slot Dust, Also Use In Kitchen (1 Pc)",
       "salePrice": 9,
-      "stock": -1,
+      "stock": 19,
       "gst": 18,
       "hsn": "392410"
     },
@@ -17020,6 +16977,8 @@ window.productInfo = {
     "18977_mini_car_led_keychain_light_1pc": {
       "sku": "18977_mini_car_led_keychain_light_1pc",
       "itemCode": "18977",
+      "closingQuantity": 12,
+      "sold": 0,
       "catalog": "toys-&-games",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_0c22b68f-6317-4b15-b8c3-7eba7cc9fb7e.jpg?v=1744980169",
@@ -17030,15 +16989,12 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_11b21a4f-8e6b-420a-b6a7-9c6bf25f6836.jpg?v=1744980169",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/887ea0a4-ef25-4474-9006-45bfc89b2a31.jpg?v=1744980169"
       ],
-      "alreadyOrdered": 12,
       "handle": "mini-car-shape-led-keychain-light-1-pc-random-color",
       "title": "Mini Car Shape Led Keychain Light +(1 Pc, Random Color)",
       "salePrice": 23,
-      "stock": 0,
+      "stock": 12,
       "gst": 12,
-      "hsn": "950300",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "950300"
     },
     "18988_metal_u_shape_paper_clip_100pc": {
       "sku": "18988_metal_u_shape_paper_clip_100pc",
@@ -17065,7 +17021,7 @@ window.productInfo = {
     "18994_2in1_mini_pocket_torch_light_1pc": {
       "sku": "18994_2in1_mini_pocket_torch_light_1pc",
       "itemCode": "18994",
-      "closingQuantity": 3,
+      "closingQuantity": 5,
       "sold": 7,
       "catalog": "home-improvement",
       "images": [
@@ -17079,18 +17035,17 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_e65b0a58-1af8-4d54-9f29-4eacd5ad0c12.jpg?v=1742880352",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/6a4c2ae7-3db3-4fcc-9584-908522959600.jpg?v=1742880352"
       ],
-      "alreadyOrdered": 2,
       "handle": "mini-2-in-1-high-power-pocket-torch-light-1-pc",
       "title": "Mini 2 In 1 High Power Pocket Torch Light (1 Pc / Mix Design)",
       "salePrice": 116,
-      "stock": 3,
+      "stock": 5,
       "gst": 18,
       "hsn": "851310"
     },
     "19011_sword_led_lights_toy_stick_for_kids": {
       "sku": "19011_sword_led_lights_toy_stick_for_kids",
       "itemCode": "19011",
-      "closingQuantity": 2,
+      "closingQuantity": 12,
       "sold": 8,
       "catalog": "toys",
       "images": [
@@ -17105,11 +17060,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_07d05b19-b0ad-42a9-b2e7-45023f41cca2.jpg?v=1739610450",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_5f1f0c83-b00b-4fca-901b-b1cf5ac0232d.jpg?v=1739610450"
       ],
-      "alreadyOrdered": 10,
       "handle": "sword-with-led-lights-glow-in-the-dark-flashing-sword",
       "title": "Sword With Led Lights, Glow In The Dark Flashing Sword",
       "salePrice": 52,
-      "stock": 2,
+      "stock": 12,
       "gst": 18,
       "hsn": "930700"
     },
@@ -17249,7 +17203,7 @@ window.productInfo = {
     "19066_travel_neck_pillow_1pc_no1": {
       "sku": "19066_travel_neck_pillow_1pc_no1",
       "itemCode": "19066",
-      "closingQuantity": 0,
+      "closingQuantity": 20,
       "sold": 2,
       "catalog": "health-&-personal-care",
       "images": [
@@ -17261,11 +17215,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_791d2639-72ed-4e4f-864a-b023a390d605.jpg?v=1748321146",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/f6c85149-882e-4d91-8322-a80cff7500ea.jpg?v=1748321146"
       ],
-      "alreadyOrdered": 20,
       "handle": "premium-quality-inflatable-travel-neck-pillow-1-pc",
       "title": "Premium Quality Inflatable Travel Neck Pillow (1 Pc)",
       "salePrice": 62,
-      "stock": 0,
+      "stock": 20,
       "gst": 18,
       "hsn": "94049099"
     },
@@ -17317,6 +17270,8 @@ window.productInfo = {
     "19102_magnetic_dart_game_set_ttg02": {
       "sku": "19102_magnetic_dart_game_set_ttg02",
       "itemCode": "19102",
+      "closingQuantity": 4,
+      "sold": 0,
       "catalog": "toys-&-games",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_61102cd6-d3d0-4598-96a9-0a95aae7b82f.jpg?v=1745044234",
@@ -17328,15 +17283,12 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_e872ef5c-74ce-44c0-9c6f-1275d2ecdd3c.jpg?v=1745044234",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/2ddfc9a0-be45-4242-81f8-6c2c2df215fa.jpg?v=1745044234"
       ],
-      "alreadyOrdered": 4,
       "handle": "magnetic-dartboard-game-set-for-kids-adults",
       "title": "Magnetic Dartboard Game Set For Kids & Adults",
       "salePrice": 314,
-      "stock": 0,
+      "stock": 4,
       "gst": 18,
-      "hsn": "950490",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "950490"
     },
     "19126_silicone_push_toy_keychain_1pc_no13": {
       "sku": "19126_silicone_push_toy_keychain_1pc_no13",
@@ -17477,6 +17429,8 @@ window.productInfo = {
     "19200_hard_golden_cloth_wash_brush_6pc": {
       "sku": "19200_hard_golden_cloth_wash_brush_6pc",
       "itemCode": "19200",
+      "closingQuantity": 6,
+      "sold": 0,
       "items_per_bag": 6,
       "catalog": "home-improvement",
       "images": [
@@ -17488,15 +17442,12 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_8c7c6f30-e67b-4257-82e8-2920aa06f1dc.jpg?v=1749185394",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/f9e3959e-ced8-4958-92f6-86f92c548a3d.jpg?v=1749185394"
       ],
-      "alreadyOrdered": 6,
       "handle": "6-piece-washing-and-cleaning-scrub-brush-set-heavy-duty-bristles-with-wooden-finish-handle-for-clothes-floor-utility-scrubbing-multi-color-bristles",
       "title": "Veepee 6 - Piece Cloth Washing And Cleaning Scrub Brush Set",
       "salePrice": 360,
-      "stock": 0,
+      "stock": 6,
       "gst": 18,
-      "hsn": "960390",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "960390"
     },
     "19202_oblivion_multipurpose_box_blue": {
       "sku": "19202_oblivion_multipurpose_box_blue",
@@ -17568,7 +17519,7 @@ window.productInfo = {
     "19223_mini_keychain_torch_1pc": {
       "sku": "19223_mini_keychain_torch_1pc",
       "itemCode": "19223",
-      "closingQuantity": 1,
+      "closingQuantity": 31,
       "sold": 5,
       "catalog": "toys-&-games",
       "images": [
@@ -17580,11 +17531,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_688aa395-56e6-4816-9a5c-6422b03e3e5c.jpg?v=1749041377",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/e9bff28b-7836-4bc7-a946-c56ae544167a.jpg?v=1749041377"
       ],
-      "alreadyOrdered": 30,
       "handle": "mini-led-flashlight-keychain-torch-mix-color-1-pc",
       "title": "Mini Led Flashlight Keychain Torch (Mix Color & 1 Pc)",
       "salePrice": 10,
-      "stock": 1,
+      "stock": 31,
       "gst": 18,
       "hsn": "85131010"
     },
@@ -18053,6 +18003,8 @@ window.productInfo = {
     "19292_car_seat_hooks_2pc_set": {
       "sku": "19292_car_seat_hooks_2pc_set",
       "itemCode": "19292",
+      "closingQuantity": 10,
+      "sold": 0,
       "catalog": "car-&-motorbike",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_42c6f5a6-6ed6-43a7-a8a0-9f18cc0cfd44.jpg?v=1747455683",
@@ -18063,15 +18015,12 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_f2766bd4-b501-4509-8441-8de19ecf1a48.jpg?v=1747455683",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/67c192a2-a0c4-41eb-bef6-9c073cd7f76a.jpg?v=1747455683"
       ],
-      "alreadyOrdered": 10,
       "handle": "universal-car-seat-headrest-hooks-2-pc-set",
       "title": "Universal Car Seat Headrest Hooks (2 Pc Set)",
       "salePrice": 17,
-      "stock": 0,
+      "stock": 10,
       "gst": 18,
-      "hsn": "392690",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "392690"
     },
     "1934_rocket_launcher_toy_atp226": {
       "sku": "1934_rocket_launcher_toy_atp226",
