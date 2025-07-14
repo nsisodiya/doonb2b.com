@@ -14517,8 +14517,8 @@ window.productInfo = {
     "17784_keychain_led_flashlight_1pc": {
       "sku": "17784_keychain_led_flashlight_1pc",
       "itemCode": "17784",
-      "closingQuantity": 21,
-      "sold": 9,
+      "closingQuantity": 20,
+      "sold": 10,
       "catalog": "fancy-item",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_b4196c0f-0628-439b-af41-785e60c3f3a8.jpg?v=1737616864",
@@ -14532,7 +14532,7 @@ window.productInfo = {
       "handle": "led-battery-operated-keychain-flashlight-small-work-light-witha-folding-bracket-bottle-opener-for-camping-hiking-emergencya-1-pc-moq-36-pcs",
       "title": "Led Battery Operated Keychain Flashlight Small Work Light With Folding Bracket Bottle Opener For Camping, Hiking, Emergency (1 Pc / Moq : - 36 Pcs)",
       "salePrice": 49,
-      "stock": 21,
+      "stock": 20,
       "gst": 18,
       "hsn": "392410"
     },
@@ -15985,8 +15985,8 @@ window.productInfo = {
     "18484_x_n_zero_wooden_board_game_pz1013": {
       "sku": "18484_x_n_zero_wooden_board_game_pz1013",
       "itemCode": "18484",
-      "closingQuantity": 6,
-      "sold": 0,
+      "closingQuantity": 5,
+      "sold": 1,
       "catalog": "toys",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_60edc7fe-2c84-4b42-aae7-c314d62e88ee.jpg?v=1737617281",
@@ -16000,7 +16000,7 @@ window.productInfo = {
       "handle": "18484_x_n_zero_wooden_board_game_pz1013",
       "title": "X & Zero Wooden Board Game (1 Set)",
       "salePrice": 122,
-      "stock": 6,
+      "stock": 5,
       "gst": 18,
       "hsn": "950300"
     },
