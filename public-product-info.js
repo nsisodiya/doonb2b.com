@@ -23,6 +23,7 @@ window.productInfo = {
     "1191": "1191_round_flower_pot",
     "1192": "1192_square_flower_pot",
     "1208": "1208_plug_fixer_device",
+    "1209": "1209_polyester_laptop_backpack",
     "1216": "1216_cartoon_shoulder_purse_1pc",
     "1217": "1217_cute_cartoon_shoulder_purse",
     "1227": "1227_face_ice_roller_n_scrubber",
@@ -87,25 +88,33 @@ window.productInfo = {
     "1581": "1581_green_garbage_17x19",
     "1585": "1585_green_garbage_19x21",
     "1586": "1586_grabage_roll_24x32cm",
+    "1588": "1588_meat_hammer",
     "1593": "1593_grommet_setting_tool_1pc",
     "1598": "1598_3pc_toy_garden_tool",
     "1599": "1599_electric_balloon_pump",
     "1627": "1627_6pc_kitchen_adv_hooks",
+    "1633": "1633_sticker_broom_holder",
+    "1637": "1637_usb_bike_light",
     "1638": "1638_handy_air_pump",
     "1652": "1652_2in1_adj_trolly_bag",
     "1663": "1663_wooden_house_bank",
     "1667": "1667_blue_60x180_cm_yogamat",
+    "1668": "1668_apex_push_n_pedal_dustbin_6_5ltr_pnp6_5",
     "1671": "1671_smily_face_cleaning_brush",
+    "1685": "1685_transparent_m_tape_5_mtr",
     "1689": "1689_ss_wall_flower_hook",
     "1706": "1706_4pc_anti_vibration_pad_bx",
     "1714": "1714_360d_rot_4claws_hook",
+    "1724": "1724_electric_mosquito_racket_no1",
     "1733": "1733_5pc_bent_straw_cmb",
     "1738": "1738_car_dustbin_loose",
     "1742": "1742_20pc_magic_wall_sticker",
     "1743": "1743_deer_head_hanger",
     "1752": "1752_36inch_door_d_guard",
+    "1759": "1759_bath_corner_shelf",
     "1768": "1768_3pc_color_g_tool",
     "1769": "1769_4pc_cb_anti_vib_pad",
+    "1782": "1782_smart_walnut_cracker",
     "1787": "1787_18in1_snowflake_tool",
     "1790": "1790_20mm_copper_lock",
     "1800": "1800_160mm_ss_scissors",
@@ -143,6 +152,7 @@ window.productInfo = {
     "2067": "2067_kitchen_pot_holder_1pc",
     "2068": "2068_3pc_plastic_rice_colender",
     "2076": "2076_storage_containers_2000ml",
+    "2082": "2082_premium_kitchen_tong",
     "2085": "2085_round_papad_jali",
     "2086": "2086_square_papad_jali",
     "2093": "2093_4in1_peeler_slicer_grater",
@@ -192,11 +202,13 @@ window.productInfo = {
     "2355": "2355_multipurpose_colander_basket",
     "2359": "2359_cool_star_water_jug_7500ml_n_205",
     "2368": "2368_royal_hot_pot_casserole_2500ml_n107",
+    "2378": "2378_barbecue_mesh_grill",
     "2384": "2384_sunday_ss_scrubber_6pc",
     "2388": "2388_super_santro_scrubber_12pc",
     "2389": "2389_steel_dumpling_mold_1pc",
     "2393": "2393_soup_spoons_6pc",
     "2406": "2406_3bin_squ_fridge_org",
+    "2411": "2411_press_onion_chopper",
     "2412": "2412_2in1_fry_tool",
     "2425": "2425_6pc_round_mini_bowl",
     "2444": "2444_crystal_seasoning_box",
@@ -223,6 +235,7 @@ window.productInfo = {
     "2572": "2572_5pc_chop_board_knife_set",
     "2584": "2584_3pc_fridge_net_bag",
     "2588": "2588_3l_round_kitchen_trolley",
+    "2592": "2592_3pc_basin_set",
     "2615": "2615_4in1_dry_fruit_box",
     "2618": "2618_2in1_y_veg_peeler",
     "2625": "2625_3sec_container_750ml",
@@ -265,6 +278,7 @@ window.productInfo = {
     "2882": "2882_peeler_with_container",
     "2887": "2887_3in1_triangular_cutter",
     "2906": "2906_measuring_spoon_set_10pcs",
+    "2914": "2914_ss_rice_strainer",
     "2920": "2920_20x30cm_chopping_block",
     "2925": "2925_commander_container_33",
     "2926": "2926_commander_container_44",
@@ -298,6 +312,7 @@ window.productInfo = {
     "3758": "3758_1pc_kothmir_basket",
     "3850": "3850_hanging_flower_pots",
     "3858": "3858_wall_pots",
+    "4010": "4010_6pcs_bath_anti_slip_mat",
     "4024": "4024_plastic_bathroom_broom_g611",
     "4032": "4032_toilet_plunger_pump",
     "4042": "4042_1pc_anti_skid_hotmat",
@@ -311,6 +326,7 @@ window.productInfo = {
     "4137": "4137_big_metal_compass_box",
     "4138": "4138_2com_compass_box",
     "4147": "4147_toilet_seat_lifter_1pc",
+    "4189": "4189_eletric_pencil_eraser_with_10refill",
     "4193": "4193_mini_cloud_shape_cutter",
     "4211": "4211_mop_head_refill_1pc",
     "4237": "4237_green_silicone_funnel",
@@ -327,6 +343,7 @@ window.productInfo = {
     "4286": "4286_cleaning_squeeze_twist_mop",
     "4296": "4296_wooden_blocks_puzzle",
     "4314": "4314_kids_sili_pop_fidget_shoulder_bag",
+    "4331": "4331_foldable_cloth_storage_bag_46x27cm",
     "4347": "4347_pizza_shape_eraser_7slice",
     "4355": "4355_nylon_rubber_0_5inch_100gm",
     "4356": "4356_nylon_rubber_0_75inch_50gm",
@@ -370,6 +387,7 @@ window.productInfo = {
     "4672": "4672_metal_bus_compass",
     "4678": "4678_4pc_toothbrush_case",
     "4689": "4689_plastic_cake_smoother",
+    "4699": "4699_ss_v_fan_ceiling_broom",
     "4700": "4700_4l_rotating_jewellery_box",
     "4705": "4705_50pc_pyramid_stand",
     "4710": "4710_airplane_launcher_gun_toy",
@@ -398,7 +416,9 @@ window.productInfo = {
     "4882": "4882_6cav_chakkari_choco_mould",
     "4887": "4887_train_engine_with_60blocks_toy",
     "4901": "4901_mini_cleaning_brush_13cm_1pc",
+    "4902": "4902_sport_running_mobile_bag",
     "4905": "4905_pre_pvc_lock_mobile_cover",
+    "4907": "4907_jay_shree_ram_keychain",
     "4921": "4921_liquid_dispenser_brush",
     "4941": "4941_plastic_spin_mop",
     "4956": "4956_s_shape_plastic_hook_hangers_3pc",
@@ -414,6 +434,7 @@ window.productInfo = {
     "5212": "5212_4compartment_lunch_box",
     "5214": "5214_ss_dish_scrubber_1pc_g423",
     "5302": "5302_dumpling_maker_170gm",
+    "5304": "5304_dish_scrubber_1pc",
     "5309": "5309_paneer_maker_mould",
     "5317": "5317_salt_pepper_dispenser",
     "5343": "5343_icecream_bowl_6pc_box",
@@ -432,6 +453,7 @@ window.productInfo = {
     "5498": "5498_kitchen_storage_container_5pc",
     "5502": "5502_square_8bottle_spice_rack",
     "5503": "5503_square_16bottle_spice_rack",
+    "5506": "5506_fruit_corer_remover",
     "5532": "5532_crab_ice_cream_mould_1pc",
     "5542": "5542_multipurpose_basket_29x22cm",
     "5551": "5551_2pc_kitchen_jar",
@@ -495,6 +517,7 @@ window.productInfo = {
     "6150": "6150_8pc_2in1_toothbrush_case",
     "6160": "6160_multi_p_wiper",
     "6163": "6163_laptop_cover_bag",
+    "6170": "6170_50pc_keychain_tag_lablel",
     "6174": "6174_head_hair_brush_massager",
     "6183": "6183_mini_usb_fan",
     "6198": "6198_ind_bottle_cleaning_brush",
@@ -506,6 +529,7 @@ window.productInfo = {
     "6234": "6234_body_scrubber_sponge",
     "6251": "6251_5in1_multifunction_brush",
     "6252": "6252_3in1_glass_wiper",
+    "6258": "6258_multicolor_dot_umbrella",
     "6263": "6263_heart_hair_massage_brush",
     "6267": "6267_2in1_soap_dispenser_1pc",
     "6313": "6313_small_nail_brush",
@@ -515,8 +539,10 @@ window.productInfo = {
     "6359": "6359_t_shape_hair_clips_1pc",
     "6361": "6361_pla_banana_hair_clips_1pc_no3",
     "6386": "6386_waterproof_lock_cover_no1",
+    "6401": "6401_bluetooth_selfie_stick_no2",
     "6412": "6412_medicine_storage_box",
     "6427": "6427_3in1_laser_light",
+    "6438": "6438_karaoke_microphonespeaker",
     "6457": "6457_mix_color_flower_rose_hair_pin_4pc",
     "6472": "6472_oval_cartoon_hair_brush",
     "6488": "6488_adult_rain_coat_reusable",
@@ -537,6 +563,7 @@ window.productInfo = {
     "6895": "6895_big_folding_travel_hanger_1pc",
     "6908": "6908_fancy_eye_mask_no8",
     "6941": "6941_plastic_makeup_box",
+    "6971": "6971_liquid_soap_dispenser_350ml",
     "6993": "6993_4in1_pedicure_foot_tool",
     "7021": "7021_multi_flour_sieve_cup",
     "7046": "7046_multipurpose_2pocket_pouch",
@@ -558,11 +585,15 @@ window.productInfo = {
     "7306": "7306_mango_shape_scrub_sponge",
     "7351": "7351_multi_storage_container_box",
     "7362": "7362_medium_cosmetic_pouch_1pc",
+    "7403": "7403_cloth_drying_wire",
     "7411": "7411_60mm_tape_cutter",
     "7435": "7435_fitness_measuring_tape",
     "7439": "7439_magic_umbrella",
     "7443": "7443_clening_brush_20cm",
+    "7493": "7493_watering_spikes_irrigation_10pc",
+    "7526": "7526_mini_led_torch_light",
     "7527": "7527_handle_cloth_brush_g511",
+    "7528": "7528_mini_led_torch_light",
     "7537": "7537_garden_sprinkle_5_arm",
     "7570": "7570_wall_mounted_4hook_hanger",
     "7571": "7571_wall_mounted_3hook_hanger",
@@ -624,6 +655,7 @@ window.productInfo = {
     "8273": "8273_3layer_rolling_egg_storage_rack",
     "8274": "8274_ss_ghee_pot_with_lid_n_spoon",
     "8281": "8281_square_papad_jali_1pc",
+    "8282": "8282_rechar_vacuum_sealer_machine",
     "8293": "8293_supermom_4in1_multi_utensil_1pc",
     "8301": "8301_mix_des_ss_nail_clipper_12pc",
     "8319": "8319_ss_blackhead_remover_needle_1pc",
@@ -633,6 +665,7 @@ window.productInfo = {
     "8376": "8376_portable_ss_water_bottle_250ml",
     "8431": "8431_nail_polish_file_1pc",
     "8432": "8432_nail_polish_file_18cm",
+    "8436": "8436_silicone_suction_phone_holder_1pc",
     "8445": "8445_mini_finger_powder_puff_8pc",
     "8446": "8446_premium_ss_water_bottle_1000ml_1pc",
     "8462": "8462_crystal_led_touch_table_lamp",
@@ -683,8 +716,10 @@ window.productInfo = {
     "9318": "9318_pla_garbage_bag_roll_45x40cm_1pc",
     "9325": "9325_electric_spray_bottle_3ltr",
     "9327": "9327_cutter_knife_18mm",
+    "9370": "9370_usb_rechargeable_flashlight",
     "9382": "9382_handy_air_pump",
     "9413": "9413_ss_adhesive_hook_12pc_no9",
+    "9415": "9415_ss_agarbatti_stand_12pc_no12",
     "9459": "9459_3in1_scissor_with_cover",
     "9513": "9513_plastic_tape_dispenser_no8",
     "9538": "9538_car_blind_spot_mirror_2pc",
@@ -699,6 +734,7 @@ window.productInfo = {
     "9844": "9844_plastic_hair_clip_no3",
     "9845": "9845_plastic_hair_clip_no5",
     "9849": "9849_big_nail_cutter_1pc",
+    "9852": "9852_cycle_tealight_candle_holder_1pc",
     "9899": "9899_ss_agarbatti_stand_1pc",
     "9901": "9901_iki_mix_room_freshener_200ml_1pc",
     "9939": "9939_ss_water_bottle_500ml_no34",
@@ -714,6 +750,7 @@ window.productInfo = {
     "10067": "10067_vegetables_n_fruit_peeler_1pc",
     "10072": "10072_smoothies_maker_cup_1pc",
     "10081": "10081_2in1_potato_chipser_1pc",
+    "10091": "10091_potato_spiral_cutter_1_set",
     "10099": "10099_big_ss_mesh_strainer_1pc",
     "10100": "10100_morning_ss_mug_1pc",
     "10103": "10103_3com_plastic_lunch_box_1pc",
@@ -729,6 +766,7 @@ window.productInfo = {
     "10176": "10176_360d_spice_jar_rack_8pc_set",
     "10195": "10195_2in1_manual_push_chopper_1100ml",
     "10196": "10196_ss_3com_lunch_box_n_chopstick_spoon",
+    "10197": "10197_2in1_oil_dispenser_bottle_250ml",
     "10199": "10199_pla_handle_potato_masher_1pc",
     "10200": "10200_wooden_handle_potato_masher_1pc",
     "10202": "10202_sili_basting_pastry_brush_1pc",
@@ -750,8 +788,10 @@ window.productInfo = {
     "10439": "10439_foldable_plastic_hotmat_1pc",
     "10442": "10442_salt_n_pepper_shaker_2pc",
     "10443": "10443_spicy_bite_lunch_box",
+    "11453": "11453_apex_quba_push_chopper_1000ml_qpc",
     "11493": "11493_apex_pla_4com_compact_basket_cb",
     "11494": "11494_apex_pla_wash_n_storage_basket_wsbf",
+    "11496": "11496_apex_plastic_multi_divider_holder_dh",
     "11527": "11527_apex_foodie_steel_box_500ml_fds",
     "11544": "11544_apex_ss_oil_pourer_1000ml_op",
     "11561": "11561_apex_majestic_gas_lighter_1pc_mgl",
@@ -771,6 +811,7 @@ window.productInfo = {
     "11927": "11927_silicone_lemon_shape_ice_cube_tray",
     "11929": "11929_fruit_juicer_measuring_cup",
     "11937": "11937_small_ss_drinking_glass_1pc",
+    "11939": "11939_plastic_urban_water_jug_1_8ltr",
     "11947": "11947_plastic_storage_basket_n_handle_3pc",
     "11950": "11950_silicone_cupcake_mould_10pc",
     "11952": "11952_pla_kitchen_dish_drainer_rack_k193",
@@ -781,6 +822,7 @@ window.productInfo = {
     "12009": "12009_3plate_foldable_veg_n_fruit_basket",
     "12011": "12011_sili_food_cover_stretch_lids_6pc",
     "12026": "12026_frying_pot_n_strainer_basket_2pc",
+    "12053": "12053_6in1_vegetable_cutter_n_drain_basket",
     "12071": "12071_super_king_4com_plastic_dry_fruit_box_1pc",
     "12073": "12073_double_layer_froggy_lunch_box",
     "12075": "12075_pla_dumpling_plate_1pc",
@@ -805,6 +847,7 @@ window.productInfo = {
     "12213": "12213_10in1_plastic_dinner_plates_set_no1",
     "12215": "12215_kitchen_cleaning_magic_wipes_18pc",
     "12216": "12216_microfiber_reusable_towel_10pc",
+    "12228": "12228_food_storage_containers_4pc",
     "12235": "12235_plastic_baking_measuring_cup_2_5l",
     "12241": "12241_ss_medium_hand_push_rotary_whisk_no2",
     "12242": "12242_ss_big_hand_push_rotary_whisk_no1",
@@ -813,12 +856,16 @@ window.productInfo = {
     "12247": "12247_silicone_cooking_spatula_1pc_no1",
     "12248": "12248_silicone_cooking_spatula_1pc_no3",
     "12253": "12253_4in1_pla_round_cereal_dispenser",
+    "12256": "12256_ss_vacuum_tumbler_with_lid",
     "12260": "12260_ss_water_bottle_1000ml",
     "12261": "12261_ss_water_bottle_750ml",
     "12262": "12262_crystal_water_jug_4ltr",
     "12264": "12264_ss_deep_fry_strainer_no18",
+    "12268": "12268_electric_handheld_milk_frother",
+    "12275": "12275_insulated_thermal_lunch_bag_1pc",
     "12289": "12289_rajwadi_container_2pc_1100ml",
     "12306": "12306_insulated_thermal_lunch_bag_1pc",
+    "12307": "12307_6in1_plastic_square_water_bottles",
     "12315": "12315_ritu_zebra_knife_laser_8_j337",
     "12319": "12319_ritu_zebra_knife_plain_8_j336",
     "12401": "12401_mix_design_pouch_1pc_no2",
@@ -879,6 +926,7 @@ window.productInfo = {
     "13339": "13339_multi_cleaning_brush_23cm",
     "13345": "13345_kids_hair_bow_knot_clip_1pc",
     "13372": "13372_ladybug_toothbrush_holder_1pc",
+    "13417": "13417_ss_tongue_cleaner_1pc",
     "13479": "13479_makeup_organiser_box",
     "13531": "13531_2in1_sili_face_mask_brush_1pc",
     "13533": "13533_sili_finger_face_scrubber_1pc",
@@ -894,6 +942,7 @@ window.productInfo = {
     "13712": "13712_baby_bear_silicone_toothbrush_1pc",
     "13741": "13741_makeup_foundation_brush_n_casse",
     "13750": "13750_4in1_blackhead_remover_tool",
+    "13754": "13754_portable_lint_remover_roller_1pc",
     "13762": "13762_makeup_sponge_6pc_set",
     "13823": "13823_8_in_1_manicure_set_tool_kit",
     "13825": "13825_facial_hair_remover_1pc",
@@ -901,6 +950,7 @@ window.productInfo = {
     "13829": "13829_pedicures_nail_salon_tool",
     "13841": "13841_pla_eye_lenses_inserter_remover_tool",
     "13845": "13845_pla_capsule_toothbrush_case_holder_3pc",
+    "13850": "13850_ss_insulated_coffee_cup_400ml_1pc",
     "13857": "13857_electric_massage_gun_1pc",
     "13864": "13864_plastic_cloth_hanger_1pc",
     "13872": "13872_cleaning_sponge_scrubber_10pc",
@@ -908,6 +958,7 @@ window.productInfo = {
     "13909": "13909_strong_black_hair_clip_6pc",
     "13910": "13910_strong_hair_clip_6pc",
     "13911": "13911_strong_trans_hair_clip_6pc",
+    "13926": "13926_non_slip_printed_yoga_mat_1pc",
     "13932": "13932_5pc_makeup_brush_kit",
     "13936": "13936_glass_water_bottle_450ml",
     "13941": "13941_ss_vacuum_water_bottle_500ml",
@@ -931,8 +982,11 @@ window.productInfo = {
     "14127": "14127_dual_side_folding_hair_trimming_1pc",
     "14131": "14131_back_scratcher_khujli_stick_1pc",
     "14208": "14208_ss_jewelry_storage_organizer_box_1pc",
+    "14286": "14286_red_electric_mosquito_racket_1pc",
+    "14338": "14338_8_socket_extension_board_1pc_no3",
     "14388": "14388_plastic_hair_massage_brush",
     "14445": "14445_5in1_pedicure_tool_set",
+    "14448": "14448_2in1_hair_comb_brush_with_mirror",
     "14461": "14461_mini_elastic_hairbands_5pc",
     "14471": "14471_plug_in_led_nail_dryer_1pc",
     "14487": "14487_micro_usb_otg_converter_10pc",
@@ -941,6 +995,8 @@ window.productInfo = {
     "15002": "15002_18in1_snowflake_tool_black",
     "15004": "15004_mini_screwdriwer",
     "15007": "15007_cleaning_brush_1pc",
+    "15021": "15021_solid_pad_lock_60mm",
+    "15023": "15023_m19_wireless_headset",
     "15028": "15028_eva_rain_coat_1pc",
     "15029": "15029_luggage_rope_with_hook_1m",
     "15045": "15045_portable_7led_flashlight_1pc",
@@ -960,6 +1016,7 @@ window.productInfo = {
     "15358": "15358_garden_solar_light_2pc",
     "15387": "15387_car_blind_spot_mirror_n_pry_tool_2pc",
     "15403": "15403_metal_rectangular_plant_stand_2pc",
+    "15437": "15437_multi_plastic_cleaning_brush_1pc",
     "15443": "15443_u_shape_neck_trravel_pillow_1pc",
     "15449": "15449_heavy_pla_flower_pot_with_tray",
     "15461": "15461_car_dust_removal_brush_1pc",
@@ -971,11 +1028,13 @@ window.productInfo = {
     "15551": "15551_cloth_drying_rope_with_6_clip",
     "15553": "15553_plastic_gardening_watering_can_2l",
     "15557": "15557_square_plastic_flower_pots_5pc",
+    "15562": "15562_usb_charging_hand_lamp_1pc",
     "15574": "15574_anti_slip_tape_50mmx5m_1pc",
     "15721": "15721_superabsorbent_sponge_mop",
     "15729": "15729_grabage_roll_45x50cm",
     "15772": "15772_colorful_rainbow_umbrella_1pc",
     "15786": "15786_small_hammer_1pc",
+    "15794": "15794_5led_usb_rechargeable_headlamp",
     "15800": "15800_multi_hardware_tool_11pc_set",
     "15803": "15803_travel_pillow_1pc_34x21cm",
     "15809": "15809_gloves_gardening_1pair_no1",
@@ -1022,6 +1081,7 @@ window.productInfo = {
     "17923": "17923_69_holes_bubble_gun",
     "17928": "17928_brush_with_liquid_dispenser",
     "17951": "17951_foldable_shopping_trolley_1pc",
+    "17957": "17957_knitting_sewing_needle_12pc",
     "17969": "17969_dinosaurs_roaring_toy_1pc",
     "17991": "17991_snail_puzzle_toys_1pc_no1",
     "17992": "17992_octo_shape_sorter_1pc",
@@ -1042,6 +1102,7 @@ window.productInfo = {
     "18194": "18194_pull_back_racing_car_toy_8pc",
     "18200": "18200_pla_fu_fu_monster_toy_set",
     "18218": "18218_pla_mluti_5comp_desk_holder",
+    "18227": "18227_metal_paper_clips_250pc_set",
     "18240": "18240_sili_toilet_seat_lifter_band_1pc",
     "18246": "18246_projector_lamp_with_8_slides_patterns",
     "18265": "18265_flower_pot_with_tray_5pc",
@@ -1080,11 +1141,13 @@ window.productInfo = {
     "18652": "18652_plastic_pencil_zip_pouch_1pc_no11",
     "18682": "18682_portable_storage_bag_1pc",
     "18694": "18694_36_holes_bubble_gun",
+    "18722": "18722_compass_box_for_school",
     "18724": "18724_pencil_top_eraser_30pc",
     "18725": "18725_fold_shopping_trolley_with_wheels",
     "18742": "18742_wooden_tumbling_tower_block_48pc",
     "18743": "18743_kitchen_toy_set_at57",
     "18744": "18744_baby_first_block_set_16pc",
+    "18746": "18746_montessori_slide_puzzles_toy_set",
     "18756": "18756_big_kitchen_trolley_set_at175",
     "18757": "18757_2in1_soap_roller_with_case",
     "18760": "18760_3in1_liquid_soap_dispenser_set",
@@ -1114,11 +1177,13 @@ window.productInfo = {
     "19012": "19012_duck_toy_for_kids",
     "19013": "19013_bus_toys_for_boy_kids_lt25",
     "19014": "19014_pull_along_toy_unicorn",
+    "19015": "19015_school_bus_toy_for_kids_lt24",
     "19021": "19021_metal_keychain_no1",
     "19045": "19045_trans_double_sided_tape_3mtr",
     "19066": "19066_travel_neck_pillow_1pc_no1",
     "19082": "19082_large_car_dashboard_mat_1pc",
     "19089": "19089_kitchen_sponge_holder_g422",
+    "19095": "19095_plastic_handle_expandable_broom_g612",
     "19102": "19102_magnetic_dart_game_set_ttg02",
     "19126": "19126_silicone_push_toy_keychain_1pc_no13",
     "19137": "19137_adhesive_wall_3_hook_1pc",
@@ -1135,6 +1200,7 @@ window.productInfo = {
     "19241": "19241_b_grade_u_shaped_neck_pillow_1pc",
     "19252": "19252_mix_size_transp_book_cover_30pc",
     "19257": "19257_3l_pla_storage_carry_box_with_handle",
+    "19259": "19259_4layer_trans_mult_plastic_storage_box",
     "19260": "19260_learner_flashcard_combo_set_224pc",
     "19262": "19262_120cm_ss_mop_rod_refill_set",
     "19271": "19271_premium_nylon_shuttlecock_10pc",
@@ -1146,9 +1212,20 @@ window.productInfo = {
     "19283": "19283_apex_pink_plastic_soap_dish_1pc",
     "19285": "19285_pla_hanger_connector_hooks_5pc",
     "19286": "19286_car_dashboard_air_freshener_1pc",
+    "19288": "19288_knx_professional_table_tennis_racket_set",
     "19289": "19289_car_seat_headrest_hooks_2pc_set",
     "19292": "19292_car_seat_hooks_2pc_set",
+    "19323": "19323_knx_badminton_racket_n_carry_bag_2pc",
+    "19325": "19325_pink_unlimited_pencils_n_eraser_1pc",
+    "19333": "19333_a4_size_multi_copier_paper_500_sheets",
+    "19345": "19345_supermom_multi_organizer_utility_holder_1pc",
     "19363": "19363_leather_zipper_pouch_wallet_1pc",
+    "0439": "0439_mini_bolt_cutter",
+    "0566": "0566_whiteboard_blue_ink_marker_1pc",
+    "0749": "0749_bathroom_broom",
+    "0882": "0882_ivy_grip_tape_3m",
+    "0627": "0627_cleaning_dustpan_n_brush",
+    "0462": "0462_mini_hammer",
     "0052": "0052_space_compass_box",
     "0056": "0056_bird_fork",
     "0062": "0062_smart_kitchen_basket",
@@ -1289,7 +1366,6 @@ window.productInfo = {
     "0734": "0734_soup_bowl_6pc",
     "0740": "0740_simple_puri_press",
     "0745": "0745_13cm_planter_pot",
-    "0749": "0749_bathroom_broom",
     "0754": "0754_black_dumbbells_bottle",
     "0761": "0761_folding_carry_bag",
     "0762": "0762_faucet_caddy",
@@ -1851,8 +1927,8 @@ window.productInfo = {
     "0136_spatula_pastry_brush": {
       "sku": "0136_spatula_pastry_brush",
       "itemCode": "0136",
-      "closingQuantity": 31,
-      "sold": 28,
+      "closingQuantity": 30,
+      "sold": 29,
       "catalog": "baking-tools",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/SKU2.jpg?v=1737629405",
@@ -1869,7 +1945,7 @@ window.productInfo = {
       "handle": "0136-spatula-and-pastry-brush-for-cake-mixer",
       "title": "Spatula And Pastry Brush For Cake Mixer",
       "salePrice": 27,
-      "stock": 31,
+      "stock": 30,
       "gst": 18,
       "hsn": "392410"
     },
@@ -2802,8 +2878,8 @@ window.productInfo = {
     "0378b_baby_shower_cap": {
       "sku": "0378b_baby_shower_cap",
       "itemCode": "0378b",
-      "closingQuantity": 10,
-      "sold": 5,
+      "closingQuantity": 9,
+      "sold": 6,
       "catalog": "baby-products",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/8-_a.jpg?v=1737628329",
@@ -2819,7 +2895,7 @@ window.productInfo = {
       "handle": "0378a_baby_shower_cap",
       "title": "0378b Adjustable Safe Soft Bathing Baby Shower Hair Wash Cap For Children, Baby Bath Cap Shower Protection For Eyes And Ear,",
       "salePrice": 36,
-      "stock": 10,
+      "stock": 9,
       "gst": 18,
       "hsn": "392410"
     },
@@ -2893,8 +2969,8 @@ window.productInfo = {
     "0403b_eye_mask_green_medium": {
       "sku": "0403b_eye_mask_green_medium",
       "itemCode": "0403b",
-      "closingQuantity": 19,
-      "sold": 1,
+      "closingQuantity": 18,
+      "sold": 2,
       "catalog": "beauty-&-personal-care",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/03_8c6ff4d6-4f4b-457d-aed3-f5abd0789df6.jpg?v=1737634161",
@@ -2908,7 +2984,7 @@ window.productInfo = {
       "handle": "0403b-sleeping-eye-shade-mask-cover-for-insomnia-meditation-puffy-eyes-and-dark-circles",
       "title": "0403b Sleeping Eye Shade Mask Cover For Insomnia, Meditation, Puffy Eyes And Dark Circles",
       "salePrice": 29,
-      "stock": 19,
+      "stock": 18,
       "gst": 18,
       "hsn": "392410"
     },
@@ -2977,6 +3053,29 @@ window.productInfo = {
       "stock": 0,
       "gst": 18,
       "hsn": "820340"
+    },
+    "0439_mini_bolt_cutter": {
+      "sku": "0439_mini_bolt_cutter",
+      "itemCode": "0439",
+      "catalog": "hardware",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_8063104b-56bd-4e4f-bf52-1e7f9f18563b.jpg?v=1737629123",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/sku_35afb799-2efb-48c4-a0b8-f5149339eeed.jpg?v=1737629123",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_6b6596a0-cb88-4b2c-9f00-021604d44efc.jpg?v=1737629123",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_180ea4b2-cbf6-4060-9ede-5e66456670f7.jpg?v=1737629123",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_2dc5bdf5-538a-43f5-8f48-ab3c4f96a3f7.jpg?v=1737629124",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_447a984d-fff5-48b5-8cdb-685e4ca9f235.jpg?v=1737629124",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/22cd3c61-6fec-44fa-a210-123510c1554a.jpg?v=1737629124"
+      ],
+      "alreadyOrdered": 7,
+      "handle": "0439-mini-bolt-cutter-wire-breaking-plier",
+      "title": "Mini Bolt Cutter Wire Breaking Plier",
+      "salePrice": 144,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "820340",
+      "closingQuantity": 0,
+      "sold": 0
     },
     "0444_plier": {
       "sku": "0444_plier",
@@ -3064,11 +3163,33 @@ window.productInfo = {
       "gst": 18,
       "hsn": "820740"
     },
+    "0462_mini_hammer": {
+      "sku": "0462_mini_hammer",
+      "itemCode": "0462",
+      "catalog": "hardware",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/03_3ca6c89a-b48c-4a1b-ad99-3e92f6897d0f.jpg?v=1737629284",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/0462.jpg?v=1737629284",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/05_39794c26-d461-4ab3-a289-b274ef84c697.jpg?v=1737629284",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/04_49a362cf-ff3b-4545-bae5-d6839027cdb4.jpg?v=1737629284",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/02_b0cfcbfe-12c0-4195-b446-83afa7349597.jpg?v=1737629284",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/2a3714e7-5c21-4a56-b320-8f8fc292ef1f.jpg?v=1737629284"
+      ],
+      "alreadyOrdered": 20,
+      "handle": "462-carpenter-mini-claw-hammer",
+      "title": "Carpenter Mini Claw Hammer",
+      "salePrice": 129,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "820740",
+      "closingQuantity": 0,
+      "sold": 0
+    },
     "0465_flower_cut_any": {
       "sku": "0465_flower_cut_any",
       "itemCode": "0465",
-      "closingQuantity": 8,
-      "sold": 19,
+      "closingQuantity": 7,
+      "sold": 20,
       "catalog": "gardening",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/4_2ca5f92e-70e6-452c-a163-858a14f4a493.jpg?v=1737628083",
@@ -3083,7 +3204,7 @@ window.productInfo = {
       "handle": "0465-stainless-steel-garden-scissors-2",
       "title": "Stainless Steel Garden Scissors",
       "salePrice": 84,
-      "stock": 8,
+      "stock": 7,
       "gst": 18,
       "hsn": "820890"
     },
@@ -3505,8 +3626,8 @@ window.productInfo = {
     "0559_dual_scissor": {
       "sku": "0559_dual_scissor",
       "itemCode": "0559",
-      "closingQuantity": 42,
-      "sold": 68,
+      "closingQuantity": 40,
+      "sold": 70,
       "catalog": "scissor",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/Scissor_Pack_2_d7a43c13-d8b7-4735-8f96-01584c3986ce.jpg?v=1738302919",
@@ -3519,7 +3640,7 @@ window.productInfo = {
       "handle": "559-scissor-set-2-pcs",
       "title": "Scissor Set (2 Pcs)",
       "salePrice": 67,
-      "stock": 42,
+      "stock": 40,
       "gst": 18,
       "hsn": "821300"
     },
@@ -3591,11 +3712,34 @@ window.productInfo = {
       "gst": 18,
       "hsn": "560790"
     },
+    "0566_whiteboard_blue_ink_marker_1pc": {
+      "sku": "0566_whiteboard_blue_ink_marker_1pc",
+      "itemCode": "0566",
+      "catalog": "office-products",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_4c0bc30a-d36b-4366-a28a-1a236b05b66a.jpg?v=1749040894",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/WhatsAppImage2025-06-03at09.45.43_4.jpg?v=1749040894",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_c2a2840e-4ad1-46fd-a976-bb85fdc3008f.jpg?v=1749040894",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_17e2552f-c1cd-482f-82d6-c7240c55923f.jpg?v=1749040894",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_cab64293-35fb-42b7-9431-833b0ab9cc12.jpg?v=1749040894",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_aa31a0b4-1382-47fe-a6a3-45d501e5cf9b.jpg?v=1749040894",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/c416f3a6-dca2-4bcd-9704-3a52d56a70d1.jpg?v=1749040894"
+      ],
+      "alreadyOrdered": 50,
+      "handle": "jumbo-tip-whiteboard-blue-ink-marker-1-pc",
+      "title": "Jumbo Tip Whiteboard  Blue Ink Marker (1 Pc)",
+      "salePrice": 9,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "960820",
+      "closingQuantity": 0,
+      "sold": 0
+    },
     "0569_whiteboard_black_ink_marker_1pc": {
       "sku": "0569_whiteboard_black_ink_marker_1pc",
       "itemCode": "0569",
-      "closingQuantity": 94,
-      "sold": 76,
+      "closingQuantity": 93,
+      "sold": 77,
       "catalog": "office-products",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_8d4dce03-22a8-4231-b275-6430fc86664f.jpg?v=1749040934",
@@ -3609,15 +3753,15 @@ window.productInfo = {
       "handle": "whiteboard-black-ink-marker-1-pc",
       "title": "Whiteboard  Black Ink Marker (1 Pc)",
       "salePrice": 9,
-      "stock": 94,
+      "stock": 93,
       "gst": 18,
       "hsn": "960820"
     },
     "0575_gluegun60w": {
       "sku": "0575_gluegun60w",
       "itemCode": "0575",
-      "closingQuantity": 3,
-      "sold": 1,
+      "closingQuantity": 2,
+      "sold": 2,
       "catalog": "stationery",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_bc3871ad-8d7b-42d7-9572-d6253296323f.jpg?v=1737629250",
@@ -3630,15 +3774,15 @@ window.productInfo = {
       "handle": "575-glue-gun-40-watt-gluegun",
       "title": "Glue Gun (60 Watt)",
       "salePrice": 180,
-      "stock": 3,
+      "stock": 2,
       "gst": 18,
       "hsn": "851610"
     },
     "0578_brush": {
       "sku": "0578_brush",
       "itemCode": "0578",
-      "closingQuantity": 58,
-      "sold": 32,
+      "closingQuantity": 57,
+      "sold": 33,
       "catalog": "kitchen-tools",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/2_811636a8-88b7-4b89-8b6e-a165d49a366d.jpg?v=1737629436",
@@ -3651,7 +3795,7 @@ window.productInfo = {
       "handle": "0578-stainless-steel-straw-cleaning-brush-drinking-pipe-23mm-1-pcs",
       "title": "578 Stainless Steel Straw Cleaning Brush Drinking Pipe, 23mm 1 Pcs",
       "salePrice": 8,
-      "stock": 58,
+      "stock": 57,
       "gst": 18,
       "hsn": "392690"
     },
@@ -3703,8 +3847,8 @@ window.productInfo = {
     "0587_5in1_plain_hanger": {
       "sku": "0587_5in1_plain_hanger",
       "itemCode": "0587",
-      "closingQuantity": 37,
-      "sold": 38,
+      "closingQuantity": 34,
+      "sold": 41,
       "catalog": "hangers-&-wardrobe-storage",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/0587.jpg?v=1737631111",
@@ -3718,7 +3862,7 @@ window.productInfo = {
       "handle": "0587-5-in-1-multipurpose-plastic-hanger-assorted-5-layer",
       "title": "5 In 1 Multipurpose Plastic Hanger, Assorted (5 - Layer)",
       "salePrice": 19,
-      "stock": 37,
+      "stock": 34,
       "gst": 18,
       "hsn": "392690"
     },
@@ -3959,6 +4103,30 @@ window.productInfo = {
       "gst": 18,
       "hsn": "392410"
     },
+    "0627_cleaning_dustpan_n_brush": {
+      "sku": "0627_cleaning_dustpan_n_brush",
+      "itemCode": "0627",
+      "catalog": "hardware",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_521bd266-20dc-4831-99d9-be90c5c81ab0.jpg?v=1737628936",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/07_6f966994-ca6f-4b23-9bb8-4260001f9e23.jpg?v=1737628936",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_9ac4d21e-213b-4e6e-8bf7-3ea4425f3197.jpg?v=1737628937",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_64602da8-b459-4970-a9ff-f7bac491fdef.jpg?v=1737628937",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_a67d04b4-e38f-49dd-8a75-61f59f28012d.jpg?v=1737628937",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_3bd636da-f312-477f-9ba0-c6af6a5ebf80.jpg?v=1737628937",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_d5497351-8098-4df1-af09-15290de011af.jpg?v=1737628937",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/7c539e43-2682-4877-a4ff-ef5745c81bf5.jpg?v=1737628937"
+      ],
+      "alreadyOrdered": 5,
+      "handle": "0627_long_handle_dustpan_n_-brush",
+      "title": "Long Handle Dustpan And Brush 2 Piece Set For Sweeping Cleaning Home Office",
+      "salePrice": 336,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "392410",
+      "closingQuantity": 0,
+      "sold": 0
+    },
     "0631_pizza_cutter": {
       "sku": "0631_pizza_cutter",
       "itemCode": "0631",
@@ -4077,8 +4245,8 @@ window.productInfo = {
     "0660_cheese_grater": {
       "sku": "0660_cheese_grater",
       "itemCode": "0660",
-      "closingQuantity": 8,
-      "sold": 32,
+      "closingQuantity": 7,
+      "sold": 33,
       "catalog": "kitchen-tools",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/4_22381e24-45c9-4dd4-ba5c-0b3ad7a61ce0.jpg?v=1737621488",
@@ -4091,7 +4259,7 @@ window.productInfo = {
       "handle": "cheese-grater-slicer-chopper-with-stainless-steel-blades-1",
       "title": "Cheese Grater/slicer/chopper With Stainless Steel Blades",
       "salePrice": 26,
-      "stock": 8,
+      "stock": 7,
       "gst": 18,
       "hsn": "392420"
     },
@@ -4505,6 +4673,7 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/81ZvK4eXRQL._SL1500.jpg?v=1686906348",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/a1d6ad9f-3082-4c32-8a0d-5cdb3f7139f9.jpg?v=1688979945"
       ],
+      "alreadyOrdered": 20,
       "handle": "749_wet-dry-floor-cleaning-plastic-broom",
       "title": "749_wet & Dry Floor Cleaning Plastic Broom",
       "salePrice": 72,
@@ -5012,6 +5181,29 @@ window.productInfo = {
       "gst": 18,
       "hsn": "392410"
     },
+    "0882_ivy_grip_tape_3m": {
+      "sku": "0882_ivy_grip_tape_3m",
+      "itemCode": "0882",
+      "catalog": "stationery",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/3mtr_0044a34d-e5e6-44b0-aa96-1dd6384721f4.jpg?v=1737629474",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/0882.jpg?v=1737629474",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/3_1fb29169-b75b-4f9a-83d4-578305e585f4.jpg?v=1737629474",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/2_62839aef-c7e2-4cbb-bb5b-f2af896e9150.jpg?v=1737629474",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/4_f9a1d5b6-5753-4830-9c44-636a18472168.jpg?v=1737629475",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/5_2ccd4bcb-6140-4cab-81ec-06b641a7c744.jpg?v=1737629475",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/68565393-338e-4701-b5e9-4f855978e98e.jpg?v=1737629475"
+      ],
+      "alreadyOrdered": 15,
+      "handle": "882-double-sided-nano-adhesive-tape-3-meter-washable-traceless-nano-gel-tape-multipurpose",
+      "title": "Double Sided Nano Adhesive Tape, 3 Meter Washable Traceless Nano Gel Tape, Multipurpose",
+      "salePrice": 75,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "391990",
+      "closingQuantity": 0,
+      "sold": 0
+    },
     "0948_brwn_tape_65mtr": {
       "sku": "0948_brwn_tape_65mtr",
       "itemCode": "0948",
@@ -5331,7 +5523,7 @@ window.productInfo = {
     "10081_2in1_potato_chipser_1pc": {
       "sku": "10081_2in1_potato_chipser_1pc",
       "itemCode": "10081",
-      "closingQuantity": 0,
+      "closingQuantity": 10,
       "sold": 6,
       "catalog": "chopper-slicer-cutter",
       "images": [
@@ -5343,13 +5535,34 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_759d2c6c-2695-48bf-a221-069c35db202d.jpg?v=1737622029",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/560cf100-82ad-4291-9863-56c685cc34bd.jpg?v=1737622029"
       ],
-      "alreadyOrdered": 10,
       "handle": "10081_2in1_potato_chipser_1pc",
       "title": "In 1 Potato Chipser / Slicer French Fries Maker Finger Chips | Plastic | Two Blades Finger Chips Cutter For Kitchen Accessory Vegetable Fruit Slicer (1 Pc)",
-      "salePrice": 130,
-      "stock": 0,
+      "salePrice": 139,
+      "stock": 10,
       "gst": 18,
       "hsn": "392410"
+    },
+    "10091_potato_spiral_cutter_1_set": {
+      "sku": "10091_potato_spiral_cutter_1_set",
+      "itemCode": "10091",
+      "catalog": "chopper-slicer-cutter",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_d6dda0ff-6ad7-48ce-b044-859b2c4a2705.jpg?v=1737621651",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/9e60b484-2459-4a23-8a2b-6cbf4546851d.jpg?v=1737621652",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_137d1457-744f-4c0a-b7c0-e9fe5eb1d409.jpg?v=1737621652",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_f2870ab1-7c60-40ad-8d64-f71f5af56f31.jpg?v=1737621652",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_7b90dadb-79e6-49a3-806b-613dc63920a4.jpg?v=1737621652",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/e564c4f5-5900-4cb6-99dc-d50d1fd35c45.jpg?v=1737621653"
+      ],
+      "alreadyOrdered": 5,
+      "handle": "potato-spiral-cutter-potato-twister",
+      "title": "Set Potato Spiral Cutter, Potato Twister (4 Spits)",
+      "salePrice": 129,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "392410",
+      "closingQuantity": 0,
+      "sold": 0
     },
     "10099_big_ss_mesh_strainer_1pc": {
       "sku": "10099_big_ss_mesh_strainer_1pc",
@@ -5442,6 +5655,8 @@ window.productInfo = {
     "10107_2in1_oil_dispenser_bottle_n_brush": {
       "sku": "10107_2in1_oil_dispenser_bottle_n_brush",
       "itemCode": "10107",
+      "closingQuantity": 10,
+      "sold": 0,
       "catalog": "dispenser",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_ad69e2b0-97a3-4a87-a79a-3ed49a08df88.jpg?v=1737620387",
@@ -5452,15 +5667,12 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/71g2gUkx6OL._SL1500.jpg?v=1737620388",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/535a7ba7-0044-41cc-b3bb-305dc0c9db2f.jpg?v=1737620388"
       ],
-      "alreadyOrdered": 10,
       "handle": "10107_2in1_oil_dispenser_bottle_n_brush",
       "title": "In 1 Oil Dispenser Bottle With Silicone Basting Brush (1 Set)",
       "salePrice": 74,
-      "stock": 0,
+      "stock": 10,
       "gst": 18,
-      "hsn": "392410",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "392410"
     },
     "10118_5_blade_herb_scissor_1pc_no3": {
       "sku": "10118_5_blade_herb_scissor_1pc_no3",
@@ -5599,8 +5811,8 @@ window.productInfo = {
     "10154_plastic_organizer_box": {
       "sku": "10154_plastic_organizer_box",
       "itemCode": "10154",
-      "closingQuantity": 1,
-      "sold": 4,
+      "closingQuantity": 22,
+      "sold": 3,
       "catalog": "house-hold",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/b7ec563f-8ded-4f8b-a566-02f3956f4ac5.jpg?v=1737619193",
@@ -5613,11 +5825,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_2bf8ca30-090a-4e4f-a9d9-b2dac559c5cf.jpg?v=1737619193",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/40929206-ed86-4907-98cd-507905d2c910.jpg?v=1737619193"
       ],
-      "alreadyOrdered": 20,
       "handle": "cosmetic-makeup-organizer",
       "title": "Cosmetic Makeup Organizer",
-      "salePrice": 117,
-      "stock": 1,
+      "salePrice": 125,
+      "stock": 22,
       "gst": 18,
       "hsn": "392410"
     },
@@ -5689,10 +5900,34 @@ window.productInfo = {
       "gst": 18,
       "hsn": "392410"
     },
+    "10197_2in1_oil_dispenser_bottle_250ml": {
+      "sku": "10197_2in1_oil_dispenser_bottle_250ml",
+      "itemCode": "10197",
+      "catalog": "dispenser",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/07_3bcea5a7-3300-4ffe-9b79-ed4993c0a4de.jpg?v=1737618294",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/10197.jpg?v=1737618294",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_00739e76-cb72-49b5-8bbc-1fd0675e79fa.jpg?v=1737618294",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_e6494d3e-6ce4-45a9-ba83-016460aee797.jpg?v=1737618294",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_cc5e398f-7477-4460-9947-5cb99a02eefe.jpg?v=1737618294",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_ae7b234b-bccb-4e46-9d88-36258f966f6b.jpg?v=1737618295",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_c5159406-5c3e-4332-a9e6-b5ac165124b9.jpg?v=1737618295",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/f4ccdd32-f9cb-4818-b9c8-8e9c21e65d9b.jpg?v=1737618295"
+      ],
+      "alreadyOrdered": 6,
+      "handle": "10197_2in1_oil_dispenser_bottle_250ml",
+      "title": "Oil Dispenser With Silicone Oil Brush (1 Pc / With Brush / 250 Ml Approx)",
+      "salePrice": 96,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "392690",
+      "closingQuantity": 0,
+      "sold": 0
+    },
     "10199_pla_handle_potato_masher_1pc": {
       "sku": "10199_pla_handle_potato_masher_1pc",
       "itemCode": "10199",
-      "closingQuantity": 0,
+      "closingQuantity": 11,
       "sold": 5,
       "catalog": "kitchen-tools",
       "images": [
@@ -5704,18 +5939,17 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_a302bd5f-0499-4ee0-adab-a6b5bd48a1e0.jpg?v=1737618284",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/5fcdae4f-86b3-4713-b304-5134532ef038.jpg?v=1737618284"
       ],
-      "alreadyOrdered": 11,
       "handle": "10199_pla_handle_potato_masher_1pc",
       "title": "High Grade Stainless Steel Potato Masher Paubhaji / Pav Bhaji Masher With Plastic Handle (1 Pc)",
-      "salePrice": 52,
-      "stock": 0,
+      "salePrice": 57,
+      "stock": 11,
       "gst": 18,
       "hsn": "392410"
     },
     "10200_wooden_handle_potato_masher_1pc": {
       "sku": "10200_wooden_handle_potato_masher_1pc",
       "itemCode": "10200",
-      "closingQuantity": 9,
+      "closingQuantity": 29,
       "sold": 41,
       "catalog": "kitchen-tools",
       "images": [
@@ -5727,19 +5961,18 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_e11a7052-3812-4e24-9762-e1ce78fa0614.jpg?v=1737618281",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/41a71cda-0077-4731-a1c0-fa1ca11eff01.jpg?v=1737618281"
       ],
-      "alreadyOrdered": 20,
       "handle": "10200_wooden_handle_potato_masher_1pc",
       "title": "High Grade Stainless Steel Potato Masher Paubhaji / Pav Bhaji Masher With Wooden Handle (1 Pc)",
       "salePrice": 52,
-      "stock": 9,
+      "stock": 29,
       "gst": 18,
       "hsn": "392410"
     },
     "10202_sili_basting_pastry_brush_1pc": {
       "sku": "10202_sili_basting_pastry_brush_1pc",
       "itemCode": "10202",
-      "closingQuantity": 0,
-      "sold": 4,
+      "closingQuantity": 5,
+      "sold": 5,
       "catalog": "baking-tools",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_4b7bd85e-e4a9-4e2a-a0cf-29c4e9734012.jpg?v=1737618112",
@@ -5750,11 +5983,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_1b254cde-362d-4c5f-b508-2c5e8467e5ee.jpg?v=1737618113",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/af7a6160-5750-4061-8888-947f929917f3.jpg?v=1737618113"
       ],
-      "alreadyOrdered": 6,
       "handle": "10202_sili_basting_pastry_brush_1pc",
       "title": "Pastry Brush, Basting Brush Bbq Sauce Marinade Meat Silicone Oil Brush (1 Pc)",
-      "salePrice": 35,
-      "stock": 0,
+      "salePrice": 39,
+      "stock": 5,
       "gst": 18,
       "hsn": "392410"
     },
@@ -5830,7 +6062,7 @@ window.productInfo = {
     "10246_plastic_egg_yolk_separator_1pc": {
       "sku": "10246_plastic_egg_yolk_separator_1pc",
       "itemCode": "10246",
-      "closingQuantity": 8,
+      "closingQuantity": 18,
       "sold": 22,
       "catalog": "eggs",
       "images": [
@@ -5845,11 +6077,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/07_c4a013f8-d504-4f35-98cc-aafb74a6c0a5.jpg?v=1737616707",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/4a682000-bb6d-4ccb-98ca-e512992d6756.jpg?v=1737616707"
       ],
-      "alreadyOrdered": 10,
       "handle": "egg-yolk-separator-egg-white-yolk-filter-separator-1-pc-with-card-packing",
       "title": "Plastic Egg Yolk Separator, Egg White Yolk Filter Separator (1 Pc / With Card Packing)",
-      "salePrice": 10,
-      "stock": 8,
+      "salePrice": 13,
+      "stock": 18,
       "gst": 18,
       "hsn": "392410"
     },
@@ -5949,8 +6180,8 @@ window.productInfo = {
     "10306_round_disposable_paper_air_fryer_50pc": {
       "sku": "10306_round_disposable_paper_air_fryer_50pc",
       "itemCode": "10306",
-      "closingQuantity": 13,
-      "sold": 7,
+      "closingQuantity": 12,
+      "sold": 8,
       "catalog": "kitchen-tools",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/14_61c7a110-b1e8-4e8f-8438-d97b7c6d4df8.jpg?v=1737614158",
@@ -5966,7 +6197,7 @@ window.productInfo = {
       "handle": "10306_round_disposable_paper_air_fryer_50pc",
       "title": "Round Air Fryer Disposable Paper Liner  (50 Pcs Set/160mmx45mm)",
       "salePrice": 55,
-      "stock": 13,
+      "stock": 12,
       "gst": 18,
       "hsn": "482369"
     },
@@ -6437,8 +6668,8 @@ window.productInfo = {
     "1119_big_bamboo_bbq_stick": {
       "sku": "1119_big_bamboo_bbq_stick",
       "itemCode": "1119",
-      "closingQuantity": 7,
-      "sold": 8,
+      "closingQuantity": 6,
+      "sold": 9,
       "catalog": "bbq",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/3f1449bd-7bc6-4ae8-ac54-09a2cff9eda7_1024x1024_7a73cb4e-4814-4978-9b8c-01ce6220b198.jpg?v=1737630219",
@@ -6454,7 +6685,7 @@ window.productInfo = {
       "handle": "1119-bamboo-wood-skewer-bbq-sticks",
       "title": "Bamboo Wood Skewer Bbq Sticks",
       "salePrice": 27,
-      "stock": 7,
+      "stock": 6,
       "gst": 18,
       "hsn": "392690"
     },
@@ -6528,6 +6759,30 @@ window.productInfo = {
       "gst": 18,
       "hsn": "391000"
     },
+    "11453_apex_quba_push_chopper_1000ml_qpc": {
+      "sku": "11453_apex_quba_push_chopper_1000ml_qpc",
+      "itemCode": "11453",
+      "catalog": "home-&-kitchen",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_0596d3eb-edb5-4850-b02e-ebb90b6846a1.jpg?v=1745039998",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/sku_14979222-91f9-4206-9ce5-10450c938e3f.jpg?v=1745039998",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_c21cfcc9-05d7-4e07-b5d5-4e7a1aeb01e1.jpg?v=1745039998",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_ae5ea914-2a84-4535-bc68-b380199d3cea.jpg?v=1745039998",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_50a7ace8-f34b-45a2-8507-43356915852d.jpg?v=1745039999",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_7a35cf79-b4a0-45c0-b77b-817985d34e3b.jpg?v=1745039999",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_0a6bf486-9513-4d59-b0b0-df1e209b22d4.jpg?v=1745039999",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/78fb7348-e806-4be7-bbfe-c7f15057dfd8.jpg?v=1745039999"
+      ],
+      "alreadyOrdered": 6,
+      "handle": "apex-quba-push-chopper-with-stainless-steel-blades-1000ml",
+      "title": "Apex  Quba Push Chopper With Stainless Steel Blades (1000ml)",
+      "salePrice": 244,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "82100000",
+      "closingQuantity": 0,
+      "sold": 0
+    },
     "11493_apex_pla_4com_compact_basket_cb": {
       "sku": "11493_apex_pla_4com_compact_basket_cb",
       "itemCode": "11493",
@@ -6554,8 +6809,8 @@ window.productInfo = {
     "11494_apex_pla_wash_n_storage_basket_wsbf": {
       "sku": "11494_apex_pla_wash_n_storage_basket_wsbf",
       "itemCode": "11494",
-      "closingQuantity": 0,
-      "sold": 10,
+      "closingQuantity": 49,
+      "sold": 11,
       "catalog": "home-&-kitchen",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_fc8ad24e-2eb8-40f1-815b-912c66ae70d9.jpg?v=1745570097",
@@ -6567,13 +6822,35 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_72175b0e-7043-43e9-8ab2-2fcf7d9bc61a.jpg?v=1745570097",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/80b235f4-957d-45f1-b5da-ad8e5cca04ef.jpg?v=1745574942"
       ],
-      "alreadyOrdered": 50,
       "handle": "apex-multi-functional-plastic-strainer-bowl-with-ergonomic-handle-1-pc",
       "title": "Apex Multi - Functional Plastic Strainer Bowl With Ergonomic Handle (1 Pc)",
-      "salePrice": 110,
-      "stock": 0,
+      "salePrice": 118,
+      "stock": 49,
       "gst": 18,
       "hsn": "392410"
+    },
+    "11496_apex_plastic_multi_divider_holder_dh": {
+      "sku": "11496_apex_plastic_multi_divider_holder_dh",
+      "itemCode": "11496",
+      "catalog": "office-products",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_ee467385-a369-4de8-a0f4-641ebc20958f.jpg?v=1747713768",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/sku_e2ce97be-d938-4451-b180-a9d61363031d.jpg?v=1747713768",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_94b13147-2821-4023-992d-5bf3d842c49d.jpg?v=1747713768",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_6d5f0c91-a3a4-492d-8b91-8924b7068cf8.jpg?v=1747713768",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_1188baa3-9e47-48eb-8eb0-ac37ca76ca2b.jpg?v=1747713768",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_186531ae-d79a-43a6-bde8-882970dfbae9.jpg?v=1747713768",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/2048b62f-2ab2-4797-938d-6915ef735ee0.jpg?v=1747713768"
+      ],
+      "alreadyOrdered": 14,
+      "handle": "apex-premium-multipurpose-divider-holder-with-5-section-compartments",
+      "title": "Apex Premium Multipurpose Divider Holder With 5 - Section Compartments",
+      "salePrice": 106,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "392410",
+      "closingQuantity": 0,
+      "sold": 0
     },
     "1151_5tier_modular_drawer": {
       "sku": "1151_5tier_modular_drawer",
@@ -6625,6 +6902,8 @@ window.productInfo = {
     "11544_apex_ss_oil_pourer_1000ml_op": {
       "sku": "11544_apex_ss_oil_pourer_1000ml_op",
       "itemCode": "11544",
+      "closingQuantity": 10,
+      "sold": 0,
       "catalog": "home-&-kitchen",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_d7d24b47-7849-4ce9-bedd-2a8180046cc0.jpg?v=1747719794",
@@ -6636,21 +6915,18 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_479c1877-bd1f-4b25-bb0e-1b3e18d8a349.jpg?v=1747719794",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/de940639-c7f5-4253-9511-6403e899a88e.jpg?v=1747719794"
       ],
-      "alreadyOrdered": 10,
       "handle": "apex-1000ml-approx-stainless-steel-oil-pourer-1-pc",
       "title": "Apex 1000ml Approx. Stainless Steel Oil Pourer (1 Pc)",
       "salePrice": 313,
-      "stock": 0,
+      "stock": 10,
       "gst": 12,
-      "hsn": "73239390",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "73239390"
     },
     "11561_apex_majestic_gas_lighter_1pc_mgl": {
       "sku": "11561_apex_majestic_gas_lighter_1pc_mgl",
       "itemCode": "11561",
-      "closingQuantity": 19,
-      "sold": 11,
+      "closingQuantity": 26,
+      "sold": 12,
       "catalog": "home-&-kitchen",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/001_235f7b9a-fed8-43e0-8fe6-f67d3e5f5c83.jpg?v=1745039984",
@@ -6661,11 +6937,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_1282e676-5455-496e-a969-1c12e9851de8.jpg?v=1745039985",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/WhatsAppImage2025-04-15at14.38.06.jpg?v=1745039985"
       ],
-      "alreadyOrdered": 8,
       "handle": "apex-majestic-stainless-steel-gas-lighter",
       "title": "Apex Majestic Stainless Steel Gas Lighter",
-      "salePrice": 52,
-      "stock": 19,
+      "salePrice": 57,
+      "stock": 26,
       "gst": 18,
       "hsn": "96138090"
     },
@@ -6719,6 +6994,8 @@ window.productInfo = {
     "11602_apex_green_tea_strainer_1pc_gjs": {
       "sku": "11602_apex_green_tea_strainer_1pc_gjs",
       "itemCode": "11602",
+      "closingQuantity": 20,
+      "sold": 0,
       "catalog": "home-&-kitchen",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_68345c6f-4ae1-4544-a859-1623f0873c7d.jpg?v=1747713938",
@@ -6729,19 +7006,18 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_79093eac-7a8c-4f2a-b84a-e3bbf9bcd97a.jpg?v=1747713938",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/WhatsAppImage2025-05-19at13.48.09.jpg?v=1747713938"
       ],
-      "alreadyOrdered": 20,
       "handle": "apex-premium-green-tea-strainer-with-fine-stainless-steel-mesh",
       "title": "Apex Premium Green Tea Strainer With Fine Stainless Steel Mesh",
       "salePrice": 47,
-      "stock": 0,
+      "stock": 20,
       "gst": 18,
-      "hsn": "392410",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "392410"
     },
     "11607_apex_morning_strainer_1pc_no_03_mss": {
       "sku": "11607_apex_morning_strainer_1pc_no_03_mss",
       "itemCode": "11607",
+      "closingQuantity": 20,
+      "sold": 0,
       "catalog": "home-&-kitchen",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_b4fa5157-0998-458c-9680-46b73304dced.jpg?v=1745039980",
@@ -6753,19 +7029,18 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_f2bd3143-0e15-4aa5-9f3d-9755b25bae6b.jpg?v=1745039980",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/WhatsAppImage2025-04-15at14.39.51.jpg?v=1745039980"
       ],
-      "alreadyOrdered": 20,
       "handle": "apex-morning-stainless-steel-tea-and-coffee-strainer",
       "title": "Apex Morning Stainless Steel Tea And Coffee Strainer",
       "salePrice": 73,
-      "stock": 0,
+      "stock": 20,
       "gst": 12,
-      "hsn": "73239390",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "73239390"
     },
     "11624_apex_glory_storage_box_3pc_gsb": {
       "sku": "11624_apex_glory_storage_box_3pc_gsb",
       "itemCode": "11624",
+      "closingQuantity": 8,
+      "sold": 0,
       "catalog": "home-&-kitchen",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_18172ef7-c38a-47d9-aca7-781b5c87ad6b.jpg?v=1747736412",
@@ -6777,15 +7052,12 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_21ff54ee-4be0-40be-b9a5-ebb1baf8dd0f.jpg?v=1747736412",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/da48ac91-e16d-4d7d-83b7-0a977bdaacea.jpg?v=1747736412"
       ],
-      "alreadyOrdered": 8,
       "handle": "apex-glory-food-storage-container-set-3-piece",
       "title": "Apex Glory Food Storage Container Set – 3 - Piece",
-      "salePrice": 123,
-      "stock": 0,
+      "salePrice": 132,
+      "stock": 8,
       "gst": 18,
-      "hsn": "39241090",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "39241090"
     },
     "1163_sili_2in1_sink_drainer": {
       "sku": "1163_sili_2in1_sink_drainer",
@@ -6881,8 +7153,8 @@ window.productInfo = {
     "11689_apex_ss_fruit_fork_6pc_ssff": {
       "sku": "11689_apex_ss_fruit_fork_6pc_ssff",
       "itemCode": "11689",
-      "closingQuantity": 36,
-      "sold": 4,
+      "closingQuantity": 35,
+      "sold": 5,
       "catalog": "home-&-kitchen",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_f3f374ee-3992-41a1-9dd4-becbfdd31a80.jpg?v=1747907593",
@@ -6896,7 +7168,7 @@ window.productInfo = {
       "handle": "apex-6-in-1-stainless-steel-fruit-fork-1-set",
       "title": "Apex 6 In 1 Stainless Steel Fruit Fork (1 Set)",
       "salePrice": 91,
-      "stock": 36,
+      "stock": 35,
       "gst": 18,
       "hsn": "82152000"
     },
@@ -6925,6 +7197,8 @@ window.productInfo = {
     "11709_apex_ss_wire_hotmate_3pc_sswh": {
       "sku": "11709_apex_ss_wire_hotmate_3pc_sswh",
       "itemCode": "11709",
+      "closingQuantity": 10,
+      "sold": 0,
       "catalog": "home-&-kitchen",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/0_95842fe2-c4ce-46b6-8e66-ea76b0179d63.jpg?v=1747735553",
@@ -6937,15 +7211,12 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_f1112ed9-cd35-4bc5-9146-8f793faf38df.jpg?v=1747735553",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/WhatsAppImage2025-05-19at15.25.59.jpg?v=1747735553"
       ],
-      "alreadyOrdered": 10,
       "handle": "apex-stainless-steel-wire-hotmate-trivet-stand-set-of-3",
       "title": "Apex Stainless Steel Wire Hotmate Trivet Stand Set Of 3",
-      "salePrice": 171,
-      "stock": 0,
+      "salePrice": 177,
+      "stock": 10,
       "gst": 18,
-      "hsn": "73239390",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "73239390"
     },
     "11713_apex_push_it_soap_dispenser_300ml": {
       "sku": "11713_apex_push_it_soap_dispenser_300ml",
@@ -6996,7 +7267,7 @@ window.productInfo = {
     "11909_adj_fridge_organizer_basket_1pc": {
       "sku": "11909_adj_fridge_organizer_basket_1pc",
       "itemCode": "11909",
-      "closingQuantity": 6,
+      "closingQuantity": 26,
       "sold": 14,
       "catalog": "home-&-kitchen",
       "images": [
@@ -7009,11 +7280,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_4f043f79-a814-4ce6-a596-513d5a475773.jpg?v=1747807112",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/622a4ca0-1bc9-43a1-b955-b64446e6b8eb.jpg?v=1747807112"
       ],
-      "alreadyOrdered": 20,
       "handle": "adjustable-sliding-refrigerator-storage-basket-1-pc",
       "title": "Adjustable Sliding Refrigerator Storage Basket (1 Pc)",
-      "salePrice": 32,
-      "stock": 6,
+      "salePrice": 36,
+      "stock": 26,
       "gst": 18,
       "hsn": "392410"
     },
@@ -7090,6 +7360,8 @@ window.productInfo = {
     "11927_silicone_lemon_shape_ice_cube_tray": {
       "sku": "11927_silicone_lemon_shape_ice_cube_tray",
       "itemCode": "11927",
+      "closingQuantity": 6,
+      "sold": 0,
       "catalog": "home-&-kitchen",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_3c433d64-efc7-4b12-b67c-9517abd53443.jpg?v=1745903474",
@@ -7101,15 +7373,12 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_55aee246-a12b-4379-ad4a-479b4e4998dc.jpg?v=1745903455",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/4ae98121-341a-4e92-9adb-1347a59168d4.jpg?v=1745903455"
       ],
-      "alreadyOrdered": 6,
       "handle": "11927_silicone_lemon_shape_ice_cube_tray",
       "title": "Lemon Shape Flexible Silicone Ice Cube Tray – 8 - Slot Round Ice Mold (1 Pc)",
       "salePrice": 64,
-      "stock": 0,
+      "stock": 6,
       "gst": 18,
-      "hsn": "39241090",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "39241090"
     },
     "11929_fruit_juicer_measuring_cup": {
       "sku": "11929_fruit_juicer_measuring_cup",
@@ -7177,11 +7446,34 @@ window.productInfo = {
       "gst": 12,
       "hsn": "732393"
     },
+    "11939_plastic_urban_water_jug_1_8ltr": {
+      "sku": "11939_plastic_urban_water_jug_1_8ltr",
+      "itemCode": "11939",
+      "catalog": "home-&-kitchen",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_964b9103-85bc-4b15-8b64-66352e73eeaf.jpg?v=1744716147",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/521.jpg?v=1744716147",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_60f606ae-e9e0-4378-b220-b94387c5a452.jpg?v=1744716147",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_4608cde7-14f7-4a9b-92ec-2ba9d4004b3a.jpg?v=1744716147",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_364af968-de66-47ba-bb6a-2597f241b6aa.jpg?v=1744716147",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_5f6b7de7-45e5-4a3c-909c-103b422a86b5.jpg?v=1744716147",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/b98757d4-e32d-405f-b40f-0fe96421097f.jpg?v=1744716147"
+      ],
+      "alreadyOrdered": 4,
+      "handle": "urban-jug-1-8-litre-bpa-free-plastic-water-juice-jug-with-lid-and-handle",
+      "title": "Urban Jug 1.8 Litre | Bpa - Free Plastic Water & Juice Jug With Lid And Handle",
+      "salePrice": 170,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "392410",
+      "closingQuantity": 0,
+      "sold": 0
+    },
     "11947_plastic_storage_basket_n_handle_3pc": {
       "sku": "11947_plastic_storage_basket_n_handle_3pc",
       "itemCode": "11947",
-      "closingQuantity": 1.67,
-      "sold": 0.33,
+      "closingQuantity": 1,
+      "sold": 1,
       "items_per_bag": 3,
       "catalog": "home-&-kitchen",
       "images": [
@@ -7196,14 +7488,14 @@ window.productInfo = {
       "handle": "11947_plastic_storage_basket_with_handle_3pc",
       "title": "- Piece Plastic Multipurpose Storage Basket Bin Set With Handle (3 Pcs Set)",
       "salePrice": 276,
-      "stock": 1.67,
+      "stock": 1,
       "gst": 18,
       "hsn": "392690"
     },
     "11950_silicone_cupcake_mould_10pc": {
       "sku": "11950_silicone_cupcake_mould_10pc",
       "itemCode": "11950",
-      "closingQuantity": 4,
+      "closingQuantity": 8,
       "sold": 10,
       "catalog": "home-&-kitchen",
       "images": [
@@ -7215,11 +7507,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_8a3a904d-1d4a-4d7b-a94f-71215629ca3f.jpg?v=1744176642",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_14c21089-98ca-4e38-b862-db0dc3c4d0f5.jpg?v=1744377527"
       ],
-      "alreadyOrdered": 4,
       "handle": "silicone-cup-cake-mould-pcs-10",
       "title": "Silicone Cup Cake Mould (10 Pcs Set)",
       "salePrice": 52,
-      "stock": 4,
+      "stock": 8,
       "gst": 18,
       "hsn": "392410"
     },
@@ -7271,6 +7562,8 @@ window.productInfo = {
     "11963_sealing_rope_strap_clip_1pc": {
       "sku": "11963_sealing_rope_strap_clip_1pc",
       "itemCode": "11963",
+      "closingQuantity": 6,
+      "sold": 0,
       "catalog": "home-&-kitchen",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_f7d9062a-6403-4bb5-af34-bcf20f03c2b2.jpg?v=1742879934",
@@ -7281,15 +7574,12 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_b6034444-429e-4df7-a577-07faaefa005b.jpg?v=1742879934",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/d1246239-e166-4f9b-8a67-78dc247adefd.jpg?v=1742879934"
       ],
-      "alreadyOrdered": 6,
       "handle": "multifunctional-colorful-sealing-rope-strap-clips-1-pc",
       "title": "Multifunctional Colorful Sealing Rope Strap Clips (1 Pc)",
       "salePrice": 13,
-      "stock": 0,
+      "stock": 6,
       "gst": 18,
-      "hsn": "392690",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "392690"
     },
     "11972_tea_time_thermos_flask_800ml": {
       "sku": "11972_tea_time_thermos_flask_800ml",
@@ -7406,6 +7696,29 @@ window.productInfo = {
       "gst": 12,
       "hsn": "732393"
     },
+    "12053_6in1_vegetable_cutter_n_drain_basket": {
+      "sku": "12053_6in1_vegetable_cutter_n_drain_basket",
+      "itemCode": "12053",
+      "catalog": "chopper-slicer-cutter",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_0693f05b-0418-49ea-8478-b24a001f33e9.jpg?v=1737617150",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/11296fb4-2e2e-4b5e-aeab-070635d63579.jpg?v=1737617150",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_8b81c560-360b-40f7-b9f4-bf797ba5817f.jpg?v=1737617150",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_5f2bac36-22f1-42a5-9819-cc1408fac9a7.jpg?v=1737617150",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_17363c4e-9f1d-45ad-b7be-d27072e1ba4c.jpg?v=1737617150",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_3251c46c-a2ff-4c77-b8d1-3631cfc6b892.jpg?v=1737617150",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/ebcf0f80-5c3b-41c6-894a-7e74f37dc36e.jpg?v=1737617150"
+      ],
+      "alreadyOrdered": 5,
+      "handle": "12053_6in1_vegetable_cutter_n_drain_basket",
+      "title": "Vegetable Choppers With Drain Basket | 6 In 1 Vegetable Slicer Blades (1 Set)",
+      "salePrice": 192,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "392410",
+      "closingQuantity": 0,
+      "sold": 0
+    },
     "12071_super_king_4com_plastic_dry_fruit_box_1pc": {
       "sku": "12071_super_king_4com_plastic_dry_fruit_box_1pc",
       "itemCode": "12071",
@@ -7497,7 +7810,7 @@ window.productInfo = {
     "12085_ss_manual_egg_whisk_1pc": {
       "sku": "12085_ss_manual_egg_whisk_1pc",
       "itemCode": "12085",
-      "closingQuantity": 8,
+      "closingQuantity": 28,
       "sold": 29,
       "catalog": "kitchen-accessories",
       "images": [
@@ -7509,11 +7822,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_d0aa294a-1e21-4d7f-9337-de4e613c340d.jpg?v=1734351865",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/60d3112c-e251-4dc6-9ec5-4e6d4f79c170.jpg?v=1734351865"
       ],
-      "alreadyOrdered": 20,
       "handle": "stainless-steel-manual-milk-frother-egg-whisk-free-egg-separator",
       "title": "Stainless Steel Manual Milk Frother Egg Whisk Free Egg Separator (1 Pc)",
-      "salePrice": 32,
-      "stock": 8,
+      "salePrice": 36,
+      "stock": 28,
       "gst": 18,
       "hsn": "392410"
     },
@@ -7538,6 +7850,28 @@ window.productInfo = {
       "stock": 9,
       "gst": 18,
       "hsn": "392410"
+    },
+    "1209_polyester_laptop_backpack": {
+      "sku": "1209_polyester_laptop_backpack",
+      "itemCode": "1209",
+      "catalog": "bags",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_3cb49584-62d2-4d0e-91c2-ecb898105e1e.jpg?v=1737625080",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/b1420f8c-a065-420e-abd8-e7310c115bc9_a6388dc3-fcb2-4499-9ff1-23d804b68c27.jpg?v=1737625080",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_1da85c9b-a14f-4a20-8e29-f41ffc8e56a1.jpg?v=1737625080",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_33c1f464-e5cc-47ac-9638-9948d2fe625e.jpg?v=1737625080",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_25ea704b-0298-4c65-88c7-fdddf39514b1.jpg?v=1737625080",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03d5581f-ca87-4a28-8d9f-d4b6e9ce5ca1_4c1b2472-2a8c-49be-83f0-47a9ff2dfe52.jpg?v=1737625080"
+      ],
+      "alreadyOrdered": 4,
+      "handle": "1209_polyester_laptop_backpack",
+      "title": "Laptop Backpack Polyester Laptop Backpack Slim Durable Laptop Backpack Water Resistant College Bag Computer Bag Gifts For Men & Women",
+      "salePrice": 241,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "392410",
+      "closingQuantity": 0,
+      "sold": 0
     },
     "12100_silicone_spatula_brush_1pc": {
       "sku": "12100_silicone_spatula_brush_1pc",
@@ -7565,6 +7899,8 @@ window.productInfo = {
     "12107_ss_small_hand_push_rotary_whisk_no3": {
       "sku": "12107_ss_small_hand_push_rotary_whisk_no3",
       "itemCode": "12107",
+      "closingQuantity": 18,
+      "sold": 0,
       "catalog": "kitchen",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/09_dc2a4ae4-0816-432a-a46d-6bb3cadab73e.jpg?v=1737613839",
@@ -7577,15 +7913,12 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/08_688f32eb-eb89-4831-b7f3-81c528e1851a.jpg?v=1737613840",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/d964dd70-633e-44d4-a31a-102e8f842090.jpg?v=1737613840"
       ],
-      "alreadyOrdered": 18,
       "handle": "small-stainless-steel-egg-whisk-hand-push-rotary-whisk-blender-1-pc-27-cm",
       "title": "Small Stainless Steel Egg Whisk, Hand Push Rotary Whisk Blender (1 Pc / 27 Cm)",
-      "salePrice": 43,
-      "stock": 0,
+      "salePrice": 52,
+      "stock": 18,
       "gst": 18,
-      "hsn": "392410",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "392410"
     },
     "12111_2in1_glass_oil_dispenser_bottle": {
       "sku": "12111_2in1_glass_oil_dispenser_bottle",
@@ -7706,6 +8039,8 @@ window.productInfo = {
     "12132_classic_cuttlery_set_24pc": {
       "sku": "12132_classic_cuttlery_set_24pc",
       "itemCode": "12132",
+      "closingQuantity": 2,
+      "sold": 0,
       "catalog": "kitchen-tools",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_1f5ce553-f11a-4a13-88ca-cb45edc7381c.jpg?v=1737615441",
@@ -7716,15 +8051,12 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_f7b3df2b-c423-4228-a513-7cb63bc60827.jpg?v=1737615442",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/b7cd3b2b-a6fb-4940-a50e-5c6b5ef1c99e.jpg?v=1737615442"
       ],
-      "alreadyOrdered": 2,
       "handle": "classic-cutlery-set-for-dining-table-stainless-steel-24-piece-set-with-stand-1-set",
       "title": "Classic Cutlery Set For Dining Table Stainless Steel 24 - Piece Set With Stand (1 Set",
       "salePrice": 487,
-      "stock": 0,
+      "stock": 2,
       "gst": 18,
-      "hsn": "392410",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "392410"
     },
     "12135_plastic_6_grid_giraffe_ice_mold": {
       "sku": "12135_plastic_6_grid_giraffe_ice_mold",
@@ -7750,8 +8082,8 @@ window.productInfo = {
     "12144_multifunction_basting_brush_3pc": {
       "sku": "12144_multifunction_basting_brush_3pc",
       "itemCode": "12144",
-      "closingQuantity": 23,
-      "sold": 22,
+      "closingQuantity": 22,
+      "sold": 23,
       "catalog": "baking-tools",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_8e4b1dd8-73de-468d-8156-ac481eff2f67.jpg?v=1737615376",
@@ -7766,7 +8098,7 @@ window.productInfo = {
       "handle": "12144_multifunction_basting_brush_3pc",
       "title": "Multifunction Basting Brush, Barbecue Brush, For Cooking Pastry Brush Baking (3 Pcs Set)",
       "salePrice": 47,
-      "stock": 23,
+      "stock": 22,
       "gst": 18,
       "hsn": "392410"
     },
@@ -7795,7 +8127,7 @@ window.productInfo = {
     "12160_peeler_with_container_1pc": {
       "sku": "12160_peeler_with_container_1pc",
       "itemCode": "12160",
-      "closingQuantity": 12,
+      "closingQuantity": 22,
       "sold": 3,
       "catalog": "knife-&-cutlery",
       "images": [
@@ -7807,17 +8139,18 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_14d14277-c729-44e6-b384-f3b6b08160c6.jpg?v=1740977925",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/1530a105-5a5f-42e0-a68d-6d02e0421d9d.jpg?v=1740977925"
       ],
-      "alreadyOrdered": 10,
       "handle": "stainless-steel-peeler-with-container-1-pc",
       "title": "Stainless Steel Peeler With Container (1 Pc)",
       "salePrice": 52,
-      "stock": 12,
+      "stock": 22,
       "gst": 18,
       "hsn": "392410"
     },
     "12161_drinking_water_bottle_lifter_1pc": {
       "sku": "12161_drinking_water_bottle_lifter_1pc",
       "itemCode": "12161",
+      "closingQuantity": 6,
+      "sold": 0,
       "catalog": "house-hold",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/1_a0f4df56-694e-4141-ab6c-c54d1eed3801.jpg?v=1741412239",
@@ -7827,15 +8160,12 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/5_9a962eae-e15d-4405-a523-507b39a0c8a1.jpg?v=1741412239",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/2_dc8b89a6-a798-4700-a8f2-540adb823306.jpg?v=1741412239"
       ],
-      "alreadyOrdered": 6,
       "handle": "drinking-water-bottle-lifter-water-container",
       "title": "Drinking Water Bottle Lifter Water Container Kettle Handle (1 Pc)",
-      "salePrice": 45,
-      "stock": 0,
+      "salePrice": 49,
+      "stock": 6,
       "gst": 18,
-      "hsn": "401490",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "401490"
     },
     "1216_cartoon_shoulder_purse_1pc": {
       "sku": "1216_cartoon_shoulder_purse_1pc",
@@ -7908,6 +8238,8 @@ window.productInfo = {
     "12204_3_grid_masala_storage_box_n_spoon": {
       "sku": "12204_3_grid_masala_storage_box_n_spoon",
       "itemCode": "12204",
+      "closingQuantity": 12,
+      "sold": 0,
       "catalog": "kitchen-storage",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_d6745544-caa4-4c05-8c50-fbb6f69e2b8e.jpg?v=1737614623",
@@ -7919,15 +8251,12 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_adbf8e3f-1866-420b-af41-92dcad38d5e9.jpg?v=1737614624",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/fa7bf5c5-4196-42dc-8ff4-01e4463ecc08.jpg?v=1737614624"
       ],
-      "alreadyOrdered": 12,
       "handle": "12204_3_grid_masala_storage_box_n_spoon",
       "title": "Home Kitchen 3 Grid Seasoning Spice / Masala Box Kit With Spoon (Multicolor / 1 Set)",
-      "salePrice": 161,
-      "stock": 0,
+      "salePrice": 169,
+      "stock": 12,
       "gst": 18,
-      "hsn": "392410",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "392410"
     },
     "12210_smiley_food_storage_containers_4pc": {
       "sku": "12210_smiley_food_storage_containers_4pc",
@@ -8020,6 +8349,30 @@ window.productInfo = {
       "gst": 18,
       "hsn": "392490"
     },
+    "12228_food_storage_containers_4pc": {
+      "sku": "12228_food_storage_containers_4pc",
+      "itemCode": "12228",
+      "catalog": "kitchen-storage",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/ff16ff89-699e-474b-bcdb-05404eedabc6.jpg?v=1739361969",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_4ddf0240-99a6-4e74-8c68-22a6de9e787c.jpg?v=1739442005",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_772ef3b0-c125-42c6-a198-f01271091bf5.jpg?v=1739442005",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_29a4e076-6904-4adb-9f84-eaf06dce8a3d.jpg?v=1739442005",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_f1f02451-de4c-4a50-807b-f0e4e16119b3.jpg?v=1739442005",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_b70352a6-4f3a-44cb-a841-79540b11d598.jpg?v=1739442005",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_7c0e6a88-13d9-4067-82ce-29df8a3c157e.jpg?v=1739442005",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/54467857-423e-4487-83bf-55d63e7d31d8.jpg?v=1739447549"
+      ],
+      "alreadyOrdered": 7,
+      "handle": "food-storage-containers-microwave-4pc",
+      "title": "Food Storage Containers - Microwave (4 Pc/400ml)",
+      "salePrice": 182,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "392410",
+      "closingQuantity": 0,
+      "sold": 0
+    },
     "12235_plastic_baking_measuring_cup_2_5l": {
       "sku": "12235_plastic_baking_measuring_cup_2_5l",
       "itemCode": "12235",
@@ -8045,7 +8398,7 @@ window.productInfo = {
     "12241_ss_medium_hand_push_rotary_whisk_no2": {
       "sku": "12241_ss_medium_hand_push_rotary_whisk_no2",
       "itemCode": "12241",
-      "closingQuantity": 8,
+      "closingQuantity": 23,
       "sold": 3,
       "catalog": "kitchen-tools",
       "images": [
@@ -8061,11 +8414,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/08_6b69ea9f-93da-4107-8393-98a280ecb8da.jpg?v=1737613851",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/45e566e4-2d4a-4e54-b52c-5ef37946e6fe.jpg?v=1737613851"
       ],
-      "alreadyOrdered": 15,
       "handle": "medium-stainless-steel-egg-whisk-hand-push-rotary-whisk-blender-1-pc-30-cm",
       "title": "Medium Stainless Steel Egg Whisk, Hand Push Rotary Whisk Blender (1 Pc / 30 Cm)",
       "salePrice": 52,
-      "stock": 8,
+      "stock": 23,
       "gst": 18,
       "hsn": "392410"
     },
@@ -8120,6 +8472,8 @@ window.productInfo = {
     "12245_silicone_kitchen_brush_1pc_no5": {
       "sku": "12245_silicone_kitchen_brush_1pc_no5",
       "itemCode": "12245",
+      "closingQuantity": 23,
+      "sold": 0,
       "catalog": "baking-tools",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_ba4eb296-c252-4fed-8fed-52951dc3648f.jpg?v=1738043218",
@@ -8132,15 +8486,12 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_220e537b-5a3b-4b1f-b43e-272480b182b4.jpg?v=1738043219",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/f563b9ae-6e68-43e9-96b7-ca238cc8836a.jpg?v=1738043219"
       ],
-      "alreadyOrdered": 23,
       "handle": "silicone-kitchen-oil-spatula-brush-with-handle-pastry-cake-brush-17-cm-1-pc",
       "title": "Silicone Kitchen Oil Spatula Brush With Handle Pastry / Cake Brush (17 Cm / 1 Pc)",
       "salePrice": 13,
-      "stock": 0,
+      "stock": 23,
       "gst": 18,
-      "hsn": "392410",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "392410"
     },
     "12247_silicone_cooking_spatula_1pc_no1": {
       "sku": "12247_silicone_cooking_spatula_1pc_no1",
@@ -8168,6 +8519,8 @@ window.productInfo = {
     "12248_silicone_cooking_spatula_1pc_no3": {
       "sku": "12248_silicone_cooking_spatula_1pc_no3",
       "itemCode": "12248",
+      "closingQuantity": 34,
+      "sold": 0,
       "catalog": "baking-tools",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_aeda6f0e-14ea-4e74-b114-9cbf464d7159.jpg?v=1738043186",
@@ -8180,15 +8533,12 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/07_fc3d1a65-b132-45b8-938f-0b1f29f8207d.jpg?v=1738043187",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/f53fac6f-416f-4b01-aef6-ed1b1f1706fd.jpg?v=1738043187"
       ],
-      "alreadyOrdered": 34,
       "handle": "silicone-cooking-spatula-for-baking-1-pc-19-cm",
       "title": "Silicone Cooking Spatula For Baking (1 Pc / 18 Cm)",
       "salePrice": 19,
-      "stock": 0,
+      "stock": 34,
       "gst": 18,
-      "hsn": "392410",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "392410"
     },
     "1224l_ind_face_ice_roller": {
       "sku": "1224l_ind_face_ice_roller",
@@ -8238,6 +8588,28 @@ window.productInfo = {
       "gst": 18,
       "hsn": "392410"
     },
+    "12256_ss_vacuum_tumbler_with_lid": {
+      "sku": "12256_ss_vacuum_tumbler_with_lid",
+      "itemCode": "12256",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/Tumbler-01.jpg?v=1752121326",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/b2d6d441-24f9-4325-ab8a-d5f1ce025b4c.jpg?v=1752121326",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/Tumbler-03.jpg?v=1752121326",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/Tumbler-04.jpg?v=1752121326",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/Tumbler-05.jpg?v=1752121326",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/Tumbler-02.jpg?v=1752121326",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/c2161e80-bb96-4b81-b30e-c564dcc21f96.jpg?v=1752121326"
+      ],
+      "alreadyOrdered": 4,
+      "handle": "extra-large-insulated-travel-mug",
+      "title": "Extra Large Insulated Travel Mug (1200ml - 1 Pc)",
+      "salePrice": 440,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "96170019",
+      "closingQuantity": 0,
+      "sold": 0
+    },
     "12260_ss_water_bottle_1000ml": {
       "sku": "12260_ss_water_bottle_1000ml",
       "itemCode": "12260",
@@ -8261,7 +8633,7 @@ window.productInfo = {
     "12261_ss_water_bottle_750ml": {
       "sku": "12261_ss_water_bottle_750ml",
       "itemCode": "12261",
-      "closingQuantity": 0,
+      "closingQuantity": 2,
       "sold": 6,
       "catalog": "bottles",
       "images": [
@@ -8271,11 +8643,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_01a325f0-f332-4a63-81b4-548cf3556d6a.jpg?v=1739353445",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_92c6362d-f4c0-44a7-b812-03a656bff671.jpg?v=1739353445"
       ],
-      "alreadyOrdered": 2,
       "handle": "stainless-steel-double-wall-vacuum-insulated-drink-water-bottle-750-ml",
       "title": "Stainless Steel Double Wall Vacuum - Insulated Drink Water Bottle (750 Ml)",
-      "salePrice": 156,
-      "stock": 0,
+      "salePrice": 164,
+      "stock": 2,
       "gst": 18,
       "hsn": "732393"
     },
@@ -8320,6 +8691,51 @@ window.productInfo = {
       "stock": 0,
       "gst": 18,
       "hsn": "392410"
+    },
+    "12268_electric_handheld_milk_frother": {
+      "sku": "12268_electric_handheld_milk_frother",
+      "itemCode": "12268",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_5f6a0275-29aa-4613-92a9-2846d11450f6.jpg?v=1744691097",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/WhatsAppImage2025-04-10at14.45.05_1.jpg?v=1744691097",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_39abb76e-821c-4886-b2b8-dc6348af7632.jpg?v=1744691097",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_77650619-7782-40e0-902a-e590f9fb8715.jpg?v=1744691097",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_7658bbd0-9751-481f-80ba-8ebd7562db45.jpg?v=1744691097",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_f15c7ef6-e9e5-42f3-b78b-39dd214f6d3f.jpg?v=1744691097",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/fa879ae0-2c2c-4942-979e-0de2c4adfb27.jpg?v=1744636176"
+      ],
+      "alreadyOrdered": 20,
+      "handle": "electric-handheld-milk-frother-with-stainless-steel-whisk",
+      "title": "Small Electric Handheld Milk Frother With Stainless Steel Whisk (1 Pc)",
+      "salePrice": 162,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "850940",
+      "closingQuantity": 0,
+      "sold": 0
+    },
+    "12275_insulated_thermal_lunch_bag_1pc": {
+      "sku": "12275_insulated_thermal_lunch_bag_1pc",
+      "itemCode": "12275",
+      "catalog": "home-improvement",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_b50d70c3-6bc8-4988-a243-03d1af7505fa.jpg?v=1746521359",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/WhatsAppImage2025-05-03at16.30.43.jpg?v=1746521359",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_3c1cdfe4-c44c-4ee2-8cd7-9dafe5e15954.jpg?v=1746521359",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_03768f8e-31b8-40d3-a08b-562c08937293.jpg?v=1746521359",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_09249d14-a15a-449a-a3c3-0eabef36db68.jpg?v=1746521359",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_2d7a8f23-dfde-44ef-8634-88fba48b17c8.jpg?v=1746521359",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/937e8383-356f-4fde-b009-e73692bd68a2.jpg?v=1746521359"
+      ],
+      "alreadyOrdered": 14,
+      "handle": "insulated-thermal-lunch-bag-1-pc",
+      "title": "Insulated Thermal Lunch Bag (1 Pc)",
+      "salePrice": 106,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "42029200",
+      "closingQuantity": 0,
+      "sold": 0
     },
     "1227_face_ice_roller_n_scrubber": {
       "sku": "1227_face_ice_roller_n_scrubber",
@@ -8387,11 +8803,35 @@ window.productInfo = {
       "gst": 28,
       "hsn": "420221"
     },
+    "12307_6in1_plastic_square_water_bottles": {
+      "sku": "12307_6in1_plastic_square_water_bottles",
+      "itemCode": "12307",
+      "catalog": "home-&-kitchen",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_eddbb76a-a98f-4555-9e4a-1d0979c01562.jpg?v=1746702646",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/WhatsAppImage2025-05-07at14.54.55.jpg?v=1746702646",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_3747dd0e-0f21-4d49-a560-ed998d2e5fd4.jpg?v=1746702646",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_418bda07-2cb9-4229-8e7a-e0a9b972ffc0.jpg?v=1746702646",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/08_a39f02ff-9073-40f4-9d77-60e0b416ce86.jpg?v=1746702646",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/07_27339d15-42a9-44ed-b81a-fb235f43aee2.jpg?v=1746702646",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_2826b7a3-44fc-49f9-a16a-76d23f93b424.jpg?v=1746702646",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/9b29ec6f-fadf-494f-b6eb-e6422c26c0ba.jpg?v=1746702646"
+      ],
+      "alreadyOrdered": 7,
+      "handle": "bpa-plastic-leakproof-hydration-water-bottles-6-in-1",
+      "title": "Bpa Plastic Leakproof Hydration Water Bottles (6 In 1)",
+      "salePrice": 205,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "392330",
+      "closingQuantity": 0,
+      "sold": 0
+    },
     "12315_ritu_zebra_knife_laser_8_j337": {
       "sku": "12315_ritu_zebra_knife_laser_8_j337",
       "itemCode": "12315",
-      "closingQuantity": 2,
-      "sold": 4,
+      "closingQuantity": 4,
+      "sold": 5,
       "catalog": "home-&-kitchen",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_eb603cb2-5027-4ff0-9399-2ed2c81b0fd4.jpg?v=1748681090",
@@ -8402,11 +8842,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_dea16437-5730-4770-be91-137a1e550ef7.jpg?v=1748681090",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/b1caa0dc-2356-4130-9d25-8917b86aef09.jpg?v=1748681090"
       ],
-      "alreadyOrdered": 3,
       "handle": "stainless-steel-serrated-blade-zebra-kitchen-knife-1-pc",
       "title": "Ritu Stainless Steel Serrated Blade Zebra Kitchen Knife (1 Pc)",
       "salePrice": 70,
-      "stock": 2,
+      "stock": 4,
       "gst": 18,
       "hsn": "82119200"
     },
@@ -8715,6 +9154,8 @@ window.productInfo = {
     "12532_2head_face_mask_brush_1pc": {
       "sku": "12532_2head_face_mask_brush_1pc",
       "itemCode": "12532",
+      "closingQuantity": 15,
+      "sold": 0,
       "catalog": "beauty-&-personal-care",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/09_b8078cd5-4b15-44f2-bcc8-8c22ce8393f5.jpg?v=1737623046",
@@ -8728,21 +9169,18 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_99dd6094-077c-4e46-8ec6-ede2a45bee83.jpg?v=1737623047",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/6c41cb73-5a62-4bfe-a8de-df58ab222ee1_98774069-d50c-4477-a389-9d39bd7e6d5b.jpg?v=1737623047"
       ],
-      "alreadyOrdered": 15,
       "handle": "double-headed-face-silicone-mask-brush",
       "title": "Double - Headed Silicone Mask Brush Face Cleansing And Applying Mud Mask Beauty Salon Special Brush Smear Tool Facial Scrub Silicone Wash Scrubber Face Tools (1 Pc)",
-      "salePrice": 25,
-      "stock": 0,
+      "salePrice": 27,
+      "stock": 15,
       "gst": 18,
-      "hsn": "392410",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "392410"
     },
     "1254_eyebrow_razor_3pcs": {
       "sku": "1254_eyebrow_razor_3pcs",
       "itemCode": "1254",
-      "closingQuantity": 19,
-      "sold": 1,
+      "closingQuantity": 17,
+      "sold": 3,
       "catalog": "beauty-&-personal-care",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_add0e260-d67d-4944-b829-e9dfd373314d.jpg?v=1737622618",
@@ -8756,7 +9194,7 @@ window.productInfo = {
       "handle": "eyebrow-facial-hair-removal-razor",
       "title": "Eyebrow Painless Facial Hair Remover Razor For Face, Women And Men (3 Pack)",
       "salePrice": 25,
-      "stock": 19,
+      "stock": 17,
       "gst": 18,
       "hsn": "821210"
     },
@@ -8788,7 +9226,7 @@ window.productInfo = {
     "12555_ice_cream_water_bottle_300ml": {
       "sku": "12555_ice_cream_water_bottle_300ml",
       "itemCode": "12555",
-      "closingQuantity": 1,
+      "closingQuantity": 2,
       "sold": 3,
       "catalog": "bottles",
       "images": [
@@ -8800,11 +9238,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_dc2804f0-df3d-4f71-8198-907066481ed9.jpg?v=1737623703",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/a693b068-8a36-411a-85b9-648e2b7b7aee_e8f93218-558e-4f70-874f-bc21242da328.jpg?v=1737623703"
       ],
-      "alreadyOrdered": 1,
       "handle": "portable-water-bottles-for-kids",
       "title": "Portable Cute Water Bottle For Kids, Unique Ice Cream Shape Water Cup, Popsicle Shaped Plastic Kettle With Straw, Adjustable Shoulder Strap, Bpa Free, Leakproof (300 Ml)",
       "salePrice": 362,
-      "stock": 1,
+      "stock": 2,
       "gst": 18,
       "hsn": "392410"
     },
@@ -8832,6 +9269,8 @@ window.productInfo = {
     "12564_solar_wall_lamp_1pc": {
       "sku": "12564_solar_wall_lamp_1pc",
       "itemCode": "12564",
+      "closingQuantity": 3,
+      "sold": 0,
       "catalog": "home-decor",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/08_41f723d0-703e-479d-a3ee-6269447cd192.jpg?v=1737625784",
@@ -8844,15 +9283,12 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_5c1dd5ec-2339-440b-b1ae-1489428e46ec.jpg?v=1737625785",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/f6e7aade-7c64-4d46-abe8-92e07cb452f6.jpg?v=1737625785"
       ],
-      "alreadyOrdered": 3,
       "handle": "12564-solar-wall-lights-lamp-outdoor-wireless-dusk-to-dawn-porch-lights-fixture-solar-wall-lantern-with-3-modes-motion-sensor-waterproof-exterior-lighting-with-clear-panel-1-pc",
       "title": "Solar Wall Lights / Lamp Outdoor, Wireless Dusk To Dawn Porch Lights Fixture, Solar Wall Lantern With 3 Modes & Motion Sensor, Waterproof Exterior Lighting With Clear Panel (1 Pc )",
-      "salePrice": 175,
-      "stock": 0,
+      "salePrice": 184,
+      "stock": 3,
       "gst": 18,
-      "hsn": "392410",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "392410"
     },
     "12566_bug_shape_water_bottle": {
       "sku": "12566_bug_shape_water_bottle",
@@ -8998,7 +9434,7 @@ window.productInfo = {
     "12659_c_type_charger_cable": {
       "sku": "12659_c_type_charger_cable",
       "itemCode": "12659",
-      "closingQuantity": 3,
+      "closingQuantity": 23,
       "sold": 17,
       "catalog": "electronics-accessories",
       "images": [
@@ -9009,11 +9445,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_52ebf15a-f870-4781-89a2-3d6f0aa09dd8.jpg?v=1737625120",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/54bbdddf-ff10-4bbf-b258-d2cb9726a112.jpg?v=1737625120"
       ],
-      "alreadyOrdered": 20,
       "handle": "type-c-dash-charging-usb-cable-fast-charging-data-transfer",
       "title": "Unique Type C Dash Charging Usb Data Cable | Fast Charging Cable | Data Transfer Cable For All C Type Mobile Use",
-      "salePrice": 65,
-      "stock": 3,
+      "salePrice": 71,
+      "stock": 23,
       "gst": 18,
       "hsn": "392410"
     },
@@ -9087,7 +9522,7 @@ window.productInfo = {
     "12684_2mm_derma_roller": {
       "sku": "12684_2mm_derma_roller",
       "itemCode": "12684",
-      "closingQuantity": 0,
+      "closingQuantity": 5,
       "sold": 10,
       "catalog": "beauty-&-personal-care",
       "images": [
@@ -9098,11 +9533,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/5_c87817be-3dd5-4a4d-bcd3-0509ae7a4963.jpg?v=1737620767",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/6_85a69e03-dc62-473d-9654-b18477ac90ea.jpg?v=1737620767"
       ],
-      "alreadyOrdered": 5,
       "handle": "derma-roller-anti-ageing-and-facial-scrubs-polishes-scar-removal-hair-regrowth-1-5-mm-2-mm-1",
       "title": "Derma Roller Anti Ageing And Facial Scrubs & Polishes Scar Removal Hair Regrowth (2 Mm)",
-      "salePrice": 55,
-      "stock": 0,
+      "salePrice": 60,
+      "stock": 5,
       "gst": 18,
       "hsn": "392410"
     },
@@ -9207,7 +9641,7 @@ window.productInfo = {
     "12734_bb_3com_medicine_storage_box": {
       "sku": "12734_bb_3com_medicine_storage_box",
       "itemCode": "12734",
-      "closingQuantity": 4,
+      "closingQuantity": 24,
       "sold": 6,
       "catalog": "house-hold",
       "images": [
@@ -9219,11 +9653,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_722d9baa-0123-48d0-a402-cb49f9dff34c.jpg?v=1737623624",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/826ca416-7fd3-4910-b49e-a8e1bf226638.jpg?v=1737623624"
       ],
-      "alreadyOrdered": 20,
       "handle": "12734_3com_medicine_storage_box",
       "title": "Medical Box, 1 Piece, Indoor Outdoor Medical Utility, Medicine Storage Box, Detachable Tray Medical Box Multi Purpose Regular Medicine, First Aid Box With Handle & Transparent Lid",
-      "salePrice": 103,
-      "stock": 4,
+      "salePrice": 110,
+      "stock": 24,
       "gst": 18,
       "hsn": "392410"
     },
@@ -9273,8 +9706,8 @@ window.productInfo = {
     "12791_80g_natural_multani_mitti": {
       "sku": "12791_80g_natural_multani_mitti",
       "itemCode": "12791",
-      "closingQuantity": 21,
-      "sold": 68,
+      "closingQuantity": 50,
+      "sold": 69,
       "catalog": "beauty-&-personal-care",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_725367d7-3b1d-40b5-a4c2-c331ffc12012.jpg?v=1737622842",
@@ -9285,11 +9718,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_089dd288-5574-4432-ae17-e7d18caa9e6a.jpg?v=1737622842",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/6f9303f1-db06-48ee-bdd2-25b83e1ac20d.jpg?v=1737622842"
       ],
-      "alreadyOrdered": 30,
       "handle": "12791-100gram-herbal-tan-removing-multani-mitti-face-pack-for-skin-care-age-group",
       "title": "100gram Herbal Tan Removing Multani Mitti Face Pack For Skin Care Age Group",
       "salePrice": 12,
-      "stock": 21,
+      "stock": 50,
       "gst": 18,
       "hsn": "392410"
     },
@@ -9438,8 +9870,8 @@ window.productInfo = {
     "12912_15grid_jewelry_organizer": {
       "sku": "12912_15grid_jewelry_organizer",
       "itemCode": "12912",
-      "closingQuantity": 5,
-      "sold": 5,
+      "closingQuantity": 4,
+      "sold": 6,
       "catalog": "house-hold",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_2517aca9-77ec-4aa5-b216-28158ae90f82.jpg?v=1737622235",
@@ -9454,7 +9886,7 @@ window.productInfo = {
       "handle": "12912_15grid_jewelry_organizer-1",
       "title": "15 Grids Jewelry Organizer Plastic Jewelry Organizer Box Clear Jewelry Organizer Box Plastic Bead Organizers With Adjustable Dividers For Herbs Pills Bead, Jewelry, And Other Small Item (1 Pc)",
       "salePrice": 45,
-      "stock": 5,
+      "stock": 4,
       "gst": 18,
       "hsn": "392410"
     },
@@ -9986,8 +10418,8 @@ window.productInfo = {
     "13237_travel_shoulder_bag_1pc": {
       "sku": "13237_travel_shoulder_bag_1pc",
       "itemCode": "13237",
-      "closingQuantity": 3,
-      "sold": 3,
+      "closingQuantity": 2,
+      "sold": 4,
       "catalog": "bags",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_add491cf-48ee-4d31-935f-2aba3c43bf42.jpg?v=1738304213",
@@ -10001,7 +10433,7 @@ window.productInfo = {
       "handle": "waterproof-waist-bag-with-usb-charging-for-travel",
       "title": "Waterproof Waist Bag, Shoulder Bags USB Charging Earphone Hook Sling Travel Bag (1 Pc)",
       "salePrice": 105,
-      "stock": 3,
+      "stock": 2,
       "gst": 18,
       "hsn": "392410"
     },
@@ -10209,6 +10641,29 @@ window.productInfo = {
       "stock": 7,
       "gst": 18,
       "hsn": "392410"
+    },
+    "13417_ss_tongue_cleaner_1pc": {
+      "sku": "13417_ss_tongue_cleaner_1pc",
+      "itemCode": "13417",
+      "catalog": "beauty-&-personal-care",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_07d6aea7-8be7-494a-ad24-7fdaae26ec60.jpg?v=1737619403",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/c699a421-41f8-4de5-9f17-771ef3185c66.jpg?v=1737619403",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_0fb2e471-9568-400f-b082-8d215aeeea90.jpg?v=1737619404",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_2ef5de5d-c575-4b9b-9313-3b8ae8d77cd5.jpg?v=1737619404",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_afd96cad-904e-4472-84d1-6668d69798df.jpg?v=1737619404",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_8dd866e1-d3cf-44c9-86ee-23e53e7d5dfe.jpg?v=1737619404",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/28596659-6f38-4b4d-a6e1-dfb4bf0f97a8.jpg?v=1737619404"
+      ],
+      "alreadyOrdered": 10,
+      "handle": "13417_ss_tongue_cleaner_1pc",
+      "title": "Steel Tongue Cleaner, Tongue Scraper (1 Pc)",
+      "salePrice": 83,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "392410",
+      "closingQuantity": 0,
+      "sold": 0
     },
     "13479_makeup_organiser_box": {
       "sku": "13479_makeup_organiser_box",
@@ -10437,8 +10892,8 @@ window.productInfo = {
     "13630_face_massage_ice_roller_1pc": {
       "sku": "13630_face_massage_ice_roller_1pc",
       "itemCode": "13630",
-      "closingQuantity": 57,
-      "sold": 86,
+      "closingQuantity": 56,
+      "sold": 87,
       "catalog": "beauty-&-personal-care",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_9cea5e9c-9214-4fd3-bb07-a4f9f80d7f81.jpg?v=1737617976",
@@ -10452,7 +10907,7 @@ window.productInfo = {
       "handle": "13630-face-massage-ice-roller-1pc",
       "title": "Beauty Face Massage Ice Roller (1 Pc)",
       "salePrice": 18,
-      "stock": 57,
+      "stock": 56,
       "gst": 18,
       "hsn": "392410"
     },
@@ -10526,8 +10981,8 @@ window.productInfo = {
     "1365_semi_cloth_clip_12pc": {
       "sku": "1365_semi_cloth_clip_12pc",
       "itemCode": "1365",
-      "closingQuantity": 87,
-      "sold": 43,
+      "closingQuantity": 86,
+      "sold": 44,
       "catalog": "hangers-&-wardrobe-storage",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/40160086-2_2-mr-boss-lotus-plastic-clip-cloth-clip.jpg?v=1737630359",
@@ -10540,7 +10995,7 @@ window.productInfo = {
       "handle": "1365-plastic-cloth-clips-for-cloth-dying-cloth-clips-multicolour",
       "title": "Plastic Cloth Clips For Cloth Dying Cloth Clips (Multicolour)",
       "salePrice": 16,
-      "stock": 87,
+      "stock": 86,
       "gst": 18,
       "hsn": "392410"
     },
@@ -10638,8 +11093,8 @@ window.productInfo = {
     "1371_loose_5sec_socks_tray": {
       "sku": "1371_loose_5sec_socks_tray",
       "itemCode": "1371",
-      "closingQuantity": 30,
-      "sold": 50,
+      "closingQuantity": 29,
+      "sold": 51,
       "catalog": "hangers-&-wardrobe-storage",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/1371.jpg?v=1737630382",
@@ -10660,15 +11115,15 @@ window.productInfo = {
       "handle": "1371-dividers-tray-organizer-clear-plastic-bead-storage-tray-multicolour",
       "title": "Dividers Tray Organizer Clear Plastic Bead Storage Tray (Multicolour)",
       "salePrice": 32,
-      "stock": 30,
+      "stock": 29,
       "gst": 18,
       "hsn": "932690"
     },
     "13741_makeup_foundation_brush_n_casse": {
       "sku": "13741_makeup_foundation_brush_n_casse",
       "itemCode": "13741",
-      "closingQuantity": 23,
-      "sold": 47,
+      "closingQuantity": 22,
+      "sold": 48,
       "catalog": "beauty-&-personal-care",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_26884930-fb6a-451a-9c3c-3fa3a048c855.jpg?v=1737617614",
@@ -10683,7 +11138,7 @@ window.productInfo = {
       "handle": "13741_makeup_foundation_brush_n_casse",
       "title": "Foundation Makeup Brush, perfect Makeup Brush Portable Case (1 Pc)",
       "salePrice": 67,
-      "stock": 23,
+      "stock": 22,
       "gst": 18,
       "hsn": "392410"
     },
@@ -10708,6 +11163,30 @@ window.productInfo = {
       "stock": 0,
       "gst": 18,
       "hsn": "392410"
+    },
+    "13754_portable_lint_remover_roller_1pc": {
+      "sku": "13754_portable_lint_remover_roller_1pc",
+      "itemCode": "13754",
+      "catalog": "beauty-&-personal-care",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_8420b7fa-a232-43c9-91c7-f8f30a51bae2.jpg?v=1737615416",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/126_b554eb8a-6a98-4c29-a2ac-f7df608e8c85.jpg?v=1737615416",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_204f77ba-4995-400b-bc56-2aed4d2e173c.jpg?v=1737615416",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_daeb51d6-6d02-4cfc-9488-fb52a8256028.jpg?v=1737615416",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_d277855d-6f6d-4b29-8773-5cb4f7ec8a30.jpg?v=1737615416",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_b81f2835-9c4a-4d29-9090-c9bc873f5954.jpg?v=1737615416",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/5b3cb108-05e0-438d-bfe8-21624668acec.jpg?v=1737615416",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/fe85ab78-ff45-4d74-bb05-55b955859f24.jpg?v=1737615417"
+      ],
+      "alreadyOrdered": 10,
+      "handle": "lint-roller-reusable-animal-hair-remover-13754",
+      "title": "Reusable Lint Roller - Animal Hair Remover (1 Pc / Mix Color)",
+      "salePrice": 35,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "392410",
+      "closingQuantity": 0,
+      "sold": 0
     },
     "1375_wash_basin_brush": {
       "sku": "1375_wash_basin_brush",
@@ -10920,8 +11399,8 @@ window.productInfo = {
     "1384_smart_travel_bottle_set": {
       "sku": "1384_smart_travel_bottle_set",
       "itemCode": "1384",
-      "closingQuantity": 7,
-      "sold": 3,
+      "closingQuantity": 6,
+      "sold": 4,
       "catalog": "travel",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/5dae6a4121cb170781d21f46-7-large.jpg?v=1737630449",
@@ -10939,9 +11418,32 @@ window.productInfo = {
       "handle": "1384-4-in-1-travel-dispenser-bottle-set-travel-refillable-cosmetic-containers-set",
       "title": "4 In 1 Travel Dispenser Bottle Set Travel Refillable Cosmetic Containers Set",
       "salePrice": 158,
-      "stock": 7,
+      "stock": 6,
       "gst": 18,
       "hsn": "392690"
+    },
+    "13850_ss_insulated_coffee_cup_400ml_1pc": {
+      "sku": "13850_ss_insulated_coffee_cup_400ml_1pc",
+      "itemCode": "13850",
+      "catalog": "home-&-kitchen",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_86b41619-4f0e-4337-98c8-eeff7f475afd.jpg?v=1751716923",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/WhatsAppImage2025-07-04at18.49.54_bfd45fec-e384-4576-9bab-f24145695a59.jpg?v=1751716923",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_bf79bc15-c56f-42f7-8981-8e8eea1be78d.jpg?v=1751716923",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_d14054eb-ae1b-43ee-accf-c8285f8af3d2.jpg?v=1751716923",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_d40e560b-4721-4fb4-a0b9-419b35a814a6.jpg?v=1751716923",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_44053b52-2046-433e-97f2-7d6a07540041.jpg?v=1751716923",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/19f6ffed-b791-4a76-a5bd-c3388b115a8d_08b0c662-aee1-4c92-a2bb-f9d6116b8596.jpg?v=1751716923"
+      ],
+      "alreadyOrdered": 3,
+      "handle": "stainless-steel-vacuum-insulated-coffee-flask-with-flip-lock-lid-400ml-1-pc",
+      "title": "Stainless Steel Vacuum Insulated Coffee Flask With Flip Lock Lid (400ml / 1 Pc)",
+      "salePrice": 182,
+      "stock": 0,
+      "gst": 12,
+      "hsn": "96170011",
+      "closingQuantity": 0,
+      "sold": 0
     },
     "13857_electric_massage_gun_1pc": {
       "sku": "13857_electric_massage_gun_1pc",
@@ -11079,8 +11581,8 @@ window.productInfo = {
     "13911_strong_trans_hair_clip_6pc": {
       "sku": "13911_strong_trans_hair_clip_6pc",
       "itemCode": "13911",
-      "closingQuantity": 7,
-      "sold": 16,
+      "closingQuantity": 8,
+      "sold": 15,
       "catalog": "beauty-&-personal-care",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_b84f3607-81e5-4e90-9359-c1adae595f9c.jpg?v=1738588956",
@@ -11094,9 +11596,33 @@ window.productInfo = {
       "handle": "13911_strong_trans_hair_clip_6pc",
       "title": "Big Hair Clips for Girls Kids Hair Accessories (6 Pcs Set/Transparent)",
       "salePrice": 62,
-      "stock": 7,
+      "stock": 8,
       "gst": 18,
       "hsn": "392610"
+    },
+    "13926_non_slip_printed_yoga_mat_1pc": {
+      "sku": "13926_non_slip_printed_yoga_mat_1pc",
+      "itemCode": "13926",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_474f8f8e-faf7-4ca5-9b53-f0caeba4ad4b.jpg?v=1752042874",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/1613926192PC-Yogamat-Av585Gm-Sv2401Gm_92da1733-038d-47d2-a034-ac52663ace49.jpg?v=1752042056",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_98420328-5c75-4c60-8d7b-fdf3bd49aa80.jpg?v=1752042874",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_3a4e9d76-f1fb-4004-b05c-9f88cba9ef56.jpg?v=1752042874",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/07_3210d28d-baa3-4a1a-8427-5432c9adee4f.jpg?v=1752042874",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_67060abd-363c-40cf-88c4-f2ec96299f76.jpg?v=1752042874",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_8392d211-24a0-4de2-97b4-92ed9e98c641.jpg?v=1752042874",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_6fe2b825-e198-4bea-a07f-228ba57cbe19.jpg?v=1752042874",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/89d48679-492a-4f41-ad4c-ca90ede68e99.jpg?v=1752042089"
+      ],
+      "alreadyOrdered": 10,
+      "handle": "premium-non-slip-printed-yoga-mat-mix-color-1-pc",
+      "title": "Premium Non - Slip Printed Yoga Mat (Mix Color – 1 Pc)",
+      "salePrice": 265,
+      "stock": 0,
+      "gst": 12,
+      "hsn": "95069190",
+      "closingQuantity": 0,
+      "sold": 0
     },
     "13932_5pc_makeup_brush_kit": {
       "sku": "13932_5pc_makeup_brush_kit",
@@ -11263,8 +11789,8 @@ window.productInfo = {
     "14011_plastic_small_hair_clips_3pc": {
       "sku": "14011_plastic_small_hair_clips_3pc",
       "itemCode": "14011",
-      "closingQuantity": 19,
-      "sold": 0,
+      "closingQuantity": 18,
+      "sold": 1,
       "catalog": "beauty-&-personal-care",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_15c1c309-e7aa-4008-8fb0-c0a886b509b6.jpg?v=1737614981",
@@ -11282,7 +11808,7 @@ window.productInfo = {
       "handle": "hair-clips-for-girls-kids-hair-accessories-3-pcs-set",
       "title": "Plastic Small Hair Clips For Girls Kids Hair Accessories (3 Pcs Set / Mix Color & Design)",
       "salePrice": 27,
-      "stock": 19,
+      "stock": 18,
       "gst": 18,
       "hsn": "392410"
     },
@@ -11751,6 +12277,51 @@ window.productInfo = {
       "gst": 18,
       "hsn": "392410"
     },
+    "14286_red_electric_mosquito_racket_1pc": {
+      "sku": "14286_red_electric_mosquito_racket_1pc",
+      "itemCode": "14286",
+      "catalog": "industrial-&-scientific",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_46a6e843-a007-409f-a2b4-b667e401f006.jpg?v=1751349203",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/WhatsAppImage2025-06-26at10.34.15_1.jpg?v=1751349203",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_569844e0-6c9c-4439-a144-9eb79af4610b.jpg?v=1751349203",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_720e3162-0587-4e42-a751-448535abfd14.jpg?v=1751349203",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_f0e3b6a3-f2ad-429a-a2bb-b07eda693254.jpg?v=1751349203",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_5c47fef0-7c84-4ada-a413-a6304eb5a6e8.jpg?v=1751349203",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/954eb385-5d33-42b5-b7b9-dd533f73eb89.jpg?v=1751349203"
+      ],
+      "alreadyOrdered": 5,
+      "handle": "14286_red_electric_mosquito_racket_1pc",
+      "title": "Red Rechargeable Electric Mosquito Killer Racket With Cable",
+      "salePrice": 201,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "392410",
+      "closingQuantity": 0,
+      "sold": 0
+    },
+    "14338_8_socket_extension_board_1pc_no3": {
+      "sku": "14338_8_socket_extension_board_1pc_no3",
+      "itemCode": "14338",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/extension-board-01_0c431d84-1967-41c9-b5af-b9e30f885302.jpg?v=1751458567",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/WhatsAppImage2025-07-01at13.56.29_1_a899a700-5eef-458e-8465-d8c195d6a429.jpg?v=1751458567",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/extension-board-03_1799cd74-5a89-4d71-a88d-2f2bb8a52642.jpg?v=1751458567",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/extension-board-04_3e0c6f50-4dd2-4ebf-a75c-c399a9c1796f.jpg?v=1751458567",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/extension-board-05_a0d71ae9-c618-496e-8a60-3cb4fd31fbee.jpg?v=1751458567",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/extension-board-02_8b2faabb-1667-4dcb-ae19-e681410bd200.jpg?v=1751458567",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/ef58267e-e84a-4461-ba20-6fb846511441_bf6da732-5f4d-42ac-a03c-f2bb0337a881.jpg?v=1751458567"
+      ],
+      "alreadyOrdered": 20,
+      "handle": "multi-socket-extension-board-8-socket-1-pc",
+      "title": "Multi Socket Extension Board (8 Socket / 1 Pc)",
+      "salePrice": 167,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "85366990",
+      "closingQuantity": 0,
+      "sold": 0
+    },
     "14388_plastic_hair_massage_brush": {
       "sku": "14388_plastic_hair_massage_brush",
       "itemCode": "14388",
@@ -11818,6 +12389,33 @@ window.productInfo = {
       "stock": 10,
       "gst": 18,
       "hsn": "821420"
+    },
+    "14448_2in1_hair_comb_brush_with_mirror": {
+      "sku": "14448_2in1_hair_comb_brush_with_mirror",
+      "itemCode": "14448",
+      "catalog": "health-&-personal-care",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_11eb8409-24f0-4e44-af33-43fbe4c641fe.jpg?v=1744892114",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/518.jpg?v=1744892114",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/08_7f38b079-802e-4fce-906c-3c229e57486b.jpg?v=1744892114",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_f7614a63-d6c7-4f69-ab26-cef34b66f36e.jpg?v=1744892114",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/10_7624c283-74e4-45a0-b830-aaabd14506de.jpg?v=1744892114",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/09_01376e65-2f0a-43ec-b569-a0718694054a.jpg?v=1744892114",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_12ba99f3-d33f-4e79-a78c-ac197c3c4ca2.jpg?v=1744892114",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_a7891937-e9d2-468e-a6d1-c9e440d06d9e.jpg?v=1744892114",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_f11a9ff0-e58d-48bd-9ba6-b6e8d8922adf.jpg?v=1744892114",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/07_0d4b8561-fee5-451b-9cbc-562918861775.jpg?v=1744892114",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/ad7576e9-d089-42ce-ad7c-b9daacd40d20.jpg?v=1744892114"
+      ],
+      "alreadyOrdered": 10,
+      "handle": "2-in-1-hair-comb-brush-with-mirror",
+      "title": "- In-1 Hair Comb Brush With Mirror",
+      "salePrice": 91,
+      "stock": 0,
+      "gst": 12,
+      "hsn": "961511",
+      "closingQuantity": 0,
+      "sold": 0
     },
     "14461_mini_elastic_hairbands_5pc": {
       "sku": "14461_mini_elastic_hairbands_5pc",
@@ -12125,8 +12723,8 @@ window.productInfo = {
     "1487_bx_wall_mob_stand_4pc": {
       "sku": "1487_bx_wall_mob_stand_4pc",
       "itemCode": "1487",
-      "closingQuantity": 16.25,
-      "sold": 9.75,
+      "closingQuantity": 16,
+      "sold": 10,
       "items_per_bag": 4,
       "catalog": "electronics-accessories",
       "images": [
@@ -12142,7 +12740,7 @@ window.productInfo = {
       "handle": "wall-mounted-storage-case-mobile-phone-charging-holder",
       "title": "Wall Mounted Storage Case With Mobile Phone Charging Holder",
       "salePrice": 60,
-      "stock": 16.25,
+      "stock": 16,
       "gst": 18,
       "hsn": "392690"
     },
@@ -12195,8 +12793,8 @@ window.productInfo = {
     "1495_10pc_green_pad": {
       "sku": "1495_10pc_green_pad",
       "itemCode": "1495",
-      "closingQuantity": 31,
-      "sold": 19,
+      "closingQuantity": 30,
+      "sold": 20,
       "catalog": "cleaning",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/341002_b8ad04ac-d872-494a-b606-fa94fdc72ff9.jpg?v=1737630936",
@@ -12210,7 +12808,7 @@ window.productInfo = {
       "handle": "1495-green-kitchen-scrubber-pads-for-utensils-tiles-cleaning",
       "title": "Green Kitchen Scrubber Pads For Utensils/tiles Cleaning",
       "salePrice": 36,
-      "stock": 31,
+      "stock": 30,
       "gst": 18,
       "hsn": "392493"
     },
@@ -12277,6 +12875,54 @@ window.productInfo = {
       "stock": 7,
       "gst": 18,
       "hsn": "392410"
+    },
+    "15021_solid_pad_lock_60mm": {
+      "sku": "15021_solid_pad_lock_60mm",
+      "itemCode": "15021",
+      "catalog": "security",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/abfbd1a3-ecc7-44fc-a88e-ca6f3825a6df.jpg?v=1737619277",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/8e717de3-8eea-4f89-8f48-7089365468a3.jpg?v=1737619277",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/5_5af50175-7d73-492c-a1a1-cf6d7f085900.jpg?v=1737619278",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/2_b577863f-a3c9-40e7-89b5-cf88073cebd7.jpg?v=1737619278",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/1_9ba288d6-ea9a-4404-ba54-38ba6fd71307.jpg?v=1737619278",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/3_64559162-bae6-4bfb-957c-c3f38049ab29.jpg?v=1737619278",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/4_32fcc0b4-9382-4bc8-9a9a-485120e6fd90.jpg?v=1737619278",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/27cab0e0-2b2c-4222-9eac-9956ab076831.jpg?v=1737619278"
+      ],
+      "alreadyOrdered": 6,
+      "handle": "15021_solid_pad_lock_60mm",
+      "title": "Multipurpose Solid 6 Keys Padlock 60 Mm / 1 Pc)",
+      "salePrice": 292,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "392410",
+      "closingQuantity": 0,
+      "sold": 0
+    },
+    "15023_m19_wireless_headset": {
+      "sku": "15023_m19_wireless_headset",
+      "itemCode": "15023",
+      "catalog": "electronics-accessories",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/3_1ae0942a-15e8-44c8-bc1b-f4d19a3eee0b.jpg?v=1737619255",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/7b031319-7912-4515-953e-ee2cb8c5ab62.jpg?v=1737619255",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/1_cec688e9-c4bc-4891-b675-8c66be22abb6.jpg?v=1737619256",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/2_0da11c04-8c97-4c8e-8f55-6f065ec5f0a9.jpg?v=1737619256",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/4_14d622c3-fb36-4c4e-b4f5-9f652bfbf35b.jpg?v=1737619256",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/5_95b689ce-1914-47ff-b084-c3aee0b3466f.jpg?v=1737619256",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/6_40c33958-6757-4d6f-858f-4eb3a76e845e.jpg?v=1737619256",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/62422887-77c6-41a8-81e5-24aceff79691.jpg?v=1737619256"
+      ],
+      "alreadyOrdered": 1,
+      "handle": "bluetooth-headphones-wireless-earphones-online",
+      "title": "Wireless M19 Bluetooth Headphones True Wireless Airbuds",
+      "salePrice": 323,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "851830",
+      "closingQuantity": 0,
+      "sold": 0
     },
     "15028_eva_rain_coat_1pc": {
       "sku": "15028_eva_rain_coat_1pc",
@@ -12395,8 +13041,8 @@ window.productInfo = {
     "1507_uno_cards_2pc": {
       "sku": "1507_uno_cards_2pc",
       "itemCode": "1507",
-      "closingQuantity": 16,
-      "sold": 4,
+      "closingQuantity": 15,
+      "sold": 5,
       "catalog": "toys",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/812Yr9WChrL._SL1500.jpg?v=1737629715",
@@ -12408,7 +13054,7 @@ window.productInfo = {
       "handle": "1507-uno-pixar-anniversary-card-game-with-112-cards",
       "title": "Uno Pixar Anniversary Card Game With 112 Cards",
       "salePrice": 56,
-      "stock": 16,
+      "stock": 15,
       "gst": 18,
       "hsn": "940440"
     },
@@ -12822,6 +13468,30 @@ window.productInfo = {
       "gst": 18,
       "hsn": "392410"
     },
+    "15437_multi_plastic_cleaning_brush_1pc": {
+      "sku": "15437_multi_plastic_cleaning_brush_1pc",
+      "itemCode": "15437",
+      "catalog": "home-&-kitchen",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_274dae7b-366e-4239-a549-37423a60f1f8.jpg?v=1749443800",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/WhatsAppImage2025-06-07at15.46.59.jpg?v=1749443800",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_1c6bc6e1-03ab-439f-a915-1c9e5166d2a9.jpg?v=1749443800",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_02ebf346-1953-462a-8d07-a3ed3daf1d20.jpg?v=1749443800",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_8a0b11e7-56ee-43ac-b53f-f78c9609c0e6.jpg?v=1749443800",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_0f1059c9-8554-4519-8182-68913420a5a7.jpg?v=1749443800",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_aee0c61d-4f43-4336-aefa-aeb5a0228524.jpg?v=1749443800",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/c7da2d22-c7ac-4e25-b061-0e3c42b8ab29.jpg?v=1749443800"
+      ],
+      "alreadyOrdered": 15,
+      "handle": "multi-purpose-short-handle-plastic-cleaning-brush-1-pc",
+      "title": "Multi - Purpose Short Handle Plastic Cleaning Brush (1 Pc)",
+      "salePrice": 39,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "960390",
+      "closingQuantity": 0,
+      "sold": 0
+    },
     "15443_u_shape_neck_trravel_pillow_1pc": {
       "sku": "15443_u_shape_neck_trravel_pillow_1pc",
       "itemCode": "15443",
@@ -12892,8 +13562,8 @@ window.productInfo = {
     "15461_car_dust_removal_brush_1pc": {
       "sku": "15461_car_dust_removal_brush_1pc",
       "itemCode": "15461",
-      "closingQuantity": 35,
-      "sold": 0,
+      "closingQuantity": 34,
+      "sold": 1,
       "catalog": "car-accessories",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_b72bcab8-f51e-4551-a55b-4192769352d3.jpg?v=1741412158",
@@ -12908,7 +13578,7 @@ window.productInfo = {
       "handle": "mini-car-interior-cleaning-soft-brush-car-cleaning-brushes-duster-1-pc",
       "title": "Mini Car Interior Cleaning Soft Brush - Car Cleaning Brushes Duster (1 Pc)",
       "salePrice": 38,
-      "stock": 35,
+      "stock": 34,
       "gst": 18,
       "hsn": "960350"
     },
@@ -13115,6 +13785,29 @@ window.productInfo = {
       "gst": 18,
       "hsn": "392490"
     },
+    "15562_usb_charging_hand_lamp_1pc": {
+      "sku": "15562_usb_charging_hand_lamp_1pc",
+      "itemCode": "15562",
+      "catalog": "home-improvement",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_56702d80-d74b-4e54-b804-a9c4e108f6f6.jpg?v=1749444118",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/WhatsAppImage2025-06-07at16.23.31.jpg?v=1749444118",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_e896a56c-ceee-44d7-bd7f-ebd20e3b8a79.jpg?v=1749444118",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_9fb2f12f-14f9-431c-a08b-67a8c38f768a.jpg?v=1749444118",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_b536cd8c-df8f-4560-a403-6e797548316f.jpg?v=1749444118",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_ee7fbe42-04cc-4ba5-a8f7-f4fce5ca9d83.jpg?v=1749444118",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/2236b46c-b6bb-4aa2-81f4-ca3152365ef3.jpg?v=1749444118"
+      ],
+      "alreadyOrdered": 20,
+      "handle": "heavy-duty-rechargeable-usb-led-hand-torch-with-cob-side-light-1-pc",
+      "title": "Heavy - Duty Rechargeable Usb Led Hand Torch With Cob Side Light (1 Pc)",
+      "salePrice": 225,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "851310",
+      "closingQuantity": 0,
+      "sold": 0
+    },
     "15574_anti_slip_tape_50mmx5m_1pc": {
       "sku": "15574_anti_slip_tape_50mmx5m_1pc",
       "itemCode": "15574",
@@ -13262,8 +13955,8 @@ window.productInfo = {
     "1574_garbage_bag_17x19": {
       "sku": "1574_garbage_bag_17x19",
       "itemCode": "1574",
-      "closingQuantity": 9,
-      "sold": 21,
+      "closingQuantity": 7,
+      "sold": 23,
       "catalog": "garbage-bags",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/1574.jpg?v=1737630259",
@@ -13280,7 +13973,7 @@ window.productInfo = {
       "handle": "1574-garbage-bags-small-size-black-colour-17-x-19",
       "title": "Garbage Bags Small Size Black Colour (17 X 19)",
       "salePrice": 34,
-      "stock": 9,
+      "stock": 7,
       "gst": 18,
       "hsn": "392321"
     },
@@ -13401,6 +14094,29 @@ window.productInfo = {
       "gst": 18,
       "hsn": "820750"
     },
+    "15794_5led_usb_rechargeable_headlamp": {
+      "sku": "15794_5led_usb_rechargeable_headlamp",
+      "itemCode": "15794",
+      "catalog": "car-accessories",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_5dd6f3c5-f6b4-4018-9dc9-16751a2002dc.jpg?v=1737615879",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/227.jpg?v=1737615879",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_43212e54-7d4a-4825-8010-d9a0ecce3ea8.jpg?v=1737615880",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_6b105eae-a2f3-4c46-8d1d-28f5fd3dae74.jpg?v=1737615880",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_a69bc84e-9fe0-4b2e-ad21-93faa477770b.jpg?v=1737615880",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_189b2760-dc7a-4e19-98f7-2057aeb4240d.jpg?v=1737615880",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/33275014-55c3-4c6d-bccd-50653db8a047.jpg?v=1737615880"
+      ],
+      "alreadyOrdered": 6,
+      "handle": "15794_5led_usb_rechargeable_headlamp",
+      "title": "Led Headlamp Usb Rechargeable Head Light (1 Pc)",
+      "salePrice": 162,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "85365090",
+      "closingQuantity": 0,
+      "sold": 0
+    },
     "15800_multi_hardware_tool_11pc_set": {
       "sku": "15800_multi_hardware_tool_11pc_set",
       "itemCode": "15800",
@@ -13513,8 +14229,8 @@ window.productInfo = {
     "1585_green_garbage_19x21": {
       "sku": "1585_green_garbage_19x21",
       "itemCode": "1585",
-      "closingQuantity": 29,
-      "sold": 34,
+      "closingQuantity": 27,
+      "sold": 36,
       "catalog": "garbage-bags",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/1585.jpg?v=1737630352",
@@ -13528,7 +14244,7 @@ window.productInfo = {
       "handle": "1585-bio-degradable-eco-friendly-garbage-trash-bags-rolls-19-x-21-green",
       "title": "Bio - Degradable Eco Friendly Garbage/trash Bags Rolls (19\" X 21\") (Green)",
       "salePrice": 45,
-      "stock": 29,
+      "stock": 27,
       "gst": 18,
       "hsn": "392321"
     },
@@ -13553,6 +14269,32 @@ window.productInfo = {
       "stock": 7,
       "gst": 18,
       "hsn": "392621"
+    },
+    "1588_meat_hammer": {
+      "sku": "1588_meat_hammer",
+      "itemCode": "1588",
+      "catalog": "kitchen-tools",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/3d11a927-f32a-4e15-b695-75fc867136f0_8535097e-5be1-4ca4-bea9-88754d0cfdbb.jpg?v=1737628139",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/1588SKUCODE_6efd080f-89ae-4845-b619-15f03a306caa.jpg?v=1737628139",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/62fc9aa5-f4b3-4f06-9eab-3e89cef60336_99293a4d-931c-407e-9c11-92c587afdf0e.jpg?v=1737628140",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/5_2112ea05-a5d2-4e32-a7c1-d6191c23a7a0.jpg?v=1737628140",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/1588_7f96b359-cf93-4b66-a30a-fc39bbfbbc67.jpg?v=1737628140",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/1_8_f4e3a6d2-85d4-491b-b546-648669a14c6c.jpg?v=1737628140",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/1_6_57b8048a-9852-46ba-b054-57da309a13ed.jpg?v=1737628140",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/1_5_e705d063-7fb5-4a1c-9446-14107160f399.jpg?v=1737628141",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/1_4_c98ff834-9627-4658-9ada-dfd0790dfdf2.jpg?v=1737628141",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/1_3_63019efe-8877-4ed5-999f-6498fee1cbfa.jpg?v=1737628141"
+      ],
+      "alreadyOrdered": 10,
+      "handle": "1588-professional-two-sided-beef-meat-hammer-tenderizer",
+      "title": "Professional Two Sided Beef/meat Hammer Tenderizer",
+      "salePrice": 99,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "820790",
+      "closingQuantity": 0,
+      "sold": 0
     },
     "1593_grommet_setting_tool_1pc": {
       "sku": "1593_grommet_setting_tool_1pc",
@@ -13659,8 +14401,8 @@ window.productInfo = {
     "1627_6pc_kitchen_adv_hooks": {
       "sku": "1627_6pc_kitchen_adv_hooks",
       "itemCode": "1627",
-      "closingQuantity": 10,
-      "sold": 32,
+      "closingQuantity": 8,
+      "sold": 34,
       "catalog": "hooks",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/1627.jpg?v=1737632586",
@@ -13678,9 +14420,58 @@ window.productInfo = {
       "handle": "1627-adhesive-sticker-abs-plastic-hook-towel-hanger-for-kitchen-bathroom-1",
       "title": "Adhesive Sticker Abs Plastic Hook Towel Hanger For Kitchen/bathroom",
       "salePrice": 21,
-      "stock": 10,
+      "stock": 8,
       "gst": 18,
       "hsn": "442010"
+    },
+    "1633_sticker_broom_holder": {
+      "sku": "1633_sticker_broom_holder",
+      "itemCode": "1633",
+      "catalog": "cleaning",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/01_82354784-86a6-47a3-9a80-cea705d91f48.jpg?v=1737631866",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/1633.jpg?v=1737631866",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/608188a9f4b336e72318c2f8-large_be7c4a61-8ae0-416c-891d-5ab30f722904.jpg?v=1737631866",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/01_2f64a237-20fd-40e1-83e9-a98333efd621.jpg?v=1737631866",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/608188a9f4b336e72318c2f8-4-large_d4a3ab57-c236-478a-b94a-2c72aa14db52.jpg?v=1737631866",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/608188a9f4b336e72318c2f8-3-large_5559a31a-1181-4814-825d-4e54608034aa.jpg?v=1737631866",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/608188a9f4b336e72318c2f8-1-large_8223cc0e-89ae-41f3-b167-a360af921ea7.jpg?v=1737631866",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/3f98d3e0-927a-498a-84c6-7a5b5c95dcd9.jpg?v=1737631866"
+      ],
+      "alreadyOrdered": 20,
+      "handle": "1633-magic-sticker-series-self-adhesive-mop-and-broom-holder-1",
+      "title": "Magic Sticker Series Self Adhesive Mop And Broom Holder",
+      "salePrice": 23,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "392410",
+      "closingQuantity": 0,
+      "sold": 0
+    },
+    "1637_usb_bike_light": {
+      "sku": "1637_usb_bike_light",
+      "itemCode": "1637",
+      "catalog": "car-accessories",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/2_818cce62-c714-4b96-9702-0c9ed4166f1d.jpg?v=1737634714",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/SKUCODE_459688bc-b843-4705-ad5e-3e4d50ffced6.jpg?v=1737634714",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/5ffe8b3b56e58ddd77bfaa81-large_113255b2-4bb9-453a-af1d-9f196b0fba0c.jpg?v=1737634714",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/WhatsAppImage2021-06-04at11.10.01AM_90a5912c-f085-4c4b-bb3a-7ef75e6a0308.jpg?v=1737634714",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/WhatsAppImage2021-06-04at11.12.31AM_3fb90479-fdcc-462d-9e99-27b9f4132002.jpg?v=1737634714",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/5f57086bcb62f8b00ec2353c-5-large_796fcb9a-9c9d-44f3-9a5e-071e40b2ab22.jpg?v=1737634714",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/5ffe8b3b56e58ddd77bfaa81-7-large_d19376c4-7cc5-40a0-ab2a-66de516c2de1.jpg?v=1737634714",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/5f57086bcb62f8b00ec2353c-6-large_1c63925f-bbd4-42c8-9b0e-5b28e8cfd160.jpg?v=1737634714",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/WhatsAppImage2021-06-04at11.12.30AM_fb815e22-cf7c-4d5c-a00a-4bbafc0fd87c.jpg?v=1737634714"
+      ],
+      "alreadyOrdered": 20,
+      "handle": "1637-usb-rechargeable-bicycle-light-set-400-lumen-super-bright-headlight-front-lights",
+      "title": "Usb Rechargeable Bicycle Light Set 400 Lumen Super Bright Headlight Front Lights",
+      "salePrice": 173,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "940520",
+      "closingQuantity": 0,
+      "sold": 0
     },
     "1638_handy_air_pump": {
       "sku": "1638_handy_air_pump",
@@ -13802,6 +14593,30 @@ window.productInfo = {
       "gst": 18,
       "hsn": "950691"
     },
+    "1668_apex_push_n_pedal_dustbin_6_5ltr_pnp6_5": {
+      "sku": "1668_apex_push_n_pedal_dustbin_6_5ltr_pnp6_5",
+      "itemCode": "1668",
+      "catalog": "office-products",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_319e67e0-8d8d-4cac-841b-b0d5efe49e66.jpg?v=1745040016",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/SKU_96d85a29-5605-4e17-a12a-fe33f3fa45bf.jpg?v=1745040016",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_64bfa8de-1cfd-42b4-bf1d-2dd109c3986d.jpg?v=1745040017",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_d63302cb-89db-4c97-80d0-53186f7fd8ed.jpg?v=1745040017",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_7eb47a25-ba1f-41a0-a3b6-45ff8339471d.jpg?v=1745040017",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_599a1aa3-16c3-41ef-ba31-f4e5e808258b.jpg?v=1745040017",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_8f7fd461-92c7-46ab-8e76-c8fdf8fa2681.jpg?v=1745040017",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/54fa6d00-f723-4d09-9e80-387137fbcc00.jpg?v=1745040017"
+      ],
+      "alreadyOrdered": 10,
+      "handle": "push-n-pedal-dust-bin-hands-free-operation-compact-design-6-5-liters",
+      "title": "Apex Plastic Push N Pedal Dust Bin | Hands - Free Operation, Compact Design 6.5 Liters (1 Pc / Mix Color)",
+      "salePrice": 270,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "39269099",
+      "closingQuantity": 0,
+      "sold": 0
+    },
     "1671_smily_face_cleaning_brush": {
       "sku": "1671_smily_face_cleaning_brush",
       "itemCode": "1671",
@@ -13826,11 +14641,32 @@ window.productInfo = {
       "gst": 18,
       "hsn": "391000"
     },
+    "1685_transparent_m_tape_5_mtr": {
+      "sku": "1685_transparent_m_tape_5_mtr",
+      "itemCode": "1685",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/Untitled-6_236f65cb-bb6b-4467-a695-9afae9043671.jpg?v=1737630832",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/16851.jpg?v=1737630832",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/Untitled-4_be15bf42-bd12-4a7c-9947-50cce2444aa5.jpg?v=1737630832",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/168502.jpg?v=1737630832",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/Untitled-7_db59f2e9-d8c5-434b-8b26-2b9032378576.jpg?v=1737630832",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/28212d9a-1725-4bee-9f8f-f9f5987fc244.jpg?v=1737630832"
+      ],
+      "alreadyOrdered": 20,
+      "handle": "1685-meter-double-sided-adhesive-silicon-grip-gel-tape-5-meter",
+      "title": "Professional Measuring Tape - 5 Meter",
+      "salePrice": 116,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "901790",
+      "closingQuantity": 0,
+      "sold": 0
+    },
     "1689_ss_wall_flower_hook": {
       "sku": "1689_ss_wall_flower_hook",
       "itemCode": "1689",
-      "closingQuantity": 393,
-      "sold": 707,
+      "closingQuantity": 391,
+      "sold": 709,
       "catalog": "hooks",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/468908_77cc81ca-42d1-4956-88a5-bb85f42e1fe2.jpg?v=1737632518",
@@ -13846,7 +14682,7 @@ window.productInfo = {
       "handle": "1689-multipurpose-strong-small-stainless-steel-adhesive-wall-hooks-2",
       "title": "Multipurpose Strong Small Stainless Steel Adhesive Wall Hooks",
       "salePrice": 2,
-      "stock": 393,
+      "stock": 391,
       "gst": 18,
       "hsn": "392690"
     },
@@ -13895,6 +14731,32 @@ window.productInfo = {
       "stock": 53,
       "gst": 18,
       "hsn": "392690"
+    },
+    "1724_electric_mosquito_racket_no1": {
+      "sku": "1724_electric_mosquito_racket_no1",
+      "itemCode": "1724",
+      "catalog": "repellents",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_39ca94a6-9bde-48a9-bacb-6b3d327e4afe.jpg?v=1737619383",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_2e9dd0df-14bd-4f91-ba93-9d8c8f4f6f00.jpg?v=1737619383",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_42eff8ad-9841-4e20-9e40-f7831eb305f3.jpg?v=1737619383",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/09_13d3cd81-5091-4f54-8997-ce5b41c659f3.jpg?v=1737619383",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/08_25dfdd59-caf7-43cb-a880-ec837c586071.jpg?v=1737619383",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_ca0eff63-fb3f-45d5-841c-bc8508335880.jpg?v=1737619383",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_4902735f-a9d3-4693-8d3a-aa345d9f3828.jpg?v=1737619383",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_c1d59ca2-ef3f-4a48-a364-bc14db083361.jpg?v=1737619383",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/07_f73bfdfc-8410-4047-9d16-243f6905d52f.jpg?v=1737619383",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/9fb7f218-1af6-4ca6-b19e-5ffda047024b_fdc887c0-1770-4d65-9150-0c66e16d4653.jpg?v=1737619384"
+      ],
+      "alreadyOrdered": 6,
+      "handle": "mosquito-killer-racket",
+      "title": "Mosquito Killer Racket Rechargeable Handheld Electric Fly Swatter Mosquito Killer Racket Bat, Electric Insect Killer (Quality Assured)",
+      "salePrice": 201,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "392410",
+      "closingQuantity": 0,
+      "sold": 0
     },
     "1733_5pc_bent_straw_cmb": {
       "sku": "1733_5pc_bent_straw_cmb",
@@ -13968,8 +14830,8 @@ window.productInfo = {
     "1743_deer_head_hanger": {
       "sku": "1743_deer_head_hanger",
       "itemCode": "1743",
-      "closingQuantity": 62,
-      "sold": 84,
+      "closingQuantity": 60,
+      "sold": 86,
       "catalog": "home-decor",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/174307.jpg?v=1737631096",
@@ -13985,7 +14847,7 @@ window.productInfo = {
       "handle": "1743-deer-head-self-adhesive-wall-door-hook-hanger",
       "title": "Deer Head Self Adhesive Wall Door Hook Hanger",
       "salePrice": 36,
-      "stock": 62,
+      "stock": 60,
       "gst": 18,
       "hsn": "392410"
     },
@@ -14101,6 +14963,32 @@ window.productInfo = {
       "stock": 4,
       "gst": 18,
       "hsn": "392410"
+    },
+    "1759_bath_corner_shelf": {
+      "sku": "1759_bath_corner_shelf",
+      "itemCode": "1759",
+      "catalog": "cleaning",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/07_3276a816-933d-4465-acf5-d7ed0f709d63.jpg?v=1737631257",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/1759.jpg?v=1737631257",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/05_a931ecfb-8275-4079-9e5a-19254aea6a69.jpg?v=1737631257",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/07_7125dac9-7bbf-49bd-9756-142f606a6900.jpg?v=1737631257",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/03_75f07c3f-88f4-4207-88fd-c61f409d8416.jpg?v=1737631257",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/02_687e1f4c-362e-4b38-b160-95d4962031d9.jpg?v=1737631258",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/04_0b4df123-3514-4017-81d8-61a48a139003.jpg?v=1737631258",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/06b_8ce12671-9816-4795-8946-9030f7d55c1d.jpg?v=1737631258",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/06_eab76d28-94d0-409c-b164-2074dd35f58b.jpg?v=1737631258",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/6e1386c7-d2d7-4816-bcfa-80fd8b812cd9.jpg?v=1737631258"
+      ],
+      "alreadyOrdered": 10,
+      "handle": "1759-self-adhesive-kitchen-bathroom-corner-shelf-organiser-storage-rack",
+      "title": "Self - Adhesive Kitchen-bathroom Corner Shelf Organiser Storage Rack",
+      "salePrice": 132,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "820590",
+      "closingQuantity": 0,
+      "sold": 0
     },
     "17609_8in1_round_compass_box": {
       "sku": "17609_8in1_round_compass_box",
@@ -14310,8 +15198,8 @@ window.productInfo = {
     "1768_3pc_color_g_tool": {
       "sku": "1768_3pc_color_g_tool",
       "itemCode": "1768",
-      "closingQuantity": 19,
-      "sold": 25,
+      "closingQuantity": 18,
+      "sold": 26,
       "catalog": "gardening",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/300x3005_608df5c2-b064-44ae-b30c-d8e9f7ea8b5d.jpg?v=1737631329",
@@ -14326,15 +15214,15 @@ window.productInfo = {
       "handle": "1768-colorfull-garden-tool-set-set-of-3pc",
       "title": "Colorfull Garden Tool Set Set Of 3pc",
       "salePrice": 110,
-      "stock": 19,
+      "stock": 18,
       "gst": 18,
       "hsn": "820790"
     },
     "1769_4pc_cb_anti_vib_pad": {
       "sku": "1769_4pc_cb_anti_vib_pad",
       "itemCode": "1769",
-      "closingQuantity": 26,
-      "sold": 9,
+      "closingQuantity": 24,
+      "sold": 11,
       "catalog": "house-hold",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/08_0b9c5fe0-af16-4571-9f29-9ca0affa8cd2.jpg?v=1737631348",
@@ -14350,7 +15238,7 @@ window.productInfo = {
       "handle": "1769-anti-vibration-pads-with-suction-cup-feet",
       "title": "Anti Vibration Pads With Suction Cup Feet",
       "salePrice": 48,
-      "stock": 26,
+      "stock": 24,
       "gst": 18,
       "hsn": "392690"
     },
@@ -14562,8 +15450,8 @@ window.productInfo = {
     "17799_2in1_baby_piano_toy": {
       "sku": "17799_2in1_baby_piano_toy",
       "itemCode": "17799",
-      "closingQuantity": 3,
-      "sold": 3,
+      "closingQuantity": 2,
+      "sold": 4,
       "catalog": "toys",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_f468cbce-3fd7-457b-9e5d-a1a69e633deb.jpg?v=1751004169",
@@ -14578,7 +15466,7 @@ window.productInfo = {
       "handle": "baby-piano-xylophone-toy-musical-fun-for-toddlers",
       "title": "2 In 1 Baby Piano Xylophone Toy For Toddlers, 5 Multicolored Key Keyboard Xylophone Piano, Preschool Educational Musical Learning Instruments Toy For Baby Kids Girls Boys 3+ Years (1 Pc)",
       "salePrice": 193,
-      "stock": 3,
+      "stock": 2,
       "gst": 18,
       "hsn": "392410"
     },
@@ -14650,6 +15538,31 @@ window.productInfo = {
       "stock": 2,
       "gst": 18,
       "hsn": "392410"
+    },
+    "1782_smart_walnut_cracker": {
+      "sku": "1782_smart_walnut_cracker",
+      "itemCode": "1782",
+      "catalog": "kitchen-tools",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/2_34494490-4da2-41c9-9002-8ce94b4ba426.jpg?v=1702100647",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_a4b61470-ef46-4c5b-9d49-327fc9677d87.jpg?v=1702100646",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_ecdce89a-10b5-4dc0-a673-34e5cb559300.jpg?v=1702100645",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_6a02a92f-cd52-4fa3-a57b-197287d8119a.jpg?v=1702100646",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/07_9fa8ba49-7891-4fae-abd9-4c5ee2eeac06.jpg?v=1702100645",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/08_828b2223-e82c-4f6e-bd3e-57ad6f8bb3c2.jpg?v=1702100648",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/09_ed6c246a-0ab4-490a-a795-f75d4da68d05.jpg?v=1702100647",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_b0e09a0d-d59b-4a2f-9217-a675af31d62b.jpg?v=1702100645",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/5339f48a-2e6c-48ce-a8a9-07b60f49bcfa_b4c6f0c0-dfba-4d38-9a0d-133a727df2ca.jpg?v=1702100646"
+      ],
+      "alreadyOrdered": 13,
+      "handle": "1782-walnut-cracker-luxury-die-cast-stainless-alloy-nut-cutter-walnut-clamp-plier-portable-smart-walnut-akhrot-pincers-bottle-opener-for-pecans-almonds-brazil-nuts",
+      "title": "Walnut Cracker, Luxury Die Cast Stainless Alloy Nut Cutter Walnut Clamp Plier Portable Smart Walnut Akhrot Pincers Bottle Opener For Pecans, Almonds, Brazil Nuts",
+      "salePrice": 137,
+      "stock": 0,
+      "gst": 12,
+      "hsn": "732393",
+      "closingQuantity": 0,
+      "sold": 0
     },
     "17830_2_wheel_kids_scooter_no2": {
       "sku": "17830_2_wheel_kids_scooter_no2",
@@ -15055,6 +15968,31 @@ window.productInfo = {
       "stock": 0,
       "gst": 18,
       "hsn": "420212"
+    },
+    "17957_knitting_sewing_needle_12pc": {
+      "sku": "17957_knitting_sewing_needle_12pc",
+      "itemCode": "17957",
+      "catalog": "house-hold",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_1d9b28fd-b74b-45d7-ad5f-1b2f1c49eb70.jpg?v=1739506970",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/4019644e-12c1-4559-95cd-1a91e84be8df.jpg?v=1737618732",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_d0b9f97a-fc99-4845-a94a-01176c3bd123.jpg?v=1737618732",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_57075be4-5215-4c45-9b23-2a8e827895a7.jpg?v=1737618732",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_38af875e-7e93-45d2-902e-8999a1245080.jpg?v=1737618732",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_360ac7d8-e65b-4042-967b-69249e209dee.jpg?v=1737618732",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_76a30b64-a576-4afe-9631-a74d05a60c2a.jpg?v=1737618732",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/a81d7eeb-344f-4cc5-a1b3-516dc202d772.jpg?v=1737618732",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_d0096eb9-2714-49b8-9d24-81ea60d54d64.jpg?v=1737618732"
+      ],
+      "alreadyOrdered": 2,
+      "handle": "17957_knitting_sewing_needle_12pc",
+      "title": "Aluminium Multicolor Knitting Needles, Crochet Kit (12 Pcs Set)",
+      "salePrice": 156,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "95030030",
+      "closingQuantity": 0,
+      "sold": 0
     },
     "17969_dinosaurs_roaring_toy_1pc": {
       "sku": "17969_dinosaurs_roaring_toy_1pc",
@@ -15520,11 +16458,34 @@ window.productInfo = {
       "gst": 18,
       "hsn": "392410"
     },
+    "18227_metal_paper_clips_250pc_set": {
+      "sku": "18227_metal_paper_clips_250pc_set",
+      "itemCode": "18227",
+      "catalog": "office-products",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_c87f786e-c60a-4283-bd73-5f363bc3c51e.jpg?v=1750227954",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/WhatsAppImage2025-06-14at11.02.28_1_614d60e0-4aaa-4bde-bc87-dbbe6f12f789.jpg?v=1750227954",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_a72afb61-6da5-4cf8-bd81-5f1cc91fe590.jpg?v=1750227954",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_9436e425-8b5a-484b-b854-7dc56de1ca43.jpg?v=1750227954",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_749a3fc5-d73a-449c-8ebc-8e4b7db4bd17.jpg?v=1750227954",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_f58f27a9-ebaa-433d-93ab-c67cce1bdab4.jpg?v=1750227954",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/993b74cc-bda3-46fd-9d00-cee64e3420ae.jpg?v=1750227954"
+      ],
+      "alreadyOrdered": 1,
+      "handle": "multicolor-coated-paper-clips-250pc-set",
+      "title": "Multicolor - Coated Paper Clips Approx (250pc Set)",
+      "salePrice": 58,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "830510",
+      "closingQuantity": 0,
+      "sold": 0
+    },
     "18240_sili_toilet_seat_lifter_band_1pc": {
       "sku": "18240_sili_toilet_seat_lifter_band_1pc",
       "itemCode": "18240",
-      "closingQuantity": 9,
-      "sold": 1,
+      "closingQuantity": 8,
+      "sold": 2,
       "catalog": "cleaning",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_140bb1da-915d-4442-95a5-821d83d00051.jpg?v=1737617563",
@@ -15541,7 +16502,7 @@ window.productInfo = {
       "handle": "space-135",
       "title": "Silicone Toilet Seat Lifter Band (1 Pc)",
       "salePrice": 17,
-      "stock": 9,
+      "stock": 8,
       "gst": 18,
       "hsn": "392610"
     },
@@ -15663,8 +16624,8 @@ window.productInfo = {
     "18369_butterfly_guitar_light_n_music_toy": {
       "sku": "18369_butterfly_guitar_light_n_music_toy",
       "itemCode": "18369",
-      "closingQuantity": 5,
-      "sold": 0,
+      "closingQuantity": 4,
+      "sold": 1,
       "catalog": "toys",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_944dbdcb-d1f7-410b-8ba1-a641c702c8b7.jpg?v=1737618475",
@@ -15678,7 +16639,7 @@ window.productInfo = {
       "handle": "18369_butterfly_guitar_light_n_music_toy",
       "title": "Butterfly Guitar Toy With Light And Music Toy (1 Pc / Battery Not Included)",
       "salePrice": 422,
-      "stock": 5,
+      "stock": 4,
       "gst": 18,
       "hsn": "392410"
     },
@@ -15757,6 +16718,7 @@ window.productInfo = {
       "itemCode": "18441",
       "closingQuantity": 3,
       "sold": 0,
+      "items_per_bag": 10,
       "catalog": "unknown",
       "images": null,
       "handle": null,
@@ -15769,14 +16731,15 @@ window.productInfo = {
     "18442_aa_panasonic_batteries_10pc": {
       "sku": "18442_aa_panasonic_batteries_10pc",
       "itemCode": "18442",
-      "closingQuantity": 3,
-      "sold": 0,
+      "closingQuantity": 2.7,
+      "sold": 0.3,
+      "items_per_bag": 10,
       "catalog": "unknown",
       "images": null,
       "handle": null,
       "title": "Panasonic Special Aa Eco Friendly Battery (10 Pcs Set)",
-      "salePrice": 117,
-      "stock": 3,
+      "salePrice": 120,
+      "stock": 2.7,
       "gst": 18,
       "hsn": "850610"
     },
@@ -16324,8 +17287,8 @@ window.productInfo = {
     "18682_portable_storage_bag_1pc": {
       "sku": "18682_portable_storage_bag_1pc",
       "itemCode": "18682",
-      "closingQuantity": 2,
-      "sold": 10,
+      "closingQuantity": 1,
+      "sold": 11,
       "catalog": "bags",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_7a92c0c7-0a3f-4ddb-b9e4-31c680dc9bf8.jpg?v=1737614482",
@@ -16339,7 +17302,7 @@ window.productInfo = {
       "handle": "storage-bag-feminine-product-pouches-portable-period-kit-bag-for-girls-women-ladies",
       "title": "Multi Purpose Storage Bag, Pouches Portable Period Kit Bag For Girls Women Ladies (1 Pc)",
       "salePrice": 21,
-      "stock": 2,
+      "stock": 1,
       "gst": 18,
       "hsn": "392410"
     },
@@ -16365,11 +17328,33 @@ window.productInfo = {
       "gst": 18,
       "hsn": "392410"
     },
+    "18722_compass_box_for_school": {
+      "sku": "18722_compass_box_for_school",
+      "itemCode": "18722",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_ee33de8f-a4a2-4aa5-b269-821db5a11edd.jpg?v=1739875811",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/4889a2dd-1c43-4789-bdb1-d0a33c382fff.jpg?v=1739875811",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_2b20506c-f781-4d4a-aade-9231f1ba2cd4.jpg?v=1739875811",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_d52c4819-e1ed-4df2-a3c7-20d8fbf33a8f.jpg?v=1739875811",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_4102f6c9-45de-48ab-879f-a71a20d5a156.jpg?v=1739875811",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_71ad00d2-a07e-432f-ad78-f1dd6d980a9b.jpg?v=1739875811",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/de9a6a2e-bb38-415c-b295-f15de9a829b2.jpg?v=1739875811"
+      ],
+      "alreadyOrdered": 40,
+      "handle": "compass-box-innovative-and-stylish-storage-solution",
+      "title": "Compass Box - Innovative And Stylish Storage Solution (1 Pc)",
+      "salePrice": 32,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "732690",
+      "closingQuantity": 0,
+      "sold": 0
+    },
     "18724_pencil_top_eraser_30pc": {
       "sku": "18724_pencil_top_eraser_30pc",
       "itemCode": "18724",
-      "closingQuantity": 8,
-      "sold": 17,
+      "closingQuantity": 7,
+      "sold": 18,
       "catalog": "stationery",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_374dbd27-1467-490f-ae8f-3da3d2eca4c7.jpg?v=1737614046",
@@ -16382,7 +17367,7 @@ window.productInfo = {
       "handle": "pencil-top-eraser-rubber-erasers-1-pc-mix-color",
       "title": "Pencil Top Eraser Rubber Erasers (1 Pc / Mix Color)",
       "salePrice": 29,
-      "stock": 8,
+      "stock": 7,
       "gst": 5,
       "hsn": "40169200"
     },
@@ -16477,6 +17462,29 @@ window.productInfo = {
       "stock": 1,
       "gst": 18,
       "hsn": "392610"
+    },
+    "18746_montessori_slide_puzzles_toy_set": {
+      "sku": "18746_montessori_slide_puzzles_toy_set",
+      "itemCode": "18746",
+      "catalog": "toys",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_71b5846e-5ce8-46c0-8941-daa3a12be73e.jpg?v=1737615840",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/989898.jpg?v=1737615840",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_453f1aba-aeed-499f-820b-7ea01bb36539.jpg?v=1737615840",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_7ea7e1d5-9882-4c1d-900f-a09fd252a2b8.jpg?v=1737615840",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_e1ba7843-fcde-4553-b611-d0a230225460.jpg?v=1737615840",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_86ae5dfd-8dc1-4c60-98dc-8455f7d22749.jpg?v=1737615840",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/44a76e92-ea2b-4358-8831-d0e2f0b2ffe7.jpg?v=1737615840"
+      ],
+      "alreadyOrdered": 20,
+      "handle": "18746_montessori_slide_puzzles_toy_set",
+      "title": "Montessori Slide Puzzles Toys For Kids (36 Challenges / 1 Set)",
+      "salePrice": 182,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "392610",
+      "closingQuantity": 0,
+      "sold": 0
     },
     "18756_big_kitchen_trolley_set_at175": {
       "sku": "18756_big_kitchen_trolley_set_at175",
@@ -17133,6 +18141,29 @@ window.productInfo = {
       "gst": 5,
       "hsn": "950300"
     },
+    "19015_school_bus_toy_for_kids_lt24": {
+      "sku": "19015_school_bus_toy_for_kids_lt24",
+      "itemCode": "19015",
+      "catalog": "toys",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/538c7efc-56d9-49e7-b3a3-15f9b7551f9b.jpg?v=1739538996",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/999eab90-6e9e-44d7-b453-27a22c5c5724.jpg?v=1739693977",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_719652f2-0dd1-4699-aa28-9f33f49d4956.jpg?v=1739784769",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_ae39bc6b-e717-47e4-a2cb-4cd1e2d28996.jpg?v=1739784773",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_0c0fc70f-a53d-4c78-b2f9-8eb738c4a821.jpg?v=1739784773",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_53d600c4-7e15-41bb-9636-384d71270180.jpg?v=1739784773",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/24e1b27d-bba5-4332-a84d-d11798fe6409.jpg?v=1739784773"
+      ],
+      "alreadyOrdered": 12,
+      "handle": "inertia-bus-toys-high-simulation-yellow-fine-details-mini-bus-model-car-toys-prizes-for-gift-collections",
+      "title": "Inertia Bus Toys , High Simulation Yellow Fine Details Mini Bus Model Car Toys Prizes For Gift Collections",
+      "salePrice": 218,
+      "stock": 0,
+      "gst": 5,
+      "hsn": "950300",
+      "closingQuantity": 0,
+      "sold": 0
+    },
     "19021_metal_keychain_no1": {
       "sku": "19021_metal_keychain_no1",
       "itemCode": "19021",
@@ -17266,6 +18297,29 @@ window.productInfo = {
       "stock": 4,
       "gst": 18,
       "hsn": "960390"
+    },
+    "19095_plastic_handle_expandable_broom_g612": {
+      "sku": "19095_plastic_handle_expandable_broom_g612",
+      "itemCode": "19095",
+      "catalog": "industrial-&-scientific",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_af4c384a-d08a-4d52-a877-667ec85fb7da.jpg?v=1745220082",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/56519095-110Pc-Expandablebroomg612-Av-Sv.jpg?v=1745220082",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/228951f3-2e3e-4f1c-8738-4ebd4d8e8033.jpg?v=1745220082",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_f8728019-edc7-4b39-a1ff-674a641ee169.jpg?v=1745220082",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_87161cf0-6b6a-4f4e-8244-f42b9611968d.jpg?v=1745220082",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_43524614-014b-44dd-9531-18ef99c2b0fc.jpg?v=1745220082",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_8fcd69d2-b48e-4da1-ac11-eae7794351d0.jpg?v=1745220074"
+      ],
+      "alreadyOrdered": 11,
+      "handle": "pro-clean-expandable-floor-broom-with-plastic-handle",
+      "title": "Pro Clean Expandable Floor Broom With Plastic Handle",
+      "salePrice": 193,
+      "stock": 0,
+      "gst": 5,
+      "hsn": "96039000",
+      "closingQuantity": 0,
+      "sold": 0
     },
     "19102_magnetic_dart_game_set_ttg02": {
       "sku": "19102_magnetic_dart_game_set_ttg02",
@@ -17724,6 +18778,31 @@ window.productInfo = {
       "gst": 18,
       "hsn": "392490"
     },
+    "19259_4layer_trans_mult_plastic_storage_box": {
+      "sku": "19259_4layer_trans_mult_plastic_storage_box",
+      "itemCode": "19259",
+      "catalog": "home-&-kitchen",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_4bc63af1-4448-4078-b584-a2e74faf39f3.jpg?v=1747820585",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/WhatsAppImage2025-05-17at14.29.33.jpg?v=1747820585",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_f7cba459-1ab8-4a4e-8b89-82ebaaf21670.jpg?v=1747820585",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/07_f3154c9c-3cde-456a-b6bb-b1bc25bd0f66.jpg?v=1747820585",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_887624f9-41b9-4d4c-bce8-cff573dcac6c.jpg?v=1747820585",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_8f6c2f0e-580e-4f5f-8d3d-e6c7c26b9d38.jpg?v=1747820585",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_4102ca23-d0e9-48e8-93fa-1deeca9f77a9.jpg?v=1747820585",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_db428626-966c-489f-9a73-cb42fc554b4e.jpg?v=1747820585",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/98233d50-9a25-4eda-b2d7-ba4cc23a13ee.jpg?v=1747820585"
+      ],
+      "alreadyOrdered": 10,
+      "handle": "4-layer-transparent-multipurpose-plastic-storage-box",
+      "title": "- Layer Transparent Multipurpose Plastic Storage Box",
+      "salePrice": 252,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "392490",
+      "closingQuantity": 0,
+      "sold": 0
+    },
     "19260_learner_flashcard_combo_set_224pc": {
       "sku": "19260_learner_flashcard_combo_set_224pc",
       "itemCode": "19260",
@@ -17974,11 +19053,33 @@ window.productInfo = {
       "gst": 18,
       "hsn": "330749"
     },
+    "19288_knx_professional_table_tennis_racket_set": {
+      "sku": "19288_knx_professional_table_tennis_racket_set",
+      "itemCode": "19288",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_528446d2-51ac-405d-8e1d-63b08e96fa51.jpg?v=1747373862",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/WhatsAppImage2025-05-15at09.13.46.jpg?v=1747373862",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_d4e4727c-7f76-4c9f-b965-7d341559cfce.jpg?v=1747373862",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_7051e9e7-3547-4505-9cfd-d5379afe87c8.jpg?v=1747373862",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_9cc8aaae-f281-4616-8c7e-8c054dd3930a.jpg?v=1747373862",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_c494e6fb-abe9-49cb-a8ca-07a4551fcc31.jpg?v=1747373862",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/3476e889-b616-46b8-acd0-3db610e68412.jpg?v=1747373862"
+      ],
+      "alreadyOrdered": 10,
+      "handle": "professional-table-tennis-racket-1-set",
+      "title": "Professional Table Tennis Racket (1 Set)",
+      "salePrice": 186,
+      "stock": 0,
+      "gst": 12,
+      "hsn": "950611",
+      "closingQuantity": 0,
+      "sold": 0
+    },
     "19289_car_seat_headrest_hooks_2pc_set": {
       "sku": "19289_car_seat_headrest_hooks_2pc_set",
       "itemCode": "19289",
-      "closingQuantity": 8,
-      "sold": 2,
+      "closingQuantity": 7,
+      "sold": 3,
       "catalog": "car-&-motorbike",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_7086a8e7-4fff-4514-b531-dd6ff9575876.jpg?v=1747455797",
@@ -17996,7 +19097,7 @@ window.productInfo = {
       "handle": "multi-purpose-car-seat-headrest-hooks-mix-design-2-pc-set",
       "title": "Multi-Purpose Car Seat Headrest Hooks (Mix Design/2 Pc Set)",
       "salePrice": 17,
-      "stock": 8,
+      "stock": 7,
       "gst": 18,
       "hsn": "392690"
     },
@@ -18021,6 +19122,98 @@ window.productInfo = {
       "stock": 10,
       "gst": 18,
       "hsn": "392690"
+    },
+    "19323_knx_badminton_racket_n_carry_bag_2pc": {
+      "sku": "19323_knx_badminton_racket_n_carry_bag_2pc",
+      "itemCode": "19323",
+      "catalog": "sports,-fitness-&-outdoors",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_bf0bfb80-bf18-4295-acd7-e2e039b534d3.jpg?v=1750068816",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/sku_99fcd560-92a1-40d9-a596-b54f0476ab45.jpg?v=1750068816",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_7cc57998-c4f2-4feb-8792-922633eb5180.jpg?v=1750068816",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_64555ce4-393d-401b-8491-3f6302fbeed6.jpg?v=1750068816",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_93c30cd6-a98f-4b49-95ab-a43c0a96bd39.jpg?v=1750068816",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_73ecfd7c-940b-4d26-9a29-1c16a8ae8b01.jpg?v=1750068816",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/3dc6f754-11ff-4d7c-a3f7-58ea8bc835a7.jpg?v=1750068816"
+      ],
+      "alreadyOrdered": 5,
+      "handle": "2-pc-lightweight-kids-badminton-racket-set-with-carry-bag",
+      "title": "Pc Lightweight Kids Badminton Racket Set With Carry Bag",
+      "salePrice": 303,
+      "stock": 0,
+      "gst": 12,
+      "hsn": "95062100",
+      "closingQuantity": 0,
+      "sold": 0
+    },
+    "19325_pink_unlimited_pencils_n_eraser_1pc": {
+      "sku": "19325_pink_unlimited_pencils_n_eraser_1pc",
+      "itemCode": "19325",
+      "catalog": "office-products",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_b72edb91-c58c-4723-96a7-4f96f8605693.jpg?v=1749878468",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/e79e1d38-c28d-4d5b-baeb-141d0267dbc2.jpg?v=1749878468",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_0a977e78-a437-49de-8027-457421347534.jpg?v=1749878468",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_873f8248-8243-4293-ad7e-07a7e652d5a0.jpg?v=1749878468",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_23e11824-b210-4df0-a688-e7dec26c4a24.jpg?v=1749878468",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_5fc7213b-ad4f-46a5-b695-1d0efc87d27e.jpg?v=1749878461"
+      ],
+      "alreadyOrdered": 20,
+      "handle": "19325_pink_unlimited_pencils_n_eraser_1pc",
+      "title": "Pink 2 - In-1 Everlasting Magic Pencil With Replaceable Eraser – Inkless, Reusable, Portable",
+      "salePrice": 12,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "392410",
+      "closingQuantity": 0,
+      "sold": 0
+    },
+    "19333_a4_size_multi_copier_paper_500_sheets": {
+      "sku": "19333_a4_size_multi_copier_paper_500_sheets",
+      "itemCode": "19333",
+      "catalog": "office-products",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_bc18101a-6985-4a05-868f-62be798552e8.jpg?v=1749819178",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/96_b4a1ca3d-9493-4615-87e4-294acba2fe2a.jpg?v=1749819178",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_90674ed4-46e8-4e73-9f6f-cf59189e0460.jpg?v=1749819178",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_712f4175-eaff-49eb-8e5d-7e0f0ee91014.jpg?v=1749819178",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_79cc03e6-c9b8-4c85-ba97-0ea18ed453f6.jpg?v=1749819178",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_8246f0f7-71e9-44c3-9152-e92e77525b08.jpg?v=1749819178",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/d15f305a-41d9-40e3-881a-5c25823a8da2.jpg?v=1749819178"
+      ],
+      "alreadyOrdered": 5,
+      "handle": "500-sheets-a4-size-multipurpose-copier-paper-70-gsm-high-bright-white-printing-paper",
+      "title": "Sheets A4 Size Multipurpose Copier Paper – 70 Gsm High Bright White Printing Paper",
+      "salePrice": 246,
+      "stock": 0,
+      "gst": 12,
+      "hsn": "480256",
+      "closingQuantity": 0,
+      "sold": 0
+    },
+    "19345_supermom_multi_organizer_utility_holder_1pc": {
+      "sku": "19345_supermom_multi_organizer_utility_holder_1pc",
+      "itemCode": "19345",
+      "catalog": "home-&-kitchen",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_d022c438-cbdd-491d-9e13-b67cd7667496.jpg?v=1750310288",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/WhatsAppImage2025-06-18at15.12.58_2.jpg?v=1750310288",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_3040865e-3bae-4c79-ad1b-e0bf17002296.jpg?v=1750310288",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_57895056-32f0-41c5-8bec-15ac49be3109.jpg?v=1750310288",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_e35ad698-8377-44cf-ad85-56073e470200.jpg?v=1750310288",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_7882574c-c9a8-44c0-8a89-19928a15be9a.jpg?v=1750310288",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_f84ccee9-7826-483b-856a-fccbae078c18.jpg?v=1750310288",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/4af057ee-7898-46ee-bc74-baa150a4ff37.jpg?v=1750310288"
+      ],
+      "alreadyOrdered": 20,
+      "handle": "multi-compartment-desk-organizer-utility-holder-1-pc",
+      "title": "Multi - Compartment Desk Organizer Utility Holder (1 Pc)",
+      "salePrice": 84,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "392690",
+      "closingQuantity": 0,
+      "sold": 0
     },
     "1934_rocket_launcher_toy_atp226": {
       "sku": "1934_rocket_launcher_toy_atp226",
@@ -18685,6 +19878,26 @@ window.productInfo = {
       "stock": 2,
       "gst": 18,
       "hsn": "392410"
+    },
+    "2082_premium_kitchen_tong": {
+      "sku": "2082_premium_kitchen_tong",
+      "itemCode": "2082",
+      "catalog": "kitchen",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/DSCN0015_2878ae34-f070-4805-9776-c0885f2af75f.jpg?v=1686905826",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/IMG-20200815-WA0104.jpg?v=1687351030",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/8a2ce71c-ad9d-4cd6-8c26-39c26f0b5348.jpg?v=1687351030",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/DSCN0014_3d90f4a9-f83b-4c54-a95f-262acec71328.jpg?v=1687351030"
+      ],
+      "alreadyOrdered": 16,
+      "handle": "2082-premium-quality-stainless-steel-kitchen-cooking-tong",
+      "title": "Premium Quality Stainless Steel Kitchen Cooking Tong",
+      "salePrice": 73,
+      "stock": 0,
+      "gst": 12,
+      "hsn": "732393",
+      "closingQuantity": 0,
+      "sold": 0
     },
     "2085_round_papad_jali": {
       "sku": "2085_round_papad_jali",
@@ -19356,8 +20569,8 @@ window.productInfo = {
     "2268_b_grade_fork_6pc": {
       "sku": "2268_b_grade_fork_6pc",
       "itemCode": "2268",
-      "closingQuantity": 18,
-      "sold": 44,
+      "closingQuantity": 17,
+      "sold": 45,
       "catalog": "knife-&-cutlery",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/03_621cfaa2-6ebe-441e-bd45-bb268c33c703.jpg?v=1686903060",
@@ -19370,7 +20583,7 @@ window.productInfo = {
       "handle": "2268-stainless-steel-forks-with-comfortable-grip-dining-fork-set-of-6-pcs",
       "title": "Stainless Steel Forks With Comfortable Grip Dining Fork Set Of 6 Pcs",
       "salePrice": 37,
-      "stock": 18,
+      "stock": 17,
       "gst": 12,
       "hsn": "732393"
     },
@@ -19641,8 +20854,8 @@ window.productInfo = {
     "2335_premium_mixi": {
       "sku": "2335_premium_mixi",
       "itemCode": "2335",
-      "closingQuantity": 7,
-      "sold": 13,
+      "closingQuantity": 6,
+      "sold": 14,
       "catalog": "kitchen-tools",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/51Ul8uwDtpL._SL1100.jpg?v=1737630473",
@@ -19655,7 +20868,7 @@ window.productInfo = {
       "handle": "2335-stainless-steel-manual-mixi-hand-blender",
       "title": "Stainless Steel Manual Mixi, Hand Blender",
       "salePrice": 57,
-      "stock": 7,
+      "stock": 6,
       "gst": 18,
       "hsn": "392493"
     },
@@ -19795,6 +21008,27 @@ window.productInfo = {
       "gst": 18,
       "hsn": "392410"
     },
+    "2378_barbecue_mesh_grill": {
+      "sku": "2378_barbecue_mesh_grill",
+      "itemCode": "2378",
+      "catalog": "bbq",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/4_0b570cd8-06f8-437f-9e39-f79aa7dc9cb9.jpg?v=1736577621",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/1_e837f78b-b626-4c61-a065-43571cbc58e9.jpg?v=1736577621",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/3_a5eaf441-41f4-493a-b274-ccbdc7481cee.jpg?v=1736577621",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/81dGJzT_oeL._AC_SL1500.jpg?v=1736577621",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/71_ivrQUc9L._AC_SL1500.jpg?v=1686901374"
+      ],
+      "alreadyOrdered": 15,
+      "handle": "2378-kitchen-square-roaster-papad-grill-barbecue-grill-with-wooden-handle",
+      "title": "Kitchen Square Roaster Papad Grill Barbecue Grill With Wooden Handle",
+      "salePrice": 110,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "392410",
+      "closingQuantity": 0,
+      "sold": 0
+    },
     "2384_sunday_ss_scrubber_6pc": {
       "sku": "2384_sunday_ss_scrubber_6pc",
       "itemCode": "2384",
@@ -19823,8 +21057,8 @@ window.productInfo = {
     "2388_super_santro_scrubber_12pc": {
       "sku": "2388_super_santro_scrubber_12pc",
       "itemCode": "2388",
-      "closingQuantity": 1,
-      "sold": 4,
+      "closingQuantity": 0.83,
+      "sold": 4.17,
       "items_per_bag": 12,
       "catalog": "scrubber",
       "images": [
@@ -19842,7 +21076,7 @@ window.productInfo = {
       "handle": "2388-round-shape-stainless-steel-ball-scrubber",
       "title": "Round Shape Stainless Steel Ball Scrubber (Pack Of 12)",
       "salePrice": 72,
-      "stock": 1,
+      "stock": 0.83,
       "gst": 18,
       "hsn": "340290"
     },
@@ -19911,6 +21145,32 @@ window.productInfo = {
       "stock": 8,
       "gst": 18,
       "hsn": "392410"
+    },
+    "2411_press_onion_chopper": {
+      "sku": "2411_press_onion_chopper",
+      "itemCode": "2411",
+      "catalog": "chopper-slicer-cutter",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/07_ebc51987-e33d-42fa-933f-f588f5a64d4d.jpg?v=1738909836",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_c7136b61-5dd0-4600-958f-61ce19d5726b.jpg?v=1738909836",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/09_c5b78bbe-0845-4869-9897-e3150a7fb841.jpg?v=1738909836",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_118d980c-f165-46ed-9231-5bed0e548045.jpg?v=1738909836",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_2ff0fc9d-364c-4f2c-acae-52e2a4cff2b0.jpg?v=1738909836",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_1fe72528-4ac0-4b72-9bdb-553b383c5516.jpg?v=1738909836",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_0925d55b-25f7-4061-90cb-92f24fe57b50.jpg?v=1738909836",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_c6855b03-ed57-4def-836b-0fa4379b428a.jpg?v=1738909836",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/10_73ccce4a-80c0-42fe-a752-22947ac562c1.jpg?v=1738909836",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/a6fe0079-3ab0-49a7-802a-7cabc3a9f0b6.jpg?v=1738909836"
+      ],
+      "alreadyOrdered": 10,
+      "handle": "onion-vegetable-hand-press-cutting-chopper-1-pc-mix-color",
+      "title": "Onion Vegetable Hand Press Cutting Chopper (1 Pc / Mix Color)",
+      "salePrice": 55,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "392410",
+      "closingQuantity": 0,
+      "sold": 0
     },
     "2412_2in1_fry_tool": {
       "sku": "2412_2in1_fry_tool",
@@ -20128,8 +21388,8 @@ window.productInfo = {
     "2486_lollipop_candy_maker": {
       "sku": "2486_lollipop_candy_maker",
       "itemCode": "2486",
-      "closingQuantity": 30,
-      "sold": 80,
+      "closingQuantity": 29,
+      "sold": 81,
       "catalog": "baking-tools",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/05_f3dea29b-6897-44f7-bc76-b5308122783c.jpg?v=1737630862",
@@ -20145,7 +21405,7 @@ window.productInfo = {
       "handle": "2486-plastic-bpa-free-reusable-lollipop-candy-maker",
       "title": "Plastic Bpa Free Reusable Lollipop Candy Maker",
       "salePrice": 47,
-      "stock": 30,
+      "stock": 29,
       "gst": 18,
       "hsn": "392410"
     },
@@ -20197,8 +21457,8 @@ window.productInfo = {
     "2504_big_kitchen_towel": {
       "sku": "2504_big_kitchen_towel",
       "itemCode": "2504",
-      "closingQuantity": 96,
-      "sold": 54,
+      "closingQuantity": 95,
+      "sold": 55,
       "catalog": "cleaning",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/Untitled-1_3a05f7e3-9a43-4660-9bd3-6a845a412dd5.jpg?v=1737630932",
@@ -20215,7 +21475,7 @@ window.productInfo = {
       "handle": "2504-multi-purpose-big-washable-towel-for-kitchen",
       "title": "Multi - Purpose Big Washable Towel For Kitchen",
       "salePrice": 12,
-      "stock": 96,
+      "stock": 95,
       "gst": 18,
       "hsn": "630492"
     },
@@ -20420,8 +21680,8 @@ window.productInfo = {
     "2571_n3_10inch_ss_whisk": {
       "sku": "2571_n3_10inch_ss_whisk",
       "itemCode": "2571",
-      "closingQuantity": 26,
-      "sold": 17,
+      "closingQuantity": 25,
+      "sold": 18,
       "catalog": "kitchen-accessories",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/08_46f784d7-1c95-4241-b424-d9838323b6f5.jpg?v=1738409176",
@@ -20436,7 +21696,7 @@ window.productInfo = {
       "handle": "2571-stainless-steel-wire-whisk-balloon-whisk-egg-frother-milk-egg-beater-10-inch",
       "title": "Stainless Steel Wire Whisk,balloon Whisk,egg Frother, Milk & Egg Beater (10 Inch)",
       "salePrice": 34,
-      "stock": 26,
+      "stock": 25,
       "gst": 12,
       "hsn": "732393"
     },
@@ -20510,6 +21770,30 @@ window.productInfo = {
       "gst": 18,
       "hsn": "392410"
     },
+    "2592_3pc_basin_set": {
+      "sku": "2592_3pc_basin_set",
+      "itemCode": "2592",
+      "catalog": "cleaning",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_4ad4727f-5696-4ff2-977f-24d06e5793f3.jpg?v=1737623960",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/2592_21ec5197-3f66-4059-bb21-5c398e7a35e6.jpg?v=1737623960",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_f0bca026-1b7a-4f36-ae8c-591e14911c57.jpg?v=1737623961",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/07_dfc86344-c9bd-47f7-9b91-90aea3655ac8.jpg?v=1737623961",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_d884b1a0-bce8-406c-8e2d-d781c0f51fe6.jpg?v=1737623961",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_6ca6ce25-43b2-4557-9071-ae003ed491b5.jpg?v=1737623961",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_066aa3d8-bfca-41b4-9bea-969f1ac86b37.jpg?v=1737623961",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/942e51ad-70e3-42da-ad65-f7767bd2edce_cc2de109-2c02-4b84-92fa-ae564e0be032.jpg?v=1737623961"
+      ],
+      "alreadyOrdered": 10,
+      "handle": "space-2",
+      "title": "Household Storage Plastic Round Bowl / Tub / Basket / Bucket Set - Pack Of 3",
+      "salePrice": 62,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "392410",
+      "closingQuantity": 0,
+      "sold": 0
+    },
     "2615_4in1_dry_fruit_box": {
       "sku": "2615_4in1_dry_fruit_box",
       "itemCode": "2615",
@@ -20564,8 +21848,8 @@ window.productInfo = {
     "2625_3sec_container_750ml": {
       "sku": "2625_3sec_container_750ml",
       "itemCode": "2625",
-      "closingQuantity": 2,
-      "sold": 10,
+      "closingQuantity": 1,
+      "sold": 11,
       "catalog": "kitchen-storage",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/08_160704d1-d46e-403c-b7e5-b17026ecf1ee.jpg?v=1737631492",
@@ -20581,7 +21865,7 @@ window.productInfo = {
       "handle": "2625-plastic-square-storage-organiser-container-1",
       "title": "Plastic Square Storage Organiser Container (750ml Capacity)",
       "salePrice": 80,
-      "stock": 2,
+      "stock": 1,
       "gst": 18,
       "hsn": "392410"
     },
@@ -20963,8 +22247,8 @@ window.productInfo = {
     "2744_ss_easy_tea_filter": {
       "sku": "2744_ss_easy_tea_filter",
       "itemCode": "2744",
-      "closingQuantity": 58,
-      "sold": 24,
+      "closingQuantity": 55,
+      "sold": 27,
       "catalog": "kitchen-tools",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/03_6dc7df8e-efd4-4d78-a4f9-db132c8fc459.jpg?v=1686891789",
@@ -20984,7 +22268,7 @@ window.productInfo = {
       "handle": "2744-ss-easy-tea-filter-used-for-filtering-tea-purposes-while-making-it-in-all-kinds-of-official-and-household-kitchen-places-etc",
       "title": "Ss Easy Tea Filter Used For Filtering Tea Purposes While Making It In All Kinds Of Official And Household Kitchen Places Etc.",
       "salePrice": 89,
-      "stock": 58,
+      "stock": 55,
       "gst": 12,
       "hsn": "732393"
     },
@@ -21304,8 +22588,8 @@ window.productInfo = {
     "2861_big_ss_easy_tea_filter": {
       "sku": "2861_big_ss_easy_tea_filter",
       "itemCode": "2861",
-      "closingQuantity": 19,
-      "sold": 8,
+      "closingQuantity": 18,
+      "sold": 9,
       "catalog": "kitchen",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/04_771677df-6814-4b01-bce0-383ec3dbb91b.jpg?v=1737632666",
@@ -21324,7 +22608,7 @@ window.productInfo = {
       "handle": "2861-stainless-steel-spice-tea-filter-herbs-locking-infuser-mesh-ball",
       "title": "Stainless Steel Spice Tea Filter Herbs Locking Infuser Mesh Ball",
       "salePrice": 89,
-      "stock": 19,
+      "stock": 18,
       "gst": 12,
       "hsn": "732393"
     },
@@ -21507,6 +22791,33 @@ window.productInfo = {
       "stock": 6,
       "gst": 18,
       "hsn": "392610"
+    },
+    "2914_ss_rice_strainer": {
+      "sku": "2914_ss_rice_strainer",
+      "itemCode": "2914",
+      "catalog": "kitchen",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/12_a4ee5d8f-730a-4dff-b521-ba25bf2b7351.jpg?v=1737633886",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/06_ea156b46-04e5-4a5c-86c8-3ed1383bf2e2.jpg?v=1737633886",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/2914.jpg?v=1737633886",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/02_9b4f13b4-515b-45fa-81cb-26301409491f.jpg?v=1737633886",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/04_c0f04696-c9c9-4807-957c-e0e0777008c2.jpg?v=1737633887",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/13_3066f9cd-7fef-4bf9-9f6b-5cc665afecfb.jpg?v=1737633887",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/05_4d733400-a84f-463a-a22f-e4b6246eab1c.jpg?v=1737633887",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/07_0ce5bb4f-5bcc-4f15-a47a-e3014fa7108e.jpg?v=1737633887",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/03_747c500b-f0da-4a4e-ae5f-88375f945ba0.jpg?v=1737633887",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/08_20424103-7dbf-4d4f-9ecc-3a872502046c.jpg?v=1737633887",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/WhatsAppImage2022-11-09at9.30.16AM_9ffc0def-ff17-4ebd-a791-f8d5e6ed2cf1.jpg?v=1737633887"
+      ],
+      "alreadyOrdered": 12,
+      "handle": "2914-stainless-steel-rice-vegetables-washing-bowl-strainer-collapsible-strainer",
+      "title": "Stainless Steel Rice Vegetables Washing Bowl Strainer Collapsible Strainer.",
+      "salePrice": 182,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "392410",
+      "closingQuantity": 0,
+      "sold": 0
     },
     "2920_20x30cm_chopping_block": {
       "sku": "2920_20x30cm_chopping_block",
@@ -22266,6 +23577,28 @@ window.productInfo = {
       "gst": 18,
       "hsn": "392410"
     },
+    "4010_6pcs_bath_anti_slip_mat": {
+      "sku": "4010_6pcs_bath_anti_slip_mat",
+      "itemCode": "4010",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/07_acf979b2-8e91-4e63-88b3-fe11a3ef88d3.jpg?v=1737633749",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/03_036956fb-bd8f-4d3e-9304-2260bfc2c0b7.jpg?v=1737633750",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/01_735ae9c7-9629-41df-ad5a-4ccaf162bf49.jpg?v=1737633750",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/05_a1974930-ffd7-40a7-99b0-9760f1cf0a8c.jpg?v=1737633750",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/02_b67d9feb-351b-499f-913e-55fffa197215.jpg?v=1737633750",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/06_ee7b2ce8-5382-4c9b-a6fa-e0fd7dcb1245.jpg?v=1737633750",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/04_d7950925-66eb-4fd8-bc29-1e9a20d4f99d.jpg?v=1737633750"
+      ],
+      "alreadyOrdered": 20,
+      "handle": "bath-anti-slip-mat-used-while-bathing-and-toilet-purposes-to-avoid-slippery-floor-surfaces-pack-of-6",
+      "title": "Bath Anti Slip Mat Used While Bathing And Toilet Purposes To Avoid Slippery Floor Surfaces. (Pack Of 6)",
+      "salePrice": 260,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "392410",
+      "closingQuantity": 0,
+      "sold": 0
+    },
     "4024_plastic_bathroom_broom_g611": {
       "sku": "4024_plastic_bathroom_broom_g611",
       "itemCode": "4024",
@@ -22457,8 +23790,8 @@ window.productInfo = {
     "4101_silicone_door_stopper_5pc": {
       "sku": "4101_silicone_door_stopper_5pc",
       "itemCode": "4101",
-      "closingQuantity": 10,
-      "sold": 0,
+      "closingQuantity": 9.6,
+      "sold": 0.4,
       "items_per_bag": 5,
       "catalog": "house-hold",
       "images": [
@@ -22475,7 +23808,7 @@ window.productInfo = {
       "handle": "self-sucking-silicone-door-stopper-5-pcs-set",
       "title": "Self - Sucking Silicone Door Stopper (5 Pcs Set)",
       "salePrice": 30,
-      "stock": 10,
+      "stock": 9.6,
       "gst": 18,
       "hsn": "392520"
     },
@@ -22525,8 +23858,8 @@ window.productInfo = {
     "4138_2com_compass_box": {
       "sku": "4138_2com_compass_box",
       "itemCode": "4138",
-      "closingQuantity": 29,
-      "sold": 1,
+      "closingQuantity": 28,
+      "sold": 2,
       "catalog": "stationery",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_d3e3f859-5475-4b80-b8da-6a2eaba01fab.jpg?v=1737627535",
@@ -22541,7 +23874,7 @@ window.productInfo = {
       "handle": "4138_2com_compass_box",
       "title": "Multipurpose Compass Box, Plastic Double Deck Pencil Case With 2 Compartments, Supplies Utility Box Storage Organizer, Pencil Box For School, Cartoon Printed Pencil Case For Kids, Birthday Gift For Girls & Boys",
       "salePrice": 61,
-      "stock": 29,
+      "stock": 28,
       "gst": 18,
       "hsn": "392410"
     },
@@ -22566,6 +23899,31 @@ window.productInfo = {
       "stock": 38,
       "gst": 18,
       "hsn": "392410"
+    },
+    "4189_eletric_pencil_eraser_with_10refill": {
+      "sku": "4189_eletric_pencil_eraser_with_10refill",
+      "itemCode": "4189",
+      "catalog": "stationery",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_dc175f47-fc2f-4da4-bbc9-7b813fa99c9a.jpg?v=1737625874",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/SKU1_f1122ca0-ffff-4dea-b1bb-c04fd420a4da.jpg?v=1737625874",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_a2ea0b36-6cc4-407e-aacf-6e5a1c0a8450.jpg?v=1737625874",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_b2af0ac1-c0bc-48f6-99ea-f076c7bb607d.jpg?v=1737625874",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_fdb61e4d-7b49-44f5-b217-42f8b8360a5e.jpg?v=1737625875",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_06767344-d416-4162-8559-c55de9e4a09d.jpg?v=1737625875",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_9acbb1d8-1e85-4127-992d-dfbbfb4d1860.jpg?v=1737625875",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_707d5ab1-ba2e-4c3e-a6d0-8df023ba9052.jpg?v=1737625875",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/2f40fcfc-aee1-46ea-b02a-31a3a325ee6b.jpg?v=1737625875"
+      ],
+      "alreadyOrdered": 20,
+      "handle": "electric-eraser-kit",
+      "title": "Electric Eraser Kit Automatic Pencil Eraser Battery Operated With 10 Eraser Refills Suitable For Use With Graphite Pencils Drawing Painting Sketching Drafting Supplies Stationery Child Gifts (Battery Not Included)",
+      "salePrice": 84,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "392410",
+      "closingQuantity": 0,
+      "sold": 0
     },
     "4193_mini_cloud_shape_cutter": {
       "sku": "4193_mini_cloud_shape_cutter",
@@ -22934,6 +24292,29 @@ window.productInfo = {
       "stock": 1,
       "gst": 12,
       "hsn": "420222"
+    },
+    "4331_foldable_cloth_storage_bag_46x27cm": {
+      "sku": "4331_foldable_cloth_storage_bag_46x27cm",
+      "itemCode": "4331",
+      "catalog": "clothing-&-accessories",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_d61b1a42-68f4-4677-ab7d-441f4ceb2dfb.jpg?v=1744435470",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/5516afa1-c6c2-4ce5-a7f6-4013e6d5ba1e.jpg?v=1744435470",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_4ef8356f-36f7-4cc5-9d70-3100d91835ad.jpg?v=1744435470",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_6cbfa7dc-800c-424d-9c8e-e4a28ef45877.jpg?v=1744435470",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_34a07d27-3c69-4e33-b392-80b01cfcbbbc.jpg?v=1744435470",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_24f5a381-637f-4634-bc18-f77e7c30cd30.jpg?v=1744435470",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/7c949017-57b3-4923-b8e9-f95dc1c2df7d.jpg?v=1744435470"
+      ],
+      "alreadyOrdered": 10,
+      "handle": "foldable-cloth-storage-organizer-bag-with-handles-46x27cm-1pc",
+      "title": "Foldable Cloth Storage Organizer Bag With Handles (46x27cm\\1pc)",
+      "salePrice": 167,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "42029200",
+      "closingQuantity": 0,
+      "sold": 0
     },
     "4347_pizza_shape_eraser_7slice": {
       "sku": "4347_pizza_shape_eraser_7slice",
@@ -23904,6 +25285,29 @@ window.productInfo = {
       "gst": 18,
       "hsn": "392410"
     },
+    "4699_ss_v_fan_ceiling_broom": {
+      "sku": "4699_ss_v_fan_ceiling_broom",
+      "itemCode": "4699",
+      "catalog": "cleaning",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/06_ad69db26-7882-48f9-bb76-a2d0f52a8dbc.jpg?v=1737631191",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/4699_1.jpg?v=1737631191",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/04_22b93739-302b-4325-930c-7009e7d43e5c.jpg?v=1737631192",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/05_98241aa6-e865-471a-9d4b-e6ec9aeaf0a9.jpg?v=1737631192",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/03_0b2b8510-3a20-4575-839d-3b7710b523f8.jpg?v=1737631192",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/02_bd952d9b-1301-4457-8deb-c0de89523726.jpg?v=1737631192",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/d2b04a51-ef4f-464a-b3b5-c0d2ea12e064.jpg?v=1737631192"
+      ],
+      "alreadyOrdered": 24,
+      "handle": "4699-broom-with-long-stainless-steel-rod-and-extendable-cobweb-cleaner-stick",
+      "title": "Broom With Long Stainless Steel Rod And Extendable Cobweb Cleaner Stick",
+      "salePrice": 180,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "960390",
+      "closingQuantity": 0,
+      "sold": 0
+    },
     "4700_4l_rotating_jewellery_box": {
       "sku": "4700_4l_rotating_jewellery_box",
       "itemCode": "4700",
@@ -23929,8 +25333,8 @@ window.productInfo = {
     "4705_50pc_pyramid_stand": {
       "sku": "4705_50pc_pyramid_stand",
       "itemCode": "4705",
-      "closingQuantity": 0.24,
-      "sold": 11.76,
+      "closingQuantity": 0.08,
+      "sold": 11.92,
       "items_per_bag": 50,
       "catalog": "electronics-accessories",
       "images": [
@@ -23946,7 +25350,7 @@ window.productInfo = {
       "handle": "4705-pyramid-mobile-stand-with-3-different-inclined-angles",
       "title": "Pyramid Mobile Stand With 3 Different Inclined Angles",
       "salePrice": 150,
-      "stock": 0.24,
+      "stock": 0.08,
       "gst": 18,
       "hsn": "392690"
     },
@@ -24544,8 +25948,8 @@ window.productInfo = {
     "4901_mini_cleaning_brush_13cm_1pc": {
       "sku": "4901_mini_cleaning_brush_13cm_1pc",
       "itemCode": "4901",
-      "closingQuantity": 45,
-      "sold": 25,
+      "closingQuantity": 43,
+      "sold": 27,
       "catalog": "cleaning",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_b889cbb4-0824-4bb1-98c3-eb3247b98f15.jpg?v=1737615028",
@@ -24559,15 +25963,37 @@ window.productInfo = {
       "handle": "4901_mini_cleaning_brush_13cm_1pc",
       "title": "Cleaning Brush Laptop Cleaning Brush Keyboard Brush (1 Pc)",
       "salePrice": 9,
-      "stock": 45,
+      "stock": 43,
       "gst": 18,
       "hsn": "392410"
+    },
+    "4902_sport_running_mobile_bag": {
+      "sku": "4902_sport_running_mobile_bag",
+      "itemCode": "4902",
+      "catalog": "electronics-accessories",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_df11b071-48ff-4021-996b-61dfef8fdf3c.jpg?v=1737627808",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/3088f1f2-25cb-4fa4-8242-64f529e76043.jpg?v=1737627808",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_cc4895f0-54b7-40f2-a6bb-f4e769714ea4.jpg?v=1737627808",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_7dbfba49-462b-4b99-ad27-7b3458f4bf88.jpg?v=1737627808",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_6a30fbe3-c810-419b-a2c1-c9986d585f97.jpg?v=1737627808",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_45139864-19d8-4c73-89b6-26f158ad7305.jpg?v=1737627808"
+      ],
+      "alreadyOrdered": 20,
+      "handle": "sports-running-armband-phone-arm-pouch-case",
+      "title": "Sports Wrist Bag Running Arm Band Running Armband Phone Arm Pouch Case Cellphone Arm Band Phone Arm Case Holder Sports Phone Armbands Running Phone Holder (1 Pc)",
+      "salePrice": 35,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "392410",
+      "closingQuantity": 0,
+      "sold": 0
     },
     "4905_pre_pvc_lock_mobile_cover": {
       "sku": "4905_pre_pvc_lock_mobile_cover",
       "itemCode": "4905",
-      "closingQuantity": 60,
-      "sold": 10,
+      "closingQuantity": 59,
+      "sold": 11,
       "catalog": "electronics-accessories",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/5image_5fd73a89-3ce5-4dd8-b41b-ef373c503f1c.jpg?v=1737628785",
@@ -24581,9 +26007,32 @@ window.productInfo = {
       "handle": "mobile-pouch-cover-water-protector",
       "title": "Pouch Cover Mobile Water Protector",
       "salePrice": 35,
-      "stock": 60,
+      "stock": 59,
       "gst": 18,
       "hsn": "401590"
+    },
+    "4907_jay_shree_ram_keychain": {
+      "sku": "4907_jay_shree_ram_keychain",
+      "itemCode": "4907",
+      "catalog": "fancy-item",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_5d9bae3a-9352-4d04-8be3-15ce3cab4a86.jpg?v=1738731242",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/284774d5-a4b4-4548-a3ab-010f6e702d8b.jpg?v=1738731242",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_092bb6fb-ff25-4922-891a-6ca2d27f5eac.jpg?v=1738731242",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_9eb1194b-f50a-4d8c-b300-44e23fed6640.jpg?v=1738731242",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/07_dad8b29d-ccf9-4e18-9acb-4cc64e8a9dcc.jpg?v=1738731242",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_4db42150-59bb-4514-b7ba-0caacb21fbf3.jpg?v=1738731242",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/1f88326a-4628-41a6-92b6-4771a2c47d71.jpg?v=1738731242"
+      ],
+      "alreadyOrdered": 30,
+      "handle": "jai-shree-ram-keychain-a-symbol-of-devotion-and-strength",
+      "title": "Silicone Jai Shree Ram Keychain (1 Pc)",
+      "salePrice": 25,
+      "stock": 0,
+      "gst": 3,
+      "hsn": "711719",
+      "closingQuantity": 0,
+      "sold": 0
     },
     "4921_liquid_dispenser_brush": {
       "sku": "4921_liquid_dispenser_brush",
@@ -24680,8 +26129,8 @@ window.productInfo = {
     "4968_toothbrush_case_4pc": {
       "sku": "4968_toothbrush_case_4pc",
       "itemCode": "4968",
-      "closingQuantity": 23.5,
-      "sold": 1.5,
+      "closingQuantity": 21.75,
+      "sold": 3.25,
       "items_per_bag": 4,
       "catalog": "cleaning",
       "images": [
@@ -24696,7 +26145,7 @@ window.productInfo = {
       "handle": "4968-4pc-plastic-toothbrush-cover-anti-bacterial-toothbrush-container-tooth-brush-travel-covers-case-holder-cases",
       "title": "4pc Plastic Toothbrush Cover, Anti Bacterial Toothbrush Container - Tooth Brush Travel Covers, Case, Holder, Cases",
       "salePrice": 36,
-      "stock": 23.5,
+      "stock": 21.75,
       "gst": 18,
       "hsn": "392410"
     },
@@ -24751,8 +26200,8 @@ window.productInfo = {
     "4988_super_absorbent_floor_mat": {
       "sku": "4988_super_absorbent_floor_mat",
       "itemCode": "4988",
-      "closingQuantity": 14,
-      "sold": 16,
+      "closingQuantity": 4,
+      "sold": 26,
       "catalog": "home-decor",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/3_4e43fe05-f1e1-4b52-9157-173b22ed7425.jpg?v=1737633504",
@@ -24767,7 +26216,7 @@ window.productInfo = {
       "handle": "4988-super-absorbent-floor-mat-bath-mat-soft-carpet-slip-resistant-bathing-room-rug-floor-door-mat-instant-drying-mat-bathroom-rug-absorbent-bath-mat",
       "title": "Super Absorbent Floor Mat, Bath Mat, Soft Carpet, Slip - Resistant Bathing Room Rug Floor Door Mat, Instant Drying Mat, Bathroom Rug, Absorbent Bath Mat",
       "salePrice": 141,
-      "stock": 14,
+      "stock": 4,
       "gst": 18,
       "hsn": "392620"
     },
@@ -24796,8 +26245,8 @@ window.productInfo = {
     "5040_kitchen_towel_napkin_1pc": {
       "sku": "5040_kitchen_towel_napkin_1pc",
       "itemCode": "5040",
-      "closingQuantity": 107,
-      "sold": 43,
+      "closingQuantity": 106,
+      "sold": 44,
       "catalog": "kitchen-accessories",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_235d419c-dac6-4b9f-a05d-8100e2b6cb98.jpg?v=1739611139",
@@ -24810,7 +26259,7 @@ window.productInfo = {
       "handle": "microfiber-wash-basin-hanging-hand-kitchen-towel-napkin-with-loop",
       "title": "Microfiber Wash Basin Hanging Hand Kitchen Towel Napkin With Loop",
       "salePrice": 26,
-      "stock": 107,
+      "stock": 106,
       "gst": 18,
       "hsn": "392410"
     },
@@ -24886,8 +26335,8 @@ window.productInfo = {
     "5214_ss_dish_scrubber_1pc_g423": {
       "sku": "5214_ss_dish_scrubber_1pc_g423",
       "itemCode": "5214",
-      "closingQuantity": 20,
-      "sold": 5,
+      "closingQuantity": 19,
+      "sold": 6,
       "catalog": "home-&-kitchen",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/06_a613a301-9700-413c-84c2-fafc55d26dd0.jpg?v=1737629110",
@@ -24903,7 +26352,7 @@ window.productInfo = {
       "handle": "5214_ss_dish_scrubber_1pc",
       "title": "Dish Brush Multifunctional Palm Brush For Dish Kitchen Sink Pot Pan - Dish Scrub Brush Small Cleaning Brush Dish Scrubber Brush Cleaning Brushes For Household Use",
       "salePrice": 44,
-      "stock": 20,
+      "stock": 19,
       "gst": 18,
       "hsn": "392410"
     },
@@ -24932,6 +26381,29 @@ window.productInfo = {
       "stock": 7,
       "gst": 18,
       "hsn": "392410"
+    },
+    "5304_dish_scrubber_1pc": {
+      "sku": "5304_dish_scrubber_1pc",
+      "itemCode": "5304",
+      "catalog": "scrubber",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/3_c85819ba-f5c0-4993-895f-4555c3ce4581.jpg?v=1737626925",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/sku_22e59b74-6f53-4f44-90b5-25a2b4faf2ce.jpg?v=1737626925",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/4_a4ded76b-b22a-463e-87ca-caf65417edfa.jpg?v=1737626925",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/6_100876bf-f498-4918-8752-e38d539eb313.jpg?v=1737626925",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/1_871923dc-6dea-468c-936b-2612f86f1dc1.jpg?v=1737626925",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/2_68b819b8-28bd-40a3-b051-4655da24d49c.jpg?v=1737626926",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/71e3138b-f162-4ab6-94e7-bff3b55dc276.jpg?v=1737626926"
+      ],
+      "alreadyOrdered": 10,
+      "handle": "5304_dish_scrubber_1pc",
+      "title": "Dish Brush Multifunctional Palm Brush For Dish Kitchen Sink Pot Pan - Dish Scrub Brush Small Cleaning Brush Dish Scrubber Brush Cleaning Brushes For Household Use",
+      "salePrice": 18,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "392410",
+      "closingQuantity": 0,
+      "sold": 0
     },
     "5309_paneer_maker_mould": {
       "sku": "5309_paneer_maker_mould",
@@ -25045,8 +26517,8 @@ window.productInfo = {
     "5368_2in1_push_chopper_1100ml": {
       "sku": "5368_2in1_push_chopper_1100ml",
       "itemCode": "5368",
-      "closingQuantity": 18,
-      "sold": 2,
+      "closingQuantity": 17,
+      "sold": 3,
       "catalog": "home-improvement",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_cae8182a-66ca-4b74-9965-64d220014737.jpg?v=1737628844",
@@ -25061,7 +26533,7 @@ window.productInfo = {
       "handle": "5368_push_chopper_650ml",
       "title": "1100 Ml 2 In 1 Push Up Chopper With Blender Affixed With 6 Sharp Blade | Vegetable And Fruit Cutter With Easy Push And Chop Button",
       "salePrice": 138,
-      "stock": 18,
+      "stock": 17,
       "gst": 18,
       "hsn": "392410"
     },
@@ -25320,6 +26792,31 @@ window.productInfo = {
       "gst": 18,
       "hsn": "392410"
     },
+    "5506_fruit_corer_remover": {
+      "sku": "5506_fruit_corer_remover",
+      "itemCode": "5506",
+      "catalog": "kitchen",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_a44bd775-40a7-437a-9ce4-399e22fc62e0.jpg?v=1737626759",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/0a438421-75d5-41fb-b36e-b332deb382bf.jpg?v=1737626759",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_70fc5b2f-e930-4d28-9016-669fd7227b24.jpg?v=1737626759",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_f12f1cf9-78da-40b6-8bbb-b06888cd8367.jpg?v=1737626759",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_15c1134c-7231-4a03-b00e-9355be4b0882.jpg?v=1737626759",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_4a2fd831-c14d-43db-9fa0-63b67d9a82f0.jpg?v=1737626760",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/07_c3795d7c-04fc-4a76-9769-5100d17a8b8f.jpg?v=1737626760",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/08_c9ae7e5e-f7dd-42fc-9b05-f18eb0e4dd83.jpg?v=1737626760",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/d9e6b3c0-f6d0-403d-9b33-910adf52a164.jpg?v=1737626760"
+      ],
+      "alreadyOrdered": 30,
+      "handle": "5506-fruit-core-stainless-steel-set-core-remover-for-apple-and-pear-kitchen-prep-tool-fruit-core-remover-tool-with-soft-handle-apple-corer-stainless-steel-kitchen-gadget-dishwasher-safe",
+      "title": "Fruit Core Stainless Steel Set, Core Remover For Apple And Pear, Kitchen Prep Tool Fruit Core Remover Tool With Soft Handle, Apple Corer Stainless Steel, Kitchen Gadget Dishwasher Safe",
+      "salePrice": 62,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "392410",
+      "closingQuantity": 0,
+      "sold": 0
+    },
     "5532_crab_ice_cream_mould_1pc": {
       "sku": "5532_crab_ice_cream_mould_1pc",
       "itemCode": "5532",
@@ -25432,8 +26929,8 @@ window.productInfo = {
     "5557_round_plastic_bowl_8pc_set": {
       "sku": "5557_round_plastic_bowl_8pc_set",
       "itemCode": "5557",
-      "closingQuantity": 2,
-      "sold": 1,
+      "closingQuantity": 1.75,
+      "sold": 1.25,
       "items_per_bag": 8,
       "catalog": "bowl",
       "images": [
@@ -25448,7 +26945,7 @@ window.productInfo = {
       "handle": "round-plastic-bowl-8pcs",
       "title": "Multipurpose Small Round Plastic Bowl / Katori, Microwave Safe Reusable Lightweight Bowl, Dishwasher Safe Chutney Bowl (8 Pcs Set)",
       "salePrice": 48,
-      "stock": 2,
+      "stock": 1.75,
       "gst": 18,
       "hsn": "392410"
     },
@@ -26589,8 +28086,8 @@ window.productInfo = {
     "6099_adj_sili_head_massager": {
       "sku": "6099_adj_sili_head_massager",
       "itemCode": "6099",
-      "closingQuantity": 16,
-      "sold": 30,
+      "closingQuantity": 15,
+      "sold": 31,
       "catalog": "massager",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/3image_00b4ef63-6fb6-4443-ab89-f7cd86f90b32.jpg?v=1737631650",
@@ -26606,7 +28103,7 @@ window.productInfo = {
       "handle": "6099-hair-scalp-adjustable-massager-shampoo-brush-scalp-shampoo-brush",
       "title": "Hair Scalp Adjustable Massager Shampoo Brush,Scalp Shampoo Brush",
       "salePrice": 35,
-      "stock": 16,
+      "stock": 15,
       "gst": 18,
       "hsn": "391000"
     },
@@ -26812,6 +28309,31 @@ window.productInfo = {
       "gst": 18,
       "hsn": "392410"
     },
+    "6170_50pc_keychain_tag_lablel": {
+      "sku": "6170_50pc_keychain_tag_lablel",
+      "itemCode": "6170",
+      "catalog": "stationery",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/08_93c2bb2e-6d12-438e-be69-4184c12e7b53.jpg?v=1742645429",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/01_cee1d2b1-18dc-4ae5-8a8e-330eceafd7ba_2.jpg?v=1742645429",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/08_ded879d3-c2e3-4ca3-a2a2-2f339e7101af.jpg?v=1742645429",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/03_2469a3e0-9c44-492e-84de-19049a075402.jpg?v=1742645429",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/04_0fbc8b56-9db6-4e4a-8ed6-b84aba4355c1.jpg?v=1742645429",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/07_b7660621-cc62-473a-9779-fad25820eb46.jpg?v=1742645429",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/02_7a5fdab6-768f-4a78-b7d2-87035a609864_1.jpg?v=1742645429",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/05_4cfdfbba-601f-431e-bd96-cb4b55c70fd8_1.jpg?v=1742645429",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/d9f08580-375c-457b-8edd-c4819f036871.jpg?v=1742645429"
+      ],
+      "alreadyOrdered": 2,
+      "handle": "6170-50pc-keychain-tag-label-used-for-decorative-purpose-on-keys-and-all",
+      "title": "50pc Keychain Tag Label Used For Decorative Purpose On Keys And All.",
+      "salePrice": 83,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "392410",
+      "closingQuantity": 0,
+      "sold": 0
+    },
     "6174_head_hair_brush_massager": {
       "sku": "6174_head_hair_brush_massager",
       "itemCode": "6174",
@@ -26863,8 +28385,8 @@ window.productInfo = {
     "6198_ind_bottle_cleaning_brush": {
       "sku": "6198_ind_bottle_cleaning_brush",
       "itemCode": "6198",
-      "closingQuantity": 50,
-      "sold": 56,
+      "closingQuantity": 49,
+      "sold": 57,
       "catalog": "kitchen-tools",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/02_5d8a5456-30aa-4be5-8c58-08aaed5b63f5.jpg?v=1737634164",
@@ -26879,7 +28401,7 @@ window.productInfo = {
       "handle": "6198-long-bottle-cleaning-brush-for-washing-water-bottle-narrow-neck-containers",
       "title": "Long Bottle Cleaning Brush For Washing Water Bottle, Narrow Neck Containers",
       "salePrice": 25,
-      "stock": 50,
+      "stock": 49,
       "gst": 18,
       "hsn": "392410"
     },
@@ -26913,8 +28435,8 @@ window.productInfo = {
     "6211_plain_reverse_umbrella": {
       "sku": "6211_plain_reverse_umbrella",
       "itemCode": "6211",
-      "closingQuantity": 39,
-      "sold": 15,
+      "closingQuantity": 38,
+      "sold": 16,
       "catalog": "travel",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/reverseumbrella_0ee65f8b-7a14-43b3-9fd3-bd1ecbe22b7d.webp?v=1686889228",
@@ -26929,7 +28451,7 @@ window.productInfo = {
       "handle": "reverse-umbrella-plain-design",
       "title": "Plain Design Windproof Upside Down Reverse Umbrella With C - Shaped Handle",
       "salePrice": 339,
-      "stock": 39,
+      "stock": 38,
       "gst": 12,
       "hsn": "660199"
     },
@@ -27005,8 +28527,8 @@ window.productInfo = {
     "6230a_handheld_carpet_brush": {
       "sku": "6230a_handheld_carpet_brush",
       "itemCode": "6230a",
-      "closingQuantity": 19,
-      "sold": 11,
+      "closingQuantity": 18,
+      "sold": 12,
       "catalog": "cleaning",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/14_ed430917-b3a8-436f-a8e7-b3f922c94281.jpg?v=1737625257",
@@ -27021,7 +28543,7 @@ window.productInfo = {
       "handle": "plastic-handheld-carpet-roller-brush",
       "title": "6230a Plastic Handheld Carpet Roller Brush Cleaning With Dust Crumb Collector, Wet, And Dry Brush",
       "salePrice": 83,
-      "stock": 19,
+      "stock": 18,
       "gst": 18,
       "hsn": "392410"
     },
@@ -27093,6 +28615,31 @@ window.productInfo = {
       "stock": 4,
       "gst": 18,
       "hsn": "392490"
+    },
+    "6258_multicolor_dot_umbrella": {
+      "sku": "6258_multicolor_dot_umbrella",
+      "itemCode": "6258",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/5_a343043d-ed41-4980-9484-9762a1a51f7a.jpg?v=1751018322",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/1_5ce90fb2-ea54-4362-a749-c5e94ace213d.jpg?v=1751018322",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/3_fe97bb43-1550-4603-b10b-6e441cf16caf.jpg?v=1751018322",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/6_b8d7e312-5ea8-46e8-9192-def6a335ae87.jpg?v=1751018322",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/8_c2569aed-8e0a-4b0a-9ecf-b38f171972ae.jpg?v=1751018322",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/4_ecc368a3-a1d9-4f51-904e-3bedaa298de7.jpg?v=1751018322",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/2_54595c57-d04a-4950-847a-f113391071f1.jpg?v=1751018322",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/7_e3ae0974-a4f7-4752-a3aa-3919b7ca886a.jpg?v=1746081957",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/28f924bd-67dc-42e2-a186-d0b629ec5f56.jpg?v=1746081958",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/0a6c60ec-3efd-4f88-a564-dcf895ff7aaf.jpg?v=1746081958"
+      ],
+      "alreadyOrdered": 20,
+      "handle": "multicolor-dot-printed-umbrella",
+      "title": "Dot Printed Umbrella For Men And Women Multicolor",
+      "salePrice": 107,
+      "stock": 0,
+      "gst": 12,
+      "hsn": "660199",
+      "closingQuantity": 0,
+      "sold": 0
     },
     "6263_heart_hair_massage_brush": {
       "sku": "6263_heart_hair_massage_brush",
@@ -27331,6 +28878,30 @@ window.productInfo = {
       "gst": 18,
       "hsn": "392410"
     },
+    "6401_bluetooth_selfie_stick_no2": {
+      "sku": "6401_bluetooth_selfie_stick_no2",
+      "itemCode": "6401",
+      "catalog": "electronics-accessories",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/a1e6359f-018b-4147-a4c6-64e1517dff02.jpg?v=1737635440",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/d8e1e476-0693-4723-abfc-9a899fae807c.jpg?v=1737635440",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/15e24cd1-57ff-4e6d-8d9e-927909129c05.jpg?v=1737635440",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/cc9acaab-90c9-48f4-acb9-2165caa9593e.jpg?v=1737635441",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/1d19557f-8708-4187-8cc1-10001a8b3254.jpg?v=1737635441",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/579ef288-c54a-42fc-9906-d74d06a97612.jpg?v=1737635441",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/0107d6f9-b7e3-4c64-a237-d2b732838fe5.jpg?v=1737635441",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/ea8ebdde-105c-44ae-80e3-7f87f97008fe.jpg?v=1737635441"
+      ],
+      "alreadyOrdered": 5,
+      "handle": "6401_bluetooth_selfie_stick_no2",
+      "title": "Bluetooth Selfie Stick, Portable Phone Tripod Stand For Mobile",
+      "salePrice": 227,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "392410",
+      "closingQuantity": 0,
+      "sold": 0
+    },
     "6412_medicine_storage_box": {
       "sku": "6412_medicine_storage_box",
       "itemCode": "6412",
@@ -27375,6 +28946,32 @@ window.productInfo = {
       "stock": 2,
       "gst": 18,
       "hsn": "940540"
+    },
+    "6438_karaoke_microphonespeaker": {
+      "sku": "6438_karaoke_microphonespeaker",
+      "itemCode": "6438",
+      "catalog": "fancy-item",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/4_414df7a3-c77a-4e42-b828-5a1cbd4d51ca.jpg?v=1686755227",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/1_1f66449d-4281-47bb-be08-3621a29ee79e.jpg?v=1686755227",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/2_37a8301d-f3e3-4344-acc7-70466dec4586.jpg?v=1686755227",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/9_f46ed161-be9c-48e6-8e7f-e6abdcd15362.jpg?v=1686755227",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/3_7a14d029-6a4d-49b3-9cf6-1e4a727fc9c1.jpg?v=1686755227",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/5_954120ba-f525-4aa1-8412-03339f1e72d2.jpg?v=1686755227",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/6_5350bd0c-ba3e-47a8-8a16-00c5cfb6aa95.jpg?v=1686755227",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/7_7a12eb0c-b4b9-4fb5-bc15-0bf432c78835.jpg?v=1686755227",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/8_f397a6a4-b9f1-4d2e-9e0f-a0daeb075175.jpg?v=1686755227",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/aa6b6662-4ac1-4861-b18a-fac36741d825.jpg?v=1707126407"
+      ],
+      "alreadyOrdered": 4,
+      "handle": "6438-wireless-bluetooth-recording-condenser-handheld-microphone-bluetooth-speaker-audio-recording-karaoke-with-mic-multicolor-1-pc",
+      "title": "Wireless Bluetooth Recording Condenser Handheld Microphone Bluetooth Speaker Audio Recording Karaoke With Mic (Multicolor 1 Pc)",
+      "salePrice": 228,
+      "stock": 0,
+      "gst": 12,
+      "hsn": "852510",
+      "closingQuantity": 0,
+      "sold": 0
     },
     "6457_mix_color_flower_rose_hair_pin_4pc": {
       "sku": "6457_mix_color_flower_rose_hair_pin_4pc",
@@ -27614,8 +29211,8 @@ window.productInfo = {
     "6596_boob_tape_5m_1pc": {
       "sku": "6596_boob_tape_5m_1pc",
       "itemCode": "6596",
-      "closingQuantity": 23,
-      "sold": 16,
+      "closingQuantity": 22,
+      "sold": 17,
       "catalog": "beauty-&-personal-care",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_f8b60870-8126-4b67-a24c-7bede93174ca.jpg?v=1737626286",
@@ -27632,7 +29229,7 @@ window.productInfo = {
       "handle": "boob-tape-with-nipple-covers",
       "title": "Boob Tape With 10 Pairs Nipple Cover Cotton Wide Thin Breast Tape - Women's & Girl's Breast Lift Booby Tape - Push Up & Lifting Tape - Suitable For All Breast Types - Breast Lift Bra Tape - Bob Tape For Natural Breast Lift (1 Pc 5 Meters)",
       "salePrice": 117,
-      "stock": 23,
+      "stock": 22,
       "gst": 18,
       "hsn": "392620"
     },
@@ -27685,8 +29282,8 @@ window.productInfo = {
     "6732_4in1_nail_clipper_set": {
       "sku": "6732_4in1_nail_clipper_set",
       "itemCode": "6732",
-      "closingQuantity": 21,
-      "sold": 15,
+      "closingQuantity": 20,
+      "sold": 16,
       "catalog": "beauty-&-personal-care",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/3_1d7554af-034f-4a10-826b-5861698a32bd.jpg?v=1737626876",
@@ -27699,7 +29296,7 @@ window.productInfo = {
       "handle": "stainless-steel-nail-clipper",
       "title": "4in1 Nail Clipper Kit With Mirror, Fingernail Clipper, Manicure Set, Stainless Steel Nail Cutter Set ,Manicure Tool, Nail Clippers Care Tools With Lightweight And Beautiful Travel Case (4 Pc Set)",
       "salePrice": 47,
-      "stock": 21,
+      "stock": 20,
       "gst": 18,
       "hsn": "392410"
     },
@@ -27878,6 +29475,29 @@ window.productInfo = {
       "stock": 12,
       "gst": 18,
       "hsn": "392690"
+    },
+    "6971_liquid_soap_dispenser_350ml": {
+      "sku": "6971_liquid_soap_dispenser_350ml",
+      "itemCode": "6971",
+      "catalog": "home-&-kitchen",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_dffb64af-9a00-4deb-8fc7-41f2db86822f.jpg?v=1744777637",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/520.jpg?v=1744777637",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_7ecbe586-9335-436e-8ff2-183ba1d1150a.jpg?v=1744777637",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_0a69b788-2111-402f-8272-43068f041ce7.jpg?v=1744777637",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_6ee60153-a92d-4d61-ba22-5977be9f0e6d.jpg?v=1744777637",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_c1a2a222-3cc0-4ac5-81c2-7edf7d13ed4b.jpg?v=1744777637",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/38907238-2ded-41ff-95d1-2f2c1328e382.jpg?v=1744777637"
+      ],
+      "alreadyOrdered": 12,
+      "handle": "refillable-liquid-soap-dispenser-350-ml-approx",
+      "title": "Refillable Liquid Soap Dispenser (350 Ml Approx)",
+      "salePrice": 112,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "392690",
+      "closingQuantity": 0,
+      "sold": 0
     },
     "6993_4in1_pedicure_foot_tool": {
       "sku": "6993_4in1_pedicure_foot_tool",
@@ -28244,8 +29864,8 @@ window.productInfo = {
     "7234_silicone_face_ice_roller": {
       "sku": "7234_silicone_face_ice_roller",
       "itemCode": "7234",
-      "closingQuantity": 14,
-      "sold": 6,
+      "closingQuantity": 13,
+      "sold": 7,
       "catalog": "beauty-&-personal-care",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/02_933f6713-1e9f-4a76-a56f-738f31162f13.jpg?v=1737635559",
@@ -28263,7 +29883,7 @@ window.productInfo = {
       "handle": "non-slip-silicone-face-ice-cubes-easy-grip-new-unique-shape-ice-roller-base-reusable-for-beauty-1-pc-1",
       "title": "Ice Roller For Face Massage & Eye, Anti - Leak Silicone Ice Face Roller Ice Mould With Cleansing Brush, Ice Facial Roller For Eliminate Edema & Calm Skin, Shrink Pore, Women Skin Care",
       "salePrice": 51,
-      "stock": 14,
+      "stock": 13,
       "gst": 18,
       "hsn": "391000"
     },
@@ -28356,6 +29976,28 @@ window.productInfo = {
       "gst": 18,
       "hsn": "420222"
     },
+    "7403_cloth_drying_wire": {
+      "sku": "7403_cloth_drying_wire",
+      "itemCode": "7403",
+      "catalog": "house-hold",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/06_5f5e2502-3fec-4004-a2d8-8bd57ff4ec43.jpg?v=1737634723",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/01_8b090170-9bab-4473-90ee-486f3c1b0a25.jpg?v=1737634723",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/05_d7f8c2ad-b089-4b7c-be40-7057d6e31574.jpg?v=1737634723",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/03_9c9bfd2c-8969-4e1b-8f54-5c6c47c57a26.jpg?v=1737634723",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/02_8d72b5c0-e81c-43df-98d5-ccfe9dba9b0b.jpg?v=1737634723",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/04_de71655f-33b5-466b-82a6-c5f56ef17663.jpg?v=1737634723"
+      ],
+      "alreadyOrdered": 4,
+      "handle": "7403_cloth_drying_wire",
+      "title": "Cloth Drying Wire High Quality Agriculture & Gardening Use Wire 10mtr",
+      "salePrice": 40,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "392410",
+      "closingQuantity": 0,
+      "sold": 0
+    },
     "7411_60mm_tape_cutter": {
       "sku": "7411_60mm_tape_cutter",
       "itemCode": "7411",
@@ -28406,8 +30048,8 @@ window.productInfo = {
     "7439_magic_umbrella": {
       "sku": "7439_magic_umbrella",
       "itemCode": "7439",
-      "closingQuantity": 9,
-      "sold": 1,
+      "closingQuantity": 8,
+      "sold": 2,
       "catalog": "travel",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/4image_96ed7b29-84d2-4acd-95d0-e4f251a2114b.jpg?v=1737619146",
@@ -28422,7 +30064,7 @@ window.productInfo = {
       "handle": "magic-umbrella-secret-blossoms-water-magic-1",
       "title": "Changing Secret Blossoms With Water Magic Print Z",
       "salePrice": 209,
-      "stock": 9,
+      "stock": 8,
       "gst": 12,
       "hsn": "660199"
     },
@@ -28448,6 +30090,55 @@ window.productInfo = {
       "gst": 18,
       "hsn": "392410"
     },
+    "7493_watering_spikes_irrigation_10pc": {
+      "sku": "7493_watering_spikes_irrigation_10pc",
+      "itemCode": "7493",
+      "catalog": "gardening",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/656565_744a2c75-2fba-4481-a91c-6ab0a6f0e520.jpg?v=1738652148",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/da61353d-4f18-40dd-88e5-52126ca1713b_236b1303-6af8-4432-a5ba-5c106b984351.jpg?v=1738652148",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/07_2a2bbd7d-9f30-481a-9528-4f6fd90abbe4.jpg?v=1738652148",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_0820a37e-8e91-4d50-943d-4dc301c71c2a.jpg?v=1738652148",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_f22bbd44-6c6c-47f0-89cd-2d6243a871b2.jpg?v=1738652148",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/08_3729f7e8-565b-419f-be1f-6d116f14fa86.jpg?v=1738652148",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_578a7024-2142-4e88-b2fd-a4f3281a34ab.jpg?v=1738652145",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_1c4d5d17-53bc-4b12-b80c-b2542273578b.jpg?v=1738652145",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_3e4f4198-ba30-4744-8b63-516379ec1de8.jpg?v=1738652145",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/09_1a3e22af-89ca-49c0-9d6a-f2a186820945.jpg?v=1738652145",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/49c94650-b633-45df-a5b8-8eb0b03214d9_8b1ead7a-da24-43fa-9ca4-bac32e3f1d48.jpg?v=1738652145"
+      ],
+      "alreadyOrdered": 5,
+      "handle": "plant-watering-spikes-self-watering-spikes-water-dripper-for-plants-adjustable-plant-watering-devices-with-slow-release-control-valve-switch-2",
+      "title": "Plant Watering Spikes Self Watering Spikes Water Dripper For Plants, Adjustable Plant Watering Devices With Slow Release Control Valve Switch",
+      "salePrice": 103,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "392410",
+      "closingQuantity": 0,
+      "sold": 0
+    },
+    "7526_mini_led_torch_light": {
+      "sku": "7526_mini_led_torch_light",
+      "itemCode": "7526",
+      "catalog": "travel",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_c85ae2e3-d3d4-472f-b199-e146796089aa.jpg?v=1737626396",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/908f3e0e-17ae-445c-9b0a-d4cbbac8ec5b_f7de4718-b07c-4944-84da-3bd2b2fd3ff1.jpg?v=1737626397",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_ab98f2fb-f66e-4856-b341-4a1bec4726c3.jpg?v=1737626397",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_f52d8a09-f99d-4cda-8f68-2c419b344170.jpg?v=1737626397",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_f1487c9d-12bb-4cea-99bb-e5ed05b80373.jpg?v=1737626397",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/24dcc6db-e65e-4c34-bfe4-b677ee5867cc_01366522-6b4a-4046-8024-8e85f37c0ba1.jpg?v=1737626397"
+      ],
+      "alreadyOrdered": 20,
+      "handle": "7526-led-flashlight-rechargeable-usb-mini-torch-ultra-brightest-zoom-flash-light-handheld-pocket-compact-portable-tiny-lamp-with-cob-side-lantern-high-power-tactical-travel-emergency-flashlights-1",
+      "title": "Led Flashlight Rechargeable Usb Mini Torch, Ultra Brightest Zoom Flash Light Handheld Pocket Compact Portable Tiny Lamp With Cob Side Lantern, High Power Tactical Travel Emergency Flashlights",
+      "salePrice": 116,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "392410",
+      "closingQuantity": 0,
+      "sold": 0
+    },
     "7527_handle_cloth_brush_g511": {
       "sku": "7527_handle_cloth_brush_g511",
       "itemCode": "7527",
@@ -28468,6 +30159,32 @@ window.productInfo = {
       "stock": 6,
       "gst": 18,
       "hsn": "392410"
+    },
+    "7528_mini_led_torch_light": {
+      "sku": "7528_mini_led_torch_light",
+      "itemCode": "7528",
+      "catalog": "travel",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_42196eca-2782-4bd9-9d82-af573a2e9ade.jpg?v=1737635236",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/9655a082-2953-4c84-b52c-acc41b997611.jpg?v=1737635236",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/9655a082-2953-4c84-b52c-acc41b997611.jpg?v=1737635236",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/09_511cb12b-cc09-4c12-89f7-1bf6c0969769.jpg?v=1737635237",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/14_3589e170-f635-47b8-9b18-b531790ba2d2.jpg?v=1737635237",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/13_f620dc2e-c6a1-41b0-86db-283a3c0f24a3.jpg?v=1737635237",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/10_0293d2b5-c7c9-47a8-b814-9e1a00f470d2.jpg?v=1737635237",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/11_5c66ea81-e2bf-4dd1-b194-b1e90286f5df.jpg?v=1737635237",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/12_bcfbe975-1d8b-4224-b948-83f89986a236.jpg?v=1737635237",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/ea05e174-f3ad-46ea-a1d5-aa9bae588020.jpg?v=1737635237"
+      ],
+      "alreadyOrdered": 10,
+      "handle": "7528_mini_led_torch_light",
+      "title": "Mini Search Rechargeable Led Long Range Flashlight Emergency Light Torch",
+      "salePrice": 136,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "392410",
+      "closingQuantity": 0,
+      "sold": 0
     },
     "7537_garden_sprinkle_5_arm": {
       "sku": "7537_garden_sprinkle_5_arm",
@@ -28832,6 +30549,8 @@ window.productInfo = {
     "7885_3in1_cmp_compass_box_no5": {
       "sku": "7885_3in1_cmp_compass_box_no5",
       "itemCode": "7885",
+      "closingQuantity": 60,
+      "sold": 0,
       "catalog": "office-products",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_c1f3fbd4-c69f-4c2f-b0db-dc18fd694da7.jpg?v=1744344181",
@@ -28842,15 +30561,12 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_30325589-7267-4b69-aa14-470769b4c88d.jpg?v=1744344181",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/e0381760-ebe9-4f83-bd0d-b5d00dd3e8d7.jpg?v=1744344181"
       ],
-      "alreadyOrdered": 60,
       "handle": "geometry-compass-set-for-kids-3-in-1",
       "title": "Geometry Compass Set For Kids (3 In 1 / 1 Set)",
-      "salePrice": 42,
-      "stock": 0,
+      "salePrice": 45,
+      "stock": 60,
       "gst": 18,
-      "hsn": "901720",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "901720"
     },
     "7924_cmp_4pc_ruler_set_no29": {
       "sku": "7924_cmp_4pc_ruler_set_no29",
@@ -28876,6 +30592,9 @@ window.productInfo = {
     "7956_cleaning_brush_3pc_set": {
       "sku": "7956_cleaning_brush_3pc_set",
       "itemCode": "7956",
+      "closingQuantity": 10,
+      "sold": 0,
+      "items_per_bag": 3,
       "catalog": "cleaning",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/4_a5080e89-5a4d-467c-b137-6213781ae67f.jpg?v=1737628540",
@@ -28885,15 +30604,12 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/3_3aa1aac6-55c5-46c5-b52e-62174b231c0d.jpg?v=1737628541",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/1bb2870d-fb54-46a0-9f50-234acfb693d1.jpg?v=1737628541"
       ],
-      "alreadyOrdered": 10,
       "handle": "7956-multi-purpose-kitchen-cleaning-brushes-fish-cleaning-vegetable-cleaning-tool-cleaner-utensils-fruit-cleaning-3-piece",
       "title": "Multi - Purpose Kitchen Cleaning Brushes - Fish Cleaning Vegetable Cleaning Tool Cleaner Utensils Fruit Cleaning 3 Piece",
-      "salePrice": 44,
-      "stock": 0,
+      "salePrice": 51,
+      "stock": 10,
       "gst": 18,
-      "hsn": "392410",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "392410"
     },
     "7985_multipurpose_zip_pouch": {
       "sku": "7985_multipurpose_zip_pouch",
@@ -29013,7 +30729,7 @@ window.productInfo = {
     "8037_8pc_sliceable_fruit_toy": {
       "sku": "8037_8pc_sliceable_fruit_toy",
       "itemCode": "8037",
-      "closingQuantity": 1,
+      "closingQuantity": 21,
       "sold": 23,
       "catalog": "toys",
       "images": [
@@ -29027,18 +30743,17 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/04_977eb300-9ee9-491c-ae89-377693e6bc67.jpg?v=1686896913",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/513493e2-85de-4c79-9d7c-e1b986dfb1ea.jpg?v=1686896913"
       ],
-      "alreadyOrdered": 20,
       "handle": "8037-plastic-fruits-n-veggies-exclusive-collection-of-realistic-sliceable-fruits",
       "title": "Plastic Fruits N Veggies Exclusive Collection Of Realistic Sliceable Fruits",
-      "salePrice": 101,
-      "stock": 1,
+      "salePrice": 108,
+      "stock": 21,
       "gst": 12,
       "hsn": "950300"
     },
     "8040_mix_d_fluorescent_toy": {
       "sku": "8040_mix_d_fluorescent_toy",
       "itemCode": "8040",
-      "closingQuantity": 1,
+      "closingQuantity": 21,
       "sold": 53,
       "catalog": "toys",
       "images": [
@@ -29051,11 +30766,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/02image.jpg?v=1737631413",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/6f3ab504-f55b-4d53-83be-650cb61a554e.jpg?v=1737631413"
       ],
-      "alreadyOrdered": 20,
       "handle": "8040-fluorescent-luminous-board-with-light-fun-and-developing-toy",
       "title": "Fluorescent Luminous Board With Light Fun And Developing Toy",
-      "salePrice": 31,
-      "stock": 1,
+      "salePrice": 34,
+      "stock": 21,
       "gst": 18,
       "hsn": "392690"
     },
@@ -29111,8 +30825,8 @@ window.productInfo = {
     "8052_toy_truck": {
       "sku": "8052_toy_truck",
       "itemCode": "8052",
-      "closingQuantity": 3,
-      "sold": 1,
+      "closingQuantity": 1,
+      "sold": 3,
       "catalog": "toys",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/02_c0507eb6-543e-4ded-b6c0-307f6b453494.jpg?v=1737633360",
@@ -29129,7 +30843,7 @@ window.productInfo = {
       "handle": "8052_toy_truck",
       "title": "Small Green And Yellow Toy Truck.",
       "salePrice": 116,
-      "stock": 3,
+      "stock": 1,
       "gst": 18,
       "hsn": "392410"
     },
@@ -29302,7 +31016,7 @@ window.productInfo = {
     "8107_ganesh_master_chopper_900ml": {
       "sku": "8107_ganesh_master_chopper_900ml",
       "itemCode": "8107",
-      "closingQuantity": 0,
+      "closingQuantity": 50,
       "sold": 29,
       "catalog": "ganesh-kitchenware",
       "images": [
@@ -29316,11 +31030,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/06_b5419117-8164-4a31-b667-199574321436.jpg?v=1686889876",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/66885597-7bf5-45f5-b16f-78ff95254145.jpg?v=1686889876"
       ],
-      "alreadyOrdered": 50,
       "handle": "8107-ganesh-master-chopper-with-5-stainless-steel-blades-xl-large-jumbo-chopper-900-ml",
       "title": "Ganesh Master Chopper With 5 Stainless Steel Blades, Xl Large Jumbo Chopper (900 Ml)",
       "salePrice": 182,
-      "stock": 0,
+      "stock": 50,
       "gst": 18,
       "hsn": "392410"
     },
@@ -29505,7 +31218,7 @@ window.productInfo = {
     "8129_ganesh_oil_pourer_1000ml": {
       "sku": "8129_ganesh_oil_pourer_1000ml",
       "itemCode": "8129",
-      "closingQuantity": 1,
+      "closingQuantity": 11,
       "sold": 9,
       "catalog": "ganesh-kitchenware",
       "images": [
@@ -29518,11 +31231,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/6image_88d7ae83-ec68-45d8-ae1f-571db82ee79f.jpg?v=1737632617",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/WhatsAppImage2022-05-25at1.58.25PM.jpg?v=1737632617"
       ],
-      "alreadyOrdered": 10,
       "handle": "8129_ganesh_oil_pourer_1000ml",
       "title": "Oil Dispenser Stainless Steel With Small Nozzle 1000ml",
       "salePrice": 165,
-      "stock": 1,
+      "stock": 11,
       "gst": 18,
       "hsn": "392410"
     },
@@ -29620,7 +31332,7 @@ window.productInfo = {
     "8188_silicon_icecream_mould": {
       "sku": "8188_silicon_icecream_mould",
       "itemCode": "8188",
-      "closingQuantity": 13,
+      "closingQuantity": 33,
       "sold": 26,
       "catalog": "baking-tools",
       "images": [
@@ -29633,11 +31345,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_fd477a56-5a41-4889-9914-a1c29b72ad52.jpg?v=1737622991",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/b5735402-0239-4389-be72-5536157354d6_68db6af5-5344-44e2-a429-00315405b2b3.jpg?v=1737622991"
       ],
-      "alreadyOrdered": 20,
       "handle": "reusable-silicone-popsicle-molds-with-sticks-and-lids",
       "title": "Silicone Popsicle Molds, Reusable Ice Cream Molds With Sticks And Lids. A Must - Have Popsicle Mold For Summer.",
       "salePrice": 56,
-      "stock": 13,
+      "stock": 33,
       "gst": 18,
       "hsn": "392410"
     },
@@ -29667,6 +31378,8 @@ window.productInfo = {
     "8218_2in1_ss_multi_peeler_1pc": {
       "sku": "8218_2in1_ss_multi_peeler_1pc",
       "itemCode": "8218",
+      "closingQuantity": 10,
+      "sold": 0,
       "catalog": "knife-&-cutlery",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_2be6b113-56df-4173-8d75-fc24a3c765b0.jpg?v=1737623070",
@@ -29677,15 +31390,12 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_843a5c56-e07f-4f35-9be3-ce0062b7a56a.jpg?v=1737623071",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/81670c3a-37c8-47ae-a419-e28f71777f34.jpg?v=1737623071"
       ],
-      "alreadyOrdered": 10,
       "handle": "8218_2in1_ss_multi_peeler_1pc",
       "title": "2in1 Multi - Purpose Stainless Steel Peeler With Hanging Ring For Vegetables, Potato Peeler, Carrot, Grated, Suitable For Peeling And Shredding Fruit And Vegetables Kitchen Accessories, Piller (1 Pc)",
-      "salePrice": 25,
-      "stock": 0,
+      "salePrice": 27,
+      "stock": 10,
       "gst": 18,
-      "hsn": "392410",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "392410"
     },
     "8242_6grid_sili_ice_tray_with_box": {
       "sku": "8242_6grid_sili_ice_tray_with_box",
@@ -29804,6 +31514,8 @@ window.productInfo = {
     "8270_mix_des_plastic_snack_mould_1pc": {
       "sku": "8270_mix_des_plastic_snack_mould_1pc",
       "itemCode": "8270",
+      "closingQuantity": 20,
+      "sold": 0,
       "catalog": "home-&-kitchen",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_75f6bfee-8d5f-47c5-921c-ab007df51279.jpg?v=1748509360",
@@ -29815,15 +31527,12 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/65_39a19861-9cdb-418d-8183-4249f37fc1d1.jpg?v=1748583326",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/2b271882-ba2f-4d55-8dd2-e56d2ac305b7.jpg?v=1748583326"
       ],
-      "alreadyOrdered": 20,
       "handle": "1-pc-assorted-shape-plastic-snack-mould-mix-design-1-pc",
       "title": "Pc Assorted Shape Plastic Snack Mould (Mix Design / 1 Pc)",
       "salePrice": 13,
-      "stock": 0,
+      "stock": 20,
       "gst": 18,
-      "hsn": "392410",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "392410"
     },
     "8273_3layer_rolling_egg_storage_rack": {
       "sku": "8273_3layer_rolling_egg_storage_rack",
@@ -29893,9 +31602,36 @@ window.productInfo = {
       "gst": 18,
       "hsn": "732119"
     },
+    "8282_rechar_vacuum_sealer_machine": {
+      "sku": "8282_rechar_vacuum_sealer_machine",
+      "itemCode": "8282",
+      "catalog": "home-&-kitchen",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_d256c1ec-2ceb-4de8-a60a-ef8539ff492d.jpg?v=1749269795",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/4dc43fde-3e4b-4a83-be05-667e0fb9c175.jpg?v=1749269795",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_e67804f2-c68e-40c3-a1e7-1dcb3fba932a.jpg?v=1749269795",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_0676c7f7-9a97-476d-84dc-ef2966792d83.jpg?v=1749269795",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_9bb7d5e8-5af2-487d-b1cb-c3b6268f7599.jpg?v=1749269795",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_64793659-b466-48ca-be5b-63fd85c36f01.jpg?v=1749269795",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_25d9bbf1-3840-4ea6-90db-4325ff1e1038.jpg?v=1749269795",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/07_87953128-e912-4f15-890f-adc720bb760f.jpg?v=1749269795",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/fd1e7ab3-9670-4c23-8330-8d83900fd3ca.jpg?v=1749269795"
+      ],
+      "alreadyOrdered": 3,
+      "handle": "portable-usb-rechargeable-vacuum-sealer-machine-1-pc",
+      "title": "Portable Usb Rechargeable Vacuum Sealer Machine (1 Pc)",
+      "salePrice": 195,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "850980",
+      "closingQuantity": 0,
+      "sold": 0
+    },
     "8293_supermom_4in1_multi_utensil_1pc": {
       "sku": "8293_supermom_4in1_multi_utensil_1pc",
       "itemCode": "8293",
+      "closingQuantity": 5,
+      "sold": 0,
       "catalog": "home-&-kitchen",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_d5c19ae8-06de-4473-8981-b4cabb17ef72.jpg?v=1750310406",
@@ -29906,15 +31642,12 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_5a33c832-ef54-42de-9c07-3d3382492e11.jpg?v=1750310406",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/30e448d2-69c7-46c1-afd7-59dcb4c86959.jpg?v=1750310406"
       ],
-      "alreadyOrdered": 5,
       "handle": "4-in-1-multi-functional-vegetable-fruit-peeler-1-pc",
       "title": "- In-1 Multi-functional Vegetable & Fruit Peeler (1 Pc)",
       "salePrice": 169,
-      "stock": 0,
+      "stock": 5,
       "gst": 12,
-      "hsn": "821000",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "821000"
     },
     "8301_mix_des_ss_nail_clipper_12pc": {
       "sku": "8301_mix_des_ss_nail_clipper_12pc",
@@ -29966,6 +31699,8 @@ window.productInfo = {
     "8354_2in1_soap_dispenser_set": {
       "sku": "8354_2in1_soap_dispenser_set",
       "itemCode": "8354",
+      "closingQuantity": 6,
+      "sold": 0,
       "catalog": "cleaning",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_426d7f56-4f30-4f93-8dee-f51f62a52d60.jpg?v=1738043183",
@@ -29979,15 +31714,12 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/08_d20f52f7-8b91-49d2-8305-1f8f1bf6195d.jpg?v=1738043184",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/92310d1f-102e-4004-8fc8-91ce872584cd.jpg?v=1738043184"
       ],
-      "alreadyOrdered": 6,
       "handle": "8354_2in1_soap_dispenser_set_1",
       "title": "In 1 Plastic Dish Soap Liquid Dispenser Sponge Holder (1 Set)",
-      "salePrice": 116,
-      "stock": 0,
+      "salePrice": 123,
+      "stock": 6,
       "gst": 18,
-      "hsn": "392690",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "392690"
     },
     "8363_golden_vibration_face_massager": {
       "sku": "8363_golden_vibration_face_massager",
@@ -30099,6 +31831,31 @@ window.productInfo = {
       "gst": 12,
       "hsn": "821420"
     },
+    "8436_silicone_suction_phone_holder_1pc": {
+      "sku": "8436_silicone_suction_phone_holder_1pc",
+      "itemCode": "8436",
+      "catalog": "electronics-accessories",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_a3d63e40-d17f-4fa0-9b27-6df7fd4730de.jpg?v=1745870879",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_c3dba5e1-2f3a-4cad-8638-cf3ddc9be1ed.jpg?v=1745870879",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/e09752c4-ec06-4726-8b2c-ea45a7d13c1d.jpg?v=1745870879",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_cc48e707-228a-4ddd-9479-cede66682a1b.jpg?v=1745870879",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_c52c7a24-eda7-4941-b0c7-c220029decc2.jpg?v=1742644947",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_bc81101d-be0f-47fd-b16e-1c3c22151479.jpg?v=1742644948",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_5f770f5c-be0f-4934-aece-61a8113c2539.jpg?v=1742644948",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_b0d8203a-2a53-4454-ae78-2d1d4be413e9.jpg?v=1742644948",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/e7b004b3-46ca-4656-91b5-40e3073fa98f.jpg?v=1742644948"
+      ],
+      "alreadyOrdered": 10,
+      "handle": "8436_silicone_suction_phone_holder_1pc",
+      "title": "Suction Phone Case / Holder Mount (1 Pc / Mix Color)",
+      "salePrice": 26,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "391000",
+      "closingQuantity": 0,
+      "sold": 0
+    },
     "8445_mini_finger_powder_puff_8pc": {
       "sku": "8445_mini_finger_powder_puff_8pc",
       "itemCode": "8445",
@@ -30147,7 +31904,7 @@ window.productInfo = {
     "8462_crystal_led_touch_table_lamp": {
       "sku": "8462_crystal_led_touch_table_lamp",
       "itemCode": "8462",
-      "closingQuantity": 0,
+      "closingQuantity": 10,
       "sold": 1,
       "catalog": "home-improvement",
       "images": [
@@ -30161,11 +31918,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_b504f657-3e07-4823-865f-666105d699b6.jpg?v=1748240804",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/2ee8967c-3d7a-4c37-ac20-3962b6cd8e8f.jpg?v=1748240804"
       ],
-      "alreadyOrdered": 10,
       "handle": "crystal-led-touch-table-lamp-with-remote-control",
       "title": "Crystal Led Touch Table Lamp With Remote Control",
-      "salePrice": 169,
-      "stock": 0,
+      "salePrice": 178,
+      "stock": 10,
       "gst": 18,
       "hsn": "940511"
     },
@@ -30351,7 +32107,7 @@ window.productInfo = {
     "8677_auto_plant_watering_devices_4pc": {
       "sku": "8677_auto_plant_watering_devices_4pc",
       "itemCode": "8677",
-      "closingQuantity": 0,
+      "closingQuantity": 2,
       "sold": 5,
       "items_per_bag": 4,
       "catalog": "gardening",
@@ -30365,11 +32121,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_fe6013a0-8fa9-4fad-bc15-74f410c353be.jpg?v=1737620665",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/021158ce-e211-44c1-a54d-11dbba0ca766.jpg?v=1737620665"
       ],
-      "alreadyOrdered": 2,
       "handle": "8677_auto_plant_watering_devices_4pc",
       "title": "Auto Plant Watering Devices (4 Pcs Set)",
-      "salePrice": 84,
-      "stock": 0,
+      "salePrice": 92,
+      "stock": 2,
       "gst": 18,
       "hsn": "392410"
     },
@@ -30656,7 +32411,7 @@ window.productInfo = {
     "8822_welcome_door_mat_23x15inch": {
       "sku": "8822_welcome_door_mat_23x15inch",
       "itemCode": "8822",
-      "closingQuantity": 0,
+      "closingQuantity": 13,
       "sold": 6,
       "catalog": "home-decor",
       "images": [
@@ -30669,18 +32424,17 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06bf503c-ca46-4dea-9d30-fda3bc1b635f.jpg?v=1737625563",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/c08f7aa1-1c21-4298-b111-3b4f5e04e589.jpg?v=1737625563"
       ],
-      "alreadyOrdered": 13,
       "handle": "welcome-door-mat-heavy-duty-waterproof",
       "title": "Welcome Door Mat For Home Entrance Outdoor Mat Anti Slip Heavy Duty And Waterproof | Easy To Clean For Entry For Bedroom, Living Room (23x15 Inch)",
-      "salePrice": 149,
-      "stock": 0,
+      "salePrice": 157,
+      "stock": 13,
       "gst": 18,
       "hsn": "392410"
     },
     "8868_unlimited_pencils_with_eraser": {
       "sku": "8868_unlimited_pencils_with_eraser",
       "itemCode": "8868",
-      "closingQuantity": 1,
+      "closingQuantity": 31,
       "sold": 19,
       "catalog": "stationery",
       "images": [
@@ -30697,11 +32451,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/561b535a-5227-46a6-b647-758705cc6863_647d8221-2f3f-47a2-a46d-f005277fd8e0.jpg?v=1737623338",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/e4814534-5f8a-4678-8af7-6def12cfdfe5.jpg?v=1737623338"
       ],
-      "alreadyOrdered": 30,
       "handle": "2-in-1-pencil-with-replaceable-head-eraser",
       "title": "2 In1 Everlasting Pencil Replaceable Head With Eraser, Inkless Pencils Eternal, Infinite Pencil, Portable Everlasting Pencil Reusable Erasable, Magic Pencils For Kids Painting Stationary Set (1 Pc)",
-      "salePrice": 43,
-      "stock": 1,
+      "salePrice": 32,
+      "stock": 31,
       "gst": 18,
       "hsn": "960999"
     },
@@ -30752,6 +32505,8 @@ window.productInfo = {
     "8911_3in1_highlighter_marker_pen": {
       "sku": "8911_3in1_highlighter_marker_pen",
       "itemCode": "8911",
+      "closingQuantity": 20,
+      "sold": 0,
       "catalog": "stationery",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_9c3f1d03-a11b-40c3-a26d-7dc04f9d283f.jpg?v=1740977917",
@@ -30762,15 +32517,12 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_0fe8b79a-597f-4c81-875b-0fe3c09b1270.jpg?v=1740977917",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/2cfac963-a214-4407-b6b2-0f52469c49b3.jpg?v=1740977917"
       ],
-      "alreadyOrdered": 20,
       "handle": "highlighter-pen-assorted-colours-water-based-broad-tip-writing-marker-pens-for-office-home-daily-use-3-colours",
       "title": "Highlighter Pen, Assorted Colours Water Based Broad Tip Writing Marker (3 Pcs Set)",
-      "salePrice": 49,
-      "stock": 0,
+      "salePrice": 53,
+      "stock": 20,
       "gst": 18,
-      "hsn": "960810",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "960810"
     },
     "8912_fold_storage_organizer_rack": {
       "sku": "8912_fold_storage_organizer_rack",
@@ -30797,7 +32549,7 @@ window.productInfo = {
     "8913_plastic_desk_pen_holder_1pc": {
       "sku": "8913_plastic_desk_pen_holder_1pc",
       "itemCode": "8913",
-      "closingQuantity": 2,
+      "closingQuantity": 52,
       "sold": 28,
       "catalog": "stationery",
       "images": [
@@ -30809,11 +32561,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_4248850e-a726-46bb-a75d-5a0be69a7bed.jpg?v=1740977933",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/b0b496e7-7012-4bd2-a3ef-ff3543034acd.jpg?v=1740977933"
       ],
-      "alreadyOrdered": 50,
       "handle": "pen-holder-office-desk-plastic-mesh-pen-stand-1-pc",
       "title": "Pen Holder Office Desk Plastic Mesh Pen Stand (1 Pc)",
-      "salePrice": 48,
-      "stock": 2,
+      "salePrice": 52,
+      "stock": 52,
       "gst": 18,
       "hsn": "392690"
     },
@@ -30957,7 +32708,7 @@ window.productInfo = {
     "9070_3pcs_red_garden_tools": {
       "sku": "9070_3pcs_red_garden_tools",
       "itemCode": "9070",
-      "closingQuantity": 0,
+      "closingQuantity": 20,
       "sold": 34,
       "catalog": "gardening",
       "images": [
@@ -30969,11 +32720,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/4image_a56ad113-fd7b-47dc-8a4e-48b0d4270708.jpg?v=1737622874",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/WhatsAppImage2022-08-02at11.05.56AM_943366e8-2e94-4132-a8d7-eeb2791a12d7.jpg?v=1737622874"
       ],
-      "alreadyOrdered": 20,
       "handle": "small-garden-tools-set-3pc",
       "title": "3pcs Small Sized Hand Cultivator, Small Trowel, Garden Fork",
-      "salePrice": 95,
-      "stock": 0,
+      "salePrice": 101,
+      "stock": 20,
       "gst": 18,
       "hsn": "820790"
     },
@@ -31157,7 +32907,7 @@ window.productInfo = {
     "9315_garbage_50x60_1roll": {
       "sku": "9315_garbage_50x60_1roll",
       "itemCode": "9315",
-      "closingQuantity": 0,
+      "closingQuantity": 20,
       "sold": 1,
       "catalog": "industrial-&-scientific",
       "images": [
@@ -31173,11 +32923,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_2e8b9fdf-dfcf-4506-adef-6b2efa0127c3.jpg?v=1750754461",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/f1cbe224-46b9-4d2f-9276-14b1704b9b0d.jpg?v=1750754477"
       ],
-      "alreadyOrdered": 20,
       "handle": "bio-degradable-eco-friendly-garbage-trash-bags-rolls-40x50-cm-1-pc-1",
       "title": "Bio - Degradable Eco Friendly Garbage / Trash Bags Rolls (40x50 Cm / 1 Pc)",
       "salePrice": 20,
-      "stock": 0,
+      "stock": 20,
       "gst": 18,
       "hsn": "392321"
     },
@@ -31206,8 +32955,8 @@ window.productInfo = {
     "9325_electric_spray_bottle_3ltr": {
       "sku": "9325_electric_spray_bottle_3ltr",
       "itemCode": "9325",
-      "closingQuantity": 4,
-      "sold": 1,
+      "closingQuantity": 3,
+      "sold": 2,
       "catalog": "gardening",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_eab8208b-a368-41c0-bf9d-14ab7bee8b10.jpg?v=1737626243",
@@ -31222,15 +32971,15 @@ window.productInfo = {
       "handle": "9325_electric_spray_bottle_3l",
       "title": "Electric Spray Bottle 3l Garden Sprayer Automatic Watering Can Rechargeable Battery Powered Sprayer For Garden Fertilizing (1pc 3ltr.)",
       "salePrice": 1149,
-      "stock": 4,
+      "stock": 3,
       "gst": 18,
       "hsn": "392410"
     },
     "9327_cutter_knife_18mm": {
       "sku": "9327_cutter_knife_18mm",
       "itemCode": "9327",
-      "closingQuantity": 12,
-      "sold": 48,
+      "closingQuantity": 60,
+      "sold": 50,
       "catalog": "stationery",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/21_5a83374f-2f53-4d28-9801-b2732f615a09.jpg?v=1737626209",
@@ -31242,13 +32991,37 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_19b1545d-672e-41bc-bd5a-648fcbfcdfac.jpg?v=1737626209",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/d1fd08ea-9242-4ad5-889f-6919e1ccd7dd.jpg?v=1737626209"
       ],
-      "alreadyOrdered": 50,
       "handle": "9327_cutter_knife_18mm",
       "title": "Multi - Use Iron Cutter, Cutting Blade And Precision Knife Blade, Utility Knife - Heavy Duty Industrial Cutter Knife (18mm)",
-      "salePrice": 27,
-      "stock": 12,
+      "salePrice": 30,
+      "stock": 60,
       "gst": 18,
       "hsn": "392410"
+    },
+    "9370_usb_rechargeable_flashlight": {
+      "sku": "9370_usb_rechargeable_flashlight",
+      "itemCode": "9370",
+      "catalog": "travel",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_9482b011-4906-478e-87e0-5797deb511e6.jpg?v=1737628087",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/285b1594-e778-454b-998c-ba0a41a0e742_1.jpg?v=1737628087",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_25c9eb92-061f-4f09-8845-f4e0f05777ba.jpg?v=1737628087",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_87c3d242-e778-4848-a547-50c358c8906b.jpg?v=1737628087",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_9c3e95e4-ec1f-4e89-ab6a-76322bec174f.jpg?v=1737628087",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/07_a73493ac-faeb-498f-bcff-561d8fb82543.jpg?v=1737628087",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_2592e318-7954-4825-875a-41e08e9e7200.jpg?v=1737628087",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/08_17bd4c58-b339-445c-8b7d-890d21d313a0.jpg?v=1737628087",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/8b93836e-c07d-4833-ae9a-b9ba465b9d50_d6564888-84d6-4657-ba52-9edcf1c86442.jpg?v=1737628088"
+      ],
+      "alreadyOrdered": 20,
+      "handle": "rechargeable-torch-light-4-led-flashlight",
+      "title": "Multifunctional Strong 4 Led Torch Light, Portable Rechargeable Flashlight Long Distance Beam Range 800 Lumens Cob Light 4 Mode Emergency For Hiking, Walking, Camping (4 Led Torch)",
+      "salePrice": 164,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "392410",
+      "closingQuantity": 0,
+      "sold": 0
     },
     "9382_handy_air_pump": {
       "sku": "9382_handy_air_pump",
@@ -31297,6 +33070,29 @@ window.productInfo = {
       "stock": 17,
       "gst": 18,
       "hsn": "392410"
+    },
+    "9415_ss_agarbatti_stand_12pc_no12": {
+      "sku": "9415_ss_agarbatti_stand_12pc_no12",
+      "itemCode": "9415",
+      "catalog": "hooks",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_bd7594e8-10f5-4593-96e3-dd0d36dc8bb5.jpg?v=1737626640",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/071973ad-a304-4c07-973d-fbdacc9141ee.jpg?v=1737626641",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_d160f02a-2b9f-4015-b0c1-4af2f0ab09bb.jpg?v=1737626641",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_52fd4a04-1294-494e-b294-501906ca7f4c.jpg?v=1737626641",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_3bf04b48-6a47-49c4-800e-470d5bb71c8a.jpg?v=1737626641",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_82d20ec9-a79f-43d9-bfff-8d071cd4b321.jpg?v=1737626641",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/0a011b39-c7ed-4271-8d1d-c6f7b597bfb6.jpg?v=1737626641"
+      ],
+      "alreadyOrdered": 3,
+      "handle": "stainless-steel-agarbatti-stand-pack",
+      "title": "Stainless Steel Agarbatti Stand, Agarbatti Holder Stand Self Adhesive Wall Mounted Stand Wall Hook, Capacity To Hold 3 Agarbatti - Pack Of 12 Hooks",
+      "salePrice": 91,
+      "stock": 0,
+      "gst": 18,
+      "hsn": "392410",
+      "closingQuantity": 0,
+      "sold": 0
     },
     "9459_3in1_scissor_with_cover": {
       "sku": "9459_3in1_scissor_with_cover",
@@ -31368,6 +33164,8 @@ window.productInfo = {
     "9541_garden_solar_light_1pc": {
       "sku": "9541_garden_solar_light_1pc",
       "itemCode": "9541",
+      "closingQuantity": 3,
+      "sold": 0,
       "catalog": "home-decor",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_1fc0eac6-db63-4cf0-af5f-1da7ded7915f.jpg?v=1737619036",
@@ -31378,20 +33176,17 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_752f6528-4642-4945-8cd5-2b0168e164fb.jpg?v=1737619036",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/d2f2854a-41f9-4fe3-9951-8b950f809888_3cd0f2f4-1039-4815-b5fe-412ea0ed69e4.jpg?v=1737619036"
       ],
-      "alreadyOrdered": 3,
       "handle": "solar-garden-led-light-pack-of-1-pc",
       "title": "Solar Garden Led Light (Pack Of 1 Pc)",
-      "salePrice": 123,
-      "stock": 0,
+      "salePrice": 132,
+      "stock": 3,
       "gst": 18,
-      "hsn": "392410",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "392410"
     },
     "9542_8in1_screwdrivers_set": {
       "sku": "9542_8in1_screwdrivers_set",
       "itemCode": "9542",
-      "closingQuantity": 6,
+      "closingQuantity": 17,
       "sold": 19,
       "catalog": "hardware",
       "images": [
@@ -31403,11 +33198,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_7b202084-a1db-43a3-9798-38695bd92026.jpg?v=1737621588",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/1c83fed4-c226-4a64-9a93-988e8796f94b.jpg?v=1737621588"
       ],
-      "alreadyOrdered": 11,
       "handle": "8-in-1-screwdrivers-set-for-household-tasks",
       "title": "In 1 Screwdrivers Set",
-      "salePrice": 122,
-      "stock": 6,
+      "salePrice": 131,
+      "stock": 17,
       "gst": 18,
       "hsn": "392410"
     },
@@ -31459,6 +33253,8 @@ window.productInfo = {
     "9816_plastic_hair_clip_1pc": {
       "sku": "9816_plastic_hair_clip_1pc",
       "itemCode": "9816",
+      "closingQuantity": 11,
+      "sold": 3,
       "catalog": "beauty-&-personal-care",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_3c8a630d-58df-4ba8-ad4c-6c0f3a1e765c.jpg?v=1741675589",
@@ -31469,15 +33265,12 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_37d71285-7d0a-4176-8308-ca5a52332b3d.jpg?v=1741675589",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/ceb5a803-8c93-4457-a2ce-256bb92d30a6.jpg?v=1741675589"
       ],
-      "alreadyOrdered": 14,
       "handle": "hair-clamp-grip-simple-matte-hair-barrette-clamp-charming-decoration-hair-fixation-decorative-for-face-washing-3",
       "title": "Hair Clamp Grip, Simple Matte Hair Barrette Clamp Charming Decoration Hair Fixation Decorative For Face Washing",
-      "salePrice": 20,
-      "stock": 0,
+      "salePrice": 22,
+      "stock": 11,
       "gst": 12,
-      "hsn": "96151100",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "96151100"
     },
     "9824_ss_otima_pro_classic_bottle_1000ml": {
       "sku": "9824_ss_otima_pro_classic_bottle_1000ml",
@@ -31504,7 +33297,7 @@ window.productInfo = {
     "9838_plastic_hair_headbands_1pc_no1": {
       "sku": "9838_plastic_hair_headbands_1pc_no1",
       "itemCode": "9838",
-      "closingQuantity": 0,
+      "closingQuantity": 10,
       "sold": 7,
       "catalog": "beauty-&-personal-care",
       "images": [
@@ -31516,11 +33309,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_6651235e-521e-4fcd-8b83-7aaf54a7833f.jpg?v=1741412171",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/09936037-f233-4ed6-807e-67548395e232.jpg?v=1741412172"
       ],
-      "alreadyOrdered": 10,
       "handle": "plastic-simple-headbands-comb-headbands-hairbands-1-pc-2",
       "title": "Plastic Simple Headbands Comb Headbands Hairbands (1 Pc)",
-      "salePrice": 19,
-      "stock": 0,
+      "salePrice": 22,
+      "stock": 10,
       "gst": 18,
       "hsn": "392690"
     },
@@ -31548,7 +33340,7 @@ window.productInfo = {
     "9844_plastic_hair_clip_no3": {
       "sku": "9844_plastic_hair_clip_no3",
       "itemCode": "9844",
-      "closingQuantity": 7,
+      "closingQuantity": 28,
       "sold": 18,
       "catalog": "beauty-&-personal-care",
       "images": [
@@ -31563,11 +33355,10 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_15c8df07-e4f1-46f9-b5b5-bc758ae490bf.jpg?v=1745228187",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/f3597776-9128-45c3-a263-a938db6df5ad.jpg?v=1745294682"
       ],
-      "alreadyOrdered": 21,
       "handle": "plastic-hair-clamp-grip-simple-matte-hair-barrette-clamp-1-pc-1",
       "title": "Plastic Hair Clamp Grip, Simple Matte Hair Barrette Clamp (1 Pc)",
       "salePrice": 23,
-      "stock": 7,
+      "stock": 28,
       "gst": 12,
       "hsn": "96151100"
     },
@@ -31615,9 +33406,35 @@ window.productInfo = {
       "gst": 12,
       "hsn": "821420"
     },
+    "9852_cycle_tealight_candle_holder_1pc": {
+      "sku": "9852_cycle_tealight_candle_holder_1pc",
+      "itemCode": "9852",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_3379faa1-1016-4d17-a4a3-9520ce1ec85e.jpg?v=1741412152",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/96_3a0e9453-8992-4dfc-bfb7-741a54c746ed.jpg?v=1741412152",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_8e4d3dce-cd12-4711-9e14-701499e1f326.jpg?v=1741412152",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_7a6472db-e1a8-4f12-8401-bc28fb8dff09.jpg?v=1741412152",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_d98497fa-591f-4efe-b1b0-5e53dd3bfc7f.jpg?v=1741412152",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_d757c875-6931-4312-9ffd-436ac14fba78.jpg?v=1741412152",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/07_0d1e7cd1-f995-4d48-9952-f4fdf862f2d2.jpg?v=1741412152",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_b0a44b13-01d9-406b-9963-1bed99e491c8.jpg?v=1741412152",
+        "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/e0401996-dc6f-462a-9e10-d9774b216ba4.jpg?v=1741412153"
+      ],
+      "alreadyOrdered": 3,
+      "handle": "9852_cycle_tealight_candle_holder_1pc",
+      "title": "Cycle Tealight Holder / Candle Holder Decorative Candle (1 Pc)",
+      "salePrice": 81,
+      "stock": 0,
+      "gst": 12,
+      "hsn": "340600",
+      "closingQuantity": 0,
+      "sold": 0
+    },
     "9899_ss_agarbatti_stand_1pc": {
       "sku": "9899_ss_agarbatti_stand_1pc",
       "itemCode": "9899",
+      "closingQuantity": 5,
+      "sold": 0,
       "catalog": "home-improvement",
       "images": [
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_a035a900-f3f6-4c88-86c0-5d278cf6fb98.jpg?v=1742301068",
@@ -31628,15 +33445,12 @@ window.productInfo = {
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_ee191f2c-8c3a-4235-816c-d57bbf560de7.jpg?v=1742301068",
         "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/d4a526dd-f935-4de6-aadf-d71afff73f70.jpg?v=1742301068"
       ],
-      "alreadyOrdered": 5,
       "handle": "stainless-steel-agarbatti-stand-for-puja-1-pc",
       "title": "Stainless Steel Agarbatti Stand For Puja (1 Pc)",
-      "salePrice": 71,
-      "stock": 0,
+      "salePrice": 77,
+      "stock": 5,
       "gst": 18,
-      "hsn": "732394",
-      "closingQuantity": 0,
-      "sold": 0
+      "hsn": "732394"
     },
     "9901_iki_mix_room_freshener_200ml_1pc": {
       "sku": "9901_iki_mix_room_freshener_200ml_1pc",
