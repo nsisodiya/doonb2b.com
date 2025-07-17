@@ -192,9 +192,10 @@
 
       function showProduct(data) {
         addItemCodeToUrl(data.itemCode);
-        if (window.skuToRackDataMap[data.sku] !== undefined) {
+        const rackNumber = window.productInfo[data.itemCode].rackNumber;
+        if (rackNumber !== undefined) {
           document.getElementById('product-rack').textContent = `Rack: ${
-            window.skuToRackDataMap[data.sku]?.rackNumber || ''
+            rackNumber || ''
           }`;
         } else {
           document.getElementById('product-rack').textContent = '';
@@ -294,9 +295,7 @@
         Quagga.onDetected((result) => {
           const code = result.codeResult.code;
           const sku = window.productInfo.itemCodeToSkuMap[code];
-          const productData = sku
-            ? window.productInfo.skuToProductInfo[sku]
-            : null;
+          const productData = sku ? window.productInfo[itemCode] : null;
 
           if (productData) {
             Quagga.offDetected();
@@ -338,30 +337,12 @@
       }
       var locationInfo = {};
 
-      async function fetchRackData() {
-        try {
-          const response = await fetch(
-            'https://stock.doonb2b.com/api/rack-data'
-          );
-          if (!response.ok) {
-            throw new Error(`HTTP error! status: ${response.status}`);
-          }
-          const data = await response.json();
-          return data;
-        } catch (error) {
-          console.error('Error fetching rack data:', error);
-          return {}; // return empty object on failure
-        }
-      }
       window.onload = async () => {
         // Call the function on page load
-        window.skuToRackDataMap = await fetchRackData();
         const urlParams = new URLSearchParams(window.location.search);
         const itemCode = urlParams.get('itemCode');
         const sku = window.productInfo.itemCodeToSkuMap[itemCode];
-        const productData = sku
-          ? window.productInfo.skuToProductInfo[sku]
-          : null;
+        const productData = sku ? window.productInfo[itemCode] : null;
 
         if (itemCode && productData) {
           showProduct(productData);

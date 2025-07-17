@@ -35,13 +35,13 @@ window.addEventListener('load', () => {
     if (
       catalog === 'these-products-are-in-transport-and-they-will-arrive-soon'
     ) {
-      Object.values(productInfo.skuToProductInfo)
+      Object.values(productInfo)
         .filter((p) => p?.stock === 0 && p.alreadyOrdered !== undefined)
         .forEach((product) =>
           createProductItem(product, productList, { skipStock: true })
         );
     } else {
-      Object.values(productInfo.skuToProductInfo)
+      Object.values(productInfo)
         .filter((p) => p?.catalog === catalog)
         .forEach((product) => createProductItem(product, productList));
     }
@@ -54,15 +54,15 @@ window.addEventListener('load', () => {
     mapWrapper.classList.remove('hidden');
     catalogList.innerHTML = '';
 
-    const div = document.createElement('div');
-    div.className = 'catalog-item';
-    div.innerHTML = `
-        <img src="https://static.vecteezy.com/system/resources/previews/002/544/264/non_2x/cartoon-semi-truck-illustration-vector.jpg" alt="New" />
-        <div class="catalog-title">Arriving Soon</div>
-      `;
-    div.onclick = () =>
-      showProducts(`these-products-are-in-transport-and-they-will-arrive-soon`);
-    catalogList.appendChild(div);
+    // const div = document.createElement('div');
+    // div.className = 'catalog-item';
+    // div.innerHTML = `
+    //     <img src="https://static.vecteezy.com/system/resources/previews/002/544/264/non_2x/cartoon-semi-truck-illustration-vector.jpg" alt="New" />
+    //     <div class="catalog-title">Arriving Soon</div>
+    //   `;
+    // div.onclick = () =>
+    //   showProducts(`these-products-are-in-transport-and-they-will-arrive-soon`);
+    // catalogList.appendChild(div);
 
     Object.entries(catalogData).forEach(([catalog, image]) => {
       const div = document.createElement('div');
@@ -77,36 +77,6 @@ window.addEventListener('load', () => {
       catalogList.appendChild(div);
     });
   }
-  function refreshVisibleProductsWithRackInfo() {
-    const keyword = document.getElementById('searchInput')?.value.trim() || '';
-    if (keyword) {
-      searchProducts(keyword);
-    } else if (
-      !document.getElementById('catalogList')?.classList.contains('hidden')
-    ) {
-      showCatalogs();
-    } else {
-      const currentCategory =
-        document
-          .getElementById('categoryTitle')
-          ?.textContent.trim()
-          .toLowerCase()
-          .replace(/\s+/g, '-') || '';
-      if (currentCategory) showProducts(currentCategory);
-    }
-
-    // Update rack data for visible products
-    const rackDataMap = window.skuToRackDataMap || {};
-    document
-      .querySelectorAll('.product-stock-rack[data-sku]')
-      .forEach((rackDiv) => {
-        const sku = rackDiv.getAttribute('data-sku');
-        const rackNumber = rackDataMap[sku]?.rackNumber;
-        console.log(sku, rackNumber);
-        rackDiv.textContent = rackNumber ? `Rack: ${rackNumber}` : '';
-      });
-  }
-
   function doesProductMatchSearch(query, product) {
     if (!query || !product) return false;
 
@@ -127,19 +97,6 @@ window.addEventListener('load', () => {
     );
   }
 
-  function fetchRackData() {
-    return fetch('https://stock.doonb2b.com/api/rack-data')
-      .then((response) => {
-        if (!response.ok)
-          throw new Error(`HTTP error! status: ${response.status}`);
-        return response.json();
-      })
-      .catch((error) => {
-        console.error('Error fetching rack data:', error);
-        return {};
-      });
-  }
-
   function createProductItem(product, productList, config = {}) {
     if (!product || !productList) return;
     const div = document.createElement('div');
@@ -148,12 +105,13 @@ window.addEventListener('load', () => {
       ? Math.round(product.salePrice / product.items_per_bag) + ' per item'
       : product.salePrice;
 
-    const productUrl = `./info.html?sku=${encodeURIComponent(
-      product.sku || ''
+    const productUrl = `./info.html?itemCode=${encodeURIComponent(
+      product.itemCode || ''
     )}`;
     const imageUrl = getThumbnailImage(product.images?.[0] || 'default.jpg');
+    //href="${productUrl}"
     div.innerHTML = `
-      <a href="${productUrl}" class="product-link" style="text-decoration: none; color: inherit;">
+      <div class="product-link" style="text-decoration: none; color: inherit;">
         <div class="product-price">
           ₹ ${salePrice}
         </div>
@@ -183,14 +141,14 @@ window.addEventListener('load', () => {
   </div>
   <div class="product-stock-rack" data-sku="${product.sku || ''}">
     ${
-      window.skuToRackDataMap?.[product.sku]?.rackNumber
-        ? `Rack: ${window.skuToRackDataMap[product.sku].rackNumber}`
+      window.productInfo?.[product.itemCode]?.rackNumber
+        ? `Rack: ${window.productInfo?.[product.itemCode]?.rackNumber}`
         : ''
     }
   </div>
 `
         }
-      </a>
+      </div>
     `;
     productList.appendChild(div);
   }
@@ -204,7 +162,7 @@ window.addEventListener('load', () => {
     categoryTitle.textContent = '';
     productList.innerHTML = '';
 
-    const results = Object.values(productInfo.skuToProductInfo).filter((p) =>
+    const results = Object.values(productInfo).filter((p) =>
       doesProductMatchSearch(lowerKeyword, p)
     );
 
@@ -218,10 +176,10 @@ window.addEventListener('load', () => {
 
   const catalogData = {};
   const catalogCounts = {};
-  const productInfo = window.productInfo || { skuToProductInfo: {} };
+  const productInfo = window.productInfo || {};
 
-  for (const sku in productInfo.skuToProductInfo) {
-    const product = productInfo.skuToProductInfo[sku];
+  for (const sku in productInfo) {
+    const product = productInfo[sku];
     if (!product?.catalog || !product?.images?.length) continue;
     if (!catalogData[product.catalog]) {
       catalogData[product.catalog] = product.images[0];
@@ -264,9 +222,4 @@ window.addEventListener('load', () => {
 
   showCatalogs();
   showLoader(false);
-
-  fetchRackData().then((rackData) => {
-    window.skuToRackDataMap = rackData;
-    refreshVisibleProductsWithRackInfo();
-  });
 });

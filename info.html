@@ -129,24 +129,7 @@
     </div>
 
     <script>
-      async function fetchRackData() {
-        try {
-          const response = await fetch(
-            'https://stock.doonb2b.com/api/rack-data'
-          );
-          if (!response.ok) {
-            throw new Error(`HTTP error! status: ${response.status}`);
-          }
-          const data = await response.json();
-          return data;
-        } catch (error) {
-          console.error('Error fetching rack data:', error);
-          return {};
-        }
-      }
-
       let swiper;
-      let skuToRackDataMap = {};
 
       async function showProduct(data) {
         addSkuToUrl(data.sku);
@@ -178,7 +161,7 @@
         }`;
 
         // Show rack number if available
-        const rackInfo = skuToRackDataMap[data.sku];
+        const rackInfo = window.productInfo[data.itemCode];
         document.getElementById('product-rack').textContent = rackInfo
           ? `Rack: ${rackInfo.rackNumber}`
           : '';
@@ -206,7 +189,8 @@
         }
 
         const url = new URL(window.location);
-        const productUrl = url.origin + url.pathname + '?' + `sku=${data.sku}`;
+        const productUrl =
+          url.origin + url.pathname + '?' + `itemCode=${data.itemCode}`;
         const shareText = `${data.title} for just *₹${data.salePrice}*! \n\n ${productUrl}`;
         const shareLink = `https://wa.me/?text=${encodeURIComponent(
           shareText
@@ -225,15 +209,11 @@
       }
 
       window.onload = async () => {
-        skuToRackDataMap = await fetchRackData();
-
         const urlParams = new URLSearchParams(window.location.search);
-        const sku = urlParams.get('sku');
-        const productData = sku
-          ? window.productInfo.skuToProductInfo[sku]
-          : null;
+        const itemCode = urlParams.get('itemcode');
+        const productData = itemCode ? window.productInfo[itemCode] : null;
 
-        if (sku && productData) {
+        if (itemCode && productData) {
           showProduct(productData);
         }
       };

@@ -75,7 +75,7 @@
     </div>
 
     <!-- Include the external JavaScript file -->
-    <script src="https://doonb2b.com/public-product-info.js"></script>
+    <script src="./public-product-info.js"></script>
 
     <script>
       // Create number formatter for Indian format (xx,xx,xx,xxx.xx)
@@ -97,11 +97,11 @@
 
         try {
           // Check if window.productInfo is available
-          if (!window.productInfo || !window.productInfo.skuToProductInfo) {
+          if (!window.productInfo || !window.productInfo) {
             throw new Error('Product data not loaded or invalid format');
           }
 
-          const products = Object.values(window.productInfo.skuToProductInfo);
+          const products = Object.values(window.productInfo);
 
           // Calculate metrics
           const totalTypes = products.length;
