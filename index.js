@@ -1,6 +1,17 @@
 window.catalogData = {};
 window.catalogCounts = {};
 
+function productSortFun(a, b) {
+  // 1) out-of-stock last
+  const outA = a.closingQuantity === 0;
+  const outB = b.closingQuantity === 0;
+  if (outA !== outB) return outA ? 1 : -1;
+
+  // 2) within each group, highest sold first (undefined → 0)
+  const soldA = a.sold ?? 0;
+  const soldB = b.sold ?? 0;
+  return soldB - soldA;
+}
 /**
  * Attach barcode scanning behavior to an input element.
  * @param {HTMLInputElement} inputElem - The input to attach scanner to.
@@ -146,7 +157,7 @@ function showLoader(show = true) {
   if (loader) loader.classList.toggle('hidden', !show);
 }
 
-function showProducts(catalog) {
+function showProductsFromCatalog(catalog) {
   const catalogList = document.getElementById('catalogList');
   const productList = document.getElementById('productList');
   const productListWrapper = document.getElementById('productListWrapper');
@@ -177,7 +188,10 @@ function showProducts(catalog) {
   } else {
     Object.values(productInfo)
       .filter((p) => p?.catalog === catalog)
-      .forEach((product) => createProductItem(product, productList));
+      .sort(productSortFun)
+      .forEach((product) => {
+        createProductItem(product, productList);
+      });
   }
 }
 
@@ -195,7 +209,7 @@ function showCatalogs() {
   //     <div class="catalog-title">Arriving Soon</div>
   //   `;
   // div.onclick = () =>
-  //   showProducts(`these-products-are-in-transport-and-they-will-arrive-soon`);
+  //   showProductsFromCatalog(`these-products-are-in-transport-and-they-will-arrive-soon`);
   // catalogList.appendChild(div);
 
   Object.entries(window.catalogData).forEach(([catalog, image]) => {
@@ -207,7 +221,7 @@ function showCatalogs() {
       window.catalogCounts[catalog] || 0
     } items)</div>
       `;
-    div.onclick = () => showProducts(catalog);
+    div.onclick = () => showProductsFromCatalog(catalog);
     catalogList.appendChild(div);
   });
 }
@@ -235,6 +249,14 @@ function createProductItem(product, productList, config = {}) {
   if (!product || !productList) return;
   const div = document.createElement('div');
   div.className = 'product-item';
+  // add out-of-stock class if stock is 0
+  if (
+    !config.skipStock &&
+    product.closingQuantity === 0 &&
+    !product.alreadyOrdered
+  ) {
+    div.classList.add('out-of-stock');
+  }
   const salePrice = product.items_per_bag
     ? Math.round(product.salePrice / product.items_per_bag) + ' per item'
     : product.salePrice;
@@ -305,6 +327,9 @@ function searchProducts(keyword) {
     return;
   }
 
+  console.log('results', results);
+  // Sort and show closingQuantity 0 products in the last
+  results.sort(productSortFun);
   results.forEach((product) => createProductItem(product, productList));
 }
 
