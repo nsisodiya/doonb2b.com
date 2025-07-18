@@ -23,8 +23,8 @@ window.productInfo = {
   "1074": {
     "sku": "1074_medium_jar_pouch",
     "itemCode": "1074",
-    "closingQuantity": 12,
-    "sold": 18,
+    "closingQuantity": 10,
+    "sold": 20,
     "rackNumber": "79",
     "catalog": "kitchen-storage",
     "images": [
@@ -325,8 +325,8 @@ window.productInfo = {
   "1144": {
     "sku": "1144_24cavity_ice_tray",
     "itemCode": "1144",
-    "closingQuantity": 41,
-    "sold": 44,
+    "closingQuantity": 39,
+    "sold": 46,
     "rackNumber": "164",
     "catalog": "kitchen-tools",
     "images": [
@@ -1126,8 +1126,8 @@ window.productInfo = {
   "1360": {
     "sku": "1360_8_5_inch_brighter_tablet",
     "itemCode": "1360",
-    "closingQuantity": 46,
-    "sold": 64,
+    "closingQuantity": 45,
+    "sold": 65,
     "rackNumber": "377",
     "catalog": "toys-&-games",
     "images": [
@@ -1237,8 +1237,8 @@ window.productInfo = {
   "1371": {
     "sku": "1371_loose_5sec_socks_tray",
     "itemCode": "1371",
-    "closingQuantity": 29,
-    "sold": 51,
+    "closingQuantity": 28,
+    "sold": 52,
     "rackNumber": "29",
     "catalog": "hangers-&-wardrobe-storage",
     "images": [
@@ -2345,8 +2345,8 @@ window.productInfo = {
   "1671": {
     "sku": "1671_smily_face_cleaning_brush",
     "itemCode": "1671",
-    "closingQuantity": 3,
-    "sold": 5,
+    "closingQuantity": 2,
+    "sold": 6,
     "rackNumber": "448",
     "catalog": "beauty-&-personal-care",
     "images": [
@@ -2620,8 +2620,8 @@ window.productInfo = {
   "1752": {
     "sku": "1752_36inch_door_d_guard",
     "itemCode": "1752",
-    "closingQuantity": 8,
-    "sold": 42,
+    "closingQuantity": 7,
+    "sold": 43,
     "rackNumber": "265",
     "catalog": "house-hold",
     "images": [
@@ -2856,8 +2856,8 @@ window.productInfo = {
   "1912": {
     "sku": "1912_at12_xylophone",
     "itemCode": "1912",
-    "closingQuantity": 4,
-    "sold": 2,
+    "closingQuantity": 3,
+    "sold": 3,
     "rackNumber": "292",
     "catalog": "toys",
     "images": [
@@ -3038,6 +3038,7 @@ window.productInfo = {
     "itemCode": "1962",
     "closingQuantity": 3,
     "sold": 0,
+    "items_per_bag": 2,
     "rackNumber": "318",
     "catalog": "toys",
     "images": [
@@ -3050,7 +3051,7 @@ window.productInfo = {
     ],
     "handle": "small-yoyo-toy-with-string-rotating-yoyo-toy-brain-exerciser-for-kids-30-pcs-set",
     "title": "Small Yoyo Toy With String, Rotating Yoyo Toy, Brain Exerciser For Kids",
-    "salePrice": 160,
+    "salePrice": 180,
     "gst": 18,
     "hsn": "392410"
   },
@@ -3059,6 +3060,7 @@ window.productInfo = {
     "itemCode": "1963",
     "closingQuantity": 2,
     "sold": 0,
+    "items_per_bag": 2,
     "rackNumber": "291",
     "catalog": "toys",
     "images": [
@@ -3071,7 +3073,7 @@ window.productInfo = {
     ],
     "handle": "junior-rocket-launcher-military-theme-plastic-bullet-toy-for-outdoor-indoor-play-30-pcs-set",
     "title": "Junior Rocket Launcher Military Theme | Plastic Bullet Toy For Outdoor / Indoor Play",
-    "salePrice": 160,
+    "salePrice": 180,
     "gst": 18,
     "hsn": "392410"
   },
@@ -3080,6 +3082,7 @@ window.productInfo = {
     "itemCode": "1966",
     "closingQuantity": 3,
     "sold": 0,
+    "items_per_bag": 2,
     "rackNumber": "313",
     "catalog": "toys",
     "images": [
@@ -3092,7 +3095,7 @@ window.productInfo = {
     ],
     "handle": "extandable-giraffe-toy-cute-looking-giraffe-with-extandable-neck",
     "title": "Extandable Giraffe Toy, Cute Looking Giraffe With Extandable Neck",
-    "salePrice": 238,
+    "salePrice": 180,
     "gst": 18,
     "hsn": "392410"
   },
@@ -3124,6 +3127,7 @@ window.productInfo = {
     "itemCode": "1969",
     "closingQuantity": 2,
     "sold": 0,
+    "items_per_bag": 2,
     "rackNumber": "283",
     "catalog": "toys",
     "images": [
@@ -3136,7 +3140,7 @@ window.productInfo = {
     ],
     "handle": "pull-back-skull-toy-small-diy-pull-back-skull-toy-for-kids-30-pc-set",
     "title": "Pull Back Skull Toy, Small Diy Pull Back Skull Toy For Kids",
-    "salePrice": 238,
+    "salePrice": 180,
     "gst": 18,
     "hsn": "392410"
   },
@@ -3145,6 +3149,7 @@ window.productInfo = {
     "itemCode": "1971",
     "closingQuantity": 2,
     "sold": 0,
+    "items_per_bag": 2,
     "rackNumber": "296",
     "catalog": "toys",
     "images": [
@@ -3157,7 +3162,7 @@ window.productInfo = {
     ],
     "handle": "small-diy-helicopter-toy-small-kids-toy-rotating-tail-wing-diy-helicopter-30-pc-set",
     "title": "Small Diy Helicopter Toy, Small Kid's Toy, Rotating Tail  Wing Diy Helicopter",
-    "salePrice": 199,
+    "salePrice": 180,
     "gst": 18,
     "hsn": "392410"
   },
@@ -3166,6 +3171,7 @@ window.productInfo = {
     "itemCode": "1972",
     "closingQuantity": 2,
     "sold": 0,
+    "items_per_bag": 2,
     "rackNumber": "314",
     "catalog": "toys",
     "images": [
@@ -3178,7 +3184,7 @@ window.productInfo = {
     ],
     "handle": "pull-back-motorcycle-toys-tiny-gift-latte-motorcycles-toy-for-kids-boys-age-3-8-year-old-30-pcs-set",
     "title": "Pull Back Motorcycle Toys, Tiny Gift Latte Motorcycles Toy For Kids Boys Age 3 - 8 Year Old",
-    "salePrice": 471,
+    "salePrice": 180,
     "gst": 18,
     "hsn": "392410"
   },
@@ -3187,6 +3193,7 @@ window.productInfo = {
     "itemCode": "1973",
     "closingQuantity": 2,
     "sold": 0,
+    "items_per_bag": 2,
     "rackNumber": "318",
     "catalog": "toys",
     "images": [
@@ -3199,7 +3206,7 @@ window.productInfo = {
     ],
     "handle": "mini-monster-trucks-friction-powered-cars-for-kids-big-plastic-tires-baby-boys-super-cars-blaze-truck-for-kids-gifts-toys-30-pcs-set",
     "title": "Mini Monster Trucks Friction Powered Cars For Kids Big Plastic Tires Baby Boys Super Cars Blaze Truck For Kids Gifts Toys",
-    "salePrice": 199,
+    "salePrice": 180,
     "gst": 18,
     "hsn": "392410"
   },
@@ -3362,8 +3369,8 @@ window.productInfo = {
   "2008": {
     "sku": "2008_crinkle_cut_knife",
     "itemCode": "2008",
-    "closingQuantity": 4,
-    "sold": 6,
+    "closingQuantity": 3,
+    "sold": 7,
     "rackNumber": "64",
     "catalog": "knife-&-cutlery",
     "images": [
@@ -6143,8 +6150,8 @@ window.productInfo = {
   "2825": {
     "sku": "2825_big_non_stick_spatula_2pc",
     "itemCode": "2825",
-    "closingQuantity": 24,
-    "sold": 22,
+    "closingQuantity": 23,
+    "sold": 23,
     "rackNumber": "72",
     "catalog": "baking-tools",
     "images": [
@@ -6659,8 +6666,8 @@ window.productInfo = {
   "2930": {
     "sku": "2930_manual_plastic_whisk",
     "itemCode": "2930",
-    "closingQuantity": 25,
-    "sold": 16,
+    "closingQuantity": 24,
+    "sold": 17,
     "rackNumber": "68",
     "catalog": "kitchen-accessories",
     "images": [
@@ -7555,8 +7562,8 @@ window.productInfo = {
   "4138": {
     "sku": "4138_2com_compass_box",
     "itemCode": "4138",
-    "closingQuantity": 28,
-    "sold": 2,
+    "closingQuantity": 27,
+    "sold": 3,
     "rackNumber": "368",
     "catalog": "stationery",
     "images": [
@@ -8146,6 +8153,7 @@ window.productInfo = {
     "itemCode": "4422",
     "closingQuantity": 2,
     "sold": 0,
+    "items_per_bag": 2,
     "rackNumber": "286",
     "catalog": "toys",
     "images": [
@@ -8159,7 +8167,7 @@ window.productInfo = {
     ],
     "handle": "mini-pull-back-car-for-kids-fun-playtime",
     "title": "30pc Mini Pull Back Car Used Widely By Kids And Childrens For Playing And Enjoying Purposes",
-    "salePrice": 128,
+    "salePrice": 180,
     "gst": 12,
     "hsn": "950300"
   },
@@ -8168,6 +8176,7 @@ window.productInfo = {
     "itemCode": "4423",
     "closingQuantity": 2,
     "sold": 0,
+    "items_per_bag": 2,
     "rackNumber": "278",
     "catalog": "toys",
     "images": [
@@ -8182,7 +8191,7 @@ window.productInfo = {
     ],
     "handle": "4423",
     "title": "Dumper Truck Toy For Kids (30pc)",
-    "salePrice": 118,
+    "salePrice": 180,
     "gst": 18,
     "hsn": "392410"
   },
@@ -8191,6 +8200,7 @@ window.productInfo = {
     "itemCode": "4426",
     "closingQuantity": 3,
     "sold": 0,
+    "items_per_bag": 2,
     "rackNumber": "279",
     "catalog": "toys",
     "images": [
@@ -8203,7 +8213,7 @@ window.productInfo = {
     ],
     "handle": "4426-toy-spinner-launcher-for-kids-30pc-1",
     "title": "Toy Spinner Launcher For Kids (30pc)",
-    "salePrice": 130,
+    "salePrice": 180,
     "gst": 18,
     "hsn": "392410"
   },
@@ -8212,6 +8222,7 @@ window.productInfo = {
     "itemCode": "4430",
     "closingQuantity": 2,
     "sold": 0,
+    "items_per_bag": 2,
     "rackNumber": "296",
     "catalog": "toys",
     "images": [
@@ -8225,7 +8236,7 @@ window.productInfo = {
     ],
     "handle": "4430-int-pull-back-mini-plane-30pc",
     "title": "Int Pull Back Mini Plane (30pc)",
-    "salePrice": 201,
+    "salePrice": 180,
     "gst": 18,
     "hsn": "392410"
   },
@@ -8548,8 +8559,8 @@ window.productInfo = {
   "4532": {
     "sku": "4532_5pc_school_set",
     "itemCode": "4532",
-    "closingQuantity": 3,
-    "sold": 6,
+    "closingQuantity": 1,
+    "sold": 8,
     "rackNumber": "374",
     "catalog": "stationery",
     "images": [
@@ -9928,8 +9939,8 @@ window.productInfo = {
   "5040": {
     "sku": "5040_kitchen_towel_napkin_1pc",
     "itemCode": "5040",
-    "closingQuantity": 106,
-    "sold": 44,
+    "closingQuantity": 104,
+    "sold": 46,
     "rackNumber": "103",
     "catalog": "kitchen-accessories",
     "images": [
@@ -11676,8 +11687,8 @@ window.productInfo = {
   "6074": {
     "sku": "6074_6pc_shop_loofah_150gm",
     "itemCode": "6074",
-    "closingQuantity": 2.67,
-    "sold": 7.33,
+    "closingQuantity": 2.33,
+    "sold": 7.67,
     "items_per_bag": 6,
     "rackNumber": "520",
     "catalog": "cleaning",
@@ -13313,8 +13324,8 @@ window.productInfo = {
   "7185": {
     "sku": "7185_kitchen_spice_box",
     "itemCode": "7185",
-    "closingQuantity": 18,
-    "sold": 10,
+    "closingQuantity": 17,
+    "sold": 11,
     "rackNumber": "183",
     "catalog": "kitchen-storage",
     "images": [
@@ -13356,8 +13367,8 @@ window.productInfo = {
   "7188": {
     "sku": "7188_french_fries_cutter",
     "itemCode": "7188",
-    "closingQuantity": 6,
-    "sold": 4,
+    "closingQuantity": 5,
+    "sold": 5,
     "rackNumber": "168",
     "catalog": "chopper-slicer-cutter",
     "images": [
@@ -14054,8 +14065,8 @@ window.productInfo = {
   "7885": {
     "sku": "7885_3in1_cmp_compass_box_no5",
     "itemCode": "7885",
-    "closingQuantity": 60,
-    "sold": 0,
+    "closingQuantity": 59,
+    "sold": 1,
     "rackNumber": "377",
     "catalog": "office-products",
     "images": [
@@ -14097,8 +14108,8 @@ window.productInfo = {
   "7956": {
     "sku": "7956_cleaning_brush_3pc_set",
     "itemCode": "7956",
-    "closingQuantity": 10,
-    "sold": 0,
+    "closingQuantity": 9.67,
+    "sold": 0.33,
     "items_per_bag": 3,
     "catalog": "cleaning",
     "images": [
@@ -14398,6 +14409,7 @@ window.productInfo = {
     "itemCode": "8074",
     "closingQuantity": 5,
     "sold": 0,
+    "items_per_bag": 2,
     "rackNumber": "282",
     "catalog": "toys",
     "images": [
@@ -14415,7 +14427,7 @@ window.productInfo = {
     ],
     "handle": "8074-mini-pull-back-car-used-widely-by-kids-and-childrens-for-playing-and-enjoying-purposes-in-all-kinds-of-household-and-official-places",
     "title": "Mini Pull Back Car Used Widely By Kids And Children’s For Playing And Enjoying Purposes In All Kinds Of Household And Official Places.",
-    "salePrice": 230,
+    "salePrice": 180,
     "gst": 12,
     "hsn": "950300"
   },
@@ -15429,8 +15441,8 @@ window.productInfo = {
   "8463": {
     "sku": "8463_mini_makeup_powder_puff_8pc",
     "itemCode": "8463",
-    "closingQuantity": 1,
-    "sold": 3,
+    "closingQuantity": 0,
+    "sold": 4,
     "rackNumber": "492",
     "catalog": "beauty-&-personal-care",
     "images": [
@@ -15935,8 +15947,8 @@ window.productInfo = {
   "8868": {
     "sku": "8868_unlimited_pencils_with_eraser",
     "itemCode": "8868",
-    "closingQuantity": 26,
-    "sold": 24,
+    "closingQuantity": 25,
+    "sold": 25,
     "rackNumber": "9",
     "catalog": "stationery",
     "images": [
@@ -17108,8 +17120,8 @@ window.productInfo = {
   "10043": {
     "sku": "10043_portable_square_stove_2800w",
     "itemCode": "10043",
-    "closingQuantity": 1,
-    "sold": 1,
+    "closingQuantity": 0,
+    "sold": 2,
     "rackNumber": "127",
     "catalog": "kitchen-&-home-appliances",
     "images": [
@@ -19152,8 +19164,8 @@ window.productInfo = {
   "12113": {
     "sku": "12113_thumb_presser_mini_pepper_grinder",
     "itemCode": "12113",
-    "closingQuantity": 2,
-    "sold": 5,
+    "closingQuantity": 1,
+    "sold": 6,
     "rackNumber": "222",
     "catalog": "kitchen",
     "images": [
@@ -19581,8 +19593,8 @@ window.productInfo = {
   "12242": {
     "sku": "12242_ss_big_hand_push_rotary_whisk_no1",
     "itemCode": "12242",
-    "closingQuantity": 42,
-    "sold": 26,
+    "closingQuantity": 41,
+    "sold": 27,
     "rackNumber": "85",
     "catalog": "kitchen-tools",
     "images": [
@@ -20410,8 +20422,8 @@ window.productInfo = {
   "12659": {
     "sku": "12659_c_type_charger_cable",
     "itemCode": "12659",
-    "closingQuantity": 22,
-    "sold": 18,
+    "closingQuantity": 21,
+    "sold": 19,
     "rackNumber": "2",
     "catalog": "electronics-accessories",
     "images": [
@@ -20477,8 +20489,8 @@ window.productInfo = {
   "12684": {
     "sku": "12684_2mm_derma_roller",
     "itemCode": "12684",
-    "closingQuantity": 5,
-    "sold": 10,
+    "closingQuantity": 4,
+    "sold": 11,
     "rackNumber": "449",
     "catalog": "beauty-&-personal-care",
     "images": [
@@ -20813,8 +20825,8 @@ window.productInfo = {
   "12957": {
     "sku": "12957_muscle_massage_gun_1pc",
     "itemCode": "12957",
-    "closingQuantity": 16,
-    "sold": 36,
+    "closingQuantity": 15,
+    "sold": 37,
     "rackNumber": "54",
     "catalog": "massager",
     "images": [
@@ -20927,8 +20939,8 @@ window.productInfo = {
   "13055": {
     "sku": "13055_ele_heated_eyelash_curlers",
     "itemCode": "13055",
-    "closingQuantity": 3,
-    "sold": 1,
+    "closingQuantity": 2,
+    "sold": 2,
     "rackNumber": "448",
     "catalog": "beauty-&-personal-care",
     "images": [
@@ -21106,8 +21118,8 @@ window.productInfo = {
   "13237": {
     "sku": "13237_travel_shoulder_bag_1pc",
     "itemCode": "13237",
-    "closingQuantity": 2,
-    "sold": 4,
+    "closingQuantity": 1,
+    "sold": 5,
     "rackNumber": "264",
     "catalog": "bags",
     "images": [
@@ -22306,8 +22318,8 @@ window.productInfo = {
   "14038": {
     "sku": "14038_rubber_hair_bands_50pc_no2",
     "itemCode": "14038",
-    "closingQuantity": 45,
-    "sold": 55,
+    "closingQuantity": 44,
+    "sold": 56,
     "rackNumber": "477",
     "catalog": "beauty-&-personal-care",
     "images": [
@@ -23127,8 +23139,8 @@ window.productInfo = {
   "15216": {
     "sku": "15216_nylon_wire_brush_1pc",
     "itemCode": "15216",
-    "closingQuantity": 7,
-    "sold": 13,
+    "closingQuantity": 6,
+    "sold": 14,
     "rackNumber": "428",
     "catalog": "cleaning",
     "images": [
@@ -23658,8 +23670,8 @@ window.productInfo = {
   "15721": {
     "sku": "15721_superabsorbent_sponge_mop",
     "itemCode": "15721",
-    "closingQuantity": 9,
-    "sold": 3,
+    "closingQuantity": 7,
+    "sold": 5,
     "rackNumber": "359",
     "catalog": "cleaning",
     "images": [
@@ -24310,8 +24322,8 @@ window.productInfo = {
   "17784": {
     "sku": "17784_keychain_led_flashlight_1pc",
     "itemCode": "17784",
-    "closingQuantity": 19,
-    "sold": 11,
+    "closingQuantity": 18,
+    "sold": 12,
     "rackNumber": "3",
     "catalog": "fancy-item",
     "images": [
@@ -24756,8 +24768,8 @@ window.productInfo = {
   "17928": {
     "sku": "17928_brush_with_liquid_dispenser",
     "itemCode": "17928",
-    "closingQuantity": 5,
-    "sold": 20,
+    "closingQuantity": 4,
+    "sold": 21,
     "rackNumber": "428",
     "catalog": "cleaning",
     "images": [
@@ -24954,8 +24966,8 @@ window.productInfo = {
   "18055": {
     "sku": "18055_leaf_shape_soap_stand_1pc",
     "itemCode": "18055",
-    "closingQuantity": 7,
-    "sold": 13,
+    "closingQuantity": 5,
+    "sold": 15,
     "rackNumber": "437",
     "catalog": "home-decor",
     "images": [
@@ -25951,8 +25963,8 @@ window.productInfo = {
   "18593": {
     "sku": "18593_ele_bullet_gun_n_20darts",
     "itemCode": "18593",
-    "closingQuantity": 10,
-    "sold": 0,
+    "closingQuantity": 9,
+    "sold": 1,
     "rackNumber": "293",
     "catalog": "toys",
     "images": [
