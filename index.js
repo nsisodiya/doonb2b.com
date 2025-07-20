@@ -336,50 +336,74 @@ function searchProducts(keyword) {
 window.addEventListener('load', () => {
   showLoader(true);
   attachBarcodeScanner(document.getElementById('searchInput'));
-  const productInfo = window.productInfo || {};
 
-  for (const sku in productInfo) {
-    const product = productInfo[sku];
-    if (!product?.catalog || !product?.images?.length) continue;
-    if (!window.catalogData[product.catalog]) {
-      window.catalogData[product.catalog] = product.images[0];
-      window.catalogCounts[product.catalog] = 1;
-    } else {
-      window.catalogCounts[product.catalog]++;
-    }
-  }
+  // Fetch productInfo from this api
+  //
+  if (!window.productInfo || Object.keys(window.productInfo).length === 0) {
+    fetch(
+      //'https://6000-firebase-studio-1750177395742.cluster-isls3qj2gbd5qs4jkjqvhahfv6.cloudworkstations.dev/api/public-data'
+      'https://stock.doonb2b.com/api/public-data'
+      // 'https://stock.doonb2b.com/api/rack-data'
+    )
+      .then((response) => {
+        if (!response.ok) {
+          throw new Error('Network response was not ok');
+        }
+        return response.json();
+      })
+      .then((data) => {
+        window.productInfo = data;
 
-  const backLink = document.getElementById('backLink');
-  const header = document.getElementById('header');
-  const searchInput = document.getElementById('searchInput');
+        const productInfo = window.productInfo || {};
 
-  if (searchInput) {
-    searchInput.addEventListener('input', () => {
-      const keyword = searchInput.value.trim();
-      if (keyword === '') {
+        for (const sku in productInfo) {
+          const product = productInfo[sku];
+          if (!product?.catalog || !product?.images?.length) continue;
+          if (!window.catalogData[product.catalog]) {
+            window.catalogData[product.catalog] = product.images[0];
+            window.catalogCounts[product.catalog] = 1;
+          } else {
+            window.catalogCounts[product.catalog]++;
+          }
+        }
+
+        const backLink = document.getElementById('backLink');
+        const header = document.getElementById('header');
+        const searchInput = document.getElementById('searchInput');
+
+        if (searchInput) {
+          searchInput.addEventListener('input', () => {
+            const keyword = searchInput.value.trim();
+            if (keyword === '') {
+              showCatalogs();
+            } else {
+              searchProducts(keyword);
+            }
+          });
+        }
+
+        if (backLink) {
+          backLink.onclick = (e) => {
+            e.preventDefault();
+            if (searchInput) searchInput.value = '';
+            showCatalogs();
+          };
+        }
+
+        if (header) {
+          header.onclick = (e) => {
+            e.preventDefault();
+            if (searchInput) searchInput.value = '';
+            showCatalogs();
+          };
+        }
+
         showCatalogs();
-      } else {
-        searchProducts(keyword);
-      }
-    });
+        showLoader(false);
+      })
+      .catch((error) => {
+        console.error('Error fetching product info:', error);
+        window.productInfo = {};
+      });
   }
-
-  if (backLink) {
-    backLink.onclick = (e) => {
-      e.preventDefault();
-      if (searchInput) searchInput.value = '';
-      showCatalogs();
-    };
-  }
-
-  if (header) {
-    header.onclick = (e) => {
-      e.preventDefault();
-      if (searchInput) searchInput.value = '';
-      showCatalogs();
-    };
-  }
-
-  showCatalogs();
-  showLoader(false);
 });
