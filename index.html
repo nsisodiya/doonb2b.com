@@ -57,6 +57,8 @@
         border-radius: 8px;
         padding-left: 8px;
         padding-right: 8px;
+        z-index: 100;
+        top: 0;
       }
       .catalog-list,
       .product-list {
@@ -74,6 +76,7 @@
         text-align: center;
         cursor: pointer;
         transition: transform 0.2s ease;
+        position: relative;
       }
       .catalog-item:hover,
       .product-item:hover {
@@ -97,6 +100,35 @@
         right: 4%;
         font-size: 3em;
         color: #236591;
+      }
+      .close-btn {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        font-size: 52px;
+        cursor: pointer;
+        z-index: 100000;
+        background: white;
+        border-radius: 50%;
+        width: 45px;
+        height: 45px;
+        display: flex;
+        align-content: center;
+        justify-content: center;
+        align-items: center;
+        border: 1px solid black;
+      }
+
+      .arrow {
+        background: rgba(0, 0, 0, 0.5);
+        color: white;
+        cursor: pointer;
+        border: 1px solid white;
+        display: block;
+        font-size: 34px;
+        width: 45px;
+        height: 45px;
+        border-radius: 50%;
       }
       .not-available {
         position: absolute;
