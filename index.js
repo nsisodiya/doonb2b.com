@@ -2,15 +2,27 @@ window.catalogData = {};
 window.catalogCounts = {};
 
 function productSortFun(a, b) {
-  // 1) out-of-stock last
-  const outA = a.closingQuantity === 0;
-  const outB = b.closingQuantity === 0;
-  if (outA !== outB) return outA ? 1 : -1;
+  // Group A: Available products (closingQuantity > 0)
+  const aAvailable = a.closingQuantity > 0;
+  const bAvailable = b.closingQuantity > 0;
+  if (aAvailable && bAvailable) {
+    // Both are available – sort by highest sold first
+    return (b.sold ?? 0) - (a.sold ?? 0);
+  }
+  if (aAvailable !== bAvailable) {
+    // Available products come first
+    return aAvailable ? -1 : 1;
+  }
 
-  // 2) within each group, highest sold first (undefined → 0)
-  const soldA = a.sold ?? 0;
-  const soldB = b.sold ?? 0;
-  return soldB - soldA;
+  // Group B: Not available products (closingQuantity == 0)
+  const aOrdered = a.alreadyOrdered ? 1 : 0;
+  const bOrdered = b.alreadyOrdered ? 1 : 0;
+
+  // First: alreadyOrdered products (descending)
+  if (aOrdered !== bOrdered) return bOrdered - aOrdered;
+
+  // Otherwise, maintain relative order
+  return 0;
 }
 /**
  * Attach barcode scanning behavior to an input element.
@@ -283,7 +295,7 @@ function createProductItem(product, productList, config = {}) {
       (product.items_per_bag
         ? Math.round((product.closingQuantity || 0) * product.items_per_bag)
         : product.closingQuantity || 0) > 0
-        ? `Stock: ${
+        ? `Available: ${
             product.items_per_bag
               ? Math.round(
                   (product.closingQuantity || 0) * product.items_per_bag
