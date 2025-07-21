@@ -12495,6 +12495,10 @@ window.productInfo = {
     "hsn": "392690"
   },
   "6971": {
+    "sku": "6971_liquid_soap_dispenser_350ml",
+    "itemCode": "6971",
+    "closingQuantity": 0,
+    "sold": 0,
     "catalog": "bathroom",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_dffb64af-9a00-4deb-8fc7-41f2db86822f.jpg?v=1744777637",
@@ -12508,6 +12512,7 @@ window.productInfo = {
     "alreadyOrdered": 12,
     "handle": "refillable-liquid-soap-dispenser-350-ml-approx",
     "title": "Refillable Liquid Soap Dispenser (350 ML Approx)",
+    "salePrice": 112,
     "gst": 18,
     "hsn": "392690"
   },
@@ -14504,6 +14509,10 @@ window.productInfo = {
     "hsn": "732119"
   },
   "8282": {
+    "sku": "8282_rechar_vacuum_sealer_machine",
+    "itemCode": "8282",
+    "closingQuantity": 0,
+    "sold": 0,
     "catalog": "kitchen-tools",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_d256c1ec-2ceb-4de8-a60a-ef8539ff492d.jpg?v=1749269795",
@@ -14519,6 +14528,7 @@ window.productInfo = {
     "alreadyOrdered": 3,
     "handle": "portable-usb-rechargeable-vacuum-sealer-machine-1-pc",
     "title": "Portable USB Rechargeable Vacuum Sealer Machine (1 Pc)",
+    "salePrice": 195,
     "gst": 18,
     "hsn": "850980"
   },
@@ -17511,6 +17521,10 @@ window.productInfo = {
     "hsn": "392410"
   },
   "11496": {
+    "sku": "11496_apex_plastic_multi_divider_holder_dh",
+    "itemCode": "11496",
+    "closingQuantity": 0,
+    "sold": 0,
     "catalog": "storage-&-organisers",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_6d5f0c91-a3a4-492d-8b91-8924b7068cf8.jpg?v=1750917564",
@@ -17524,6 +17538,7 @@ window.productInfo = {
     "alreadyOrdered": 14,
     "handle": "apex-premium-multipurpose-divider-holder-with-5-section-compartments",
     "title": "Apex Premium Multipurpose Divider Holder with 5-Section Compartments",
+    "salePrice": 106,
     "gst": 18,
     "hsn": "392410"
   },
@@ -17966,6 +17981,10 @@ window.productInfo = {
     "hsn": "732393"
   },
   "11939": {
+    "sku": "11939_plastic_urban_water_jug_1_8ltr",
+    "itemCode": "11939",
+    "closingQuantity": 0,
+    "sold": 0,
     "catalog": "bottles",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_964b9103-85bc-4b15-8b64-66352e73eeaf.jpg?v=1744716147",
@@ -17979,6 +17998,7 @@ window.productInfo = {
     "alreadyOrdered": 4,
     "handle": "urban-jug-1-8-litre-bpa-free-plastic-water-juice-jug-with-lid-and-handle",
     "title": "Urban Jug 1.8 Litre | BPA-Free Plastic Water & Juice Jug with Lid and Handle",
+    "salePrice": 170,
     "gst": 18,
     "hsn": "392410"
   },
@@ -19074,6 +19094,10 @@ window.productInfo = {
     "hsn": "850940"
   },
   "12275": {
+    "sku": "12275_insulated_thermal_lunch_bag_1pc",
+    "itemCode": "12275",
+    "closingQuantity": 0,
+    "sold": 0,
     "catalog": "home-improvement",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_b50d70c3-6bc8-4988-a243-03d1af7505fa.jpg?v=1746521359",
@@ -19087,6 +19111,7 @@ window.productInfo = {
     "alreadyOrdered": 14,
     "handle": "insulated-thermal-lunch-bag-1-pc",
     "title": "Insulated Thermal Lunch Bag (1 Pc)",
+    "salePrice": 106,
     "gst": 18,
     "hsn": "42029200"
   },
@@ -19134,6 +19159,10 @@ window.productInfo = {
     "hsn": "420221"
   },
   "12307": {
+    "sku": "12307_6in1_plastic_square_water_bottles",
+    "itemCode": "12307",
+    "closingQuantity": 0,
+    "sold": 0,
     "catalog": "bottles",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_eddbb76a-a98f-4555-9e4a-1d0979c01562.jpg?v=1746702646",
@@ -19148,6 +19177,7 @@ window.productInfo = {
     "alreadyOrdered": 7,
     "handle": "bpa-plastic-leakproof-hydration-water-bottles-6-in-1",
     "title": "BPA Plastic Leakproof Hydration Water Bottles (6 in 1)",
+    "salePrice": 205,
     "gst": 18,
     "hsn": "392330"
   },
@@ -21095,6 +21125,10 @@ window.productInfo = {
     "hsn": "392610"
   },
   "13926": {
+    "sku": "13926_non_slip_printed_yoga_mat_1pc",
+    "itemCode": "13926",
+    "closingQuantity": 0,
+    "sold": 0,
     "catalog": "yoga,-sports-&-fitness",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_474f8f8e-faf7-4ca5-9b53-f0caeba4ad4b.jpg?v=1752042874",
@@ -21110,6 +21144,7 @@ window.productInfo = {
     "alreadyOrdered": 10,
     "handle": "premium-non-slip-printed-yoga-mat-mix-color-1-pc",
     "title": "Premium Non-Slip Printed Yoga Mat (Mix Color – 1 Pc)",
+    "salePrice": 265,
     "gst": 12,
     "hsn": "95069190"
   },
@@ -21629,6 +21664,10 @@ window.productInfo = {
     "hsn": "732399"
   },
   "14286": {
+    "sku": "14286_red_electric_mosquito_racket_1pc",
+    "itemCode": "14286",
+    "closingQuantity": 0,
+    "sold": 0,
     "catalog": "electronics",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_46a6e843-a007-409f-a2b4-b667e401f006.jpg?v=1751349203",
@@ -21642,10 +21681,15 @@ window.productInfo = {
     "alreadyOrdered": 5,
     "handle": "14286_red_electric_mosquito_racket_1pc",
     "title": "Red Rechargeable Electric Mosquito Killer Racket with Cable",
+    "salePrice": 201,
     "gst": 18,
     "hsn": "392410"
   },
   "14338": {
+    "sku": "14338_8_socket_extension_board_1pc_no3",
+    "itemCode": "14338",
+    "closingQuantity": 0,
+    "sold": 0,
     "catalog": "electronics-accessories",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/extension-board-01_0c431d84-1967-41c9-b5af-b9e30f885302.jpg?v=1751458567",
@@ -21659,6 +21703,7 @@ window.productInfo = {
     "alreadyOrdered": 20,
     "handle": "multi-socket-extension-board-8-socket-1-pc",
     "title": "Multi Socket Extension Board (8 Socket / 1 Pc)",
+    "salePrice": 167,
     "gst": 18,
     "hsn": "85366990"
   },
@@ -21706,6 +21751,10 @@ window.productInfo = {
     "hsn": "821420"
   },
   "14448": {
+    "sku": "14448_2in1_hair_comb_brush_with_mirror",
+    "itemCode": "14448",
+    "closingQuantity": 0,
+    "sold": 0,
     "catalog": "beauty-&-personal-care",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_11eb8409-24f0-4e44-af33-43fbe4c641fe.jpg?v=1744892114",
@@ -21723,6 +21772,7 @@ window.productInfo = {
     "alreadyOrdered": 10,
     "handle": "2-in-1-hair-comb-brush-with-mirror",
     "title": "2-in-1 Hair Comb Brush with Mirror",
+    "salePrice": 91,
     "gst": 12,
     "hsn": "961511"
   },
@@ -22366,6 +22416,10 @@ window.productInfo = {
     "hsn": "732393"
   },
   "15437": {
+    "sku": "15437_multi_plastic_cleaning_brush_1pc",
+    "itemCode": "15437",
+    "closingQuantity": 0,
+    "sold": 0,
     "catalog": "cleaning",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_274dae7b-366e-4239-a549-37423a60f1f8.jpg?v=1749443800",
@@ -22380,6 +22434,7 @@ window.productInfo = {
     "alreadyOrdered": 15,
     "handle": "multi-purpose-short-handle-plastic-cleaning-brush-1-pc",
     "title": "Multi-Purpose Short Handle Plastic Cleaning Brush (1 Pc)",
+    "salePrice": 39,
     "gst": 18,
     "hsn": "960390"
   },
@@ -22622,6 +22677,10 @@ window.productInfo = {
     "hsn": "392490"
   },
   "15562": {
+    "sku": "15562_usb_charging_hand_lamp_1pc",
+    "itemCode": "15562",
+    "closingQuantity": 0,
+    "sold": 0,
     "catalog": "home-improvement",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_56702d80-d74b-4e54-b804-a9c4e108f6f6.jpg?v=1749444118",
@@ -22635,6 +22694,7 @@ window.productInfo = {
     "alreadyOrdered": 20,
     "handle": "heavy-duty-rechargeable-usb-led-hand-torch-with-cob-side-light-1-pc",
     "title": "Heavy-Duty Rechargeable USB LED Hand Torch with COB Side Light (1 Pc)",
+    "salePrice": 225,
     "gst": 18,
     "hsn": "851310"
   },
@@ -25955,6 +26015,10 @@ window.productInfo = {
     "hsn": "960390"
   },
   "19095": {
+    "sku": "19095_plastic_handle_expandable_broom_g612",
+    "itemCode": "19095",
+    "closingQuantity": 0,
+    "sold": 0,
     "catalog": "cleaning",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_af4c384a-d08a-4d52-a877-667ec85fb7da.jpg?v=1745220082",
@@ -25968,6 +26032,7 @@ window.productInfo = {
     "alreadyOrdered": 11,
     "handle": "pro-clean-expandable-floor-broom-with-plastic-handle",
     "title": "Pro Clean Expandable Floor Broom with Plastic Handle",
+    "salePrice": 193,
     "gst": 5,
     "hsn": "96039000"
   },
@@ -26318,6 +26383,10 @@ window.productInfo = {
     "hsn": "392490"
   },
   "19259": {
+    "sku": "19259_4layer_trans_mult_plastic_storage_box",
+    "itemCode": "19259",
+    "closingQuantity": 0,
+    "sold": 0,
     "catalog": "storage-&-organisers",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_4bc63af1-4448-4078-b584-a2e74faf39f3.jpg?v=1747820585",
@@ -26333,6 +26402,7 @@ window.productInfo = {
     "alreadyOrdered": 10,
     "handle": "4-layer-transparent-multipurpose-plastic-storage-box",
     "title": "4-Layer Transparent Multipurpose Plastic Storage Box",
+    "salePrice": 252,
     "gst": 18,
     "hsn": "392490"
   },
@@ -26577,6 +26647,10 @@ window.productInfo = {
     "hsn": "330749"
   },
   "19288": {
+    "sku": "19288_knx_professional_table_tennis_racket_set",
+    "itemCode": "19288",
+    "closingQuantity": 0,
+    "sold": 0,
     "catalog": "yoga,-sports-&-fitness",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_528446d2-51ac-405d-8e1d-63b08e96fa51.jpg?v=1747373862",
@@ -26590,6 +26664,7 @@ window.productInfo = {
     "alreadyOrdered": 10,
     "handle": "professional-table-tennis-racket-1-set",
     "title": "Knx Professional Table Tennis Racket (1 Set)",
+    "salePrice": 186,
     "gst": 12,
     "hsn": "950611"
   },
@@ -26640,6 +26715,10 @@ window.productInfo = {
     "hsn": "392690"
   },
   "19323": {
+    "sku": "19323_knx_badminton_racket_n_carry_bag_2pc",
+    "itemCode": "19323",
+    "closingQuantity": 0,
+    "sold": 0,
     "catalog": "yoga,-sports-&-fitness",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_bf0bfb80-bf18-4295-acd7-e2e039b534d3.jpg?v=1750068816",
@@ -26657,10 +26736,15 @@ window.productInfo = {
     "alreadyOrdered": 5,
     "handle": "2-pc-lightweight-kids-badminton-racket-set-with-carry-bag",
     "title": "2 Pc Lightweight Kids Badminton Racket Set with Carry Bag",
+    "salePrice": 303,
     "gst": 12,
     "hsn": "95062100"
   },
   "19325": {
+    "sku": "19325_pink_unlimited_pencils_n_eraser_1pc",
+    "itemCode": "19325",
+    "closingQuantity": 0,
+    "sold": 0,
     "catalog": "stationery",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_b72edb91-c58c-4723-96a7-4f96f8605693.jpg?v=1749878468",
@@ -26673,10 +26757,15 @@ window.productInfo = {
     "alreadyOrdered": 20,
     "handle": "19325_pink_unlimited_pencils_n_eraser_1pc",
     "title": "Pink 2-in-1 Everlasting Magic Pencil with Replaceable Eraser – Inkless, Reusable, Portable",
+    "salePrice": 12,
     "gst": 18,
     "hsn": "392410"
   },
   "19333": {
+    "sku": "19333_a4_size_multi_copier_paper_500_sheets",
+    "itemCode": "19333",
+    "closingQuantity": 0,
+    "sold": 0,
     "catalog": "stationery",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_712f4175-eaff-49eb-8e5d-7e0f0ee91014.jpg?v=1750839764",
@@ -26690,10 +26779,15 @@ window.productInfo = {
     "alreadyOrdered": 5,
     "handle": "500-sheets-a4-size-multipurpose-copier-paper-70-gsm-high-bright-white-printing-paper",
     "title": "500 Sheets A4 Size Multipurpose Copier Paper – 70 GSM High Bright White Printing Paper",
+    "salePrice": 246,
     "gst": 12,
     "hsn": "480256"
   },
   "19345": {
+    "sku": "19345_supermom_multi_organizer_utility_holder_1pc",
+    "itemCode": "19345",
+    "closingQuantity": 0,
+    "sold": 0,
     "catalog": "storage-&-organisers",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_d022c438-cbdd-491d-9e13-b67cd7667496.jpg?v=1750310288",
@@ -26708,6 +26802,7 @@ window.productInfo = {
     "alreadyOrdered": 20,
     "handle": "multi-compartment-desk-organizer-utility-holder-1-pc",
     "title": "Supermom Multi-Compartment Desk Organizer Utility Holder (1 Pc)",
+    "salePrice": 84,
     "gst": 18,
     "hsn": "392690"
   },
