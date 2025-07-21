@@ -24,28 +24,32 @@ function productSortFun(a, b) {
   // Otherwise, maintain relative order
   return 0;
 }
-/**
- * Attach barcode scanning behavior to an input element.
- * @param {HTMLInputElement} inputElem - The input to attach scanner to.
- */
+
 function attachBarcodeScanner(inputElem) {
-  // Wrap input in relative container
+  // 1) wrap the input in a relative-positioned container
   const wrapper = document.createElement('div');
   wrapper.style.position = 'relative';
   inputElem.parentNode.insertBefore(wrapper, inputElem);
   wrapper.appendChild(inputElem);
 
-  // Add right padding to input
-  const pad = window.getComputedStyle(inputElem).paddingRight;
-
-  inputElem.style.padding = '10px';
-  inputElem.style.width = '100%';
+  // 2) style the input a bit
+  inputElem.style.padding = '8px 40px 8px 8px';
   inputElem.style.boxSizing = 'border-box';
-  // Ensure single scanner overlay in DOM
+  inputElem.style.width = '100%';
 
-  // Create scan button overlay using custom barcode SVG
+  // 3) create the scan button
   const btn = document.createElement('button');
   btn.type = 'button';
+  btn.setAttribute('aria-label', 'Scan barcode');
+  btn.style.position = 'absolute';
+  btn.style.top = '50%';
+  btn.style.right = '0px';
+  btn.style.transform = 'translateY(-50%)';
+  btn.style.border = 'none';
+  btn.style.background = 'transparent';
+  btn.style.cursor = 'pointer';
+  btn.style.width = '54px';
+  btn.style.opacity = '0.2';
   btn.innerHTML = `
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" style="height:auto;fill:currentColor;">
       <!-- Top-left corner -->
@@ -73,58 +77,107 @@ function attachBarcodeScanner(inputElem) {
       <rect x="214" y="40" width="12" height="120" rx="6"/>
     </svg>
   `;
-  Object.assign(btn.style, {
-    position: 'absolute',
-    width: '54px',
-    border: 'none',
-    marginRight: '10px',
-    background: 'transparent',
-    cursor: 'pointer',
-    color: 'rgb(35, 101, 145)',
-    padding: '0px',
-    right: '0px',
-    marginTop: '2px'
-  });
   wrapper.appendChild(btn);
 
-  // Ensure single scanner overlay in DOM
-  let overlay = document.getElementById('barcode-scanner-overlay');
-  if (!overlay) {
-    overlay = document.createElement('div');
-    overlay.id = 'barcode-scanner-overlay';
-    Object.assign(overlay.style, {
-      position: 'fixed',
-      top: 0,
-      left: 0,
-      width: '100%',
-      height: '100%',
-      background: 'rgba(0,0,0,0.5)',
-      display: 'none',
-      justifyContent: 'center',
-      alignItems: 'center',
-      zIndex: '9999'
-    });
-    const videoC = document.createElement('div');
-    videoC.id = 'barcode-video-container';
-    Object.assign(videoC.style, {
-      width: '90%',
-      maxWidth: '500px',
-      borderRadius: '8px',
-      overflow: 'hidden'
-    });
-    overlay.appendChild(videoC);
-    document.body.appendChild(overlay);
+  // 4) when clicked, open the scanner
+  btn.addEventListener('click', () => openScanner(inputElem));
+}
+
+// Opens the full-screen scanner overlay, runs Quagga, and cleans up.
+function openScanner(targetInput) {
+  // overlay backdrop
+  const overlay = document.createElement('div');
+  overlay.id = 'barcode-scanner-overlay';
+  Object.assign(overlay.style, {
+    position: 'fixed',
+    top: 0,
+    left: 0,
+    right: 0,
+    bottom: 0,
+    backgroundColor: 'rgba(0,0,0,0.75)',
+    display: 'flex',
+    justifyContent: 'center',
+    alignItems: 'center',
+    zIndex: 10000
+  });
+
+  // scanning container to center the video
+  const container = document.createElement('div');
+  container.id = 'scanner-container';
+  Object.assign(container.style, {
+    position: 'relative',
+    width: '80%',
+    maxWidth: '600px',
+    aspectRatio: '4/3',
+    background: '#000',
+    overflow: 'hidden'
+  });
+  overlay.appendChild(container);
+
+  // close button
+  const closeBtn = document.createElement('button');
+  closeBtn.type = 'button';
+  closeBtn.innerText = '✕';
+  Object.assign(closeBtn.style, {
+    position: 'absolute',
+    top: '8px',
+    right: '8px',
+    fontSize: '1.5rem',
+    color: '#fff',
+    background: 'transparent',
+    border: 'none',
+    cursor: 'pointer',
+    zIndex: 10001
+  });
+  container.appendChild(closeBtn);
+
+  // add to DOM
+  document.body.appendChild(overlay);
+
+  // teardown helper
+  function cleanup() {
+    try {
+      Quagga.stop();
+    } catch (e) {
+      /*ignore*/
+    }
+    Quagga.offDetected(onDetected);
+    document.body.removeChild(overlay);
   }
 
-  btn.addEventListener('click', () => {
-    overlay.style.display = 'flex';
-    startQuagga((code) => {
-      inputElem.value = code;
-      inputElem.dispatchEvent(new Event('input', { bubbles: true }));
-      Quagga.stop();
-      overlay.style.display = 'none';
-    });
-  });
+  closeBtn.addEventListener('click', cleanup);
+
+  // start Quagga
+  Quagga.init(
+    {
+      inputStream: {
+        name: 'Live',
+        type: 'LiveStream',
+        target: container,
+        constraints: { facingMode: 'environment' }
+      },
+      decoder: {
+        readers: ['code_128_reader', 'ean_reader', 'ean_8_reader', 'upc_reader']
+      },
+      locate: true
+    },
+    (err) => {
+      if (err) {
+        console.error('Quagga init error:', err);
+        cleanup();
+        return;
+      }
+      Quagga.start();
+    }
+  );
+
+  // on detection, fill input and close
+  function onDetected(result) {
+    const code = result.codeResult.code;
+    targetInput.value = code;
+    cleanup();
+  }
+  Quagga.onDetected(onDetected);
 }
 
 /**
