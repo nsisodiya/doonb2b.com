@@ -283,7 +283,20 @@ function createProductItem(product, productList, config = {}) {
         <div class="product-price">
           ₹ ${salePrice}
         </div>
-        <img src="${imageUrl}" alt="${product.title || 'Product'}" />
+        <div style="position: relative;">
+          <img src="${imageUrl}" alt="${product.title || 'Product'}" />
+          ${
+            (product.items_per_bag
+              ? Math.round(
+                  (product.closingQuantity || 0) * product.items_per_bag
+                )
+              : product.closingQuantity || 0) > 0
+              ? ''
+              : product.alreadyOrdered > 0
+              ? '<span class="truck">⛟</span>'
+              : '<span class="not-available">Out of Stock</span>'
+          }
+        </div>
         <div class="product-title">${product.sku || 'N/A'}</div>
         <div class="product-title">${product.title || 'Untitled'}</div>
         ${
@@ -309,7 +322,8 @@ function createProductItem(product, productList, config = {}) {
   </div>
   <div class="product-stock-rack" data-sku="${product.sku || ''}">
     ${
-      window.productInfo?.[product.itemCode]?.rackNumber
+      window.productInfo?.[product.itemCode]?.rackNumber &&
+      product.closingQuantity > 0
         ? `Rack: ${window.productInfo?.[product.itemCode]?.rackNumber}`
         : ''
     }
