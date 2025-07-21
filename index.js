@@ -317,15 +317,16 @@ function initProductModal() {
     modal.id = 'product-modal';
     Object.assign(modal.style, {
       position: 'fixed',
-      top: 0,
-      left: 0,
-      width: '100%',
+      top: '0px',
+      left: '0px',
       height: '100%',
-      background: 'rgba(0,0,0,0.5)',
-      display: 'none',
+      width: '100%',
+      background: 'rgba(0, 0, 0, 0.7)',
+      display: 'flex',
       justifyContent: 'center',
       alignItems: 'center',
-      zIndex: '10000'
+      zIndex: 10000,
+      display: 'none' // Initially hidden
     });
     const content = document.createElement('div');
     content.className = 'modal-content';
@@ -338,17 +339,20 @@ function initProductModal() {
       position: 'relative'
     });
     content.innerHTML = `
-      <span class="modal-close close-btn">&times;</span>
-      <div class="carousel" style="position: relative; overflow: hidden;">
-        <img id="modal-image" style="width: 100%; height: auto;">
-        <button class="modal-prev arrow" style="position: absolute; top: 50%; left: 10px; transform: translateY(-50%); ">❮</button>
-        <button class="modal-next arrow" style="position: absolute; top: 50%; right: 10px; transform: translateY(-50%); ">❯</button>
+      <span class="modal-close close-btn" style="position: absolute; top: 10px; right: 15px; font-size: 24px; cursor: pointer;">×</span>
+      <div class="carousel" style="position: relative; overflow: hidden; touch-action: pan-y; user-select: none;">
+        <div class="carousel-inner" style="display: flex; transition: transform 0.3s ease;">
+          <!-- Images will be inserted here -->
+        </div>
+        <button class="modal-prev arrow" style="position: absolute; top: 50%; left: 10px; transform: translateY(-50%); background: rgba(0,0,0,0.5); color: white; border: none; padding: 10px; font-size: 18px; cursor: pointer; display: none;">❮</button>
+        <button class="modal-next arrow" style="position: absolute; top: 50%; right: 10px; transform: translateY(-50%); background: rgba(0,0,0,0.5); color: white; border: none; padding: 10px; font-size: 18px; cursor: pointer; display: none;">❯</button>
+        <div class="carousel-dots" style="position: absolute; bottom: 10px; width: 100%; text-align: center;"></div>
       </div>
-      <h3 class="product-title" id="modal-title"></h3>
-      <p id="modal-sku"></p>
-      <p class="product-price" id="modal-price"></p>
-      <p class="product-stock" id="modal-stock"></p>
-      <p class="product-stock-rack" id="modal-rack"></p>
+      <h3 class="product-title" id="modal-title" style="margin: 15px 0 10px;"></h3>
+      <p id="modal-sku" style="margin: 5px 0;"></p>
+      <p class="product-price" id="modal-price" style="font-weight: bold;font-size: 34px;top: -15px;"></p>
+      <p class="product-stock" id="modal-stock" style="margin: 5px 0;"></p>
+      <p class="product-stock-rack" id="modal-rack" style="margin: 5px 0;"></p>
     `;
     modal.appendChild(content);
     document.body.appendChild(modal);
@@ -389,45 +393,90 @@ function showProductDetails(product) {
     product.rackNumber && quantity > 0 ? `Rack: ${product.rackNumber}` : '';
 
   const images = product.images || ['default.jpg'];
-  const imageElem = document.getElementById('modal-image');
-  const prevBtn = document.querySelector('.modal-prev');
-  const nextBtn = document.querySelector('.modal-next');
+  const carousel = document.querySelector('.carousel');
+  const inner = carousel.querySelector('.carousel-inner');
+  const dotsContainer = carousel.querySelector('.carousel-dots');
+  const prevBtn = carousel.querySelector('.modal-prev');
+  const nextBtn = carousel.querySelector('.modal-next');
   let currentIndex = 0;
+  let startX = 0;
+  let isDragging = false;
 
-  function updateImage() {
-    imageElem.src = images[currentIndex];
-  }
-  updateImage();
-
-  if (images.length > 1) {
-    prevBtn.style.display = 'block';
-    nextBtn.style.display = 'block';
-  } else {
-    prevBtn.style.display = 'none';
-    nextBtn.style.display = 'none';
+  function updateCarousel() {
+    inner.style.transform = `translateX(-${currentIndex * 100}%)`;
+    const dots = dotsContainer.children;
+    for (let i = 0; i < dots.length; i++) {
+      dots[i].classList.toggle('active', i === currentIndex);
+    }
   }
 
-  const prevFunc = () => {
+  function createDots() {
+    dotsContainer.innerHTML = images
+      .map(
+        (_, i) => `
+      <span class="dot" style="border: 1px solid black; display: inline-block; width: 8px; height: 8px; margin: 0 5px; border-radius: 50%; cursor: pointer;"></span>
+    `
+      )
+      .join('');
+  }
+
+  inner.innerHTML = images
+    .map(
+      (img) => `
+    <img src="${img}" style="width: 100%; height: auto;     max-height: 100vw; flex: 0 0 100%; object-fit: contain;">
+  `
+    )
+    .join('');
+  createDots();
+  updateCarousel();
+
+  prevBtn.style.display = images.length > 1 ? 'block' : 'none';
+  nextBtn.style.display = images.length > 1 ? 'block' : 'none';
+
+  function prevFunc() {
     currentIndex = (currentIndex - 1 + images.length) % images.length;
-    updateImage();
-  };
-  const nextFunc = () => {
+    updateCarousel();
+  }
+
+  function nextFunc() {
     currentIndex = (currentIndex + 1) % images.length;
-    updateImage();
-  };
+    updateCarousel();
+  }
+
   prevBtn.onclick = prevFunc;
   nextBtn.onclick = nextFunc;
 
-  const carousel = document.querySelector('.carousel');
-  let startX = 0;
-  carousel.ontouchstart = (e) => {
+  dotsContainer.addEventListener('click', (e) => {
+    if (e.target.classList.contains('dot')) {
+      currentIndex = Array.from(dotsContainer.children).indexOf(e.target);
+      updateCarousel();
+    }
+  });
+
+  carousel.addEventListener('touchstart', (e) => {
     startX = e.touches[0].clientX;
-  };
-  carousel.ontouchend = (e) => {
-    let endX = e.changedTouches[0].clientX;
-    if (startX - endX > 50) nextFunc();
-    if (endX - startX > 50) prevFunc();
-  };
+    isDragging = true;
+  });
+
+  carousel.addEventListener('touchmove', (e) => {
+    if (!isDragging) return;
+    const currentX = e.touches[0].clientX;
+    const diff = startX - currentX;
+    if (Math.abs(diff) > 5) {
+      e.preventDefault();
+    }
+  });
+
+  carousel.addEventListener('touchend', (e) => {
+    if (!isDragging) return;
+    isDragging = false;
+    const endX = e.changedTouches[0].clientX;
+    const diff = startX - endX;
+    if (Math.abs(diff) > 50) {
+      if (diff > 0) nextFunc();
+      else prevFunc();
+    }
+  });
 
   modal.style.display = 'flex';
 }
