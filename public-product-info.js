@@ -1877,6 +1877,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/DisposableEco-friendlyGarbageDustbin03_1024x1024_6d55ad33-a6ce-4fbc-b969-fe5420ff0da0.jpg?v=1737630265",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/c9c1ecfa-7195-4c99-b8a5-c71969d32a90.jpg?v=1737630265"
     ],
+    "alreadyOrdered": 20,
     "handle": "1576-garbage-bags-large-size-black-colour-30-x-50",
     "title": "Garbage Bags Large Size Black Colour (30 x 50)",
     "salePrice": 77,
@@ -1939,6 +1940,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/1_3f7d9e36-9354-4e54-a8a1-4a83c29f77c7.jpg?v=1737630353",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/433fcff7-342e-47c1-80b0-7be5b56fe291.jpg?v=1737630353"
     ],
+    "alreadyOrdered": 11,
     "handle": "1585-bio-degradable-eco-friendly-garbage-trash-bags-rolls-19-x-21-green",
     "title": "Bio-degradable Eco Friendly Garbage / Trash Bags Rolls (19\" x 21\") (Green)",
     "salePrice": 45,
@@ -2583,6 +2585,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/300x3006.jpg?v=1737631330",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01463457-1638-4e0c-a69d-f3a026fb2ca7.jpg?v=1737631330"
     ],
+    "alreadyOrdered": 6,
     "handle": "1768-colorfull-garden-tool-set-set-of-3pc",
     "title": "Colorfull Garden Tool Set Set of 3Pc",
     "salePrice": 110,
@@ -3499,6 +3502,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_f8ca2636-c109-4d47-9ed2-6e4ef873f717.jpg?v=1716188113",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/49500334-e62e-4c1e-8f1b-46846ddf8a82.jpg?v=1716188113"
     ],
+    "alreadyOrdered": 6,
     "handle": "2086-kitchen-square-stainless-steel-roaster-papad-jali-barbecue-grill-with-wooden-handle",
     "title": "Kitchen Square Stainless Steel Roaster Jali, Barbecue Grill with Wooden Handle",
     "salePrice": 91,
@@ -3986,6 +3990,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/397cd45a-3324-4597-9a8c-c4f31fb7c179.jpg?v=1750845926",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/3_f3e5c9da-bfc9-4f84-810f-1d7cf26c5987.jpg?v=1750845926"
     ],
+    "alreadyOrdered": 20,
     "handle": "2213-mini-dustpan-with-brush-broom-set-for-multipurpose-cleaning-2-pcs",
     "title": "Mini Dustpan with Brush Broom Set for Multipurpose Cleaning, Supdi - 2 pcs",
     "salePrice": 30,
@@ -4409,6 +4414,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/06_0cecbf2a-c2d4-4102-9c9f-305e072ebe18.jpg?v=1737630530",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/255dd47e-df97-43a9-88bd-08cdb60b2191.jpg?v=1737630530"
     ],
+    "alreadyOrdered": 16,
     "handle": "2351-durable-lightweight-multi-surface-plastic-dustpan-with-handle",
     "title": "Durable Lightweight Multi Surface Plastic Dustpan with Handle, Supdi",
     "salePrice": 16,
@@ -4721,6 +4727,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/Untitled-2_4cacc3da-92be-447e-9821-65bdc950f98f.jpg?v=1737630775",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/70dd6d11-e29d-4a50-a5c7-31e6fa18db0d.jpg?v=1737630775"
     ],
+    "alreadyOrdered": 2,
     "handle": "2448-air-tight-plastic-transparent-container-set-10000ml-7000ml-5000ml-3000ml-2000ml-1000ml-750ml-500ml",
     "title": "Air Tight Plastic Transparent Container Set (10000ml, 7000ml, 5000ml, 3000ml, 2000ml, 1000ml, 750ml, 500ml)",
     "salePrice": 591,
@@ -7542,6 +7549,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/07_25c6acf4-95e4-4b0d-9f20-4e5ae1892b58.jpg?v=1746081978",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/7103f5c7-14ee-4e62-9820-117bd2544bc9.jpg?v=1746081978"
     ],
+    "alreadyOrdered": 10,
     "handle": "squeeze-twist-mop-self-wringing-mop-for-hardwood-floor-cleaning-telescopic-stainless-steel-handle",
     "title": "Squeeze Twist Mop Self Wringing Mop, Stainless Steel Handle (1 Pc)",
     "salePrice": 214,
@@ -7608,6 +7616,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/Clothing-Storage-Box-04.jpg?v=1752556960",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/8c01bec0-d6a3-4ad2-bf8e-2aef384d7a2b.jpg?v=1752556977"
     ],
+    "alreadyOrdered": 30,
     "handle": "foldable-cloth-storage-organizer-bag-with-handles-46x27cm-1pc",
     "title": "Foldable Cloth Storage Organizer Bag With Handles (Approx 46x27Cm\\1Pc)",
     "salePrice": 175,
@@ -8259,6 +8268,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/7_c9b8683f-e575-45de-b642-c91654182dc8.jpg?v=1737630585",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/9318982a-1b62-4f90-ba3c-44acf4da2ab5.jpg?v=1737630585"
     ],
+    "alreadyOrdered": 6,
     "handle": "4604-multipurpose-home-garden-water-spray-bottle-for-cleaning-pack",
     "title": "Multipurpose Home & Garden Water Spray Bottle for Cleaning Pack",
     "salePrice": 53,
@@ -14880,6 +14890,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_8640880a-a15f-4b00-8f66-fe11fab0c495.jpg?v=1737620369",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/ea8daff1-87c9-489f-a69c-76057b062ab2.jpg?v=1737620369"
     ],
+    "alreadyOrdered": 7,
     "handle": "8665_portable_hand_saw_34cm",
     "title": "Portable Hand Saw High Strength Saw Small hand saw (34 Cm Long / 1 Pc)",
     "salePrice": 55,
@@ -15522,6 +15533,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/4image_96ea7d8b-9304-45b7-8b5b-ee686bb47069.jpg?v=1737626572",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/30135de2-7426-4dfd-9e42-5161ad875c2d.jpg?v=1737626572"
     ],
+    "alreadyOrdered": 10,
     "handle": "9084_-trans_cello_tap_120mtr",
     "title": "HIGH ADHESIVE TRANSPARENT TAPE FOR HOME PACKAGING. (120 meter)",
     "salePrice": 91,
@@ -16840,6 +16852,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_0a2c8a77-88df-4066-a4df-540b4be1b836.jpg?v=1737618307",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/43099a74-fa2a-4396-ad01-29caf6f79234.jpg?v=1737618307"
     ],
+    "alreadyOrdered": 4,
     "handle": "space-96",
     "title": "3 Compartment Transparent Stainless Steel Lunch Box with a Spoon and a Pair of Chopsticks (1 Set)",
     "salePrice": 466,
@@ -17086,6 +17099,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_a661c7eb-27cd-4d32-843a-c38e349b8269.jpg?v=1746100653",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/00661ce9-c471-48af-9908-756aa7cb053b.jpg?v=1746100653"
     ],
+    "alreadyOrdered": 10,
     "handle": "10272_gas_stove_burner_stand",
     "title": "Gas Stove Burner Cover / Stand (221 Gm / 1 Pc)",
     "salePrice": 75,
@@ -18954,6 +18968,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_f15c7ef6-e9e5-42f3-b78b-39dd214f6d3f.jpg?v=1744691097",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/fa879ae0-2c2c-4942-979e-0de2c4adfb27.jpg?v=1744636176"
     ],
+    "alreadyOrdered": 50,
     "handle": "electric-handheld-milk-frother-with-stainless-steel-whisk",
     "title": "Small Electric Handheld Milk Frother with Stainless Steel Whisk (1 Pc)",
     "salePrice": 170,
@@ -22061,6 +22076,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/08_a22de1a3-263b-4822-9f35-23b4bcdb00ce.jpg?v=1737615033",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/b056c49d-8963-45b8-9cde-38e7006f4446.jpg?v=1737615033"
     ],
+    "alreadyOrdered": 15,
     "handle": "mini-wire-brush-nylon-bristles-for-gentle-cleaning",
     "title": "Mini Wire Brush Nylon Wire (1 Pc)",
     "salePrice": 12,
@@ -23774,6 +23790,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_c72161fe-4710-48a1-bc10-1a6e2e344287.jpg?v=1737621491",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/a2546704-f91d-4069-b9c4-f7c854df7ea4.jpg?v=1737621491"
     ],
+    "alreadyOrdered": 10,
     "handle": "18015_frog_shape_hooks_1pc",
     "title": "Multipurpose Strong Hook Self-Adhesive hooks (1 Pc / Mix Design)",
     "salePrice": 23,
@@ -24334,6 +24351,7 @@ window.productInfo = {
     "sold": 1.3,
     "items_per_bag": 10,
     "catalog": "electronics-accessories",
+    "alreadyOrdered": 6,
     "salePrice": 110,
     "gst": 18,
     "hsn": "850610"
@@ -24345,6 +24363,7 @@ window.productInfo = {
     "sold": 2.6,
     "items_per_bag": 10,
     "catalog": "electronics-accessories",
+    "alreadyOrdered": 6,
     "salePrice": 120,
     "gst": 18,
     "hsn": "850610"
@@ -27708,16 +27727,17 @@ window.productInfo = {
     "sold": 20,
     "catalog": "beauty-&-personal-care",
     "images": [
-      "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_eb1c8841-aec6-40ad-994d-dc6ccaf754ff.jpg?v=1737625972",
-      "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/623b9ff3-18c7-48b0-b119-a5ffe37237bf.jpg?v=1737625972",
-      "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_fa09a91b-3461-4886-a98c-ba7ab85a7cec.jpg?v=1737625972",
-      "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_cf04ab50-0522-4dfa-bc44-c38b5dfdfebe.jpg?v=1737625972",
-      "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/61hd0gpWMSS._SL1297.jpg?v=1737625972",
-      "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/61KX_2H0rSS._SL1200.jpg?v=1737625972",
-      "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_9dd6af4b-ea44-4959-898c-c079e08fa29d.jpg?v=1737625972",
-      "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/07_a18906fb-0e95-4d9d-8c1e-2d9b2f505bb0.jpg?v=1737625972",
-      "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/713DR1xbqNS._SL1500.jpg?v=1737625973",
-      "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/58507d46-9d2e-47d8-9588-0a7211a47ad6.jpg?v=1737625973"
+      "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/0318_facial_roller_massager.jpg?v=1753707991",
+      "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/623b9ff3-18c7-48b0-b119-a5ffe37237bf.jpg?v=1753707991",
+      "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_eb1c8841-aec6-40ad-994d-dc6ccaf754ff.jpg?v=1753707991",
+      "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_fa09a91b-3461-4886-a98c-ba7ab85a7cec.jpg?v=1753707991",
+      "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_cf04ab50-0522-4dfa-bc44-c38b5dfdfebe.jpg?v=1753707991",
+      "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/61hd0gpWMSS._SL1297.jpg?v=1753707991",
+      "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/61KX_2H0rSS._SL1200.jpg?v=1753707991",
+      "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_9dd6af4b-ea44-4959-898c-c079e08fa29d.jpg?v=1753707991",
+      "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/07_a18906fb-0e95-4d9d-8c1e-2d9b2f505bb0.jpg?v=1753707991",
+      "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/713DR1xbqNS._SL1500.jpg?v=1753707991",
+      "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/58507d46-9d2e-47d8-9588-0a7211a47ad6.jpg?v=1753707991"
     ],
     "handle": "gua-sha-stone-jade-roller-massager-set",
     "title": "Jade Roller & Gua Sha Set – Natural Face Massager for Anti-Aging, Glowing Skin & Face Shaping (1 Pc)",
@@ -28209,6 +28229,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/04_09dd0048-3857-4507-b0cd-c958da26b1b6.jpg?v=1737629222",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/22dfbbf4-cff2-4cbb-ba98-0a9e9a7020e9.jpg?v=1737629222"
     ],
+    "alreadyOrdered": 15,
     "handle": "444-heavy-duty-combination-plier-wire-cutters",
     "title": "Heavy Duty Combination Plier Wire Cutters",
     "salePrice": 84,
@@ -29327,6 +29348,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/5_d92f00c2-dc1d-4b5e-a726-91a142b07e77.jpg?v=1737621489",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/6_3b2be413-f52f-4b52-ba69-879f5fbd607d.jpg?v=1737621489"
     ],
+    "alreadyOrdered": 20,
     "handle": "cheese-grater-slicer-chopper-with-stainless-steel-blades-1",
     "title": "Cheese Grater / Slicer / Chopper With Stainless Steel Blades",
     "salePrice": 26,
@@ -29912,6 +29934,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/cookiecutter07.jpg?v=1737619603",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/44d11b56-9f26-4f1a-b0e3-51991d8c5810.jpg?v=1737619603"
     ],
+    "alreadyOrdered": 20,
     "handle": "0827-cookie-cutter-stainless-steel-cookie-cutter-with-shape-heart-round-star-and-flower-4-pieces",
     "title": "0827 Cookie Cutter Stainless Steel Cookie Cutter with Shape Heart Round Star and Flower (4 Pieces)",
     "salePrice": 40,
@@ -30291,6 +30314,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/08_4cbf1982-e9b7-4f6d-b9a0-13013faaf40b.jpg?v=1745483419",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/110728e8-dae4-42d7-9916-0662de61b7d5.jpg?v=1745483419"
     ],
+    "alreadyOrdered": 12,
     "handle": "1224l_ind_face_ice_roller",
     "title": "Beauty Ice Roller for Face & Eye Massager (Reusable, Loose)",
     "salePrice": 23,
