@@ -45,8 +45,8 @@ window.productInfo = {
   "1075": {
     "sku": "1075_big_jar_pouch",
     "itemCode": "1075",
-    "closingQuantity": 17,
-    "sold": 31,
+    "closingQuantity": 7,
+    "sold": 41,
     "catalog": "kitchen-storage",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/1000ml2.jpg?v=1750843392",
@@ -196,8 +196,8 @@ window.productInfo = {
   "1116": {
     "sku": "1116_bamboo_bbq_stick",
     "itemCode": "1116",
-    "closingQuantity": 9,
-    "sold": 6,
+    "closingQuantity": 8,
+    "sold": 7,
     "catalog": "barbeque",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/026_f7acf7eb-4f20-49b2-81ec-21c75c5baabf.jpg?v=1751280869",
@@ -845,8 +845,8 @@ window.productInfo = {
   "1291": {
     "sku": "1291_single_hokey_t_brush",
     "itemCode": "1291",
-    "closingQuantity": 49,
-    "sold": 21,
+    "closingQuantity": 48,
+    "sold": 22,
     "catalog": "toilet",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/dsdsafff.jpg?v=1737629807",
@@ -1522,8 +1522,8 @@ window.productInfo = {
   "1487": {
     "sku": "1487_bx_wall_mob_stand_4pc",
     "itemCode": "1487",
-    "closingQuantity": 12.25,
-    "sold": 13.75,
+    "closingQuantity": 11.5,
+    "sold": 14.5,
     "items_per_bag": 4,
     "catalog": "home-improvement",
     "images": [
@@ -1567,8 +1567,8 @@ window.productInfo = {
   "1494": {
     "sku": "1494_4pc_mini_scrubber",
     "itemCode": "1494",
-    "closingQuantity": 17,
-    "sold": 13,
+    "closingQuantity": 16,
+    "sold": 14,
     "catalog": "scrubber",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/3_1ed10ff0-7bb7-4faf-97d9-e4a46530370e.jpg?v=1737630934",
@@ -1632,8 +1632,8 @@ window.productInfo = {
   "1507": {
     "sku": "1507_uno_cards_2pc",
     "itemCode": "1507",
-    "closingQuantity": 10,
-    "sold": 10,
+    "closingQuantity": 9,
+    "sold": 11,
     "catalog": "games-&-puzzles",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/812Yr9WChrL._SL1500.jpg?v=1737629715",
@@ -2330,8 +2330,8 @@ window.productInfo = {
   "1689": {
     "sku": "1689_ss_wall_flower_hook",
     "itemCode": "1689",
-    "closingQuantity": 260,
-    "sold": 840,
+    "closingQuantity": 250,
+    "sold": 850,
     "catalog": "hooks",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/468904_f4ee798d-0f9b-49ee-a1a8-10f68386017b.jpg?v=1750999979",
@@ -2488,8 +2488,8 @@ window.productInfo = {
   "1742": {
     "sku": "1742_20pc_magic_wall_sticker",
     "itemCode": "1742",
-    "closingQuantity": 3.9,
-    "sold": 6.1,
+    "closingQuantity": 3.4,
+    "sold": 6.6,
     "catalog": "hooks",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/174204_1_fa503de4-e461-46d4-b61c-320d014f0457.jpg?v=1750931932",
@@ -3209,8 +3209,8 @@ window.productInfo = {
   "2004": {
     "sku": "2004_small_plastic_container",
     "itemCode": "2004",
-    "closingQuantity": 8,
-    "sold": 14,
+    "closingQuantity": 7,
+    "sold": 15,
     "catalog": "storage-&-organisers",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/06_b68b646e-d93b-45fc-a6ce-483e9d10a51b.jpg?v=1737633415",
@@ -3422,8 +3422,8 @@ window.productInfo = {
   "2068": {
     "sku": "2068_3pc_plastic_rice_colender",
     "itemCode": "2068",
-    "closingQuantity": 4,
-    "sold": 2,
+    "closingQuantity": 3.67,
+    "sold": 2.33,
     "items_per_bag": 3,
     "catalog": "kitchen-tools",
     "images": [
@@ -3503,8 +3503,8 @@ window.productInfo = {
   "2086": {
     "sku": "2086_square_papad_jali",
     "itemCode": "2086",
-    "closingQuantity": 2,
-    "sold": 5,
+    "closingQuantity": 1,
+    "sold": 6,
     "catalog": "barbeque",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_5bccebfa-e553-4432-a2a5-e443d4273a96.jpg?v=1750839426",
@@ -3928,8 +3928,8 @@ window.productInfo = {
   "2198": {
     "sku": "2198_squre_spice_box",
     "itemCode": "2198",
-    "closingQuantity": 1,
-    "sold": 5,
+    "closingQuantity": 0,
+    "sold": 6,
     "catalog": "kitchen-masala-box",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/6d654465vv.jpg?v=1737630130",
@@ -6013,8 +6013,8 @@ window.productInfo = {
   "2861": {
     "sku": "2861_big_ss_easy_tea_filter",
     "itemCode": "2861",
-    "closingQuantity": 13,
-    "sold": 14,
+    "closingQuantity": 12,
+    "sold": 15,
     "catalog": "kitchen-tools",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/04_771677df-6814-4b01-bce0-383ec3dbb91b.jpg?v=1737632666",
@@ -6434,8 +6434,8 @@ window.productInfo = {
   "2960": {
     "sku": "2960_ss_tea_strainer",
     "itemCode": "2960",
-    "closingQuantity": 15,
-    "sold": 50,
+    "closingQuantity": 14,
+    "sold": 51,
     "catalog": "kitchen-tools",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/6_53727c9a-05ef-4dae-a682-25b2ae40a969.jpg?v=1686758959",
@@ -6519,8 +6519,8 @@ window.productInfo = {
   "2999": {
     "sku": "2999_12pc_scrubber",
     "itemCode": "2999",
-    "closingQuantity": 5.08,
-    "sold": 0.92,
+    "closingQuantity": 5,
+    "sold": 1,
     "items_per_bag": 12,
     "catalog": "cleaning",
     "images": [
@@ -8368,8 +8368,8 @@ window.productInfo = {
   "4627": {
     "sku": "4627_jbt_building_blocks_60pc_jbt",
     "itemCode": "4627",
-    "closingQuantity": 8,
-    "sold": 15,
+    "closingQuantity": 7,
+    "sold": 16,
     "catalog": "toys",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/10BestBlocks_featured.jpg?v=1687407483",
@@ -8948,8 +8948,8 @@ window.productInfo = {
   "4828": {
     "sku": "4828_gallon_bottle_1500ml",
     "itemCode": "4828",
-    "closingQuantity": 28,
-    "sold": 5,
+    "closingQuantity": 27,
+    "sold": 6,
     "catalog": "bottles",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/4828_gallon_bottle_1500ml.jpg?v=1745382420",
@@ -9197,8 +9197,8 @@ window.productInfo = {
   "4901": {
     "sku": "4901_mini_cleaning_brush_13cm_1pc",
     "itemCode": "4901",
-    "closingQuantity": 40,
-    "sold": 30,
+    "closingQuantity": 39,
+    "sold": 31,
     "catalog": "cleaning",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_b889cbb4-0824-4bb1-98c3-eb3247b98f15.jpg?v=1737615028",
@@ -9968,8 +9968,8 @@ window.productInfo = {
   "5502": {
     "sku": "5502_square_8bottle_spice_rack",
     "itemCode": "5502",
-    "closingQuantity": 4,
-    "sold": 0,
+    "closingQuantity": 3,
+    "sold": 1,
     "catalog": "kitchen-storage",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/12797bb8-3546-496c-b32d-d76d52d887dc.jpg?v=1737627612",
@@ -10116,8 +10116,8 @@ window.productInfo = {
   "5553": {
     "sku": "5553_butter_container_120ml_d36",
     "itemCode": "5553",
-    "closingQuantity": 22,
-    "sold": 8,
+    "closingQuantity": 21,
+    "sold": 9,
     "catalog": "kitchen-storage",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_3cba064d-f51f-4a88-a6a3-e8ea684f9c1f.jpg?v=1737625369",
@@ -12099,8 +12099,8 @@ window.productInfo = {
   "6516": {
     "sku": "6516_chb_strawberry_waterbag",
     "itemCode": "6516",
-    "closingQuantity": 5,
-    "sold": 13,
+    "closingQuantity": 4,
+    "sold": 14,
     "catalog": "hot-bags",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/7_2e2caa4d-43ce-4a05-a6ec-828a15ba008c.jpg?v=1737626303",
@@ -13243,8 +13243,8 @@ window.productInfo = {
   "7617": {
     "sku": "7617_pan_n_brush_small",
     "itemCode": "7617",
-    "closingQuantity": 15,
-    "sold": 25,
+    "closingQuantity": 14,
+    "sold": 26,
     "catalog": "cleaning",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_fee928c3-350c-4792-9e4c-ce8b9bc1e44d.jpg?v=1737634169",
@@ -14744,8 +14744,8 @@ window.productInfo = {
   "8462": {
     "sku": "8462_crystal_led_touch_table_lamp",
     "itemCode": "8462",
-    "closingQuantity": 3,
-    "sold": 8,
+    "closingQuantity": 1,
+    "sold": 10,
     "catalog": "home-improvement",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_7d50033d-9ec0-48b6-98ff-3f6272238b11.jpg?v=1748240804",
@@ -15182,8 +15182,8 @@ window.productInfo = {
   "8787": {
     "sku": "8787_multi_basket_rack_6pc_set",
     "itemCode": "8787",
-    "closingQuantity": 4.33,
-    "sold": 20.67,
+    "closingQuantity": 4,
+    "sold": 21,
     "items_per_bag": 6,
     "catalog": "storage-&-organisers",
     "images": [
@@ -15537,8 +15537,8 @@ window.productInfo = {
   "9074": {
     "sku": "9074_steel_cable_tie_100pc",
     "itemCode": "9074",
-    "closingQuantity": 3,
-    "sold": 2,
+    "closingQuantity": 2.8,
+    "sold": 2.2,
     "items_per_bag": 10,
     "catalog": "gardening",
     "images": [
@@ -15869,8 +15869,8 @@ window.productInfo = {
   "9413": {
     "sku": "9413_ss_adhesive_hook_12pc_no9",
     "itemCode": "9413",
-    "closingQuantity": 14,
-    "sold": 15,
+    "closingQuantity": 13,
+    "sold": 16,
     "catalog": "hooks",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_1b1c3896-30b4-41d7-94d0-131380f7333d.jpg?v=1737626661",
@@ -17523,8 +17523,8 @@ window.productInfo = {
   "11561": {
     "sku": "11561_apex_majestic_gas_lighter_1pc_mgl",
     "itemCode": "11561",
-    "closingQuantity": 20,
-    "sold": 18,
+    "closingQuantity": 19,
+    "sold": 19,
     "catalog": "kitchen-tools",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/001_235f7b9a-fed8-43e0-8fe6-f67d3e5f5c83.jpg?v=1745039984",
@@ -17587,8 +17587,8 @@ window.productInfo = {
   "11624": {
     "sku": "11624_apex_glory_storage_box_3pc_gsb",
     "itemCode": "11624",
-    "closingQuantity": 8,
-    "sold": 0,
+    "closingQuantity": 7,
+    "sold": 1,
     "catalog": "kitchen-storage",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_18172ef7-c38a-47d9-aca7-781b5c87ad6b.jpg?v=1747736412",
@@ -18670,8 +18670,8 @@ window.productInfo = {
   "12216": {
     "sku": "12216_microfiber_reusable_towel_10pc",
     "itemCode": "12216",
-    "closingQuantity": 4.5,
-    "sold": 1.5,
+    "closingQuantity": 4.3,
+    "sold": 1.7,
     "catalog": "cleaning",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/2_fb43f9f9-39ac-466c-aa86-08bd286358d2.jpg?v=1750848833",
@@ -18997,8 +18997,8 @@ window.productInfo = {
   "12268": {
     "sku": "12268_electric_handheld_milk_frother",
     "itemCode": "12268",
-    "closingQuantity": 7,
-    "sold": 13,
+    "closingQuantity": 6,
+    "sold": 14,
     "catalog": "kitchen-tools",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_5f6a0275-29aa-4613-92a9-2846d11450f6.jpg?v=1744691097",
@@ -22045,8 +22045,8 @@ window.productInfo = {
   "15151": {
     "sku": "15151_small_cleaning_brush_1pc",
     "itemCode": "15151",
-    "closingQuantity": 1,
-    "sold": 23,
+    "closingQuantity": 0,
+    "sold": 24,
     "catalog": "cleaning",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/07_992cb5d1-ad5c-4655-8076-39a1d0025f32.jpg?v=1750840551",
@@ -22091,8 +22091,8 @@ window.productInfo = {
   "15215": {
     "sku": "15215_steel_wire_brush_1pc",
     "itemCode": "15215",
-    "closingQuantity": 5,
-    "sold": 3,
+    "closingQuantity": 4,
+    "sold": 4,
     "catalog": "cleaning",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_f704e10b-c246-4fd2-8168-0195b9122e4e.jpg?v=1737615036",
@@ -22583,8 +22583,8 @@ window.productInfo = {
   "15574": {
     "sku": "15574_anti_slip_tape_50mmx5m_1pc",
     "itemCode": "15574",
-    "closingQuantity": 1,
-    "sold": 2,
+    "closingQuantity": 0,
+    "sold": 3,
     "catalog": "home-improvement",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_12974240-1002-42dc-82ed-96d5c4fe3061.jpg?v=1751019127",
@@ -23091,8 +23091,8 @@ window.productInfo = {
   "17745": {
     "sku": "17745_magic_smiley_spring_toy_12pc",
     "itemCode": "17745",
-    "closingQuantity": 9.58,
-    "sold": 5.42,
+    "closingQuantity": 9.42,
+    "sold": 5.58,
     "items_per_bag": 12,
     "catalog": "toys",
     "images": [
@@ -24400,8 +24400,8 @@ window.productInfo = {
   "18441": {
     "sku": "18441_aaa_panasonic_batteries_10pc",
     "itemCode": "18441",
-    "closingQuantity": 2,
-    "sold": 1,
+    "closingQuantity": 1.7,
+    "sold": 1.3,
     "items_per_bag": 10,
     "catalog": "electronics-accessories",
     "salePrice": 110,
@@ -25047,8 +25047,8 @@ window.productInfo = {
   "18742": {
     "sku": "18742_wooden_tumbling_tower_block_48pc",
     "itemCode": "18742",
-    "closingQuantity": 5,
-    "sold": 22,
+    "closingQuantity": 4,
+    "sold": 23,
     "catalog": "games-&-puzzles",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_8a38784d-3b41-45bc-a0ea-26a9dc9350b9.jpg?v=1750844194",
@@ -25806,8 +25806,8 @@ window.productInfo = {
   "19045": {
     "sku": "19045_trans_double_sided_tape_3mtr",
     "itemCode": "19045",
-    "closingQuantity": 26,
-    "sold": 34,
+    "closingQuantity": 25,
+    "sold": 35,
     "catalog": "home-improvement",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/19045_trans_double_sided_tape_3mtr.jpg?v=1746519864",
@@ -26392,8 +26392,8 @@ window.productInfo = {
   "19274": {
     "sku": "19274_bb_wooden_piggy_bank_money_box",
     "itemCode": "19274",
-    "closingQuantity": 10,
-    "sold": 24,
+    "closingQuantity": 8,
+    "sold": 26,
     "catalog": "home-improvement",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_a7562f91-fb79-4bd7-bc9c-2f4edca1c19f.jpg?v=1750918476",
@@ -26613,8 +26613,8 @@ window.productInfo = {
   "19325": {
     "sku": "19325_pink_unlimited_pencils_n_eraser_1pc",
     "itemCode": "19325",
-    "closingQuantity": 12,
-    "sold": 8,
+    "closingQuantity": 9,
+    "sold": 11,
     "catalog": "stationery",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_b72edb91-c58c-4723-96a7-4f96f8605693.jpg?v=1749878468",
@@ -27556,8 +27556,8 @@ window.productInfo = {
   "0238": {
     "sku": "0238_9hole_hanger",
     "itemCode": "0238",
-    "closingQuantity": 41,
-    "sold": 9,
+    "closingQuantity": 40,
+    "sold": 10,
     "catalog": "hangers-&-clips",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/2_a19f15a6-ebe1-430c-a4af-7ea020a64aee.jpg?v=1737619499",
@@ -28038,8 +28038,8 @@ window.productInfo = {
   "0367": {
     "sku": "0367_mimo_massager",
     "itemCode": "0367",
-    "closingQuantity": 5,
-    "sold": 6,
+    "closingQuantity": 3,
+    "sold": 8,
     "catalog": "massager",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/02_b7309ff7-09cb-4669-9b0f-11c16348b529.jpg?v=1737631801",
@@ -28215,8 +28215,8 @@ window.productInfo = {
   "0411": {
     "sku": "0411_mini_torpedo_blck",
     "itemCode": "0411",
-    "closingQuantity": 1,
-    "sold": 20,
+    "closingQuantity": 0,
+    "sold": 21,
     "catalog": "hardware",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/DSCN0035.jpg?v=1737629621",
@@ -28365,8 +28365,8 @@ window.productInfo = {
   "0462": {
     "sku": "0462_mini_hammer",
     "itemCode": "0462",
-    "closingQuantity": 15,
-    "sold": 5,
+    "closingQuantity": 14,
+    "sold": 6,
     "catalog": "hardware",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/03_3ca6c89a-b48c-4a1b-ad99-3e92f6897d0f.jpg?v=1737629284",
@@ -29555,8 +29555,8 @@ window.productInfo = {
   "0699": {
     "sku": "0699_dumbbells_bottle",
     "itemCode": "0699",
-    "closingQuantity": 4,
-    "sold": 12,
+    "closingQuantity": 3,
+    "sold": 13,
     "catalog": "bottles",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_4800032b-8f97-4091-803b-6046c901d299.jpg?v=1744291398",
@@ -30148,8 +30148,8 @@ window.productInfo = {
   "0850": {
     "sku": "0850_edge_cleaning_brush",
     "itemCode": "0850",
-    "closingQuantity": 9,
-    "sold": 21,
+    "closingQuantity": 8,
+    "sold": 22,
     "catalog": "cleaning",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_5548bbb3-eaa8-4705-aa85-bbe96683bae2.jpg?v=1751029668",
