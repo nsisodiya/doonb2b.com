@@ -274,7 +274,7 @@ function showCatalogs() {
   //     <div class="catalog-title">Arriving Soon</div>
   //   `;
   // div.onclick = () =>
-  //   showProductsFromCatalog(`these-products-are-in-transport-and-they-will-arrive-soon`);
+  //   window.location.hash = `#catalog/these-products-are-in-transport-and-they-will-arrive-soon`;
   // catalogList.appendChild(div);
 
   Object.entries(window.catalogData).forEach(([catalog, image]) => {
@@ -286,7 +286,7 @@ function showCatalogs() {
       window.catalogCounts[catalog] || 0
     } items)</div>
       `;
-    div.onclick = () => showProductsFromCatalog(catalog);
+    div.onclick = () => (window.location.hash = `#catalog/${catalog}`);
     catalogList.appendChild(div);
   });
 }
@@ -308,6 +308,64 @@ function doesProductMatchSearch(query, product) {
   return queryWords.every((queryWord) =>
     searchableTokens.some((token) => token.includes(queryWord))
   );
+}
+
+function handleRoute() {
+  const hash = window.location.hash;
+  const modal = document.getElementById('product-modal');
+  if (
+    modal &&
+    modal.style.display !== 'none' &&
+    !hash.startsWith('#product/')
+  ) {
+    modal.style.display = 'none';
+  }
+
+  const parts = hash.slice(1).split('/');
+  const searchInput = document.getElementById('searchInput');
+
+  if (parts.length <= 1 || parts[0] === '') {
+    showCatalogs();
+    if (searchInput) searchInput.value = '';
+    return;
+  }
+
+  if (parts[0] === 'catalog' && parts[1]) {
+    const catalog = parts[1];
+    showProductsFromCatalog(catalog);
+    if (searchInput) searchInput.value = '';
+    return;
+  }
+
+  if (parts[0] === 'search' && parts[1]) {
+    const query = decodeURIComponent(parts[1]);
+    if (searchInput) searchInput.value = query;
+    searchProducts(query);
+    return;
+  }
+
+  if (parts[0] === 'product' && parts[1]) {
+    const handle = parts[1];
+    const product = Object.values(window.productInfo).find(
+      (p) => p.handle === handle
+    );
+    if (product) {
+      if (product.catalog) {
+        showProductsFromCatalog(product.catalog);
+      } else {
+        showCatalogs();
+      }
+      showProductDetails(product);
+    } else {
+      showCatalogs();
+    }
+    if (searchInput) searchInput.value = '';
+    return;
+  }
+
+  // default
+  showCatalogs();
+  if (searchInput) searchInput.value = '';
 }
 
 function initProductModal() {
@@ -359,6 +417,18 @@ function initProductModal() {
     const closeBtn = content.querySelector('.modal-close');
     closeBtn.addEventListener('click', () => {
       modal.style.display = 'none';
+      const hash = window.location.hash;
+      if (hash.startsWith('#product/')) {
+        const handle = hash.slice(9);
+        const product = Object.values(window.productInfo).find(
+          (p) => p.handle === handle
+        );
+        if (product && product.catalog) {
+          window.location.hash = `#catalog/${product.catalog}`;
+        } else {
+          window.location.hash = '';
+        }
+      }
     });
   }
 }
@@ -553,7 +623,9 @@ function createProductItem(product, productList, config = {}) {
       </div>
     `;
   productList.appendChild(div);
-  div.addEventListener('click', () => showProductDetails(product));
+  div.addEventListener('click', () => {
+    window.location.hash = `#product/${product.handle}`;
+  });
 }
 
 function searchProducts(keyword) {
@@ -579,6 +651,8 @@ function searchProducts(keyword) {
   results.sort(productSortFun);
   results.forEach((product) => createProductItem(product, productList));
 }
+
+let searchDebounce;
 
 window.addEventListener('load', () => {
   showLoader(true);
@@ -627,27 +701,35 @@ window.addEventListener('load', () => {
             } else {
               searchProducts(keyword);
             }
+            clearTimeout(searchDebounce);
+            searchDebounce = setTimeout(() => {
+              if (keyword === '') {
+                window.location.hash = '';
+              } else {
+                window.location.hash = `#search/${encodeURIComponent(keyword)}`;
+              }
+            }, 500);
           });
         }
 
         if (backLink) {
           backLink.onclick = (e) => {
             e.preventDefault();
-            if (searchInput) searchInput.value = '';
-            showCatalogs();
+            window.location.hash = '';
           };
         }
 
         if (header) {
           header.onclick = (e) => {
             e.preventDefault();
-            if (searchInput) searchInput.value = '';
-            showCatalogs();
+            window.location.hash = '';
           };
         }
 
         showCatalogs();
         showLoader(false);
+        window.addEventListener('hashchange', handleRoute);
+        handleRoute();
       })
       .catch((error) => {
         console.error('Error fetching product info:', error);
