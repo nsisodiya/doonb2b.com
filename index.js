@@ -740,3 +740,21 @@ window.addEventListener('load', () => {
       });
   }
 });
+
+!(function () {
+  var n;
+  ((n =
+    (((n = document.createElement('style')).innerHTML =
+      '\n      .whatsapp-widget {\n        position: fixed;\n        bottom: 20px;\n        right: 20px;\n        z-index: 9999;\n      }\n      .whatsapp-button {\n        background-color: #25D366;\n        border-radius: 50%;\n        width: 60px;\n        height: 60px;\n        display: flex;\n        align-items: center;\n        justify-content: center;\n        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);\n        cursor: pointer;\n        transition: transform 0.2s ease, box-shadow 0.2s ease;\n      }\n      .whatsapp-button:hover {\n        transform: scale(1.1);\n        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.4);\n      }\n      .whatsapp-icon {\n        width: 32px;\n        height: 32px;\n      }\n\n      @media (max-width: 600px) {\n        .whatsapp-button {\n          width: 50px;\n          height: 50px;\n        }\n        .whatsapp-icon {\n          width: 26px;\n          height: 26px;\n        }\n      }\n    '),
+    document.head.appendChild(n),
+    document.createElement('div'))).className = 'whatsapp-widget'),
+    (n.innerHTML =
+      '\n      <div class="whatsapp-button" id="whatsapp-btn">\n        <img class="whatsapp-icon" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/whatsapp.svg" alt="WhatsApp">\n      </div>\n    '),
+    document.body.appendChild(n),
+    document
+      .getElementById('whatsapp-btn')
+      .addEventListener('click', function () {
+        var n = encodeURIComponent('location');
+        window.open('https://wa.me/+919834763808?text=' + n, '_blank');
+      });
+})();
