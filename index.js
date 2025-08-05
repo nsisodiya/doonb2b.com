@@ -394,7 +394,10 @@ function initProductModal() {
       borderRadius: '8px',
       width: '90%',
       maxWidth: '500px',
-      position: 'relative'
+      position: 'relative',
+      maxHeight: '80vh',
+      display: 'flex',
+      flexDirection: 'column'
     });
     content.innerHTML = `
       <span class="modal-close close-btn" style="position: absolute; top: 10px; right: 15px; font-size: 24px; cursor: pointer;">×</span>
