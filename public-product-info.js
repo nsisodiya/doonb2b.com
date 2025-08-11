@@ -60,7 +60,7 @@ window.productInfo = {
     "alreadyOrdered": 31,
     "handle": "1075-reusable-airtight-seal-plastic-food-storage-mason-jar-zipper-1000ml",
     "title": "Reusable Airtight Seal Plastic Food Storage Mason Jar Zipper (1000ml)",
-    "salePrice": 14,
+    "salePrice": 16,
     "gst": 18,
     "hsn": "392410"
   },
@@ -1066,28 +1066,6 @@ window.productInfo = {
     "gst": 18,
     "hsn": "392410"
   },
-  "1342": {
-    "sku": "1342_pull_rope_exerciser",
-    "itemCode": "1342",
-    "closingQuantity": 0,
-    "sold": 0,
-    "catalog": "sports,-fitness-&-outdoors",
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_76977cf5-d5a2-4d90-8c49-48e2e0c5df31.jpg?v=1737630201",
-      "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/WhatsAppImage2024-06-04at10.15.28AM.jpg?v=1737630201",
-      "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_e7fd889e-49ff-4561-8d31-979e4eda6cc5.jpg?v=1737630201",
-      "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_917c2680-084e-4e55-96af-1e4a787ef88c.jpg?v=1737630202",
-      "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_a77e24b7-722e-4c86-93df-aef67e361c45.jpg?v=1737630202",
-      "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_7daf3098-c0e6-49cd-a3ba-e0be5ad7b1db.jpg?v=1737630202",
-      "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/74c509c7-7a8d-496f-9f39-e3f5051498f5.jpg?v=1737630202"
-    ],
-    "alreadyOrdered": 6,
-    "handle": "1342-extra-strong-pull-string-body-building-training-pull-rope-rubber-exerciser",
-    "title": "Extra Strong Pull String Body Building Training, Pull Rope Rubber Exerciser",
-    "salePrice": 139,
-    "gst": 18,
-    "hsn": "392690"
-  },
   "1355": {
     "sku": "1355_capsule_bottle",
     "itemCode": "1355",
@@ -1713,7 +1691,7 @@ window.productInfo = {
     "alreadyOrdered": 10,
     "handle": "1507-uno-pixar-anniversary-card-game-with-112-cards",
     "title": "UNO Pixar  Anniversary Card Game with 112 Cards",
-    "salePrice": 56,
+    "salePrice": 61,
     "gst": 18,
     "hsn": "940440"
   },
@@ -2598,7 +2576,7 @@ window.productInfo = {
     "alreadyOrdered": 6,
     "handle": "reusable-stainless-steel-drinking-straws-bent-4-bent-straws-1-brush",
     "title": "Reusable Stainless Steel Drinking Straws Bent (4 Bent Straws, 1 Brush)",
-    "salePrice": 37,
+    "salePrice": 41,
     "gst": 12,
     "hsn": "732393"
   },
@@ -3655,7 +3633,7 @@ window.productInfo = {
     "alreadyOrdered": 6,
     "handle": "2085-kitchen-round-stainless-steel-roaster-papad-jali-barbecue-grill-with-wooden-handle",
     "title": "Kitchen Round Stainless Steel Roaster Papad Jali, Barbecue Grill with Wooden Handle",
-    "salePrice": 91,
+    "salePrice": 97,
     "gst": 12,
     "hsn": "732393"
   },
@@ -3982,7 +3960,7 @@ window.productInfo = {
     "alreadyOrdered": 2,
     "handle": "2157-stainless-steel-electronic-gas-lighter-for-lighting-gas-stove",
     "title": "Stainless Steel Electronic Gas Lighter for lighting Gas Stove",
-    "salePrice": 38,
+    "salePrice": 42,
     "gst": 18,
     "hsn": "961380"
   },
@@ -4082,7 +4060,7 @@ window.productInfo = {
     "alreadyOrdered": 4,
     "handle": "2191-non-stick-microwave-oven-proof-baking-paper",
     "title": "Non Stick Microwave & Oven Proof Baking Paper",
-    "salePrice": 110,
+    "salePrice": 118,
     "gst": 18,
     "hsn": "392410"
   },
@@ -5701,7 +5679,7 @@ window.productInfo = {
     "alreadyOrdered": 4,
     "handle": "2656-round-patala-and-round-chakla-used-for-home-purposes-including-making-rotis-etc",
     "title": "Round Roti Maker Patala Used for Home Purposes (Belan Not Including)",
-    "salePrice": 109,
+    "salePrice": 117,
     "gst": 18,
     "hsn": "392410"
   },
@@ -10785,7 +10763,7 @@ window.productInfo = {
     "alreadyOrdered": 10,
     "handle": "5627_pla_3comp_lunch_box",
     "title": "Plastic Lunch Box for Kids, Lunch Box for Kids 3 Compartment Insulated Lunch Box Tiffin Box for Boys, Girls, School & Office Men (3 Compartment Lunch Box)",
-    "salePrice": 117,
+    "salePrice": 125,
     "gst": 18,
     "hsn": "392410"
   },
@@ -11624,7 +11602,7 @@ window.productInfo = {
     "alreadyOrdered": 2,
     "handle": "6093-acrylic-multi-purpose-lipstick-cosmetics-stand-display-holder-24-section",
     "title": "Acrylic Multi Purpose Lipstick Cosmetics Stand Display Holder 24 Section",
-    "salePrice": 153,
+    "salePrice": 161,
     "gst": 18,
     "hsn": "392620"
   },
@@ -12576,7 +12554,7 @@ window.productInfo = {
     "alreadyOrdered": 10,
     "handle": "6496-1",
     "title": "Multi-Purpose Wall Holder Stand for Mobile Charging (Red)",
-    "salePrice": 77,
+    "salePrice": 82,
     "gst": 18,
     "hsn": "392410"
   },
@@ -15436,7 +15414,7 @@ window.productInfo = {
     "alreadyOrdered": 6,
     "handle": "baby-safety-nail-cutter-scissors-for-safe-nail-clipping-1-pc",
     "title": "Baby Safety Nail Cutter Scissors for Safe Nail Clipping (1 Pc)",
-    "salePrice": 21,
+    "salePrice": 23,
     "gst": 12,
     "hsn": "821420"
   },
@@ -15720,7 +15698,7 @@ window.productInfo = {
     "alreadyOrdered": 7,
     "handle": "8732_plastic_dustpan_1pc",
     "title": "Dustpan with Long Handle, Dust Collection Dust Pan Tray for Kitchen, Home, Office, Bathroom Etc, Supdi (1 Pc / Multicolor )",
-    "salePrice": 21,
+    "salePrice": 23,
     "gst": 18,
     "hsn": "392410"
   },
@@ -16121,7 +16099,7 @@ window.productInfo = {
     "alreadyOrdered": 6,
     "handle": "9005-car-backrest-hanger-and-backrest-stand-for-giving-support-and-stance-to-drivers",
     "title": "Car Backrest Hanger and backrest stand for giving support and stance to drivers.",
-    "salePrice": 26,
+    "salePrice": 29,
     "gst": 18,
     "hsn": "392410"
   },
@@ -17349,7 +17327,7 @@ window.productInfo = {
     "alreadyOrdered": 2,
     "handle": "insulated-3-compartment-plastic-lunch-box",
     "title": "Plastic 3 Compartment Insulated Lunch Box, Lunch Box (1 Pc)",
-    "salePrice": 149,
+    "salePrice": 157,
     "gst": 18,
     "hsn": "392410"
   },
@@ -21666,7 +21644,7 @@ window.productInfo = {
     "alreadyOrdered": 10,
     "handle": "8-in-1-manicure-set-tool-kit",
     "title": "8 in 1 Manicure set Tool Kit",
-    "salePrice": 78,
+    "salePrice": 83,
     "gst": 18,
     "hsn": "821420"
   },
@@ -22599,7 +22577,7 @@ window.productInfo = {
     "alreadyOrdered": 7,
     "handle": "7-in-1-manicure-set-tool-kit-by-deodap",
     "title": "7 in 1 Manicure set Tool Kit (7 Pcs Set)",
-    "salePrice": 64,
+    "salePrice": 69,
     "gst": 12,
     "hsn": "821420"
   },
@@ -26123,7 +26101,7 @@ window.productInfo = {
     "alreadyOrdered": 4,
     "handle": "18742_wooden_tumbling_tower_block_48pc",
     "title": "Wooden Tumbling Stacking Tower Game, Zenga tower (48 Pcs Blocks 2 Dices)",
-    "salePrice": 228,
+    "salePrice": 239,
     "gst": 12,
     "hsn": "950300"
   },
@@ -27334,7 +27312,7 @@ window.productInfo = {
     "alreadyOrdered": 25,
     "handle": "multipurpose-plastic-handle-laundry-brush-1-pc",
     "title": "Multipurpose Plastic Handle Laundry Brush (1 Pc)",
-    "salePrice": 19,
+    "salePrice": 22,
     "gst": 18,
     "hsn": "96032900"
   },
@@ -29295,7 +29273,7 @@ window.productInfo = {
     "alreadyOrdered": 2,
     "handle": "0370-3d-roller-face-massager",
     "title": "3D Roller Face Massager",
-    "salePrice": 117,
+    "salePrice": 125,
     "gst": 18,
     "hsn": "901910"
   },
@@ -29932,7 +29910,7 @@ window.productInfo = {
     "alreadyOrdered": 10,
     "handle": "new-car-garbage-can-car-trash-can-for-ford-focus-kuga-fiesta-ecosport-mondeo-mini-trash-can",
     "title": "Car Dustbin / Mini Car Trash Bin / Car Ashtray",
-    "salePrice": 40,
+    "salePrice": 44,
     "gst": 18,
     "hsn": "392690"
   },
