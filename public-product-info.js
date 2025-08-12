@@ -144,7 +144,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/Untitled-2_50e8d074-a5f3-425e-857d-427b1900304a.jpg?v=1737630169",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/28fda7ec-998c-49b8-8960-39e26f3f3947.jpg?v=1737630169"
     ],
-    "alreadyOrdered": 10,
     "handle": "1095-simple-wooden-toothpicks-with-dispenser-box",
     "title": "Bamboo Toothpicks with Dispenser Boxq",
     "salePrice": 12,
@@ -895,7 +894,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/129302.jpg?v=1737629806",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/0e48256a-cbb3-41b0-95fa-618e427781fb.jpg?v=1737629806"
     ],
-    "alreadyOrdered": 4,
     "handle": "1293-plastic-round-toilet-cleaner-brush",
     "title": "Plastic Round Toilet Cleaner Brush",
     "salePrice": 56,
@@ -1374,7 +1372,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/Hd5a870abb0c34149a839f470f81380f1n.jpg?v=1750855301",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/a35d13fa-e908-429f-91c5-adb52dfe728b.jpg?v=1750855301"
     ],
-    "alreadyOrdered": 15,
     "handle": "1429-scrub-sponge-2-in-1-pad-for-kitchen-sink-bathroom-cleaning-scrubber",
     "title": "Scrub Sponge 2 in 1 PAD for Kitchen, Sink, Bathroom Cleaning Scrubber",
     "salePrice": 106,
@@ -1855,7 +1852,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_a5277f26-8fe2-4b39-89ab-00e4eeafcbd7.jpg?v=1746159241",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_c23c4d69-d894-45ec-8ef8-de5757056e64.jpg?v=1746159241"
     ],
-    "alreadyOrdered": 5,
     "handle": "1568-stainless-steel-wire-hand-brush-metal-cleaner-rust-paint-removing-tool",
     "title": "Stainless Steel Wire Hand Brush Metal Cleaner Rust Paint Removing Tool",
     "salePrice": 52,
@@ -2158,7 +2154,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/16203.jpg?v=1737630550",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/982e3f30-5cf8-45ca-997b-468e43ec559d.jpg?v=1737630550"
     ],
-    "alreadyOrdered": 6,
     "handle": "1620-solid-multipurpose-padlock",
     "title": "Solid Multipurpose PadLock",
     "salePrice": 57,
@@ -2455,7 +2450,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/07_264db29e-af38-4260-9b1c-0a61225e7139.jpg?v=1751027951",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/59c92d6c-f90f-4c48-bc7f-5a2afd8eb524.jpg?v=1751027951"
     ],
-    "alreadyOrdered": 3,
     "handle": "1690_heavy_70mm_pad_lock",
     "title": "Heavy Steel Premium Square Padlock 70mm With 4 Keys | Multipurpose Hardened Shackle Padlock for Door, Gate, Shutter and Home",
     "salePrice": 344,
@@ -2658,7 +2652,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/174203_c1efe64a-8eda-4167-8e63-97516c69dc15.jpg?v=1737634453",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/174204_1_acfe6a9b-b697-48f5-948e-62b4084a53f7.jpg?v=1737634453"
     ],
-    "alreadyOrdered": 40,
     "handle": "1746_1pair_wall_hook",
     "title": "Adhesive Plastic Wall Hooks - Heavy Duty (1 Pair)",
     "salePrice": 9,
@@ -3519,7 +3512,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/08_c0f3e5e4-def4-4095-86e2-1bc93fa3fb41.jpg?v=1737633440",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/f69871e4-1aa8-4633-a18e-1b3d0c2d70e1.jpg?v=1737633441"
     ],
-    "alreadyOrdered": 1,
     "handle": "2061-multipurpose-dry-fruit-and-masala-box-with-single-spoon",
     "title": "Multipurpose Dry-fruit and masala box with single spoon.",
     "salePrice": 117,
@@ -4092,7 +4084,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/3_5d8a5205-53d3-4b53-a779-306e6d7ce0a8.jpg?v=1737633592",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/WhatsAppImage2022-10-01at2.50.52PM_f85f7d00-c2e5-494f-bc49-5c4aaaaf98e3.jpg?v=1737633592"
     ],
-    "alreadyOrdered": 20,
     "handle": "2206-egg-trays-for-storage-with-15-eggs-holder",
     "title": "Egg Trays for Storage with 15 Eggs Holder",
     "salePrice": 34,
@@ -4435,7 +4426,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/04_30b97c61-e425-4390-abda-65c1ce0b8cdc.jpg?v=1737633752",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/73639b10-2ee8-4687-b252-2802317dfa36.jpg?v=1737633752"
     ],
-    "alreadyOrdered": 8,
     "handle": "2312_pla_rice_colandere",
     "title": "Plastic Fruits Vegetable Noodles Pasta Washing Bowl & Strainer",
     "salePrice": 96,
@@ -6612,7 +6602,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_fb743dbc-2584-4ee8-8c95-a22321165029.jpg?v=1737633044",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/144945bd-470e-4d36-b33d-38b00fb423d4.jpg?v=1737633044"
     ],
-    "alreadyOrdered": 6,
     "handle": "2933-maggie-bowl-with-lid-and-handle-soup-bowls-for-easy-perfect-breakfast-cereals-fruits-ramen-beverages-essentials-dishwasher-safe-double-layer-1",
     "title": "Safe Double-Layer Maggie Bowl with Lid & Handle – Versatile Bowl for Cereals, Fruits, Ramen & More",
     "salePrice": 130,
@@ -6778,7 +6767,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/51c3eYuX-AS._SL1004.jpg?v=1737628762",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/1e3d2bd2-d60c-463e-8eb7-41e6e5c38424.jpg?v=1737628762"
     ],
-    "alreadyOrdered": 10,
     "handle": "2973-hot-dish-plate-clip-stainless-steel-plate-tongs-bowl-clips-pan-dish-gripper-clips-hot-plate-bowls-clamp-holder-tong-for-home-kitchen",
     "title": "Stainless Steel Hot Dish Plate Clip – Secure Bowl & Plate Gripper for Home & Kitchen",
     "salePrice": 52,
@@ -7172,7 +7160,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/0_1024x1024_18e06662-7cbf-4ce9-aa43-5cc9d27770a3.jpg?v=1750910852",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/2fd574d8-02a9-40b8-b427-c99b1d73d493.jpg?v=1737630744"
     ],
-    "alreadyOrdered": 50,
     "handle": "3850-plastic-hanging-planter-pot-multicolour",
     "title": "Plastic Hanging Planter Pot, Multicolour,",
     "salePrice": 62,
@@ -7688,7 +7675,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_5047bce7-8862-4e82-81c4-656a65bf9a1e.jpg?v=1737626861",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/f5141a96-1f78-468f-8bfc-9298472f1ae7.jpg?v=1737626861"
     ],
-    "alreadyOrdered": 4,
     "handle": "printed-pencil-case-kids",
     "title": "Printed Pencil Case for Kids (1 Pc): Multi-Compartment, Compass Box",
     "salePrice": 178,
@@ -9549,7 +9535,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/Wall-Clock-06_f5969424-48ef-4b98-b52a-36baaaa0e115.jpg?v=1751620821",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/646c6116-0dd4-42d8-ab3c-59c8fe4b5cb1_493edd38-748d-436b-9a69-323d1f09e11f.jpg?v=1751620877"
     ],
-    "alreadyOrdered": 10,
     "handle": "4918-wooden-look-designer-wall-clock-plastic-decorative-latest-wall-clock-battery-operated-round-easy-to-read-for-room-home-kitchen-bedroom-office-school",
     "title": "Wooden Look Round Wall Clock - Battery Operated, Easy-to-Read, Plastic Design for Home/Office",
     "salePrice": 138,
@@ -9660,7 +9645,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/6_f4fbd2b8-1b3d-4681-9d12-283b44c3d0a4.jpg?v=1737633292",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/WhatsAppImage2023-07-05at10.01.32AM.jpg?v=1737633293"
     ],
-    "alreadyOrdered": 20,
     "handle": "4968-4pc-plastic-toothbrush-cover-anti-bacterial-toothbrush-container-tooth-brush-travel-covers-case-holder-cases",
     "title": "4-Piece Anti-Bacterial Plastic Toothbrush Cover Set – Travel Holder Cases",
     "salePrice": 36,
@@ -9905,7 +9889,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/2_68b819b8-28bd-40a3-b051-4655da24d49c.jpg?v=1753950549",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/71e3138b-f162-4ab6-94e7-bff3b55dc276.jpg?v=1753950549"
     ],
-    "alreadyOrdered": 5,
     "handle": "5304_dish_scrubber_1pc",
     "title": "Dish Brush Multifunctional Palm Brush for Sink Pot  - Dish Scrub Brush Small Cleaning Brush Dish Scrubber Brush Cleaning Brushes for Household Use",
     "salePrice": 23,
@@ -10193,7 +10176,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_1415185d-20c2-4920-b1a4-952600519a36.jpg?v=1737628230",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/3158aa64-9662-4d6e-95e3-c6a4fe986338.jpg?v=1737628230"
     ],
-    "alreadyOrdered": 10,
     "handle": "5482_plastic_sliver_ovel_tray",
     "title": "Round Traditional Multipurpose Mukhwas Serving Tray – Decorative Platters (1 Pc)",
     "salePrice": 27,
@@ -11432,7 +11414,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/03_7c21cc1a-233f-498b-bfc8-f435fe896530.jpg?v=1737631224",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/749e357f-fb1b-4549-a0bb-f43c86337f57.jpg?v=1737631224"
     ],
-    "alreadyOrdered": 20,
     "handle": "6018_plastic_foot_scrubber",
     "title": "Plastic Foot Scrubber Pedicure Foot Care",
     "salePrice": 9,
@@ -11685,7 +11666,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/15_2a93d5a0-d812-4bd0-b29d-c24ee87383d7.jpg?v=1737632781",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/16.jpg?v=1737632781"
     ],
-    "alreadyOrdered": 4,
     "handle": "6133-car-mirror-wiper-used-for-all-kinds-of-cars-and-vehicles-for-cleaning-and-wiping-off-mirror-etc-1",
     "title": "Car Mirror Wiper used for all kinds of cars and vehicles for cleaning and wiping off mirror etc.",
     "salePrice": 29,
@@ -16280,7 +16260,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_6741c5b8-e36c-4bfa-846b-d7bf5f9735cf.jpg?v=1740134254",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/e075cbea-f93f-4736-8968-b2531835fb41.jpg?v=1740134264"
     ],
-    "alreadyOrdered": 10,
     "handle": "9143_hole_punch_machine",
     "title": "Hole Punch Crafts Single Hole Puncher Hole Puncher Whole Puncher Paper Hole Office Puncher Office Supply Paper Cutter",
     "salePrice": 88,
@@ -17156,7 +17135,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_22ffd306-843d-459b-bfdc-d81b6179853f.jpg?v=1737619959",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/47343f0c-166b-4686-b83b-9c716f89c1d9.jpg?v=1737619959"
     ],
-    "alreadyOrdered": 130,
     "handle": "10065_microfiber_scrubber_20x20cm",
     "title": "One-Sided Multipurpose Microfiber Cloths, Scrubber (1 Pc / 20x20 Cm)",
     "salePrice": 6,
@@ -20294,7 +20272,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_9bcc0d17-7ade-4aa4-8251-06758836726a.jpg?v=1751263917",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/272da2bc-6c7e-4cd0-8933-3f8bd22caed1_fcb8e295-d416-4913-9734-7ae4c236952b.jpg?v=1743836581"
     ],
-    "alreadyOrdered": 2,
     "handle": "ultrasonic-jewllery-cleaner-ultrasonic-cleaning-machine-portable-jewellery-cleaning-for-jewellery-ring-silver-retainer-glasses-watches-coins",
     "title": "Ultrasonic Jewellery Cleaner – Portable High-Frequency Cleaning Machine (Battery Not Included)",
     "salePrice": 135,
@@ -20452,7 +20429,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/295ddc39-5162-4930-a6bc-ea87bb3eb2b4.jpg?v=1737623053",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_33f798bb-f58a-439b-b3f7-a350289e2a66.jpg?v=1737623053"
     ],
-    "alreadyOrdered": 20,
     "handle": "12722-spiral-charger-cable-protector-data-cable-saver-charging-cords-protective-for-all-universal-earphone-cable-cover-pack-of-10",
     "title": "Spiral Charger Cable Protector Data Cable Saver Charging Cords Protective for All Universal  Cable Cover (Pack of 10)",
     "salePrice": 22,
@@ -22421,7 +22397,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/Mackup-Brush-02.jpg?v=1753699348",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06c48410-db54-48c7-9a1d-2147e5a87b93.jpg?v=1753699348"
     ],
-    "alreadyOrdered": 15,
     "handle": "7-pcs-professional-soft-makeup-brush-set",
     "title": "Professional Soft Makeup Brush Set (7 Pc)",
     "salePrice": 123,
@@ -22704,7 +22679,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_c78e76d6-2fd4-4ddd-8c24-56dcc4378f86.jpg?v=1753876319",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/8e2a7b56-dc95-453b-b6d7-24de41c19204.jpg?v=1753876319"
     ],
-    "alreadyOrdered": 7,
     "handle": "iball-dual-usb-wall-charger-5v-3-1a-high-speed-dual-port-fast-charging-adapte-1-pc",
     "title": "iBall Dual USB Wall Charger 5V/3.1A – High-Speed Dual Port Fast Charging Adapte (1 Pc)",
     "salePrice": 141,
@@ -23567,7 +23541,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/Anti-Slip-Safety-Tape-03.jpg?v=1754043981",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/858fdf10-7eb1-4f15-a554-1584da84163d.jpg?v=1754043973"
     ],
-    "alreadyOrdered": 20,
     "handle": "anti-slip-safety-grip-tape-roll-50mm-x-5m-1-pc",
     "title": "Anti-Slip Safety Grip Tape Roll 50mm x 5m (1 Pc)",
     "salePrice": 227,
@@ -25066,7 +25039,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_3f8349ed-3aa8-4353-a724-a9929c020a9a.jpg?v=1737619845",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/3e6caafb-e493-42ca-9150-9cc276990a0a.jpg?v=1737619845"
     ],
-    "alreadyOrdered": 100,
     "handle": "18177_smiley_eraser_1pc_no11",
     "title": "Smiley Design Eraser (1 Pc / Mix Design)",
     "salePrice": 10,
@@ -25661,7 +25633,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/43ce066a-bb5d-4cd0-9a5c-3579266d3a77.jpg?v=1750842313",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_f4789b89-d336-4aee-803f-397f3ff2a88c.jpg?v=1750842313"
     ],
-    "alreadyOrdered": 20,
     "handle": "18543_plastic_wall_soap_holder_1pc",
     "title": "Plastic Soap Dish Holder for Bathroom Shower Wall Mounted Self Adhesive ,Sabudani (1 Pc)",
     "salePrice": 27,
@@ -26160,7 +26131,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_c751f49c-d77e-48e5-a528-a03c61445b5c.jpg?v=1737615792",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/233cbcc5-a6d1-4ad2-a429-682dfcb6d093.jpg?v=1737615792"
     ],
-    "alreadyOrdered": 7,
     "handle": "18616_white_pla_kitchen_wiper_1pc",
     "title": "Plastic Kitchen Wiper (White / 1 Pc)",
     "salePrice": 42,
@@ -26850,7 +26820,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_ee5ce2e6-0866-4e00-9182-c1f8e8f8c87d.jpg?v=1744020923",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/e2e4e53f-4d1e-4cae-bcc2-68435d2dc9bd.jpg?v=1744020923"
     ],
-    "alreadyOrdered": 20,
     "handle": "self-adhesive-wall-hook-drill-free-waterproof-oil-proof-for-toothbrush-socket-1-pc",
     "title": "Self-Adhesive Wall Hook – Drill-Free, Waterproof & Oil-Proof for Toothbrush, Socket (1 Pc)",
     "salePrice": 6,
@@ -27044,7 +27013,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/2a218912-39b9-401b-8766-d211aa730784.jpg?v=1747286813",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_64e12e73-7727-4f8c-bc0b-4fbdecbaf000.jpg?v=1747286813"
     ],
-    "alreadyOrdered": 10,
     "handle": "fun-and-educational-coloring-roll-1-pc",
     "title": "Fun and Educational Coloring Roll (1 Pc)",
     "salePrice": 105,
@@ -27086,7 +27054,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_f5ecf666-9d78-4ccc-a641-b99106959653.jpg?v=1754645956",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_b6492d33-ea7c-4cff-88be-42ef6798ca35.jpg?v=1754645938"
     ],
-    "alreadyOrdered": 20,
     "handle": "wooden-money-piggy-bank-money-box-1-pc-1-emoji-pan",
     "title": "Wooden Money / Piggy Bank, Money Box (1 Pc / 1 Emoji Pan)",
     "salePrice": 123,
@@ -27725,7 +27692,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_23e11824-b210-4df0-a688-e7dec26c4a24.jpg?v=1749878468",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_5fc7213b-ad4f-46a5-b695-1d0efc87d27e.jpg?v=1749878461"
     ],
-    "alreadyOrdered": 50,
     "handle": "19325_pink_unlimited_pencils_n_eraser_1pc",
     "title": "Pink 2-in-1 Everlasting Magic Pencil with Replaceable Eraser – Inkless, Reusable, Portable",
     "salePrice": 12,
@@ -27823,7 +27789,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/Kids-Fun-03.jpg?v=1753850626",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/d4463df9-8257-480a-8dca-c4f329af1aac.jpg?v=1753850626"
     ],
-    "alreadyOrdered": 6,
     "handle": "wooden-board-game-set-ludo-snakes-ladders-and-desktop-football-3-in-1",
     "title": "Wooden Board Game Set – Ludo, Snakes & Ladders, and Desktop Football (3-in-1)",
     "salePrice": 204,
@@ -28773,7 +28738,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/6_2a5e1008-d19b-44d4-94f1-e2edb93f3b20.jpg?v=1737629413",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/7_d5fac996-3594-45fc-bc4c-ca0e20d011cb.jpg?v=1737629413"
     ],
-    "alreadyOrdered": 10,
     "handle": "0244-3pcs-mini-wire-brush-set-steel-nylon-brass-brush",
     "title": "3pcs Mini Wire Brush Set (Steel / Nylon / Brass Brush)",
     "salePrice": 31,
@@ -29348,7 +29312,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/06_2f7fdf90-424e-4b80-9a02-7433bae04207.jpg?v=1737634162",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/2458e840-a208-458f-bb97-19a7f21ab4e0.jpg?v=1737634162"
     ],
-    "alreadyOrdered": 20,
+    "alreadyOrdered": 10,
     "handle": "0403b-sleeping-eye-shade-mask-cover-for-insomnia-meditation-puffy-eyes-and-dark-circles",
     "title": "Sleeping Eye Mask for Insomnia, Puffy Eyes & Dark Circles",
     "salePrice": 31,
@@ -29675,7 +29639,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_c7018fdb-59ff-40c4-b630-9be2437ba846.jpg?v=1751109789",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_3e7b60af-9b91-4097-bc79-e668c98543c4.jpg?v=1744355277"
     ],
-    "alreadyOrdered": 20,
     "handle": "475-hand-weeding-fork-steel-black",
     "title": "Hand Weeding Fork (Steel, Black)",
     "salePrice": 39,
@@ -30758,7 +30721,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_b74857e5-459f-4ef2-8f92-c0dd611c50fa.jpg?v=1744291398",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/15410298-546f-4180-b431-b2a8563f01e0.jpg?v=1744291729"
     ],
-    "alreadyOrdered": 2,
     "handle": "unbreakable-plastic-dumbbell-shape-water-bottle-550-ml-1-pc",
     "title": "Unbreakable Plastic dumbbell Shape Water Bottle  (550 ml / 1 Pc)",
     "salePrice": 42,
@@ -30977,7 +30939,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/d793f9ab-7457-4908-96c4-d6f4dde563db.jpg?v=1737628740",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/fd0b8c77-e7b9-4bbe-8bb9-7c9d7613a1a8.jpg?v=1737628740"
     ],
-    "alreadyOrdered": 10,
     "handle": "0745-plastic-heavy-duty-plant-container-pot-gamla-for-indoor-home-decor-outdoor-balcony-garden-13cm-pack-of-1-pc",
     "title": "Plastic Heavy Duty Plant Container Pot/Gamla for Indoor Home Decor | Outdoor Balcony Garden 13cm (pack of 1 pc)",
     "salePrice": 25,
@@ -31486,7 +31447,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/5_2ccd4bcb-6140-4cab-81ec-06b641a7c744.jpg?v=1750832258",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/68565393-338e-4701-b5e9-4f855978e98e.jpg?v=1750832258"
     ],
-    "alreadyOrdered": 20,
     "handle": "882-double-sided-nano-adhesive-tape-3-meter-washable-traceless-nano-gel-tape-multipurpose",
     "title": "Double Sided Nano Adhesive Tape, 3 meter Washable Traceless Nano Gel Tape, Multipurpose",
     "salePrice": 80,
