@@ -772,6 +772,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/61oQDsjsSOL._SL1204.jpg?v=1746081960",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/2361bdfb-6055-4015-bd2e-1beeb2111c01.jpg?v=1746081960"
     ],
+    "alreadyOrdered": 1,
     "handle": "1270-foldable-multipurpose-microfiber-fan-cleaning-duster-for-quick-and-easy-cleaning",
     "title": "Foldable Multipurpose Microfiber Fan Cleaning Duster for Quick and Easy Cleaning",
     "salePrice": 139,
@@ -921,6 +922,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_9f5e77df-4c97-4be0-9991-d6cbda46aec6.jpg?v=1751094350",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/1c779554-01f4-4d20-9a2d-54e57f4ac066.jpg?v=1737623789"
     ],
+    "alreadyOrdered": 10,
     "handle": "portable-lint-remover-long-handle-brush-roller",
     "title": "2-in-1 Portable Lint Remover – Long-Handle Brush & Sticky Roller for Clothes, Furniture & Carpets (1 Pc)",
     "salePrice": 40,
@@ -1061,6 +1063,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/10_c450ee16-f5ce-4b2c-b9df-4df8796b9fd2.jpg?v=1737634591",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/c4a3fd04-a2d3-4a9b-b5d9-651bb05c195b.jpg?v=1737634591"
     ],
+    "alreadyOrdered": 10,
     "handle": "cable-clips-cable-organizer-wire-holder-for-desk",
     "title": "Multi-Purpose Cable Clips and Wire Organizer for Desk and Table",
     "salePrice": 44,
@@ -1929,6 +1932,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/DisposableEco-friendlyGarbageDustbin04_1024x1024_dc25a70d-87eb-44fc-9d0a-30ed805e8fe5.jpg?v=1754989712",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/77f4052d-6d51-4e9d-a990-ac4778ec993d.jpg?v=1754989712"
     ],
+    "alreadyOrdered": 60,
     "handle": "1575-garbage-bags-medium-size-black-colour-24-x-32",
     "title": "Garbage Bags Medium Size Black Colour (1 Pc / 24 x 32)",
     "salePrice": 45,
@@ -1974,6 +1978,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_195f61eb-122c-4696-85fc-04090869ab4b.jpg?v=1744953216",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_e3d63ef9-7599-4b38-93d5-08ce51db655a.jpg?v=1744953216"
     ],
+    "alreadyOrdered": 4,
     "handle": "2-in-1-double-hoe-tool-gardening-tool",
     "title": "2 in 1 Double Hoe Gardening Tool with Wooden Handle",
     "salePrice": 116,
@@ -1994,6 +1999,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/07_ceb61562-8604-471c-9dc8-9e05ab44186e.jpg?v=1754989760",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/12342db3-ee79-489e-9378-ae22c98b6a55.jpg?v=1754989760"
     ],
+    "alreadyOrdered": 80,
     "handle": "1581-green-compostable-corn-starch-garbage-bags-17-x-19",
     "title": "Green Compostable Corn Starch Garbage Bags (17\" x 19\")",
     "salePrice": 36,
@@ -2015,6 +2021,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/1_3f7d9e36-9354-4e54-a8a1-4a83c29f77c7.jpg?v=1754989847",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/433fcff7-342e-47c1-80b0-7be5b56fe291.jpg?v=1754989847"
     ],
+    "alreadyOrdered": 80,
     "handle": "1585-bio-degradable-eco-friendly-garbage-trash-bags-rolls-19-x-21-green",
     "title": "Bio-degradable Eco Friendly Garbage / Trash Bags Rolls (19\" x 21\") (Green)",
     "salePrice": 49,
@@ -2035,6 +2042,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/1585.jpg?v=1754989968",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/9c75070e-889e-4ad1-a0c0-ec51d3ecee82.jpg?v=1754989968"
     ],
+    "alreadyOrdered": 70,
     "handle": "bio-degradable-eco-friendly-garbage-trash-bags-rolls-40x50-cm-1-pc",
     "title": "Bio-degradable Eco Friendly Garbage / Trash Bags Rolls (24x32 Cm / 1 Pc / Mix Color)",
     "salePrice": 40,
@@ -2545,6 +2553,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/05a_c30225ea-8d51-4792-97ae-283a350171a1.jpg?v=1750929151",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/2b36dcc9-5a3f-4edc-aa4d-68ecd8b71c20.jpg?v=1750929151"
     ],
+    "alreadyOrdered": 21,
     "handle": "1727-adhesive-bathroom-mirror-wall-1",
     "title": "Adhesive Bathroom Mirror Wall",
     "salePrice": 134,
@@ -3307,6 +3316,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/11_1132c896-24b8-49bb-8714-8edbdb6707b8.jpg?v=1737634036",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03addac4-1027-43d6-8c01-2aa574295aef.jpg?v=1737634036"
     ],
+    "alreadyOrdered": 15,
     "handle": "1996-transparent-musical-mini-school-bus-toy-for-kids",
     "title": "Transparent Musical Mini School Bus Toy for Kids",
     "salePrice": 238,
@@ -4520,6 +4530,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/07_eed2d1f2-c491-40e1-bf22-b548d2d8fee6.jpg?v=1737633777",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/4_accd5809-b127-466a-955f-21861edd3761.jpg?v=1737633777"
     ],
+    "alreadyOrdered": 30,
     "handle": "2329-aluminum-foil-roll-heavy-duty-non-stick-thick-aluminum-foil-sheet-baking-grilling-tool-10mx300mm",
     "title": "Heavy-Duty Aluminum Foil Roll – Non-Stick, Thick Sheet for Baking & Grilling (10m x 300mm)",
     "salePrice": 92,
@@ -5526,6 +5537,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/02_8f2718b9-b93e-490f-b998-e1ef1c24bd8b.jpg?v=1737631493",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/3230d295-4a45-470f-8b09-551e48633750.jpg?v=1737631493"
     ],
+    "alreadyOrdered": 12,
     "handle": "2625-plastic-square-storage-organiser-container-1",
     "title": "Plastic Square Storage Organiser Container (750ML Capacity)",
     "salePrice": 86,
@@ -8878,7 +8890,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/03_923f975d-684a-4f1f-8633-aaf92fda2fee.jpg?v=1737631148",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/760929fd-b522-470d-9cb9-16e5f74713a2.jpg?v=1737631148"
     ],
-    "alreadyOrdered": 6,
+    "alreadyOrdered": 66,
     "handle": "4705-pyramid-mobile-stand-with-3-different-inclined-angles",
     "title": "Pyramid Mobile Stand with 3 Different Inclined Angles (50 Pcs Set)",
     "salePrice": 150,
@@ -11027,6 +11039,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_93197d38-17fa-4e8d-aae7-eb4c76207497.jpg?v=1737625610",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/9678c1dd-bd01-4eee-8bfe-b1dcc55f5ff2.jpg?v=1737625610"
     ],
+    "alreadyOrdered": 12,
     "handle": "stainless-steel-basket-with-handle",
     "title": "Stainless Steel Colander with Handle, Large Strainer Basket for Kitchen (25.5 cm)",
     "salePrice": 201,
@@ -11355,6 +11368,28 @@ window.productInfo = {
     "handle": "plastic-kitchen-small-size-vegetables-and-fruits",
     "title": "Plastic Kitchen Medium Size Vegetables and Fruits Washing Basket Dish Rack Multipurpose Organizers",
     "salePrice": 53,
+    "gst": 18,
+    "hsn": "392410"
+  },
+  "5989": {
+    "sku": "5989_aluminium_foil_paper_72mtr",
+    "itemCode": "5989",
+    "closingQuantity": 0,
+    "sold": 0,
+    "catalog": "home-&-kitchen",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_fb649a20-e8fc-48a9-8a45-810d364711aa.jpg?v=1737628392",
+      "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/55dd2cab-0eaa-46af-937f-8758b8c1fd0a.jpg?v=1737628392",
+      "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_3b0e0fc7-f1f7-41c3-8e77-7a6e2ddfbb8f.jpg?v=1737628392",
+      "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_360176e5-6a4a-43e9-968d-9fc9a06fec96.jpg?v=1737628392",
+      "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_6bdf8957-85d8-429d-b2f8-1f0d5e3dae73.jpg?v=1737628392",
+      "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_719aa3a9-4ecf-48fc-b1e4-6a2aaac405e4.jpg?v=1737628393",
+      "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/299e8e45-964b-49c9-876f-92e81999fe40.jpg?v=1737628393"
+    ],
+    "alreadyOrdered": 2,
+    "handle": "5989_aluminium_foil_paper_72mtr",
+    "title": "Premium Quality Food Grade Aluminum Foil Roll Heavy Duty Non Stick Thick Aluminum Foil Sheet Baking Grilling Tool 72Mtr (1Pc)",
+    "salePrice": 469,
     "gst": 18,
     "hsn": "392410"
   },
@@ -12180,6 +12215,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_66593458-92c1-4c6a-b4bf-89cf53ba5373.jpg?v=1747633110",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/10d2042a-bea7-4a00-8c98-52bb0add32d0.jpg?v=1747633133"
     ],
+    "alreadyOrdered": 15,
     "handle": "6282_16compartment_cosmetic_stand_1",
     "title": "16 Compartment Cosmetic Makeup Jewellery Lipstick Storage Organiser Box, Cosmetic Storage Box Make-up Lipstick Organizer / Lipstick Holder Case  Transparent",
     "salePrice": 169,
@@ -12922,6 +12958,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_c1a2a222-3cc0-4ac5-81c2-7edf7d13ed4b.jpg?v=1744777637",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/38907238-2ded-41ff-95d1-2f2c1328e382.jpg?v=1744777637"
     ],
+    "alreadyOrdered": 20,
     "handle": "refillable-liquid-soap-dispenser-350-ml-approx",
     "title": "Refillable Liquid Soap Dispenser (350 ML Approx)",
     "salePrice": 112,
@@ -13140,6 +13177,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/08_dde4dd53-2f6c-46ff-bc70-f700d6660217.jpg?v=1737626036",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/ef6cf6e9-24f8-45fb-a779-3b68fe70f698_b394eb82-9c29-4027-800b-3048b5559fb1.jpg?v=1737626036"
     ],
+    "alreadyOrdered": 1,
     "handle": "big-stainless-steel-strainer-with-handle",
     "title": "Stainless Steel Colander with Handle - Large Metal Mesh Basket Strainer (1 pc)",
     "salePrice": 199,
@@ -13410,6 +13448,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/06_5f5e2502-3fec-4004-a2d8-8bd57ff4ec43.jpg?v=1751029551",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/04_de71655f-33b5-466b-82a6-c5f56ef17663.jpg?v=1737634723"
     ],
+    "alreadyOrdered": 10,
     "handle": "7403_cloth_drying_wire",
     "title": "High-Quality Cloth Drying & Gardening Wire (10M)",
     "salePrice": 44,
@@ -13548,6 +13587,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/2_644404f0-0db0-46f0-b34a-9e1bcc303e50.jpg?v=1741261663",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/4c53d6ae-d95b-42c7-9845-07b4f7da110c.jpg?v=1741261663"
     ],
+    "alreadyOrdered": 30,
     "handle": "7526-led-flashlight-rechargeable-usb-mini-torch-ultra-brightest-zoom-flash-light-handheld-pocket-compact-portable-tiny-lamp-with-cob-side-lantern-high-power-tactical-travel-emergency-flashlights-1",
     "title": "LED USB Rechargeable Mini Flashlight – Ultra-Bright Zoom & COB Side Lantern, Tactical Emergency Light",
     "salePrice": 123,
@@ -14180,6 +14220,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/02image.jpg?v=1750930021",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/6f3ab504-f55b-4d53-83be-650cb61a554e.jpg?v=1750930021"
     ],
+    "alreadyOrdered": 30,
     "handle": "8040-fluorescent-luminous-board-with-light-fun-and-developing-toy",
     "title": "Fluorescent Luminous Board with Light Fun and Developing Toy",
     "salePrice": 34,
@@ -14497,6 +14538,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/03_79c65618-5789-4786-971b-111e5624ccab.jpg?v=1686889796",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/05_e3833fc2-41fb-4e88-b35a-1e1bcbdecabc.jpg?v=1686889796"
     ],
+    "alreadyOrdered": 10,
     "handle": "8112-ganesh-premium-quality-unbreakable-stainless-steel-goti-sandsi-sansi-pakkad-pincer-chimta-tongs-utensil-holder-smart-kitchen-tool-8mm",
     "title": "Ganesh Premium Quality Unbreakable Stainless Steel Goti Sandsi / Sansi / Pakkad / Pincer / Chimta / Tongs / Utensil Holder Smart Kitchen Tool - 8mm",
     "salePrice": 145,
@@ -15602,6 +15644,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/4image_f67a6491-122a-4b5d-89d7-f151f6ff31ce.jpg?v=1750998827",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/5image_c6c6c3e9-647d-4a13-b02f-c384bc74b9c0.jpg?v=1750998827"
     ],
+    "alreadyOrdered": 4,
     "handle": "8706-plastic-kitchen-wiper",
     "title": "Ganesh Plastic Kitchen Wiper",
     "salePrice": 61,
@@ -15981,6 +16024,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_549c9e35-b9cd-4a5e-a4a1-52939c847f5d.jpg?v=1740977955",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/a33575c5-e279-42f9-9245-6751a62818d7.jpg?v=1740977955"
     ],
+    "alreadyOrdered": 10,
     "handle": "lunch-box-bag-for-women-men-insulated-lunch-bag-with-zipper-1-pc-1",
     "title": "Lunch Box Bag for Women Men Insulated Lunch Bag With Zipper (1 Pc)",
     "salePrice": 69,
@@ -17378,6 +17422,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_77796c87-f7b6-4b57-8419-3cc44eb38cc9.jpg?v=1737620085",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/20574567-cda6-4a81-bcf0-eef4e9d0e7f0.jpg?v=1737620085"
     ],
+    "alreadyOrdered": 20,
     "handle": "kitchen-knife-with-stainless-steel-blade-1-pc",
     "title": "Kitchen Knife with Stainless Steel Blade (1 Pc)",
     "salePrice": 51,
@@ -17616,6 +17661,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_e11a7052-3812-4e24-9762-e1ce78fa0614.jpg?v=1737618281",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/41a71cda-0077-4731-a1c0-fa1ca11eff01.jpg?v=1737618281"
     ],
+    "alreadyOrdered": 2,
     "handle": "10200_wooden_handle_potato_masher_1pc",
     "title": "High Grade Stainless Steel Potato Masher Paubhaji / Pav Bhaji Masher with Wooden handle (1 Pc)",
     "salePrice": 52,
@@ -18480,6 +18526,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_35df7da2-b6f4-4800-90f3-cd3f4c269cdd.jpg?v=1747907541",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/WhatsAppImage2025-05-21at16.05.32.jpg?v=1747907541"
     ],
+    "alreadyOrdered": 20,
     "handle": "apex-push-it-soap-dispenser-approx-300ml-1-pc",
     "title": "Apex Push It Soap Dispenser Approx 300ml (1 Pc)",
     "salePrice": 91,
@@ -18525,6 +18572,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_bee3fe85-69bb-4dcd-a8ff-bc0aaea2a5cb.jpg?v=1747045225",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/35cb75b7-acd0-4e39-8f54-7c0d29bdcc29.jpg?v=1747045225"
     ],
+    "alreadyOrdered": 5,
     "handle": "1200-ml-airtight-lock-amp-lock-food-storage-container-set-2-piece",
     "title": "1200 ML Airtight Lock & Lock Food Storage Container Set – 2 Piece",
     "salePrice": 154,
@@ -20107,6 +20155,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_5c1dd5ec-2339-440b-b1ae-1489428e46ec.jpg?v=1737625785",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/f6e7aade-7c64-4d46-abe8-92e07cb452f6.jpg?v=1737625785"
     ],
+    "alreadyOrdered": 10,
     "handle": "12564-solar-wall-lights-lamp-outdoor-wireless-dusk-to-dawn-porch-lights-fixture-solar-wall-lantern-with-3-modes-motion-sensor-waterproof-exterior-lighting-with-clear-panel-1-pc",
     "title": "Solar Wall Lamp – Wireless Outdoor Light with Motion Sensor & 3 Modes",
     "salePrice": 184,
@@ -21453,6 +21502,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_2e41ec53-6e8d-4fd1-8b3f-cc4c963bea82.jpg?v=1749288331",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/9d3b3d24-c4ee-41c2-837e-1cdbf3a21e2e.jpg?v=1749288325"
     ],
+    "alreadyOrdered": 1,
     "handle": "13695_metal_hair_clips_12pc_set",
     "title": "Metal Tik Tak Hair Clips (12 Pcs Set), Hair accessories",
     "salePrice": 22,
@@ -21628,6 +21678,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_ea006995-b83f-4ce4-9499-f7d0d4e4fd5d.jpg?v=1738214517",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/98908071-59e8-4ee5-8ea0-4c02b30b52d7.jpg?v=1738214517"
     ],
+    "alreadyOrdered": 1,
     "handle": "facial-hair-remover-depilator-threading-hair-removal-face",
     "title": "Facial Hair Remover Depilator Threading Hair Removal Face (1 Pc)",
     "salePrice": 64,
@@ -26195,6 +26246,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/23_6950d533-96ea-49d2-ba8c-6ec48b2696a1.jpg?v=1750842645",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/6e70e2ba-0d35-4ee3-ad25-486d936106c0.jpg?v=1737615572"
     ],
+    "alreadyOrdered": 3,
     "handle": "18757_2in1_soap_roller_with_case",
     "title": "2 in 1 Soap Roller with Case (1 Pc)",
     "salePrice": 62,
@@ -26427,6 +26479,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_dab7ce82-f225-4138-b2a9-4f86e9751c43.jpg?v=1737615027",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/0073eb8b-a14d-4f07-88db-5437590c6c36_88cc1775-2931-49ce-b0c8-af55cdf61b2e.jpg?v=1737615027"
     ],
+    "alreadyOrdered": 3,
     "handle": "18808_multifunctional_cleaning_brush_1pc",
     "title": "Multifunctional Cleaning Brush, Juicer Cleaning Brushes (1 Pc)",
     "salePrice": 13,
@@ -26837,6 +26890,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_ee5ce2e6-0866-4e00-9182-c1f8e8f8c87d.jpg?v=1744020923",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/e2e4e53f-4d1e-4cae-bcc2-68435d2dc9bd.jpg?v=1744020923"
     ],
+    "alreadyOrdered": 7,
     "handle": "self-adhesive-wall-hook-drill-free-waterproof-oil-proof-for-toothbrush-socket-1-pc",
     "title": "Self-Adhesive Wall Hook – Drill-Free, Waterproof & Oil-Proof for Toothbrush, Socket (1 Pc)",
     "salePrice": 6,
@@ -29993,6 +30047,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/51caDjAeFpL._SL1000.jpg?v=1751110017",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/37f6b6f9-2415-44fb-aa4c-0a9930981734.jpg?v=1737629226"
     ],
+    "alreadyOrdered": 2,
     "handle": "559-scissor-set-2-pcs",
     "title": "Scissor Set (2 pcs)",
     "salePrice": 67,
@@ -30079,7 +30134,7 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_aa31a0b4-1382-47fe-a6a3-45d501e5cf9b.jpg?v=1749040894",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/c416f3a6-dca2-4bcd-9704-3a52d56a70d1.jpg?v=1749040894"
     ],
-    "alreadyOrdered": 40,
+    "alreadyOrdered": 240,
     "handle": "jumbo-tip-whiteboard-blue-ink-marker-1-pc",
     "title": "Jumbo Tip Whiteboard  Blue Ink Marker (1 Pc)",
     "salePrice": 9,
