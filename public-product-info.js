@@ -1882,7 +1882,7 @@ window.productInfo = {
     ],
     "handle": "kids-handmade-plastic-safety-scissors-safety-scissors-1",
     "title": "Kids Handmade Plastic Safety Scissors Safety Scissors",
-    "salePrice": 23,
+    "salePrice": 20,
     "gst": 18,
     "hsn": "392690"
   },
@@ -2393,7 +2393,7 @@ window.productInfo = {
     ],
     "handle": "easy-and-portable-finger-tape-cutter-for-packing-boxes",
     "title": "Easy and Portable Finger Tape Cutter For Packing Boxes",
-    "salePrice": 22,
+    "salePrice": 20,
     "gst": 18,
     "hsn": "392610"
   },
@@ -4651,7 +4651,7 @@ window.productInfo = {
     ],
     "handle": "2352-durable-multi-surface-plastic-dustpan-with-handle",
     "title": "Durable Multi Surface Plastic Dustpan with Handle, Supdi",
-    "salePrice": 22,
+    "salePrice": 20,
     "gst": 18,
     "hsn": "392410"
   },
@@ -6229,8 +6229,8 @@ window.productInfo = {
   "2861": {
     "sku": "2861_big_ss_easy_tea_filter",
     "itemCode": "2861",
-    "closingQuantity": 7,
-    "sold": 20,
+    "closingQuantity": 6,
+    "sold": 21,
     "catalog": "kitchen-tools",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/04_771677df-6814-4b01-bce0-383ec3dbb91b.jpg?v=1737632666",
@@ -6672,8 +6672,8 @@ window.productInfo = {
   "2960": {
     "sku": "2960_ss_tea_strainer",
     "itemCode": "2960",
-    "closingQuantity": 7,
-    "sold": 58,
+    "closingQuantity": 6,
+    "sold": 59,
     "catalog": "kitchen-tools",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/6_53727c9a-05ef-4dae-a682-25b2ae40a969.jpg?v=1686758959",
@@ -8820,8 +8820,8 @@ window.productInfo = {
   "4699": {
     "sku": "4699_ss_v_fan_ceiling_broom",
     "itemCode": "4699",
-    "closingQuantity": 18,
-    "sold": 6,
+    "closingQuantity": 17,
+    "sold": 7,
     "catalog": "cleaning",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/04_22b93739-302b-4325-930c-7009e7d43e5c.jpg?v=1750922789",
@@ -9611,7 +9611,7 @@ window.productInfo = {
     ],
     "handle": "s-shape-plastic-hooks-hanger-for-hanging-cloth-3-pcs-set",
     "title": "S Shape Plastic Hooks Hanger for Hanging Cloth (3 Pcs Set)",
-    "salePrice": 23,
+    "salePrice": 20,
     "gst": 18,
     "hsn": "392690"
   },
@@ -9940,7 +9940,7 @@ window.productInfo = {
     ],
     "handle": "5317_salt_pepper_dispenser",
     "title": "2 Pcs Spice Holder for Home & Hotel Use",
-    "salePrice": 22,
+    "salePrice": 20,
     "gst": 18,
     "hsn": "392410"
   },
@@ -10712,7 +10712,7 @@ window.productInfo = {
     ],
     "handle": "5624_pla_mickey_mouse_plate_1pc-1",
     "title": "Mickey Mouse Shape Plates for Kids, BPA Free, & Unbreakable Children’s Food Plate, Kids Bowl, Fruit Plate, Baby Cartoon Bowl Plate, Tableware (1 Pc)",
-    "salePrice": 22,
+    "salePrice": 20,
     "gst": 18,
     "hsn": "392410"
   },
@@ -10933,7 +10933,7 @@ window.productInfo = {
     ],
     "handle": "stainless-steel-gas-lighter-for-kitchen-gas-stove-long-lasting-unbreakable-lighters-for-gas-stoves-restaurants-kitchen-1-pc",
     "title": "Stainless Steel Gas Lighter for Kitchen Stoves (1 Pc)",
-    "salePrice": 21,
+    "salePrice": 20,
     "gst": 18,
     "hsn": "392410"
   },
@@ -12220,7 +12220,7 @@ window.productInfo = {
     ],
     "handle": "handle-grip-nail-brush-for-men-and-women",
     "title": "Handle Grip Nail Brush for Cleaning Toes & Nails (Scrub, Unisex)",
-    "salePrice": 21,
+    "salePrice": 20,
     "gst": 18,
     "hsn": "392410"
   },
@@ -12701,7 +12701,7 @@ window.productInfo = {
     ],
     "handle": "spaceself-adhesive-multi-size-shaped-shining-stones-crystals-stickers-for-art-craft-mobile-phone-decoration-jewelery-making-school-projects-creative-work",
     "title": "Self Adhesive Crystal Stickers for Art, Craft, Jewelry, Phone & School Projects",
-    "salePrice": 23,
+    "salePrice": 20,
     "gst": 18,
     "hsn": "392410"
   },
@@ -12876,7 +12876,7 @@ window.productInfo = {
     ],
     "handle": "6895_big_folding_travel_hanger_1pc",
     "title": "Travel Hangers, Portable Folding Clothes Hangers (1 Pc / Big)",
-    "salePrice": 21,
+    "salePrice": 20,
     "gst": 18,
     "hsn": "392410"
   },
@@ -14853,8 +14853,8 @@ window.productInfo = {
   "8243": {
     "sku": "8243_3in1_kitchen_knives",
     "itemCode": "8243",
-    "closingQuantity": 13,
-    "sold": 8,
+    "closingQuantity": 12,
+    "sold": 9,
     "catalog": "knife-&-cutlery",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/8243_3in1_kitchen_knives.jpg?v=1753073137",
@@ -15400,7 +15400,7 @@ window.productInfo = {
     ],
     "handle": "baby-safety-nail-cutter-scissors-for-safe-nail-clipping-1-pc",
     "title": "Baby Safety Nail Cutter Scissors for Safe Nail Clipping (1 Pc)",
-    "salePrice": 23,
+    "salePrice": 20,
     "gst": 12,
     "hsn": "821420"
   },
@@ -15684,7 +15684,7 @@ window.productInfo = {
     ],
     "handle": "8732_plastic_dustpan_1pc",
     "title": "Dustpan with Long Handle, Dust Collection Dust Pan Tray for Kitchen, Home, Office, Bathroom Etc, Supdi (1 Pc / Multicolor )",
-    "salePrice": 23,
+    "salePrice": 20,
     "gst": 18,
     "hsn": "392410"
   },
@@ -18388,8 +18388,8 @@ window.productInfo = {
   "11680": {
     "sku": "11680_apex_pla_table_bin_1200ml_1pc_tb120",
     "itemCode": "11680",
-    "closingQuantity": 15,
-    "sold": 12,
+    "closingQuantity": 14,
+    "sold": 13,
     "catalog": "garbage-bags",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_99f778d8-6b53-48ae-861c-08ec950f0b5e.jpg?v=1745040015",
@@ -18587,8 +18587,8 @@ window.productInfo = {
   "11929": {
     "sku": "11929_fruit_juicer_measuring_cup",
     "itemCode": "11929",
-    "closingQuantity": 9,
-    "sold": 8,
+    "closingQuantity": 8,
+    "sold": 9,
     "catalog": "kitchen-tools",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_25f79bd2-15ac-4894-a8e1-7518aa852a17.jpg?v=1745661513",
@@ -21154,7 +21154,7 @@ window.productInfo = {
     ],
     "handle": "13339_multi_cleaning_brush_23cm",
     "title": "Multifunctional Crevice Cleaning Brush, Gap Cleaning Brush (1 Pc / 23 Cm)",
-    "salePrice": 21,
+    "salePrice": 20,
     "gst": 18,
     "hsn": "392410"
   },
@@ -24118,8 +24118,8 @@ window.productInfo = {
   "17751": {
     "sku": "17751_small_minion_atp66",
     "itemCode": "17751",
-    "closingQuantity": 0,
-    "sold": 20,
+    "closingQuantity": 3,
+    "sold": 17,
     "catalog": "toys",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_a4a096d8-0613-4c67-936e-30ef1b08f91d.jpg?v=1737623525",
@@ -25761,7 +25761,7 @@ window.productInfo = {
     ],
     "handle": "travel-paper-soap-sheet-with-mini-box-20-sheets-in-a-pack-approx-mix-color-1",
     "title": "Travel Paper Soap Sheet with Mini Box (20 Sheets in a Pack Approx / Mix Color)",
-    "salePrice": 23,
+    "salePrice": 20,
     "gst": 18,
     "hsn": "392410"
   },
@@ -27266,7 +27266,7 @@ window.productInfo = {
     ],
     "handle": "multipurpose-plastic-handle-laundry-brush-1-pc",
     "title": "Multipurpose Plastic Handle Laundry Brush (1 Pc)",
-    "salePrice": 22,
+    "salePrice": 20,
     "gst": 18,
     "hsn": "96032900"
   },
@@ -28778,8 +28778,8 @@ window.productInfo = {
   "0253": {
     "sku": "0253_bokoma_head_massager",
     "itemCode": "0253",
-    "closingQuantity": 42,
-    "sold": 82,
+    "closingQuantity": 41,
+    "sold": 83,
     "catalog": "massager",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/ChatGPTImageMay13_2025_05_47_37PM.png?v=1747138717",
@@ -30947,7 +30947,7 @@ window.productInfo = {
     ],
     "handle": "0745-plastic-heavy-duty-plant-container-pot-gamla-for-indoor-home-decor-outdoor-balcony-garden-13cm-pack-of-1-pc",
     "title": "Plastic Heavy Duty Plant Container Pot/Gamla for Indoor Home Decor | Outdoor Balcony Garden 13cm (pack of 1 pc)",
-    "salePrice": 25,
+    "salePrice": 20,
     "gst": 18,
     "hsn": "392410"
   },
@@ -31210,7 +31210,7 @@ window.productInfo = {
     ],
     "handle": "star-shape-sink-strainer",
     "title": "Star Drain Strainer: Catches Hair & Prevents Clogs (Kitchen/Bath)",
-    "salePrice": 21,
+    "salePrice": 20,
     "gst": 18,
     "hsn": "392410"
   },
@@ -31747,7 +31747,7 @@ window.productInfo = {
     ],
     "handle": "6151a",
     "title": "Bottle Cleaning Brush usual fully types of household room for cooking food purposes for cleansing",
-    "salePrice": 22,
+    "salePrice": 20,
     "gst": 18,
     "hsn": "392410"
   },
