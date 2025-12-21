@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>All Products — Sorted by Stock</title>
+    <style>
+      body {
+        font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica,
+          Arial;
+        line-height: 1.4;
+        margin: 0;
+        padding: 20px;
+        background: #f6f7fb;
+      }
+      h1 {
+        margin: 0 0 16px;
+        font-size: 20px;
+      }
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+        gap: 14px;
+      }
+      .card {
+        background: #fff;
+        border: 1px solid #e6e9ef;
+        border-radius: 8px;
+        overflow: hidden;
+        display: flex;
+        flex-direction: column;
+        position: relative;
+      }
+      .thumb {
+        width: 100%;
+        height: 160px;
+        object-fit: cover;
+        background: #eee;
+      }
+      .body {
+        padding: 10px;
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+      }
+      .title {
+        font-weight: 600;
+        font-size: 14px;
+        margin-bottom: 6px;
+        color: #0b2540;
+      }
+      .price {
+        color: #0b2540;
+        font-weight: 700;
+        margin-bottom: 8px;
+        font-size: 14px;
+      }
+      .sku {
+        color: #64748b;
+        font-size: 12px;
+        margin-bottom: 8px;
+      }
+      .meta {
+        margin-top: auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        font-size: 13px;
+        color: #334155;
+      }
+      .stock {
+        font-weight: 700;
+        color: #0b6655;
+      }
+      .sold {
+        color: #6b7280;
+        font-weight: 600;
+      }
+      .link {
+        display: inline-block;
+        margin-top: 8px;
+        padding: 6px 8px;
+        background: #0b67ff;
+        color: #fff;
+        border-radius: 6px;
+        text-decoration: none;
+        font-size: 13px;
+      }
+      .empty {
+        padding: 40px;
+        text-align: center;
+        color: #475569;
+      }
+      .price-badge {
+        position: absolute;
+        top: 8px;
+        left: 8px;
+        background: #fff;
+        border: 1px solid rgba(20, 20, 20, 0.12);
+        padding: 6px 8px;
+        border-radius: 6px;
+        font-weight: 700;
+        z-index: 20;
+        font-size: 13px;
+        color: #0b2540;
+        box-shadow: 0 1px 4px rgba(16, 24, 40, 0.06);
+      }
+    </style>
+  </head>
+  <body>
+    <header
+      style="display: flex; align-items: center; gap: 12px; margin-bottom: 12px"
+    >
+      <img
+        src="../doonb2b-color-rect-logo-solid-white-bg.png"
+        alt="DoonB2B"
+        style="height: 44px; object-fit: contain"
+      />
+      <div style="flex: 1">
+        <input
+          id="searchInputAll"
+          type="search"
+          placeholder="Search products (title, sku)..."
+          style="
+            width: 100%;
+            padding: 10px;
+            border-radius: 8px;
+            border: 1px solid #d1d5db;
+          "
+        />
+      </div>
+    </header>
+
+    <h1 style="margin-top: 0">
+      All products — sorted by stock available (high → low)
+    </h1>
+    <div id="productGrid" class="grid"></div>
+
+    <script src="../public-product-info.js"></script>
+    <script>
+      function safeNum(v) {
+        if (v === undefined || v === null) return 0;
+        const n = Number(v);
+        return Number.isFinite(n) ? n : 0;
+      }
+
+      function getFirstImage(p) {
+        if (!p || !p.images || !p.images.length) return '';
+        return p.images[0];
+      }
+
+      const grid = document.getElementById('productGrid');
+      const allProducts = Object.values(window.productInfo || {});
+
+      function getRackNumber(product) {
+        return (
+          product.rack ||
+          product.rack_no ||
+          product.rackNumber ||
+          product.rack_number ||
+          product.rackNo ||
+          product.storage_rack ||
+          null
+        );
+      }
+
+      function formatPriceText(p) {
+        if (p.salePrice === undefined || p.salePrice === null)
+          return 'Price: —';
+        if (p.items_per_bag) {
+          const per = Math.round(Number(p.salePrice) / Number(p.items_per_bag));
+          return '₹' + per + ' per item';
+        }
+        return '₹' + Number(p.salePrice).toFixed(2);
+      }
+
+      function renderProducts(products) {
+        grid.innerHTML = '';
+        if (!products.length) {
+          grid.innerHTML = '<div class="empty">No products found</div>';
+          return;
+        }
+
+        for (const p of products) {
+          const div = document.createElement('div');
+          div.className = 'card';
+
+          // price badge overlay
+          const badge = document.createElement('div');
+          badge.className = 'price-badge';
+          badge.textContent = formatPriceText(p);
+          div.appendChild(badge);
+
+          const img = document.createElement('img');
+          img.className = 'thumb';
+          img.alt = p.title || p.handle || p.sku || '';
+          img.src =
+            getFirstImage(p) ||
+            'data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400"><rect width="100%" height="100%" fill="%23e6e9ef"/><text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="%23828aa0" font-size="24">No image</text></svg>';
+          div.appendChild(img);
+
+          const bd = document.createElement('div');
+          bd.className = 'body';
+
+          const t = document.createElement('div');
+          t.className = 'title';
+          t.textContent = p.title || p.handle || p.sku || 'Untitled';
+          bd.appendChild(t);
+
+          const skuEl = document.createElement('div');
+          skuEl.className = 'sku';
+          skuEl.textContent =
+            'SKU: ' + (p.sku || p.itemCode || p.handle || '—');
+          bd.appendChild(skuEl);
+
+          const meta = document.createElement('div');
+          meta.className = 'meta';
+          const stock = document.createElement('div');
+          stock.className = 'stock';
+          const multiplier = p.items_per_bag ? Number(p.items_per_bag) : 1;
+          const totalStock = Math.round(
+            safeNum(p.closingQuantity) * multiplier
+          );
+          const rack = getRackNumber(p);
+          if (p.items_per_bag) {
+            stock.textContent =
+              'Stock: ' +
+              totalStock +
+              ' items' +
+              (rack ? ' at Rack ' + rack : '');
+          } else {
+            stock.textContent =
+              'Stock: ' +
+              (Number.isInteger(totalStock)
+                ? totalStock
+                : totalStock.toFixed(2)) +
+              (rack ? ' at Rack ' + rack : '');
+          }
+
+          meta.appendChild(stock);
+          bd.appendChild(meta);
+
+          div.appendChild(bd);
+          grid.appendChild(div);
+        }
+      }
+
+      // sort by item-level stock descending (closingQuantity * items_per_bag)
+      allProducts.sort((a, b) => {
+        const aMultiplier = a.items_per_bag ? Number(a.items_per_bag) : 1;
+        const bMultiplier = b.items_per_bag ? Number(b.items_per_bag) : 1;
+        const aStock = safeNum(a.closingQuantity) * aMultiplier;
+        const bStock = safeNum(b.closingQuantity) * bMultiplier;
+        return bStock - aStock;
+      });
+
+      renderProducts(allProducts);
+
+      // search
+      const searchInput = document.getElementById('searchInputAll');
+      function normalize(s) {
+        return (s || '').toString().toLowerCase();
+      }
+      searchInput &&
+        searchInput.addEventListener('input', (e) => {
+          const q = normalize(e.target.value).trim();
+          if (!q) return renderProducts(allProducts);
+          const filtered = allProducts.filter((p) => {
+            const fields = [p.title, p.handle, p.sku, p.itemCode]
+              .filter(Boolean)
+              .join(' ')
+              .toLowerCase();
+            return q.split(/\s+/).every((w) => fields.includes(w));
+          });
+          renderProducts(filtered);
+        });
+    </script>
+  </body>
+</html>
