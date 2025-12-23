@@ -1246,7 +1246,7 @@ window.productInfo = {
   "1334": {
     "sku": "1334_cable_clips_set",
     "itemCode": "1334",
-    "closingQuantity": 24,
+    "closingQuantity": 23,
     "sold": 21,
     "catalog": "electronics-accessories",
     "images": [
@@ -7520,7 +7520,7 @@ window.productInfo = {
   "2920": {
     "sku": "2920_20x30cm_chopping_block",
     "itemCode": "2920",
-    "closingQuantity": 50,
+    "closingQuantity": 49,
     "sold": 30,
     "catalog": "kitchen-tools",
     "images": [
@@ -13663,10 +13663,32 @@ window.productInfo = {
     "gst": 18,
     "hsn": "392690"
   },
+  "6202": {
+    "sku": "6202_walking_waist_bag",
+    "itemCode": "6202",
+    "closingQuantity": 0,
+    "sold": 1,
+    "catalog": "bags,-wallets-and-luggage",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_a467772d-9d1b-4605-aadd-050c3231947d.jpg?v=1742028749",
+      "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_e68f2787-50a3-4d0a-879e-4b21cf8d3d5f.jpg?v=1742028749",
+      "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/e0fc9288-97d2-485e-a08a-4a4b92571fd1.jpg?v=1742028749",
+      "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_070fe239-af42-42d7-a00b-043b9706bc47.jpg?v=1742028749",
+      "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/07_c04b9af4-2e19-4541-9fc5-73c899bb8139.jpg?v=1742028749",
+      "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_e4fe2d1f-98e4-494e-b043-20d547199c41.jpg?v=1742028733",
+      "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_3288b692-377a-4d8a-aba5-1c4c4b946cb9.jpg?v=1737623202",
+      "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/ddd5b423-2e19-4d80-824b-a1f4c263fc1e_aa1ea8ec-2389-460e-8241-4acb235b5a5f.jpg?v=1737623202"
+    ],
+    "handle": "walking-waist-bag",
+    "title": "Running Hiking Jogging Walking Reflective Waterproof Waist Bag Compatible Belt Bag",
+    "salePrice": 97,
+    "gst": 18,
+    "hsn": "392410"
+  },
   "6204": {
     "sku": "6204_butterfly_mini_massager",
     "itemCode": "6204",
-    "closingQuantity": 5,
+    "closingQuantity": 4,
     "sold": 0,
     "catalog": "health-&-beauty-accessories",
     "images": [
@@ -14416,7 +14438,7 @@ window.productInfo = {
   "6496": {
     "sku": "6496_mob_holder_charging_stand",
     "itemCode": "6496",
-    "closingQuantity": 28,
+    "closingQuantity": 27,
     "sold": 22,
     "catalog": "electronics-accessories",
     "images": [
@@ -20213,7 +20235,7 @@ window.productInfo = {
   "10200": {
     "sku": "10200_wooden_handle_potato_masher_1pc",
     "itemCode": "10200",
-    "closingQuantity": 19,
+    "closingQuantity": 18,
     "sold": 90,
     "catalog": "kitchen-tools",
     "images": [
@@ -23623,7 +23645,7 @@ window.productInfo = {
   "12814": {
     "sku": "12814_2in1_soft_toothbrush",
     "itemCode": "12814",
-    "closingQuantity": 1.38,
+    "closingQuantity": 1.13,
     "sold": 1.63,
     "items_per_bag": 8,
     "catalog": "health-&-beauty-accessories",
@@ -34809,7 +34831,7 @@ window.productInfo = {
   "0569": {
     "sku": "0569_whiteboard_black_ink_marker_1pc",
     "itemCode": "0569",
-    "closingQuantity": 100,
+    "closingQuantity": 99,
     "sold": 170,
     "catalog": "stationery",
     "images": [
