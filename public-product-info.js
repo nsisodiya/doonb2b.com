@@ -1115,6 +1115,29 @@ window.productInfo = {
     "catalog": "bathroom",
     "salePrice": 52
   },
+  "1311": {
+    "sku": "1311_soap_strips_100pc",
+    "itemCode": "1311",
+    "closingQuantity": 0,
+    "sold": 1,
+    "catalog": "health-&-beauty-accessories",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/Untitled-1_824f9bba-86e9-4308-819d-46a9925aacb9.jpg?v=1737630094",
+      "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/1311-5photo.jpg?v=1737630094",
+      "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/10pcs_d655c34f-f8f5-4d63-8a05-cc9e9b63ff8b.jpg?v=1737630094",
+      "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/1311-7photo.jpg?v=1737630095",
+      "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/1311-6photo.jpg?v=1737630095",
+      "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/Untitled-19.jpg?v=1737630095",
+      "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/Untitled-14.jpg?v=1737630095",
+      "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/Untitled-18.jpg?v=1737630095",
+      "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/1cb64868-eb18-4e8d-9708-fa50cbcbe637.jpg?v=1737630095"
+    ],
+    "handle": "1311-fresh-paper-soap-strips-traveling-hand-wash-100pc",
+    "title": "Fresh Paper Soap Strips Traveling Hand Wash with Jasmine Fragrance (100pc)",
+    "salePrice": 35,
+    "gst": 5,
+    "hsn": "940320"
+  },
   "1314": {
     "sku": "1314_wonder_chalk_1pc",
     "itemCode": "1314",
@@ -1184,7 +1207,7 @@ window.productInfo = {
   "1319": {
     "sku": "1319_tube_shape_paper_shoap",
     "itemCode": "1319",
-    "closingQuantity": 39,
+    "closingQuantity": 38,
     "sold": 198,
     "catalog": "beauty-&-personal-care",
     "images": [
@@ -2567,7 +2590,7 @@ window.productInfo = {
   "1585": {
     "sku": "1585_green_garbage_19x21",
     "itemCode": "1585",
-    "closingQuantity": 9,
+    "closingQuantity": 8,
     "sold": 153,
     "catalog": "garbage-bags",
     "images": [
@@ -2999,7 +3022,7 @@ window.productInfo = {
   "1689": {
     "sku": "1689_ss_wall_flower_hook",
     "itemCode": "1689",
-    "closingQuantity": 943,
+    "closingQuantity": 443,
     "sold": 1539,
     "catalog": "hooks",
     "images": [
@@ -3268,8 +3291,7 @@ window.productInfo = {
     "handle": "1738-mini-car-trash-bin-can-holder-dustbin",
     "title": "Mini Car Trash Bin Can Holder Dustbin",
     "salePrice": 39,
-    "gst": 18,
-    "hsn": "392690"
+    "gst": 18
   },
   "1742": {
     "sku": "1742_20pc_magic_wall_sticker",
@@ -5473,7 +5495,7 @@ window.productInfo = {
   "2329": {
     "sku": "2329_aluminium_foil_paper_10m",
     "itemCode": "2329",
-    "closingQuantity": 25,
+    "closingQuantity": 24,
     "sold": 25,
     "catalog": "kitchen-tools",
     "images": [
@@ -7532,7 +7554,7 @@ window.productInfo = {
   "2920": {
     "sku": "2920_20x30cm_chopping_block",
     "itemCode": "2920",
-    "closingQuantity": 46,
+    "closingQuantity": 45,
     "sold": 33,
     "catalog": "kitchen-tools",
     "images": [
@@ -13420,7 +13442,7 @@ window.productInfo = {
   "6134": {
     "sku": "6134_100pc_s_safety_socket",
     "itemCode": "6134",
-    "closingQuantity": 7.37,
+    "closingQuantity": 5.87,
     "sold": 2.63,
     "items_per_bag": 100,
     "catalog": "home-improvement",
@@ -16116,8 +16138,7 @@ window.productInfo = {
     "handle": "7722_multipurpose_storage_holder",
     "title": "multipurpose Holder for Desk  for Office, Home, School Non-slip Silicone Bottom",
     "salePrice": 40,
-    "gst": 18,
-    "hsn": "392410"
+    "gst": 18
   },
   "7729": {
     "sku": "7729_microfiber_blind_duster",
@@ -16683,7 +16704,7 @@ window.productInfo = {
   "8094": {
     "sku": "8094_60pcs_bulidng_blocks",
     "itemCode": "8094",
-    "closingQuantity": 15,
+    "closingQuantity": 14,
     "sold": 18,
     "catalog": "toys",
     "images": [
@@ -17596,7 +17617,7 @@ window.productInfo = {
   "8431": {
     "sku": "8431_nail_polish_file_1pc",
     "itemCode": "8431",
-    "closingQuantity": 19,
+    "closingQuantity": 18,
     "sold": 21,
     "catalog": "beauty-&-personal-care",
     "images": [
@@ -18211,7 +18232,7 @@ window.productInfo = {
   "8782": {
     "sku": "8782_mini_jewelry_organizer_box",
     "itemCode": "8782",
-    "closingQuantity": 18,
+    "closingQuantity": 17,
     "sold": 22,
     "catalog": "beauty-&-personal-care",
     "images": [
@@ -19442,7 +19463,7 @@ window.productInfo = {
   "9845": {
     "sku": "9845_plastic_hair_clip_no5",
     "itemCode": "9845",
-    "closingQuantity": 5,
+    "closingQuantity": 4,
     "sold": 11,
     "catalog": "beauty-&-personal-care",
     "images": [
@@ -20504,7 +20525,7 @@ window.productInfo = {
   "10306": {
     "sku": "10306_round_disposable_paper_air_fryer_50pc",
     "itemCode": "10306",
-    "closingQuantity": 26,
+    "closingQuantity": 25,
     "sold": 24,
     "catalog": "kitchen-tools",
     "images": [
@@ -25915,8 +25936,7 @@ window.productInfo = {
     "handle": "14286_red_electric_mosquito_racket_1pc",
     "title": "Red Rechargeable Electric Mosquito Killer Racket with Cable",
     "salePrice": 201,
-    "gst": 18,
-    "hsn": "851679"
+    "gst": 18
   },
   "14334": {
     "sku": "14334_plastic_banana_hair_clip_set_12pc",
@@ -28263,7 +28283,7 @@ window.productInfo = {
   "17799": {
     "sku": "17799_2in1_baby_piano_toy",
     "itemCode": "17799",
-    "closingQuantity": 4,
+    "closingQuantity": 3,
     "sold": 7,
     "catalog": "toys",
     "images": [
@@ -30993,7 +31013,7 @@ window.productInfo = {
   "19012": {
     "sku": "19012_duck_toy_for_kids",
     "itemCode": "19012",
-    "closingQuantity": 8,
+    "closingQuantity": 7,
     "sold": 10,
     "catalog": "toys",
     "images": [
@@ -35197,7 +35217,7 @@ window.productInfo = {
   "0592": {
     "sku": "0592_tester_screwdriver",
     "itemCode": "0592",
-    "closingQuantity": 17,
+    "closingQuantity": 16,
     "sold": 29,
     "catalog": "hardware",
     "images": [
