@@ -246,7 +246,7 @@ function showProductsFromCatalog(catalog) {
 
   if (catalog === 'these-products-are-in-transport-and-they-will-arrive-soon') {
     Object.values(productInfo)
-      .filter((p) => p?.stock === 0 && p.alreadyOrdered !== undefined)
+      .filter((p) => p?.closingQuantity === 0 && p.alreadyOrdered !== undefined)
       .forEach((product) =>
         createProductItem(product, productList, { skipStock: true })
       );
