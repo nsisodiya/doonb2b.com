@@ -926,7 +926,7 @@ window.productInfo = {
   "1292": {
     "sku": "1292_double_hokey_t_brush",
     "itemCode": "1292",
-    "closingQuantity": 29,
+    "closingQuantity": 28,
     "sold": 31,
     "catalog": "toilet",
     "images": [
@@ -2604,7 +2604,7 @@ window.productInfo = {
   "1689": {
     "sku": "1689_ss_wall_flower_hook",
     "itemCode": "1689",
-    "closingQuantity": 412,
+    "closingQuantity": 411,
     "sold": 2088,
     "catalog": "hooks",
     "images": [
@@ -2923,7 +2923,7 @@ window.productInfo = {
   "1752": {
     "sku": "1752_36inch_door_d_guard",
     "itemCode": "1752",
-    "closingQuantity": 80,
+    "closingQuantity": 79,
     "sold": 195,
     "catalog": "home-improvement",
     "images": [
@@ -4168,7 +4168,7 @@ window.productInfo = {
   "2138": {
     "sku": "2138_1l_oil_dispenser_box_low_weight",
     "itemCode": "2138",
-    "closingQuantity": 37,
+    "closingQuantity": 36,
     "sold": 68,
     "catalog": "oil-dispenser",
     "images": [
@@ -5184,7 +5184,7 @@ window.productInfo = {
   "2352": {
     "sku": "2352_dustpan_dsp_222",
     "itemCode": "2352",
-    "closingQuantity": 3,
+    "closingQuantity": 2,
     "sold": 32,
     "catalog": "industrial-&-scientific",
     "images": [
@@ -7511,7 +7511,7 @@ window.productInfo = {
   "3018": {
     "sku": "3018_gas_trolly",
     "itemCode": "3018",
-    "closingQuantity": 9,
+    "closingQuantity": 8,
     "sold": 56,
     "catalog": "kitchen-tools",
     "images": [
@@ -9757,7 +9757,7 @@ window.productInfo = {
   "4654": {
     "sku": "4654_6pc_flexible_wall_hook",
     "itemCode": "4654",
-    "closingQuantity": 14,
+    "closingQuantity": 13,
     "sold": 6,
     "catalog": "home-improvement",
     "images": [
@@ -10413,7 +10413,7 @@ window.productInfo = {
   "4851": {
     "sku": "4851_multi_pink_cleaning_gloves_1pair",
     "itemCode": "4851",
-    "closingQuantity": 17,
+    "closingQuantity": 16,
     "sold": 23,
     "catalog": "gloves",
     "images": [
@@ -10826,7 +10826,7 @@ window.productInfo = {
   "4960": {
     "sku": "4960_evil_eye_blue_keychain_1pc",
     "itemCode": "4960",
-    "closingQuantity": 19,
+    "closingQuantity": 18,
     "sold": 141,
     "catalog": "keychain",
     "images": [
@@ -18254,7 +18254,7 @@ window.productInfo = {
   "8913": {
     "sku": "8913_plastic_desk_pen_holder_1pc",
     "itemCode": "8913",
-    "closingQuantity": 12,
+    "closingQuantity": 11,
     "sold": 68,
     "catalog": "stationery",
     "images": [
@@ -20795,7 +20795,7 @@ window.productInfo = {
   "11494": {
     "sku": "11494_apex_pla_wash_n_storage_basket_wsbf",
     "itemCode": "11494",
-    "closingQuantity": 36,
+    "closingQuantity": 35,
     "sold": 44,
     "catalog": "kitchen-tools",
     "images": [
@@ -22288,7 +22288,7 @@ window.productInfo = {
   "12241": {
     "sku": "12241_ss_medium_hand_push_rotary_whisk_no2",
     "itemCode": "12241",
-    "closingQuantity": 14,
+    "closingQuantity": 13,
     "sold": 12,
     "catalog": "kitchen-tools",
     "images": [
@@ -22574,7 +22574,7 @@ window.productInfo = {
   "12268": {
     "sku": "12268_electric_handheld_milk_frother",
     "itemCode": "12268",
-    "closingQuantity": 171,
+    "closingQuantity": 170,
     "sold": 98,
     "catalog": "kitchen-tools",
     "images": [
@@ -35486,7 +35486,7 @@ window.productInfo = {
   "0734": {
     "sku": "0734_soup_bowl_6pc",
     "itemCode": "0734",
-    "closingQuantity": 1.83,
+    "closingQuantity": 1.67,
     "sold": 38.17,
     "items_per_bag": 6,
     "catalog": "kitchen-tools",
