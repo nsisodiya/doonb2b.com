@@ -2085,7 +2085,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/DisposableEco-friendlyGarbageDustbin06.jpg?v=1754890213",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/65940b60-509b-4c67-8843-5f85b4cbcfb2.jpg?v=1754890213"
     ],
-    "alreadyOrdered": 30,
     "handle": "1504-disposable-eco-friendly-garbage-dustbin-trash-bag",
     "title": "Disposable Eco-friendly Garbage / Dustbin / Trash Bag (Pack of 30)",
     "salePrice": 38,
@@ -2429,7 +2428,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/DisposableEco-friendlyGarbageDustbin03_1024x1024_79f4240d-2cdf-467b-af09-c68a4a58bc2b.jpg?v=1737630260",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/0c93ea45-8dba-4975-9d30-bcdd3324400a.jpg?v=1737630260"
     ],
-    "alreadyOrdered": 20,
     "handle": "1574-garbage-bags-small-size-black-colour-17-x-19",
     "title": "Garbage Bags Small Size Black Colour (17 x 19)",
     "salePrice": 38,
@@ -2454,7 +2452,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/DisposableEco-friendlyGarbageDustbin04_1024x1024_dc25a70d-87eb-44fc-9d0a-30ed805e8fe5.jpg?v=1754989712",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/77f4052d-6d51-4e9d-a990-ac4778ec993d.jpg?v=1754989712"
     ],
-    "alreadyOrdered": 30,
     "handle": "1575-garbage-bags-medium-size-black-colour-24-x-32",
     "title": "Garbage Bags Medium Size Black Colour (1 Pc / 24 x 32)",
     "salePrice": 49,
@@ -2521,7 +2518,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/07_ceb61562-8604-471c-9dc8-9e05ab44186e.jpg?v=1754989760",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/12342db3-ee79-489e-9378-ae22c98b6a55.jpg?v=1754989760"
     ],
-    "alreadyOrdered": 5,
     "handle": "1581-green-compostable-corn-starch-garbage-bags-17-x-19",
     "title": "Green Compostable Corn Starch Garbage Bags (17\" x 19\")",
     "salePrice": 40,
@@ -8083,7 +8079,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_b2913a55-c39c-441d-8b8d-cd72c458e4f4.jpg?v=1737619509",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/e756d74e-3809-43d8-b566-a7666a7cfcef.jpg?v=1737619509"
     ],
-    "alreadyOrdered": 10,
     "handle": "3375_smily_lunch_box",
     "title": "Smily Plastic lunch box, Small Box With 2in1 Spoon pack of 1",
     "salePrice": 39,
@@ -12629,7 +12624,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_93653996-4c23-4f94-a3fe-18ccd190b62e.jpg?v=1737625274",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/23531071-2128-4f13-9652-e358ede5bf1e.jpg?v=1737625274"
     ],
-    "alreadyOrdered": 30,
     "handle": "5714_pla_mukhwas_bottle_d138",
     "title": "Plastic Transparent Mukhwas Bottle With Steel Cap Kitchen Storage Bottle (1 Pc)",
     "salePrice": 44,
@@ -15166,7 +15160,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/03_5a5ceb25-9f07-44c4-9f69-439dd8d14214.jpg?v=1737632466",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/419626e4-8436-4f8c-a5d4-473b66e762b3.jpg?v=1737632467"
     ],
-    "alreadyOrdered": 5,
     "handle": "7050-2pc-18inch-folding-stool-for-adults-and-kids-also-for-kitchen-stepping-with-5ply-brown-box",
     "title": "1pc 18inch Folding Stool Adults and Kids, Also For Kitchen Stepping With (Brown Box)",
     "salePrice": 373,
@@ -17598,7 +17591,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_b31b352e-7677-4e65-ab44-d18e79abf669.jpg?v=1750321657",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04d33bb5-b1cb-4a2a-ad9b-efc6461461ad.jpg?v=1750321657"
     ],
-    "alreadyOrdered": 20,
     "handle": "bite-buddy-4-compartment-leak-resistant-plastic-lunch-box-with-spoon-fork",
     "title": "Bite Buddy 4-Compartment Leak-Resistant Plastic Lunch Box with Spoon & Fork",
     "salePrice": 97,
@@ -17822,7 +17814,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/20.webp?v=1766728824",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/22.webp?v=1766728736"
     ],
-    "alreadyOrdered": 40,
     "handle": "8436_silicone_suction_phone_holder_1pc",
     "title": "Suction Phone Case / Holder Mount (1 Pc / Mix Color)",
     "salePrice": 19,
@@ -19211,7 +19202,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_2e8b9fdf-dfcf-4506-adef-6b2efa0127c3.jpg?v=1750754461",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/f1cbe224-46b9-4d2f-9276-14b1704b9b0d.jpg?v=1750754477"
     ],
-    "alreadyOrdered": 30,
     "handle": "bio-degradable-eco-friendly-garbage-trash-bags-rolls-40x50-cm-1-pc-1",
     "title": "Bio-degradable Eco Friendly Garbage / Trash Bags Rolls (50x60 Cm / 1 Pc)",
     "salePrice": 20,
@@ -21189,7 +21179,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_spounge.jpg?v=1763009173",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/20a2ea9c-c98b-4829-95f4-24eaa1df752c.jpg?v=1763009106"
     ],
-    "alreadyOrdered": 10,
     "handle": "multipurpose-kitchen-cleaning-sponge-scrub-block-7-x-7-cm-1-pc",
     "title": "Multipurpose Kitchen Cleaning Sponge Scrub Block (7 x 7 Cm / 1 Pc)",
     "salePrice": 30,
@@ -26909,7 +26898,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_d0f20dc8-6851-4b5b-ba53-94bfb5c8f0ef.jpg?v=1737619116",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/292a1ea5-3597-42b7-b2a5-f8fb4cae337c.jpg?v=1737619116"
     ],
-    "alreadyOrdered": 10,
     "handle": "15024_small_2side_torch_light_1pc",
     "title": "Small Two Side Beautiful Small Torchlight (1 Pc)",
     "salePrice": 26,
@@ -28522,7 +28510,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/1KfuHG4LuKFzcDBa53cs8XI7gwmwfZ9DcnAh6cmf.jpg?v=1751278910",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/1_c9d5f96f-54bf-4fe6-9561-47dc516865ba.jpg?v=1737620509"
     ],
-    "alreadyOrdered": 3,
     "handle": "2in1-everlasting-pencil-replaceable-head-with-eraser-inkless-pencils-eternal-infinite-pencil-portable-everlasting-pencil-reusable-erasable-magic-pencils-for-kids-painting-stationary",
     "title": "2In1 Everlasting Pencil Replaceable Head With Eraser, Inkless Pencils Eternal, Infinite Pencil, Portable Everlasting Pencil Reusable Erasable, Magic Pencils for Kids Painting Stationary (13 Pcs Set)",
     "salePrice": 169,
@@ -29759,7 +29746,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_f58f27a9-ebaa-433d-93ab-c67cce1bdab4.jpg?v=1750227954",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/993b74cc-bda3-46fd-9d00-cee64e3420ae.jpg?v=1750227954"
     ],
-    "alreadyOrdered": 10,
     "handle": "multicolor-coated-paper-clips-250pc-set",
     "title": "Multicolor-Coated Paper Clips Approx (250Pc Set)",
     "salePrice": 65,
@@ -29834,7 +29820,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_88de4406-c33e-4b57-b212-d9422c7b0902.jpg?v=1742281781",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/081d3716-aae5-4f59-8d36-02284e1773cd.jpg?v=1742281781"
     ],
-    "alreadyOrdered": 10,
     "handle": "18265_flower_pot_with_tray_5pc",
     "title": "Plastic Flower Pot with Bottom Tray (5 Pcs Set)",
     "salePrice": 220,
@@ -30558,7 +30543,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/4_2ad5691a-8b38-4c9e-8d29-a06c4a7137c6.jpg?v=1737615785",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/65603470-edb1-4e83-8fff-733f5975402e.jpg?v=1737615785"
     ],
-    "alreadyOrdered": 2,
     "handle": "18613_domino_building_blocks_120pc",
     "title": "Kids 120 Domino Blocks Dominoes (120 Pcs Set)",
     "salePrice": 268,
@@ -32010,7 +31994,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/04_geometry-box.jpg?v=1756879465",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_geometry-box.jpg?v=1756879465"
     ],
-    "alreadyOrdered": 5,
     "handle": "complete-stationery-geometry-box-set",
     "title": "Complete Stationery Geometry Box (1 Set)",
     "salePrice": 192,
@@ -32118,7 +32101,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/03_688aa395-56e6-4816-9a5c-6422b03e3e5c.jpg?v=1749041377",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/e9bff28b-7836-4bc7-a946-c56ae544167a.jpg?v=1749041377"
     ],
-    "alreadyOrdered": 30,
     "handle": "mini-led-flashlight-keychain-torch-mix-color-1-pc",
     "title": "Mini LED Flashlight Keychain Torch (Mix Color & 1 Pc)",
     "salePrice": 15,
@@ -33048,7 +33030,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/07_brush_b1353543-1484-4a74-ab58-7495d71e4a8a.jpg?v=1765776289",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/08_brush_27de8c7f-d4ca-47f6-a6f2-15b3a50410c3.jpg?v=1765776289"
     ],
-    "alreadyOrdered": 2,
     "handle": "eco-friendly-bamboo-toothbrush-twin-pack-12-packets-24-pieces",
     "title": "Eco-Friendly Bamboo Toothbrush Twin Pack (12 Packets × 24 Pieces)",
     "salePrice": 240,
@@ -36398,7 +36379,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/4_f37546d7-44fc-4c08-b8ef-8f97e21b85ea.jpg?v=1762153112",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/1_33117797-8dbb-45ff-9716-b5c1e7e92e0d.jpg?v=1762153112"
     ],
-    "alreadyOrdered": 3,
     "handle": "0714-reusable-silicone-cleaning-brush-scrubber-gloves-multicolor-2",
     "title": "Reusable Silicone Cleaning Brush Scrubber Gloves (Multicolor)",
     "salePrice": 93,
@@ -37544,7 +37524,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/09_toilet-Step-Stool.jpg?v=1756707841",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/10_15c5a6ea-d9bf-4105-a3a9-ab13bb7f9872.jpg?v=1756707841"
     ],
-    "alreadyOrdered": 5,
     "handle": "6005a_toilet_folding_stool",
     "title": "Plastic Non-Slip Folding Toilet Squat Stool",
     "salePrice": 199,
@@ -37665,7 +37644,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/dishwashing-scrub-sponge-05.jpg?v=1763557106",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/dishwashing-scrub-sponge-08.jpg?v=1763557094"
     ],
-    "alreadyOrdered": 30,
     "handle": "multi-purpose-medium-2-in-1-color-scratch-scrub-sponges-sponge-wear-resistance-dish-washing-tool-high-friction-resistance-furniture-for-refrigerator-sofa-for-kitchen-household-1-pc",
     "title": "2-in-1 Multi-Purpose Scrub Sponge – Wear Resistant Dish & Furniture Cleaner (1 Pc)",
     "salePrice": 10,
