@@ -1039,7 +1039,7 @@ window.productInfo = {
   "1319": {
     "sku": "1319_tube_shape_paper_shoap",
     "itemCode": "1319",
-    "closingQuantity": 35,
+    "closingQuantity": 34,
     "sold": 207,
     "catalog": "beauty-&-personal-care",
     "images": [
@@ -1773,7 +1773,7 @@ window.productInfo = {
     "alreadyOrdered": 30,
     "handle": "1504-disposable-eco-friendly-garbage-dustbin-trash-bag",
     "title": "Disposable Eco-friendly Garbage / Dustbin / Trash Bag (Pack of 30)",
-    "salePrice": 34,
+    "salePrice": 38,
     "gst": 18,
     "hsn": "392329"
   },
@@ -7659,7 +7659,7 @@ window.productInfo = {
     "alreadyOrdered": 10,
     "handle": "3375_smily_lunch_box",
     "title": "Smily Plastic lunch box, Small Box With 2in1 Spoon pack of 1",
-    "salePrice": 31,
+    "salePrice": 39,
     "gst": 18,
     "hsn": "392410"
   },
@@ -9001,7 +9001,7 @@ window.productInfo = {
   "4426": {
     "sku": "4426_30pc_int_spinner_toy_atp79",
     "itemCode": "4426",
-    "closingQuantity": 2.5,
+    "closingQuantity": 2,
     "sold": 0.5,
     "items_per_bag": 2,
     "catalog": "toys",
@@ -10937,7 +10937,7 @@ window.productInfo = {
   "4988": {
     "sku": "4988_super_absorbent_floor_mat",
     "itemCode": "4988",
-    "closingQuantity": 56,
+    "closingQuantity": 55,
     "sold": 184,
     "catalog": "home-improvement",
     "images": [
@@ -12205,7 +12205,7 @@ window.productInfo = {
     "alreadyOrdered": 30,
     "handle": "5714_pla_mukhwas_bottle_d138",
     "title": "Plastic Transparent Mukhwas Bottle With Steel Cap Kitchen Storage Bottle (1 Pc)",
-    "salePrice": 40,
+    "salePrice": 44,
     "gst": 18,
     "hsn": "3992330"
   },
@@ -14723,7 +14723,7 @@ window.productInfo = {
     "hsn": "420212"
   },
   "7050": {
-    "sku": "7050_1pc_18inch_folding_tool",
+    "sku": "7050_1pc_18inch_folding_stool",
     "itemCode": "7050",
     "closingQuantity": 0,
     "sold": 10,
@@ -21429,7 +21429,7 @@ window.productInfo = {
   "11950": {
     "sku": "11950_silicone_cupcake_mould_10pc",
     "itemCode": "11950",
-    "closingQuantity": 26,
+    "closingQuantity": 25,
     "sold": 24,
     "catalog": "baking-tools",
     "images": [
@@ -22574,7 +22574,7 @@ window.productInfo = {
   "12268": {
     "sku": "12268_electric_handheld_milk_frother",
     "itemCode": "12268",
-    "closingQuantity": 172,
+    "closingQuantity": 171,
     "sold": 98,
     "catalog": "kitchen-tools",
     "images": [
@@ -27689,6 +27689,7 @@ window.productInfo = {
     "itemCode": "17683",
     "closingQuantity": 0,
     "sold": 0,
+    "items_per_bag": 13,
     "catalog": "office-products",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/BHkA3mRGPX1OgnCb4qt94vN4RdTqitaOj9EKCNQt.jpg?v=1751278910",
@@ -28900,7 +28901,7 @@ window.productInfo = {
     "hsn": "392410"
   },
   "18227": {
-    "sku": "18227_metal_paper_clips_250pc_set",
+    "sku": "18227_metal_paper_clips_230pc_set",
     "itemCode": "18227",
     "closingQuantity": 0,
     "sold": 1,
@@ -29716,7 +29717,7 @@ window.productInfo = {
     "alreadyOrdered": 2,
     "handle": "18613_domino_building_blocks_120pc",
     "title": "Kids 120 Domino Blocks Dominoes (120 Pcs Set)",
-    "salePrice": 247,
+    "salePrice": 268,
     "gst": 5,
     "hsn": "95030030"
   },
@@ -31276,7 +31277,7 @@ window.productInfo = {
     "alreadyOrdered": 30,
     "handle": "mini-led-flashlight-keychain-torch-mix-color-1-pc",
     "title": "Mini LED Flashlight Keychain Torch (Mix Color & 1 Pc)",
-    "salePrice": 11,
+    "salePrice": 15,
     "gst": 18,
     "hsn": "85131010"
   },
@@ -32191,6 +32192,7 @@ window.productInfo = {
     "itemCode": "21021",
     "closingQuantity": 0,
     "sold": 0,
+    "items_per_bag": 12,
     "catalog": "health-&-beauty-accessories",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_brush.jpg?v=1765776289",
@@ -32205,7 +32207,7 @@ window.productInfo = {
     "alreadyOrdered": 2,
     "handle": "eco-friendly-bamboo-toothbrush-twin-pack-12-packets-24-pieces",
     "title": "Eco-Friendly Bamboo Toothbrush Twin Pack (12 Packets × 24 Pieces)",
-    "salePrice": 222,
+    "salePrice": 240,
     "gst": 5,
     "hsn": "960321"
   },
@@ -36492,7 +36494,7 @@ window.productInfo = {
     "alreadyOrdered": 5,
     "handle": "6005a_toilet_folding_stool",
     "title": "Plastic Non-Slip Folding Toilet Squat Stool",
-    "salePrice": 165,
+    "salePrice": 199,
     "gst": 18,
     "hsn": "392410"
   },
@@ -36613,7 +36615,7 @@ window.productInfo = {
     "alreadyOrdered": 30,
     "handle": "multi-purpose-medium-2-in-1-color-scratch-scrub-sponges-sponge-wear-resistance-dish-washing-tool-high-friction-resistance-furniture-for-refrigerator-sofa-for-kitchen-household-1-pc",
     "title": "2-in-1 Multi-Purpose Scrub Sponge – Wear Resistant Dish & Furniture Cleaner (1 Pc)",
-    "salePrice": 9,
+    "salePrice": 10,
     "gst": 18,
     "hsn": "392410"
   },
