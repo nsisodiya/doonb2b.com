@@ -277,7 +277,7 @@ window.productInfo = {
   "1116": {
     "sku": "1116_bamboo_bbq_stick",
     "itemCode": "1116",
-    "closingQuantity": 8,
+    "closingQuantity": 18,
     "sold": 24,
     "catalog": "barbeque",
     "images": [
@@ -293,7 +293,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/3_68bbc65d-606c-4a15-9908-e9779ecef297.jpg?v=1754053043",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/6_96d734e6-2d00-4aad-a143-c33127ad9ff7.jpg?v=1754053043"
     ],
-    "alreadyOrdered": 10,
     "handle": "1116-natural-bamboo-wooden-skewers-bbq-sticks-for-barbeque-and-grilling",
     "title": "Natural Bamboo Wooden Skewers / BBQ Sticks for Barbeque and Grilling",
     "salePrice": 25,
@@ -2108,7 +2107,7 @@ window.productInfo = {
   "1507": {
     "sku": "1507_uno_cards_2pc",
     "itemCode": "1507",
-    "closingQuantity": 0,
+    "closingQuantity": 20,
     "sold": 40,
     "catalog": "games-&-puzzles",
     "images": [
@@ -2123,10 +2122,9 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/2323_e961b260-af6a-4e68-8883-67c8ef1ed0af.jpg?v=1767083261",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/2c396c27-9e39-4627-b724-42762bf769fe.jpg?v=1767083261"
     ],
-    "alreadyOrdered": 20,
     "handle": "1507-uno-pixar-anniversary-card-game-with-112-cards",
     "title": "UNO Pixar  Anniversary Card Game with 112 Cards",
-    "salePrice": 61,
+    "salePrice": 54,
     "gst": 5,
     "hsn": "950300"
   },
@@ -6603,7 +6601,7 @@ window.productInfo = {
   "2625": {
     "sku": "2625_3sec_container_750ml",
     "itemCode": "2625",
-    "closingQuantity": 0,
+    "closingQuantity": 5,
     "sold": 35,
     "catalog": "kitchen-storage",
     "images": [
@@ -6620,7 +6618,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/2625.jpg?v=1767018034",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/07_8ab80f55-9237-4a20-93cd-14a57cc50c48.jpg?v=1767018034"
     ],
-    "alreadyOrdered": 5,
     "handle": "2625-plastic-square-storage-organiser-container-1",
     "title": "Plastic Square Storage Organiser Container (750ML Capacity)",
     "salePrice": 86,
@@ -8196,7 +8193,7 @@ window.productInfo = {
   "3410": {
     "sku": "3410_scrubber_pads_10pc",
     "itemCode": "3410",
-    "closingQuantity": 0,
+    "closingQuantity": 20,
     "sold": 75,
     "catalog": "scrubber",
     "images": [
@@ -8211,7 +8208,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/5adb94f9-5710-45f0-8ee9-c0d2c6443c8e.jpg?v=1737633177",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/d224f8c7-0792-43a7-8cc0-5051bd7cf987.jpg?v=1737633177"
     ],
-    "alreadyOrdered": 20,
     "handle": "3410-scrub-sponge-cleaning-pads-aqua-green-10pcs",
     "title": "Scrub Sponge Cleaning Pads Aqua Green  10PCS",
     "salePrice": 51,
@@ -10392,7 +10388,7 @@ window.productInfo = {
   "4678": {
     "sku": "4678_4pc_toothbrush_case",
     "itemCode": "4678",
-    "closingQuantity": 5.5,
+    "closingQuantity": 5.25,
     "sold": 44.75,
     "items_per_bag": 4,
     "catalog": "travel",
@@ -12580,7 +12576,7 @@ window.productInfo = {
   "5639": {
     "sku": "5639_ss_multi_peeler_12pc_set",
     "itemCode": "5639",
-    "closingQuantity": 0,
+    "closingQuantity": 3,
     "sold": 3,
     "items_per_bag": 12,
     "catalog": "knife-&-cutlery",
@@ -12594,7 +12590,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/05_e02cebfd-b598-4036-ac94-f8cacdd6b1b0.jpg?v=1737623156",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/cb35c903-c0ac-4588-bc44-0c3c2782b9ba.jpg?v=1737623156"
     ],
-    "alreadyOrdered": 3,
     "handle": "damru-shaped-tea-coffee-sugar-canisters-800ml",
     "title": "Stainless Steel Peeler Set – Multi-Purpose Handle for Peeling & Shredding(12 Pc)",
     "salePrice": 168,
@@ -13466,7 +13461,7 @@ window.productInfo = {
   "6093": {
     "sku": "6093_24sec_lipstick_stand",
     "itemCode": "6093",
-    "closingQuantity": 0,
+    "closingQuantity": 10,
     "sold": 2,
     "catalog": "health-&-beauty-accessories",
     "images": [
@@ -13479,7 +13474,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/8769391b-4936-4089-89ec-f5c5904d6ddb.jpg?v=1750934092",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/Untitled-6_5c25ceae-3c59-4b64-9246-d4f086f50d8e.jpg?v=1750934092"
     ],
-    "alreadyOrdered": 10,
     "handle": "6093-acrylic-multi-purpose-lipstick-cosmetics-stand-display-holder-24-section",
     "title": "Acrylic Multi Purpose Lipstick Cosmetics Stand Display Holder 24 Section",
     "salePrice": 161,
@@ -15074,7 +15068,7 @@ window.productInfo = {
   "6931": {
     "sku": "6931_ems_foot_massger",
     "itemCode": "6931",
-    "closingQuantity": 0,
+    "closingQuantity": 10,
     "sold": 16,
     "catalog": "health-&-personal-care",
     "images": [
@@ -15092,7 +15086,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/56f15034-212a-4082-a413-1317e049080b_14577299-675a-4808-b300-d16448036a64.jpg?v=1737973604",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/4e0c88c1-d646-4ec1-93bd-d6612cd8f292_3c7c00b2-ae45-4762-ac49-25bc068cc436.jpg?v=1737973604"
     ],
-    "alreadyOrdered": 10,
     "handle": "6931-ems-foot-massager-electric-feet-massager-deep-kneading-circulation-foot-booster-for-feet-and-legs-muscle-stimulator-folding-portable-electric-massage-machine",
     "title": "EMS Electric Foot Massager – Portable Circulation Stimulator",
     "salePrice": 156,
@@ -22148,9 +22141,9 @@ window.productInfo = {
     "hsn": "392690"
   },
   "11999": {
-    "sku": "11999_ss_3compartment_lunch_box",
+    "sku": "11999_konvex_ss_3compartment_lunch_box",
     "itemCode": "11999",
-    "closingQuantity": 0,
+    "closingQuantity": 5,
     "sold": 0,
     "catalog": "home-&-kitchen",
     "images": [
@@ -22162,10 +22155,9 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_7383c1e4-9d3a-401e-bdaa-e63171772998.jpg?v=1741412267",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/47ba2bb9-6db7-4101-a239-a7dadf6b55ab.jpg?v=1741412267"
     ],
-    "alreadyOrdered": 5,
     "handle": "3-compartment-transparent-stainless-steel-lunch-box-for-kids",
     "title": "3 Compartment Transparent Stainless Steel Lunch Box for Kids",
-    "salePrice": 407,
+    "salePrice": 399,
     "gst": 5,
     "hsn": "732393"
   },
@@ -23665,7 +23657,7 @@ window.productInfo = {
   "12593": {
     "sku": "12593_steel_tongue_cleaner_1pc",
     "itemCode": "12593",
-    "closingQuantity": 1,
+    "closingQuantity": 11,
     "sold": 19,
     "catalog": "health-&-beauty-accessories",
     "images": [
@@ -23676,7 +23668,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/5_32aaa00b-85cb-4f0d-b61b-e64c82d910fe.jpg?v=1737620967",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/6_539aaf32-3e8c-4728-8100-eb8a281c170d.jpg?v=1737620967"
     ],
-    "alreadyOrdered": 10,
     "handle": "tongue-cleaner-for-kids-adults-tongue-scraper-for-bad-breath-maintain-oral-hygiene-for-daily-use-for-fresh-breath-bacteria-removal-improved-taste-steel-copper-tongue-cleaner-1-pc",
     "title": "Tongue Cleaner For Kids & Adults | Tongue Scraper For Bad Breath, Maintain Oral Hygiene for Daily Use | for Fresh Breath & Bacteria Removal | Improved Taste (Steel, Copper, Tongue Cleaner / 1 Pc)",
     "salePrice": 52,
@@ -24127,7 +24118,7 @@ window.productInfo = {
   "12794": {
     "sku": "12794_assorted_style_hair_comb_6pc",
     "itemCode": "12794",
-    "closingQuantity": 0,
+    "closingQuantity": 10,
     "sold": 0,
     "catalog": "health-&-beauty-accessories",
     "images": [
@@ -24139,7 +24130,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_18d9bca1-ff64-49c5-be8d-40e0c9dede8a.jpg?v=1760597486",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/06_2d09f61c-b96d-48e5-9fd7-81e079f1f3fb.jpg?v=1760597486"
     ],
-    "alreadyOrdered": 10,
     "handle": "assorted-styling-hair-comb-6-pc-set",
     "title": "Assorted Styling Hair Comb - (6 Pc / Set)",
     "salePrice": 55,
@@ -26393,8 +26383,9 @@ window.productInfo = {
   "14334": {
     "sku": "14334_plastic_banana_hair_clip_set_12pc",
     "itemCode": "14334",
-    "closingQuantity": 0,
+    "closingQuantity": 3,
     "sold": 0,
+    "items_per_bag": 12,
     "catalog": "health-&-beauty-accessories",
     "images": [
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/01_3281957a-c9a4-49a0-83b9-90a9e579d1ce.jpg?v=1751344727",
@@ -26405,10 +26396,9 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_aa6195c9-b9e3-47ba-962d-003bf917a17d.jpg?v=1751344727",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/73e546e0-b7c2-4cc6-af1e-54afdd223966.jpg?v=1751344727"
     ],
-    "alreadyOrdered": 3,
     "handle": "multicolor-plastic-banana-hair-clips-set-12-pc",
     "title": "Multicolor Plastic Banana Hair Clips Set (12 Pc)",
-    "salePrice": 191,
+    "salePrice": 192,
     "gst": 5,
     "hsn": "961519"
   },
@@ -32314,7 +32304,7 @@ window.productInfo = {
   "19257": {
     "sku": "19257_3l_pla_storage_carry_box_with_handle",
     "itemCode": "19257",
-    "closingQuantity": 1,
+    "closingQuantity": 21,
     "sold": 12,
     "catalog": "home-improvement",
     "images": [
@@ -32327,7 +32317,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_7fb4caf8-5f74-495e-b1aa-1138ad4345d8.jpg?v=1747820399",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/8dcf7c10-8115-4742-96a2-3d790577e0c7.jpg?v=1747820399"
     ],
-    "alreadyOrdered": 20,
     "handle": "3-layer-multi-purpose-transparent-plastic-storage-carry-box-with-handle",
     "title": "3-Layer Multi-Purpose Transparent Plastic Storage Carry Box with Handle",
     "salePrice": 252,
@@ -36453,7 +36442,7 @@ window.productInfo = {
   "0703": {
     "sku": "0703_premium_hand_blender",
     "itemCode": "0703",
-    "closingQuantity": 0,
+    "closingQuantity": 3,
     "sold": 5,
     "catalog": "kitchen-tools",
     "images": [
@@ -36466,7 +36455,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/products/06_695a3466-b9fe-473f-9711-766283e1bf00.jpg?v=1754289643",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/00de4b08-1979-41fd-bd69-0ed265c50ca8.jpg?v=1754289643"
     ],
-    "alreadyOrdered": 3,
     "handle": "0703-power-free-manual-hand-blender-with-stainless-steel-blades-milk-lassi-maker-egg-beater-mixer-rawai",
     "title": "Power Free Manual Hand Blender with Stainless Steel Blades Mixer Rawai",
     "salePrice": 112,
@@ -37596,7 +37584,7 @@ window.productInfo = {
   "5334a": {
     "sku": "5334a_blender_juicer_bottle",
     "itemCode": "5334a",
-    "closingQuantity": 0,
+    "closingQuantity": 25,
     "sold": 10,
     "catalog": "home-&-kitchen",
     "images": [
@@ -37611,7 +37599,6 @@ window.productInfo = {
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/02_aa7000ff-203c-46e5-83cd-c212e7842878.jpg?v=1764839875",
       "https://cdn.shopify.com/s/files/1/0782/3284/6646/files/73e34f48-f786-4263-9901-d0110ac630d4_724b2251-10f5-4906-bdf6-1a90d831caa3.jpg?v=1764839875"
     ],
-    "alreadyOrdered": 25,
     "handle": "blender-portable-juicer-for-smoothie-juice-vegetable-shakes-with-6-blades-wireless-charging-mini-personal-size-mixer-bottle-grinder-420-ml-multicolor",
     "title": "BLENDER PORTABLE JUICER FOR SMOOTHIE 420 ML Multicolour",
     "salePrice": 265,
