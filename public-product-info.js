@@ -276,7 +276,7 @@ window.productInfo = {
   "1116": {
     "sku": "1116_bamboo_bbq_stick",
     "itemCode": "1116",
-    "closingQuantity": 18,
+    "closingQuantity": 16,
     "sold": 24,
     "catalog": "barbeque",
     "images": [
@@ -3340,7 +3340,7 @@ window.productInfo = {
   "1752": {
     "sku": "1752_36inch_door_d_guard",
     "itemCode": "1752",
-    "closingQuantity": 77,
+    "closingQuantity": 75,
     "sold": 197,
     "catalog": "home-improvement",
     "images": [
@@ -4918,7 +4918,7 @@ window.productInfo = {
   "2177": {
     "sku": "2177_magic_broom_holder",
     "itemCode": "2177",
-    "closingQuantity": 27,
+    "closingQuantity": 25,
     "sold": 51,
     "catalog": "hooks",
     "images": [
@@ -27129,7 +27129,7 @@ window.productInfo = {
   "15117": {
     "sku": "15117_heavy_cutter_knife_1pc_no11",
     "itemCode": "15117",
-    "closingQuantity": 12,
+    "closingQuantity": 11,
     "sold": 0,
     "catalog": "outdoor-living",
     "images": [
@@ -36883,7 +36883,7 @@ window.productInfo = {
   "0829": {
     "sku": "0829_star_sink_strainer",
     "itemCode": "0829",
-    "closingQuantity": 6,
+    "closingQuantity": 5,
     "sold": 36,
     "catalog": "kitchen-sink",
     "images": [
