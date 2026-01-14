@@ -1331,7 +1331,8 @@ window.productInfo = {
     "title": "Silicone Dish Scrubber Sponge Mildew Free, Non Stick, Heat Resistant",
     "salePrice": 9,
     "gst": 18,
-    "hsn": "391000"
+    "hsn": "391000",
+    "skipbarcode": true
   },
   "1347": {
     "sku": "1347_selfy_stick_box",
@@ -1535,7 +1536,8 @@ window.productInfo = {
     "title": "Type-C OTG Adapter",
     "salePrice": 20,
     "gst": 18,
-    "hsn": "854442"
+    "hsn": "854442",
+    "skipbarcode": true
   },
   "1371": {
     "sku": "1371_loose_5sec_socks_tray",
@@ -1678,7 +1680,8 @@ window.productInfo = {
     "title": "Washing Machine Stain Tank Cleaner Deep Cleaning Detergent Tablet ( 1pc )",
     "salePrice": 5,
     "gst": 18,
-    "hsn": "340290"
+    "hsn": "340290",
+    "skipbarcode": true
   },
   "1412": {
     "sku": "1412_12inch_lcd_tablet",
@@ -3048,7 +3051,8 @@ window.productInfo = {
     "title": "Multipurpose Strong Small Stainless Steel Adhesive Wall Hooks",
     "salePrice": 2,
     "gst": 18,
-    "hsn": "392690"
+    "hsn": "392690",
+    "skipbarcode": true
   },
   "1690": {
     "sku": "1690_heavy_70mm_pad_lock",
@@ -3364,7 +3368,8 @@ window.productInfo = {
     "title": "Adhesive Plastic Wall Hooks - Heavy Duty (1 Pair)",
     "salePrice": 9,
     "gst": 18,
-    "hsn": "392690"
+    "hsn": "392690",
+    "skipbarcode": true
   },
   "1752": {
     "sku": "1752_36inch_door_d_guard",
@@ -3453,7 +3458,8 @@ window.productInfo = {
     "title": "Waterproof Nano Adhesive Tape – No-Trace, Multipurpose, Removable (0.8mm, 1pc)",
     "salePrice": 3,
     "gst": 18,
-    "hsn": "391990"
+    "hsn": "391990",
+    "skipbarcode": true
   },
   "1768": {
     "sku": "1768_3pc_color_g_tool",
@@ -6165,7 +6171,8 @@ window.productInfo = {
     "title": "Plastic Medium Size Cane Fruit Baskets",
     "salePrice": 104,
     "gst": 18,
-    "hsn": "392410"
+    "hsn": "392410",
+    "skipbarcode": true
   },
   "2486": {
     "sku": "2486_lollipop_candy_maker",
@@ -7574,7 +7581,8 @@ window.productInfo = {
     "title": "Egg Yolk Separator, Egg White Yolk Filter Separator, Egg Strainer Spoon Filter Egg",
     "salePrice": 6,
     "gst": 18,
-    "hsn": "392410"
+    "hsn": "392410",
+    "skipbarcode": true
   },
   "2886": {
     "sku": "2886_plastic_puri_cutter_roller",
@@ -9878,7 +9886,8 @@ window.productInfo = {
     "title": "Pencil Eraser Professional 4B Drawing Eraser Art Soft Eraser for (60 Pc Pack)",
     "salePrice": 240,
     "gst": 18,
-    "hsn": "401692"
+    "hsn": "401692",
+    "skipbarcode": true
   },
   "4508": {
     "sku": "4508_cartoon_atm_piggy_toy",
@@ -10141,7 +10150,8 @@ window.productInfo = {
     "title": "Rotatable hooks for hanging 360 (1 Pc / Black)",
     "salePrice": 27,
     "gst": 18,
-    "hsn": "392690"
+    "hsn": "392690",
+    "skipbarcode": true
   },
   "4604": {
     "sku": "4604_garden_spray_bottle_500ml",
@@ -10562,7 +10572,8 @@ window.productInfo = {
     "title": "Pyramid Mobile Stand with 3 Different Inclined Angles (50 Pcs Set)",
     "salePrice": 150,
     "gst": 18,
-    "hsn": "392690"
+    "hsn": "392690",
+    "skipbarcode": true
   },
   "4710": {
     "sku": "4710_airplane_launcher_gun_toy",
@@ -10652,7 +10663,8 @@ window.productInfo = {
     "title": "Shower Drain Cover – Prevents Clogging from Hair & Debris in Bathroom Floors",
     "salePrice": 16,
     "gst": 18,
-    "hsn": "391000"
+    "hsn": "391000",
+    "skipbarcode": true
   },
   "4744": {
     "sku": "4744_fold_storage_organizer_rack_32x19_5cm",
@@ -10740,7 +10752,8 @@ window.productInfo = {
     "title": "Champs Stand mobile stand Used for holding and supporting mobile phones (50 Pcs Set)",
     "salePrice": 250,
     "gst": 18,
-    "hsn": "392690"
+    "hsn": "392690",
+    "skipbarcode": true
   },
   "4775": {
     "sku": "4775_1pc_bath_anti_slip_mat",
@@ -11369,7 +11382,8 @@ window.productInfo = {
     "title": "Evil Eye Rubber / Silicone Keychain (12 Pcs Set / Mix Color)",
     "salePrice": 120,
     "gst": 18,
-    "hsn": "401699"
+    "hsn": "401699",
+    "skipbarcode": true
   },
   "4960": {
     "sku": "4960_evil_eye_blue_keychain_1pc",
@@ -12176,7 +12190,8 @@ window.productInfo = {
     "title": "Plastic 1 Pc Kitchen Small Size Dish Rack Drainer Vegetables and Fruits (29x22CM)",
     "salePrice": 49,
     "gst": 18,
-    "hsn": "392410"
+    "hsn": "392410",
+    "skipbarcode": true
   },
   "5546": {
     "sku": "5546_plastic_basket_with_lid_1pc",
@@ -12647,7 +12662,8 @@ window.productInfo = {
     "title": "Stainless Steel Peeler Set – Multi-Purpose Handle for Peeling & Shredding(12 Pc)",
     "salePrice": 168,
     "gst": 18,
-    "hsn": "821191"
+    "hsn": "821191",
+    "skipbarcode": true
   },
   "5640": {
     "sku": "5640_2pc_tea_sugar_container_800ml",
@@ -13265,7 +13281,8 @@ window.productInfo = {
     "handle": "plastic-kitchen-small-size-vegetables-and-fruits",
     "title": "Plastic Kitchen Medium Size Vegetables and Fruits Washing Basket Dish Rack Multipurpose Organizers",
     "salePrice": 53,
-    "gst": 18
+    "gst": 18,
+    "skipbarcode": true
   },
   "5989": {
     "sku": "5989_aluminium_foil_paper_72mtr",
@@ -13660,7 +13677,8 @@ window.productInfo = {
     "title": "Baby Safety Small Electrical Socket Cover, Outlet Plug Protector (Pack of 100Pc)",
     "salePrice": 200,
     "gst": 18,
-    "hsn": "392690"
+    "hsn": "392690",
+    "skipbarcode": true
   },
   "6150": {
     "sku": "6150_8pc_2in1_toothbrush_case",
@@ -13687,7 +13705,8 @@ window.productInfo = {
     "title": "8 Pc 2-in-1 Toothbrush Case for Family Use",
     "salePrice": 96,
     "gst": 5,
-    "hsn": "960321"
+    "hsn": "960321",
+    "skipbarcode": true
   },
   "6160": {
     "sku": "6160_multi_p_wiper",
@@ -13807,7 +13826,8 @@ window.productInfo = {
     "title": "50Pc Keychain Tag Label Used For Decorative Purpose On Keys And All.",
     "salePrice": 150,
     "gst": 18,
-    "hsn": "392690"
+    "hsn": "392690",
+    "skipbarcode": true
   },
   "6174": {
     "sku": "6174_head_hair_brush_massager",
@@ -14056,7 +14076,8 @@ window.productInfo = {
     "title": "Type C Charging Cable – Universal for Smartphones, Tablets (50cm)",
     "salePrice": 9,
     "gst": 18,
-    "hsn": "850440"
+    "hsn": "850440",
+    "skipbarcode": true
   },
   "6234": {
     "sku": "6234_body_scrubber_sponge",
@@ -15622,7 +15643,8 @@ window.productInfo = {
     "title": "Car Wiper Detergent Effervescent Tablets Washer",
     "salePrice": 6,
     "gst": 18,
-    "hsn": "392690"
+    "hsn": "392690",
+    "skipbarcode": true
   },
   "7219": {
     "sku": "7219_3in1_foldable_wall_plug_adapter",
@@ -16749,7 +16771,8 @@ window.productInfo = {
     "title": "Organza Drawstring Gift Bags – Small Mesh Pouches for Weddings (50 Pcs)",
     "salePrice": 250,
     "gst": 18,
-    "hsn": "420292"
+    "hsn": "420292",
+    "skipbarcode": true
   },
   "8037": {
     "sku": "8037_8pc_sliceable_fruit_toy",
@@ -17768,7 +17791,8 @@ window.productInfo = {
     "title": "Stainless Steel Cute Nail Clipper Nail Catcher, Nail File (12 Pcs Set / Mix Design)",
     "salePrice": 384,
     "gst": 18,
-    "hsn": "821420"
+    "hsn": "821420",
+    "skipbarcode": true
   },
   "8319": {
     "sku": "8319_ss_blackhead_remover_needle_1pc",
@@ -18903,7 +18927,8 @@ window.productInfo = {
     "title": "10 Pc Keychain Tag Label Used For Decorative Purpose On Keys And All",
     "salePrice": 50,
     "gst": 18,
-    "hsn": "392690"
+    "hsn": "392690",
+    "skipbarcode": true
   },
   "8936": {
     "sku": "8936_whiteboard_marker_n_duster_4pc",
@@ -18976,7 +19001,8 @@ window.productInfo = {
     "title": "Adhesive Screw Wall Hook for Home & Office Hanging",
     "salePrice": 5,
     "gst": 18,
-    "hsn": "392690"
+    "hsn": "392690",
+    "skipbarcode": true
   },
   "9020": {
     "sku": "9020_100pc_6mm_cable_clip",
@@ -20209,7 +20235,8 @@ window.productInfo = {
     "handle": "10065_microfiber_scrubber_20x20cm",
     "title": "One-Sided Multipurpose Microfiber Cloths, Scrubber (1 Pc / 20x20 Cm)",
     "salePrice": 6,
-    "gst": 18
+    "gst": 18,
+    "skipbarcode": true
   },
   "10067": {
     "sku": "10067_vegetables_n_fruit_peeler_1pc",
@@ -23460,7 +23487,8 @@ window.productInfo = {
     "title": "Stainless Steel Multipurpose Serrated Knife Set (12 Pc)",
     "salePrice": 204,
     "gst": 18,
-    "hsn": "821110"
+    "hsn": "821110",
+    "skipbarcode": true
   },
   "12401": {
     "sku": "12401_mix_design_pouch_1pc_no2",
@@ -24312,7 +24340,8 @@ window.productInfo = {
     "title": "Silicone Data Cable Protector – Angel 2-in-1 Cord Saver & Storage Tool",
     "salePrice": 4,
     "gst": 18,
-    "hsn": "392410"
+    "hsn": "392410",
+    "skipbarcode": true
   },
   "12791": {
     "sku": "12791_80g_natural_multani_mitti",
@@ -24376,7 +24405,8 @@ window.productInfo = {
     "title": "Professional Dual-Tooth Styling Comb - (1 Pc)",
     "salePrice": 10,
     "gst": 5,
-    "hsn": "961511"
+    "hsn": "961511",
+    "skipbarcode": true
   },
   "12814": {
     "sku": "12814_2in1_soft_toothbrush",
@@ -24399,7 +24429,8 @@ window.productInfo = {
     "title": "2-in-1 Tooth Brush Tongue Scraper, Soft Bristle & Long Handle (8Pcs) Soft Toothbrush",
     "salePrice": 96,
     "gst": 5,
-    "hsn": "960321"
+    "hsn": "960321",
+    "skipbarcode": true
   },
   "12828": {
     "sku": "12828_hand_finger_digital_counting_machine",
@@ -24813,7 +24844,8 @@ window.productInfo = {
     "title": "Plastic Toothbrush With Plastic Round Box (20 pcs Set)",
     "salePrice": 240,
     "gst": 5,
-    "hsn": "960390"
+    "hsn": "960390",
+    "skipbarcode": true
   },
   "13199": {
     "sku": "13199_massager_hair_comb_1pc",
@@ -25891,7 +25923,8 @@ window.productInfo = {
     "title": "Wooden / Bamboo Brush Toothbrush Ultra Soft Bristles (1 Pc)",
     "salePrice": 17,
     "gst": 5,
-    "hsn": "960321"
+    "hsn": "960321",
+    "skipbarcode": true
   },
   "13890": {
     "sku": "13890_5in1_tweezers_set_with_case",
@@ -26626,7 +26659,8 @@ window.productInfo = {
     "title": "Multicolor Plastic Banana Hair Clips Set (12 Pc)",
     "salePrice": 192,
     "gst": 5,
-    "hsn": "961519"
+    "hsn": "961519",
+    "skipbarcode": true
   },
   "14338": {
     "sku": "14338_8_socket_extension_board_1pc_no3",
@@ -26713,7 +26747,8 @@ window.productInfo = {
     "title": "Colorful Soft Elastic Hair Bands Set for Kids & Girls (10 Pkt  / 1 Set)",
     "salePrice": 60,
     "gst": 18,
-    "hsn": "401699"
+    "hsn": "401699",
+    "skipbarcode": true
   },
   "14350": {
     "sku": "14350_pink_smart_water_bottle_500ml_1pc",
@@ -26912,7 +26947,8 @@ window.productInfo = {
     "title": "Micro USB OTG Adapter Converter (10 Pcs Set)",
     "salePrice": 90,
     "gst": 18,
-    "hsn": "854442"
+    "hsn": "854442",
+    "skipbarcode": true
   },
   "14499": {
     "sku": "14499_wireless_bluetooth_headphones_zw053",
@@ -27212,7 +27248,8 @@ window.productInfo = {
     "title": "Small Two Side Beautiful Small Torchlight (1 Pc)",
     "salePrice": 26,
     "gst": 5,
-    "hsn": "94054090"
+    "hsn": "94054090",
+    "skipbarcode": true
   },
   "15028": {
     "sku": "15028_eva_rain_coat_1pc",
@@ -27621,7 +27658,8 @@ window.productInfo = {
     "title": "Adhesive Heavy-Duty Hooks for Kitchen and Bathroom (1 Pc / 6×6 Cm)",
     "salePrice": 3,
     "gst": 18,
-    "hsn": "392690"
+    "hsn": "392690",
+    "skipbarcode": true
   },
   "15261": {
     "sku": "15261_ss_drinking_straws_5pc_set",
@@ -28236,7 +28274,8 @@ window.productInfo = {
     "title": "Wall Mount Transparent Self-Adhesive Clip with Strong Spring Grip",
     "salePrice": 13,
     "gst": 18,
-    "hsn": "392490"
+    "hsn": "392490",
+    "skipbarcode": true
   },
   "15574": {
     "sku": "15574_anti_slip_tape_50mmx5m_1pc",
@@ -28846,7 +28885,8 @@ window.productInfo = {
     "title": "2In1 Everlasting Pencil Replaceable Head With Eraser, Inkless Pencils Eternal, Infinite Pencil, Portable Everlasting Pencil Reusable Erasable, Magic Pencils for Kids Painting Stationary (13 Pcs Set)",
     "salePrice": 169,
     "gst": 0,
-    "hsn": "960990"
+    "hsn": "960990",
+    "skipbarcode": true
   },
   "17689": {
     "sku": "17689_mini_finger_basketball_game",
@@ -28891,7 +28931,8 @@ window.productInfo = {
     "title": "Multicolor Magic Smiley Spring, Spring Toys, Slinky spring toy(12 Pcs Set)",
     "salePrice": 120,
     "gst": 5,
-    "hsn": "950300"
+    "hsn": "950300",
+    "skipbarcode": true
   },
   "17746": {
     "sku": "17746_beauty_set_trolley_at174",
@@ -29095,7 +29136,8 @@ window.productInfo = {
     "title": "Clear Diamond Crystal Cabinet Knob & Pull Handle (1 Pc)",
     "salePrice": 5,
     "gst": 18,
-    "hsn": "392410"
+    "hsn": "392410",
+    "skipbarcode": true
   },
   "17799": {
     "sku": "17799_2in1_baby_piano_toy",
@@ -29786,7 +29828,8 @@ window.productInfo = {
     "title": "Cars Shape Keychain with On / Off Button LED Flashing Light (1 Pc)",
     "salePrice": 16,
     "gst": 5,
-    "hsn": "950300"
+    "hsn": "950300",
+    "skipbarcode": true
   },
   "18105": {
     "sku": "18105_pla_magic_drawing_board",
@@ -29936,7 +29979,8 @@ window.productInfo = {
     "title": "Rubber Super Bouncy Coral Star Anti Stress Ball Multicolor (1 Pc)",
     "salePrice": 73,
     "gst": 5,
-    "hsn": "950300"
+    "hsn": "950300",
+    "skipbarcode": true
   },
   "18151": {
     "sku": "18151_sili_glasses_anti_slip_ear_grip_1pair",
@@ -30248,7 +30292,8 @@ window.productInfo = {
     "title": "Safety Anti-Lost Retractable Key Chain (1 Pc / Small)",
     "salePrice": 30,
     "gst": 18,
-    "hsn": "392410"
+    "hsn": "392410",
+    "skipbarcode": true
   },
   "18344": {
     "sku": "18344_portable_plastic_soap_box_1pc",
@@ -30373,7 +30418,8 @@ window.productInfo = {
     "catalog": "electronics-accessories",
     "salePrice": 110,
     "gst": 18,
-    "hsn": "850680"
+    "hsn": "850680",
+    "skipbarcode": true
   },
   "18442": {
     "sku": "18442_aa_panasonic_batteries_10pc",
@@ -30384,7 +30430,8 @@ window.productInfo = {
     "catalog": "electronics-accessories",
     "salePrice": 120,
     "gst": 18,
-    "hsn": "850680"
+    "hsn": "850680",
+    "skipbarcode": true
   },
   "18454": {
     "sku": "18454_zipper_eyeglasses_case_1pc",
@@ -31844,7 +31891,8 @@ window.productInfo = {
     "title": "Mini Car Shape LED Keychain Light +(1 Pc, Random Color)",
     "salePrice": 23,
     "gst": 18,
-    "hsn": "940540"
+    "hsn": "940540",
+    "skipbarcode": true
   },
   "18988": {
     "sku": "18988_metal_u_shape_paper_clip_100pc",
@@ -32060,7 +32108,8 @@ window.productInfo = {
     "title": "Self-Adhesive Wall Hook – Drill-Free, Waterproof & Oil-Proof Toothbrush, (1 Pc)",
     "salePrice": 6,
     "gst": 18,
-    "hsn": "392690"
+    "hsn": "392690",
+    "skipbarcode": true
   },
   "19045": {
     "sku": "19045_trans_double_sided_tape_3mtr",
@@ -32464,7 +32513,8 @@ window.productInfo = {
     "title": "Mini LED Flashlight Keychain Torch (Mix Color & 1 Pc)",
     "salePrice": 15,
     "gst": 18,
-    "hsn": "85131010"
+    "hsn": "85131010",
+    "skipbarcode": true
   },
   "19227": {
     "sku": "19227_oblivion_denture_case_storage_box_1pc",
@@ -32976,7 +33026,8 @@ window.productInfo = {
     "title": "Star Seamless Table Tennis Balls (12 Pcs Set)",
     "salePrice": 180,
     "gst": 5,
-    "hsn": "95064090"
+    "hsn": "95064090",
+    "skipbarcode": true
   },
   "19323": {
     "sku": "19323_knx_badminton_racket_n_carry_bag_2pc",
@@ -36034,7 +36085,8 @@ window.productInfo = {
     "title": "Jumbo Tip Whiteboard  Blue Ink Marker (1 Pc)",
     "salePrice": 10,
     "gst": 18,
-    "hsn": "96082000"
+    "hsn": "96082000",
+    "skipbarcode": true
   },
   "0569": {
     "sku": "0569_whiteboard_black_ink_marker_1pc",
@@ -36056,7 +36108,8 @@ window.productInfo = {
     "title": "Whiteboard  Black Ink Marker (1 Pc)",
     "salePrice": 10,
     "gst": 18,
-    "hsn": "960820"
+    "hsn": "960820",
+    "skipbarcode": true
   },
   "0575": {
     "sku": "0575_gluegun60w",
@@ -38105,7 +38158,8 @@ window.productInfo = {
     "title": "2-in-1 Multi-Purpose Scrub Sponge – Wear Resistant Dish & Furniture Cleaner (1 Pc)",
     "salePrice": 10,
     "gst": 18,
-    "hsn": "392410"
+    "hsn": "392410",
+    "skipbarcode": true
   },
   "7673a": {
     "sku": "7673a_plastic_organizer_box",
