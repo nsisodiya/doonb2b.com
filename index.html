@@ -200,6 +200,41 @@
         text-transform: capitalize;
         color: #2c3e50;
       }
+      .reseller-banner {
+        background: linear-gradient(135deg, #236591, #2c3e50);
+        color: white;
+        text-align: center;
+        padding: 1rem 1.5rem;
+        margin: 0.75rem 1rem;
+        border-radius: 10px;
+        box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2);
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        gap: 0.75rem;
+      }
+      .reseller-banner .reseller-text {
+        font-size: 1rem;
+      }
+      .reseller-banner .reseller-text strong {
+        font-size: 1.1rem;
+      }
+      .reseller-banner .reseller-cta {
+        background: #ffffff;
+        color: #236591;
+        font-weight: bold;
+        padding: 0.45rem 1.1rem;
+        border-radius: 20px;
+        text-decoration: none;
+        font-size: 0.95rem;
+        white-space: nowrap;
+        transition: background 0.2s ease, color 0.2s ease;
+      }
+      .reseller-banner .reseller-cta:hover {
+        background: #e8f4fd;
+        color: #1a4e6e;
+      }
     </style>
 
     <script src="https://unpkg.com/@ericblade/quagga2@1.2.6/dist/quagga.min.js"></script>
@@ -215,6 +250,14 @@
     <div class="search-box">
       <input type="text" id="searchInput" placeholder="Search products..." />
     </div>
+    <!-- Reseller Program Banner -->
+    <div class="reseller-banner">
+      <div class="reseller-text">
+        🏪 <strong>Join Our Reseller Program!</strong> Want to sell these products at your shop or online? We offer great wholesale prices for resellers.
+      </div>
+      <a href="https://reseller.doonb2b.com" target="_blank" rel="noopener noreferrer" class="reseller-cta" aria-label="Become a Reseller (opens in new tab)">Become a Reseller →</a>
+    </div>
+
     <!-- ADD THIS IN HTML BODY -->
     <!-- Inline style loader -->
     <div
